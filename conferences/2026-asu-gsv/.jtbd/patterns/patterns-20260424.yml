@@ -1,0 +1,347 @@
+schema_version: 1
+analysis_date: 2026-04-24
+switch_files_analyzed: 5
+files_included:
+  - sam-ceo-springpod-20260413.yml
+  - brent-state-cte-director-20260413.yml
+  - josh-walmart-academy-vp-20260413.yml
+  - reed-education-philanthropist-20260413.yml
+  - sam-classdojo-ceo-20260413.yml
+
+# ─── METHODOLOGICAL NOTE ─────────────────────────────────────────────────────────
+# All five source files are secondary evidence extracted from ASU GSV Summit 2026
+# conference panels — not 1-on-1 Switch interviews. Overall evidence quality is lower
+# than a purpose-built Switch corpus. Three of five files are vendor or institutional
+# narrators (Sam/SpringPod, Josh/Walmart, Sam/ClassDojo) describing their customers'
+# switches rather than their own. Brent/Oklahoma and Reed/Hastings are first-person
+# accounts but compressed by panel format. Patterns should be treated as directional
+# hypotheses requiring follow-up 1-on-1 interviews before making high-stakes product
+# or investment decisions. Confidence ratings are panel-level throughout.
+
+# ─── CLUSTERS ────────────────────────────────────────────────────────────────────
+
+clusters:
+
+  - job: "Scale access and impact beyond what a human-only or compliance-only delivery model can reach"
+    frequency: "3/5"
+    sources:
+      - sam-ceo-springpod-20260413.yml    # Airbus: 100 in-person → 10,000 virtual
+      - brent-state-cte-director-20260413.yml  # Oklahoma: platform-only → field team + platform
+      - reed-education-philanthropist-20260413.yml  # Policy/charters/EdTech → AI individualized learning
+    common_push: >
+      Prior model had a hard ceiling — either physical capacity (Airbus in-person cap),
+      institutional inertia (compliance theater across 500+ districts), or systemic scope
+      (charters produce city-level impact after 20 years of trench warfare). All three
+      describe a structural ceiling, not just dissatisfaction with incremental performance.
+    common_pull: >
+      The new model promises an order-of-magnitude expansion in reach without proportional
+      increase in cost or headcount — 100x more students (SpringPod), global software
+      distribution (Reed), or adoption that actually sticks (Oklahoma field team).
+    key_quotes:
+      - "they used to have about a hundred students in person on work experience and that was their sort of cap that they could deliver" # Sam (SpringPod/Airbus)
+      - "We now help 10,000 students a year gain an Airbus experience" # Sam (SpringPod/Airbus)
+      - "technology will do nothing without the people that are building trust and building the understanding of how to use it" # Brent (Oklahoma)
+      - "Charters haven't failed, but they haven't succeeded at driving up NAEP scores in the high charter states... But it's grindingly slow. Think trench warfare." # Reed (Hastings)
+      - "When we figure out software-based AI teaching that really does all the work, we can share that with the entire world. A phone in Kibera runs basically the same operating system that we run." # Reed (Hastings)
+
+  - job: "Replace passive or mechanical task execution with active, high-value human engagement"
+    frequency: "3/5"
+    sources:
+      - josh-walmart-academy-vp-20260413.yml   # Associates: barcode scanning → customer-facing time
+      - sam-classdojo-ceo-20260413.yml         # Teachers: chatbot prompting → ambient assistant
+      - brent-state-cte-director-20260413.yml  # Counselors: compliance box-checking → meaningful advising
+    common_push: >
+      Time and attention are consumed by low-skill, mechanical, or performative tasks —
+      scanning boxes, prompting chatbots, completing compliance forms — that crowd out the
+      human work these roles were hired to do. The mechanical task is not merely inefficient;
+      it actively prevents high-quality human interaction.
+    common_pull: >
+      A new model returns time and cognitive attention to the role's core human function:
+      customer service, classroom teaching, genuine student career advising. The emotional
+      framing in all three cases emphasizes "giving time back" and restoring the human
+      dimension of the work.
+    key_quotes:
+      - "it was about an hour task to do these things" # Josh (Walmart/VisPick)
+      - "what happens is you get the time back to, you know, for managers, you're leading your teams, for associates, you're helping customers. So, I mean, it's giving time back for growth. It's giving time back for more human activities than kind of the manual activities." # Josh (Walmart)
+      - "I think we all probably saw, a year ago, kind of the crap version of this, which was like, here's a chatbot. Please talk to the chatbot and tell it to do things for you. This is like, it's fine, but it doesn't change anyone's life, in my view." # Sam (ClassDojo)
+      - "We can give every teacher a teaching assistant. That's a much more humane interface, where you don't have to do anything." # Sam (ClassDojo)
+      - "we were checking the box also hey yeah we're walking those kids through those plans that's great yeah we check the box as a school" # Brent (Oklahoma)
+
+  - job: "Achieve outcomes that are measurable at the individual level, not just program-level engagement"
+    frequency: "4/5"
+    sources:
+      - sam-ceo-springpod-20260413.yml         # LinkedIn destination tracking post-program
+      - josh-walmart-academy-vp-20260413.yml   # 60-min → 20-min inventory task; time returned to customers
+      - reed-education-philanthropist-20260413.yml  # 2x learning rate (Bloom two-sigma); chess.com vertical scoring
+      - sam-classdojo-ceo-20260413.yml         # Pre-literacy → 2nd/3rd grade reading in 5 months, 15 min/day
+    common_push: >
+      Prior approaches produced engagement metrics — participation counts, platform logins,
+      program completions — that could not demonstrate individual-level learning or destination
+      outcomes. This measurement vacuum made it impossible to justify continued investment or
+      identify what was actually working.
+    common_pull: >
+      The new approaches each offer a specific, traceable, individual-level outcome metric:
+      LinkedIn destination data, minutes per inventory cycle, vertical learning scores,
+      reading proficiency grade level. These are not just better metrics; they are the
+      evidence required to sustain institutional buy-in and investment.
+    key_quotes:
+      - "Measurement is the bit that's always been missing from the career navigation world. So, if you think about all the tools that you might use in K-12, college, whatever space you're in, how do you know if they're actually working" # Sam (SpringPod)
+      - "for 30,000 students going through the Amazon program with us, a third end up in tech-aligned roles, and we can track that through LinkedIn" # Sam (SpringPod)
+      - "AI will make it feel better and it will feel like magic, but actually, is it impacting that destination?" # Sam (SpringPod)
+      - "kids are going from pre-literacy, so not knowing how to read, to maybe second or third grade level of reading proficiency, in about five months, in 15 minutes a day" # Sam (ClassDojo/Sparky)
+      - "The typical 10-year-old on chess.com is scoring way higher than 10-year-olds of 20 years ago on a stable, vertically scored system." # Reed (Hastings)
+
+# ─── EMERGING SIGNALS ────────────────────────────────────────────────────────────
+
+emerging_signals:
+
+  - signal: "Trust is built through personal relationships, not platform UI — field team model as product complement"
+    source: brent-state-cte-director-20260413.yml
+    note: >
+      Brent's "cell phone number" and "cry over the phone" quotes are the most behaviorally
+      vivid signals in the entire corpus. They suggest that platform adoption in K-12 is
+      not primarily a UX problem — it is a trust and relationship problem. EdTech products
+      that rely on discovery, onboarding, and product-led growth within institutions may be
+      systematically under-investing in the human relationship layer. This could be a
+      structural gap in the category's go-to-market thinking.
+
+  - signal: "One bad AI answer causes full abandonment — not iteration"
+    source: josh-walmart-academy-vp-20260413.yml
+    note: >
+      Josh observes that associates who receive a wrong answer from an AI tool often abandon
+      the tool entirely rather than retry. This fragile trust dynamic is particularly dangerous
+      for generative AI tools that are probabilistic. Products with deterministic or visual
+      outputs (VisPick's green-check) may have an adoption durability advantage over
+      text-generation tools in frontline and classroom contexts. Worth testing whether this
+      abandonment pattern appears in teacher AI tool adoption data.
+
+  - signal: "Institutions actively resist their own tools' best features (adaptive pacing suppression)"
+    source: reed-education-philanthropist-20260413.yml
+    note: >
+      Reed's DreamBox story — school districts instructing him to turn off adaptive pacing
+      because ahead-of-grade-level kids are "disruptive and bored" — is the single most
+      JTBD-rich moment in the corpus. It is a crystallizing push event with a named institutional
+      mechanism: the classroom coherence constraint. This is not a solvable sales problem; it is
+      a grammar-of-schooling constraint. EdTech products with adaptive features should explicitly
+      test whether buyers will suppress those features post-deployment.
+
+  - signal: "AI capability doubling annually changes the investment calculus — prior 'not ready' judgments expire"
+    source: reed-education-philanthropist-20260413.yml
+    note: >
+      Reed frames AI capability growth as dissolving prior objections on a 12-month cycle.
+      This has implications for EdTech builders: products that were not viable 18 months ago
+      may now be viable without any changes to the product strategy. The doubling curve is
+      a forcing function for re-evaluation, not just improvement.
+
+  - signal: "Screen time / attention anxiety is product-shaping, not just conversational"
+    source: sam-classdojo-ceo-20260413.yml
+    note: >
+      ClassDojo's decision to cap Sparky at 15 minutes per day is behavioral evidence that
+      parent anxiety around screen time is real enough to constrain product design choices.
+      This is not a marketing challenge — it is an adoption ceiling baked into the product
+      architecture. Other EdTech builders targeting family or K-5 segments should treat
+      the 15-minute-per-day threshold as a revealed-preference ceiling, not a conservative
+      default to be overcome.
+
+  - signal: "Young people as most AI-native users — an underexploited go-to-market wedge"
+    source: sam-ceo-springpod-20260413.yml
+    note: >
+      Sam frames young people as the most AI-native cohort and identifies "context on business
+      processes" as their missing ingredient. This suggests a product angle: AI that provides
+      young people real business process exposure could deliver employer ROI more directly
+      than traditional work-experience programs. The insight is currently at the level of a
+      positioning hypothesis — no behavioral evidence confirms adoption.
+
+# ─── FORCE PATTERNS ──────────────────────────────────────────────────────────────
+
+force_patterns:
+
+  strongest_push: >
+    Structural ceiling / compliance theater — the prior model had a hard cap (100 in-person
+    students, 500+ districts checking boxes on a 2013 mandate, "EdTech, no real discernible
+    change yet" after 15 years). In three of five cases the push is not incremental dissatisfaction
+    but a structural forcing function: either you cannot do more, or you can see that doing more
+    of the same produces nothing. Reed's explicit, sequenced verdict on three prior chapters —
+    state policy, charters, EdTech — is the highest-confidence expression of this push pattern.
+    Brent's "we were checking the box also" is the most candid first-person version.
+
+  strongest_pull: >
+    Trust-enabling human relationship + technology combination — the single strongest pull quote
+    is Brent's: "the only time it really works is when they have somebody that they already trust
+    and they can really rely on to have their cell phone number and call them and cry over the
+    phone when they can't figure it out." The new model in multiple cases is not purely technological
+    — it is a combination of technology and human relationship that the prior model lacked. Sam
+    (ClassDojo)'s "humane interface, where you don't have to do anything" is the tech-only
+    expression of the same pull: reduce friction to zero so the human relationship can dominate.
+
+  strongest_anxiety: >
+    "Is it actually changing destinations / outcomes, or just making it feel better?" — Sam
+    (SpringPod) voices this directly: "AI will make it feel better and it will feel like magic,
+    but actually, is it impacting that destination?" This anxiety appears across multiple cases:
+    Josh worries about associates abandoning AI on first wrong answer; Reed's entire individual
+    tutoring study is designed to answer it. The anxiety is that the new solution produces
+    engagement without evidence of real outcome change — the same criticism applied to prior
+    EdTech chapter tools.
+
+  strongest_habit: >
+    Over-reliance on technology platforms to drive adoption without investing in the human
+    change management layer — Brent: "we went through a long time where we were told technology
+    will take care of that for you." Josh: "you don't become a leader by watching a video. So
+    you're not gonna become AI proficient by doing a micro certification. This has to be embedded
+    in your jobs." Both describe institutions that defaulted to deploying a platform and expecting
+    behavioral change to follow, without the relationship infrastructure or embedded practice
+    required for genuine adoption.
+
+# ─── TIMELINE PATTERNS ───────────────────────────────────────────────────────────
+
+timeline_patterns:
+
+  avg_passive_duration: >
+    Not recoverable with confidence from this corpus. Panel format suppresses all early-stage
+    timeline data. Reed's case is the only one with recoverable passive/active phases — roughly
+    10–12 years of observing AI capability before committing (2010–2022). Brent's "last decade or
+    longer" for the field team model implies a multi-year passive phase. All other cases have
+    no recoverable passive duration. If forced to estimate: 3–10 years across institutional
+    decision-makers; likely shorter (6–18 months) for individual practitioners (teachers, associates).
+
+  common_active_trigger: >
+    A specific crystallizing event that reveals the prior model's structural limitation — not
+    just underperformance. Examples from the corpus: Airbus hitting their 100-student in-person
+    ceiling (SpringPod); DreamBox being instructed to turn off adaptive pacing (Reed); the 2013
+    mandate still not being meaningfully implemented in 2026 (Brent). In each case the trigger
+    is not "this isn't working well enough" but "this cannot structurally work — the ceiling
+    is real." Active triggers are the moment the switcher stops trying to optimize the old model.
+
+  common_deciding_factors:
+    - "Existence of a specific, named alternative solution with a concrete behavioral model (VisPick green-check, SpringPod virtual platform, field team regional ownership)"
+    - "A quantified before/after metric that makes the switch legible to others (60→20 min, 100→10,000 students, pre-literacy→2nd grade in 5 months)"
+    - "A trusted relationship or proof-point from a peer who has already made the switch"
+    - "AI capability crossing a functional threshold that makes the prior 'not ready' objection expire (Reed's doubling-curve argument)"
+
+  common_onboarding_friction: >
+    Two friction patterns appear consistently: (1) capability gap — people use new tools for
+    the most basic functions and don't discover or utilize advanced features (Josh: "what you're
+    going to see with the capability gap is people using it for super basic functions, not using
+    the right prompts"); (2) trust gap — a single wrong AI answer triggers full abandonment
+    rather than iteration (Josh: "you get a wrong answer, and I mean, a lot of people are just
+    going to discount it... I give up"). Both friction patterns share a root: insufficient
+    embedded practice at the moment of first use. Brent's field team model is the most explicit
+    structural response: human on-call support that reduces abandonment risk.
+
+# ─── EVIDENCE GAPS ───────────────────────────────────────────────────────────────
+
+evidence_gaps:
+
+  - >
+    No first-person student voice anywhere in the corpus. All five files are narrated by
+    institutional leaders, vendors, or philanthropists. The switching unit most absent is
+    the learner themselves. Recommend: 1-on-1 Switch interviews with 5–8 students who have
+    transitioned from traditional classroom learning to AI-augmented or individualized learning
+    (SpringPod alumni, Sparky users at reading milestone, chess.com-style AI tutoring users).
+
+  - >
+    No frontline practitioner voice. Teachers, counselors, and Walmart associates are the
+    switching units in three of five files — but all three are narrated by their institutional
+    managers or product vendors, not by practitioners. Recommend: 1-on-1 Switch interviews
+    with (a) a teacher who has adopted an ambient AI classroom assistant, (b) a school counselor
+    who has moved from compliance-mode career planning to genuine student advising, and (c) a
+    Walmart associate who uses VisPick daily. These would unlock the push/anxiety/habit forces
+    that are currently entirely inferred.
+
+  - >
+    Timeline stages are missing in all five files. Panel format makes passive_looking,
+    active_looking, and first_thought stages essentially unrecoverable. Recommend: all
+    follow-up interviews use a chronological probe protocol specifically designed to surface
+    "when did you first feel something wasn't working" and "what were you doing right before
+    you decided to change." Reed's case is the only partial exception — even his passive/
+    active timeline phases are inferred rather than quoted.
+
+  - >
+    Anxiety forces are significantly under-evidenced. Privacy and surveillance concerns
+    around ambient AI (ClassDojo teacher assistant listening to classrooms), job security
+    fears among frontline workers adopting AI tools (notably absent from Josh's account),
+    and educator anxiety about losing professional identity as AI handles more teaching
+    tasks — none of these are directly quoted or explored in the panel format. Recommend:
+    structured anxiety probes in follow-up interviews: "What were you most worried about
+    before you switched? What almost stopped you?"
+
+  - >
+    No evidence of failed switches or reversions. All five cases present successful adoption
+    stories, which introduces survivorship bias. We have no data on organizations or
+    practitioners who tried AI/virtual/field-team models and returned to their prior approach.
+    Recommend: explicitly seek out non-adopters or reverters for Switch interviews — they will
+    surface anxiety and habit forces invisible in success-story panels.
+
+  - >
+    The Airbus switching story is narrated by a vendor (Sam/SpringPod) with commercial
+    incentive to present it favorably. Recommend: a direct Switch interview with an Airbus
+    early careers or talent acquisition leader to validate the 100→10,000 scale claim,
+    surface the actual decision process, and confirm or correct the push forces.
+
+# ─── RECOMMENDATIONS ─────────────────────────────────────────────────────────────
+
+recommendations:
+
+  - >
+    Build the human-technology bundle, not just the technology. The strongest pull signal
+    in the corpus is Brent's field team model — not a better platform, but a human relationship
+    that makes the platform actually used. EdTech products should design their go-to-market
+    around a "trusted human + technology" bundle from the start, not treat human support as
+    a customer success cost to be minimized. Consider: who is the field team equivalent for
+    your product, and how does your business model make them viable?
+
+  - >
+    Make outcomes measurable at the individual level before claiming product-market fit.
+    The measurement gap is named explicitly across four of five cases. Products that track
+    destination outcomes (not just engagement) will win institutional trust and renewal cycles.
+    If your product cannot today connect usage to a specific, individual-level behavioral change
+    (reading grade level, job placement, task time), build that tracking before scaling.
+
+  - >
+    Design for zero active effort at first use, especially in K-12 and frontline contexts.
+    The chatbot model fails because it requires active teacher effort to get value. VisPick
+    succeeds because the interaction is "hold up phone, get green check." ClassDojo's ambient
+    assistant vision succeeds because "you don't have to do anything." The pattern is clear:
+    every additional action required from an overloaded teacher, counselor, or frontline worker
+    is a drop-off point. Ruthlessly reduce required steps before launch.
+
+  - >
+    Treat the 15-minute-per-day ceiling as a design constraint for K-5 family-facing products,
+    not a conservative default to overcome. ClassDojo's design choice to cap Sparky at 15 min/day
+    is behavioral evidence of where parent anxiety becomes product-blocking. Build engagement
+    models that deliver measurable value within that ceiling rather than assuming you can
+    shift parent preferences over time.
+
+  - >
+    Target homeschoolers and self-directed learners as your first AI tutoring cohort, before
+    school districts. Reed's explicit instruction — "if you want to change the world, focus on
+    the homeschoolers" — is a go-to-market signal worth taking seriously. Homeschooling families
+    have no institutional grammar of schooling to defend, no curriculum coherence constraint to
+    protect, and actively seek adaptive, self-paced tools. They are the early adopters most
+    likely to generate the behavioral outcome data (reading gains, skill progression) that
+    institutional buyers will require before considering adoption.
+
+  - >
+    Test for feature suppression before scaling adaptive capabilities. Reed's DreamBox story —
+    districts instructing him to turn off adaptive pacing — is a product strategy warning:
+    the feature that maximizes learning outcomes may be the feature that institutional buyers
+    suppress post-deployment. Conduct feature adoption audits at 30, 60, and 90 days post-launch
+    to detect whether adaptive or personalized features are being disabled by administrators.
+    Treat any suppression as a leading indicator of churn.
+
+  - >
+    Design AI tools for durability through deterministic or visual output, not probabilistic
+    text. Josh's observation that one wrong AI answer triggers full abandonment — rather than
+    iteration — suggests that generative text tools face a structural trust challenge in frontline
+    and classroom contexts. Products that use computer vision (VisPick), reading assessment
+    scores, or other deterministic outputs have lower wrong-answer risk and therefore lower
+    abandonment risk. Where text generation is necessary, build in visible confidence signals
+    and easy correction loops.
+
+  - >
+    Invest in the embedded practice layer before launching AI training programs. Josh's
+    principle — "you don't become AI proficient by doing a micro certification; this has to be
+    embedded in your jobs" — applies equally to EdTech products sold to institutions. Training
+    that lives outside the workflow will not transfer. If your product requires users to develop
+    new behaviors (prompting, reviewing AI suggestions, providing corrections), embed that
+    practice in the product's normal flow rather than in a separate onboarding module.

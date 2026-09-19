@@ -1,0 +1,1058 @@
+{
+  "imported_on": "2026-09-19",
+  "sources": [
+    {
+      "repository": "https://github.com/savvides/edtechfounderstack",
+      "commit": "800fcaf5fcc187b3ee3c35f4224cbcdc560548a6",
+      "files": [
+        {
+          "source": ".editorconfig",
+          "source_sha256": "c6dbf131e3201721b09e3cbf335a3da19040bf0e5b204cb4c98c961378954d97",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/FUNDING.yml",
+          "source_sha256": "bfc06ff3660412c6693ba18dca69d1ec45fb6dd22bc77520a985310c50f0d76f",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/ISSUE_TEMPLATE/bug_report.md",
+          "source_sha256": "d13ab2b0238e71870128dc17d1337c44ceb02d792a381abd134b8cf524bc5dbe",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/ISSUE_TEMPLATE/case-study.md",
+          "source_sha256": "0c24754f3b4c43feb43a968eae1a03eae0c297620047b7cdd063770e06190b32",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/ISSUE_TEMPLATE/feature_request.md",
+          "source_sha256": "04f217e7a809027ece92c83ac416e36def9844026091b23d9e519d3680a4156b",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/ISSUE_TEMPLATE/job-statement.md",
+          "source_sha256": "384d74161e6d814c0b68a5a937dacb8f1c435620874fcc8b74dd6b7530817e23",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/ISSUE_TEMPLATE/research_submission.md",
+          "source_sha256": "414e7b993eff5230c2148d4b8926af06855eb3904692bcf3bf5c3ebcaf5f914c",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/PULL_REQUEST_TEMPLATE.md",
+          "source_sha256": "2063d85a5b7de44713b5c8577f7501510844d6a16df32655f9b63130a15d6c67",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/copilot-instructions.md",
+          "source_sha256": "317211693da9561632ed01e4b21e0f2bb29c57d5c470efc1a3c274a75436b163",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/workflows/validate.yml",
+          "source_sha256": "38ec40aff446df1a78189a8cb9c5a171424c6fdc19b9791f25b77e148c3b94ac",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".gitignore",
+          "source_sha256": "dd487ac35a63f076431f7417ad1b7ae71a56fce56752e469548e3dac99ee2a0f",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "AGENTS.md",
+          "source_sha256": "dd7aa1e3db6ac3ef2316ee0bbc0f275c96d1f585698be391b7ca3a8e328d97f7",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "ARCHITECTURE.md",
+          "source_sha256": "b587f0a2cdf11fd8ac9a751afe8d2e33f3deff35cd1ca9073981c8c7f53d716e",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "CHANGELOG.md",
+          "source_sha256": "288a36297d6d632a778a5a9f4648b101ed84286bdd8f1194889ee1133a93ed41",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "CLAUDE.md",
+          "source_sha256": "72dec993562b65655c89ddf188937fd6f3f3e2173c6c89c79cb298462361fc0f",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "CODEOWNERS",
+          "source_sha256": "179dc709f1c5286014bb999ebf1f4ed57c14547e5f542392e5808b0127dbbd87",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "CODE_OF_CONDUCT.md",
+          "source_sha256": "e6ddf7b8421e885405871b054334930190049117483b916d05b0e89009dd1061",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "CONTRIBUTING.md",
+          "source_sha256": "b199addf22d29c5ab6f250b9f125d48781607d3a42bb2479eb662a41c24e23ef",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "ETHOS.md",
+          "source_sha256": "f9dad59ae010b534ee9e522b921648ff021dbdf5aa180c1a14c457f4b54cda36",
+          "destination": "guides/ethos.md",
+          "import_sha256": "f9dad59ae010b534ee9e522b921648ff021dbdf5aa180c1a14c457f4b54cda36"
+        },
+        {
+          "source": "GEMINI.md",
+          "source_sha256": "5f7808277b857ac2e199f68f6cfa5962d4a8107807bfbaf09fc874b8d5e95218",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "LICENSE",
+          "source_sha256": "d3112d8e2ce8d971aa6a77975b81ab5752861d2107502686e63169a00bf8415c",
+          "destination": "licenses/founder-stack.txt",
+          "import_sha256": "d3112d8e2ce8d971aa6a77975b81ab5752861d2107502686e63169a00bf8415c"
+        },
+        {
+          "source": "README.md",
+          "source_sha256": "87209caeb0d9b77a24e90d02e88beb0b0f081dbc2b5026592ebb287d2bf00b1f",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "SECURITY.md",
+          "source_sha256": "8eac1ed9e4c6c532586fbf9f7ef9039cc679c6e4ba03969990e18fa79297e650",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "TODOS.md",
+          "source_sha256": "3d3a219e743e0ad90385c39148d13ea27cd19fdedb48afd412cc23180c332b61",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "VERSION",
+          "source_sha256": "7b3ff271f1373cfb97e9e53349794e1450f3794e4c0788c54a2060c7596da821",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "data/ai-native-framework.md",
+          "source_sha256": "d7a90a8d6eb9d7a2d00e3df480c89a03baec1d429418d03da84f57a0b6ee223a",
+          "destination": "guides/ai-native-framework.md",
+          "import_sha256": "dafe6f31a06824a011eeb14c8083a1ec6d7fe851363c0dbfb7b54ff48d354085",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "data/ai-risk-and-trust.md",
+          "source_sha256": "e5ef4668c842c1a084089c0b3033154743c463dc6610a00a2461a2d52e0a288f",
+          "destination": "guides/ai-risk-and-trust.md",
+          "import_sha256": "7bd3ad856a79f28aba711878062d6729c988798b511994615585c1d521310178",
+          "changes": "Linked excluded operator lessons to the pinned original file."
+        },
+        {
+          "source": "data/buyer-demand-signals.md",
+          "source_sha256": "773d72a543d54e07a3ef4d547578ff379930f840093b19a2f524e851ed8d58d2",
+          "destination": "guides/buyer-demand-signals.md",
+          "import_sha256": "93d365caa2b10c3666d64ccaba487fbcd61f8988e651c03df3b4f847396d54b4",
+          "changes": "Replaced the source-repository link with the local conference collection."
+        },
+        {
+          "source": "data/buyer-personas.md",
+          "source_sha256": "885b6cc123f3c9c1d5b3557bfd154e3652aa3e224f2fa4f50c066ca9d2c10676",
+          "destination": "guides/buyer-personas.md",
+          "import_sha256": "885b6cc123f3c9c1d5b3557bfd154e3652aa3e224f2fa4f50c066ca9d2c10676"
+        },
+        {
+          "source": "data/competitive-landscape.md",
+          "source_sha256": "d469e2677fabf6f882ba718be353aeda5071a5a8abcdb40f05bdc0fd9dbceef6",
+          "destination": "guides/competitive-landscape.md",
+          "import_sha256": "d469e2677fabf6f882ba718be353aeda5071a5a8abcdb40f05bdc0fd9dbceef6"
+        },
+        {
+          "source": "data/corporate-ld.md",
+          "source_sha256": "e1614efbb5f23055130d9649e27ff1dbb723c1c9d02a806d895c40272e71a03e",
+          "destination": "guides/corporate-ld.md",
+          "import_sha256": "e1614efbb5f23055130d9649e27ff1dbb723c1c9d02a806d895c40272e71a03e"
+        },
+        {
+          "source": "data/defensibility-moats.md",
+          "source_sha256": "bf030064450d0ec39a2978afe9c04e63b8bac7a37607f79d75aaa1c32ecce2d8",
+          "destination": "guides/defensibility-moats.md",
+          "import_sha256": "bf030064450d0ec39a2978afe9c04e63b8bac7a37607f79d75aaa1c32ecce2d8"
+        },
+        {
+          "source": "data/demand-validation.md",
+          "source_sha256": "0b25f230e65895488e0321582133c23a2e263419d0c9c4ea832b3cd87db75a72",
+          "destination": "guides/demand-validation.md",
+          "import_sha256": "0b25f230e65895488e0321582133c23a2e263419d0c9c4ea832b3cd87db75a72"
+        },
+        {
+          "source": "data/evidence-tiers.md",
+          "source_sha256": "f76b38823e0b93cf44bfab6edb69c8b56bc5a3a0a851e66a73ea6b98cb49245d",
+          "destination": "guides/evidence-tiers.md",
+          "import_sha256": "b4ff0508e62896b81e253747ac56d3d37900989664e6a9e8c541be6bfc3238b0",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "data/founder-traps.md",
+          "source_sha256": "4bcfa35dd7cfe3eadfa1cfc6b51ceacfdef8882a110f16c8b2def3b31f743256",
+          "destination": "guides/founder-traps.md",
+          "import_sha256": "4bcfa35dd7cfe3eadfa1cfc6b51ceacfdef8882a110f16c8b2def3b31f743256"
+        },
+        {
+          "source": "data/funding-landscape.md",
+          "source_sha256": "2a1c5c9062c15d45b42a8ae6a53e3c74371a9e2f58430cc1904f06bd96bef86e",
+          "destination": "guides/funding-landscape.md",
+          "import_sha256": "2a1c5c9062c15d45b42a8ae6a53e3c74371a9e2f58430cc1904f06bd96bef86e"
+        },
+        {
+          "source": "data/higher-ed-jobs-atlas.md",
+          "source_sha256": "90f6635802d5b84ec38d80df1a6a71bab5258a233444c0a9b77a90697736552d",
+          "destination": "guides/higher-ed-jobs-atlas.md",
+          "import_sha256": "90f6635802d5b84ec38d80df1a6a71bab5258a233444c0a9b77a90697736552d"
+        },
+        {
+          "source": "data/highered-landscape.md",
+          "source_sha256": "fd672b8a75ab3386fd3136eee481a680d378f46084b62674069089438093102a",
+          "destination": "guides/highered-landscape.md",
+          "import_sha256": "fd672b8a75ab3386fd3136eee481a680d378f46084b62674069089438093102a"
+        },
+        {
+          "source": "data/jtbd-interviews.md",
+          "source_sha256": "6486f3beaae7d8678b7a551e57c12700ce2a8c1a09a02b1d1ab24dc963bbe217",
+          "destination": "guides/jtbd-interviews.md",
+          "import_sha256": "5efb1e1f57a64c45a41028bef02418b411c0e9a5f0602093af6de7a94801f03b",
+          "changes": "Linked excluded operator lessons to the pinned original file."
+        },
+        {
+          "source": "data/k12-regulatory.md",
+          "source_sha256": "3f9a821ceb210b4b4c7f4ec4cbc11bbb198cf193828febbb242b2cf695b7090a",
+          "destination": "guides/k12-regulatory.md",
+          "import_sha256": "3f9a821ceb210b4b4c7f4ec4cbc11bbb198cf193828febbb242b2cf695b7090a"
+        },
+        {
+          "source": "data/operator-lessons.md",
+          "source_sha256": "95a35aeb14606f2201211b2cfbe0adaed76758c4cd7d307248dbf10716682b04",
+          "excluded": "Source LICENSE explicitly prohibits redistribution as raw content."
+        },
+        {
+          "source": "data/pilot-benchmarks.md",
+          "source_sha256": "31c3e56224b9a921e668c93ca6e3a53f79d9adca2a99ae04a9ad242a14239406",
+          "destination": "guides/pilot-benchmarks.md",
+          "import_sha256": "31c3e56224b9a921e668c93ca6e3a53f79d9adca2a99ae04a9ad242a14239406"
+        },
+        {
+          "source": "data/procurement-guide.md",
+          "source_sha256": "f19ff99c427fc4b4df8f6fe6129973c2db2e8794fefa12f7a9d0b11a667b6505",
+          "destination": "guides/procurement-guide.md",
+          "import_sha256": "f19ff99c427fc4b4df8f6fe6129973c2db2e8794fefa12f7a9d0b11a667b6505"
+        },
+        {
+          "source": "data/research/README.md",
+          "source_sha256": "12ec0874fd6dd1309581f79c051ca2e3101d866e1b6bfc945643a1491e7ec0ef",
+          "destination": "research/README.md",
+          "import_sha256": "a4c53d322133006c87e9628b8a93ddea6b016d94688f0b3e770939e058d04d99",
+          "changes": "Added navigation and source-context note; clarified total as paper entries. Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "data/research/active-learning.md",
+          "source_sha256": "4ce5f08c2db02c918a51916f4ba1c6d9af22be66ef53bcb350c76d01f872e86e",
+          "destination": "research/active-learning.md",
+          "import_sha256": "4ce5f08c2db02c918a51916f4ba1c6d9af22be66ef53bcb350c76d01f872e86e"
+        },
+        {
+          "source": "data/research/adaptive-learning.md",
+          "source_sha256": "7317e5957e34996a7c9f22b84b95e04b183cf6e34beb36dbf0e09c70e77cf59f",
+          "destination": "research/adaptive-learning.md",
+          "import_sha256": "7317e5957e34996a7c9f22b84b95e04b183cf6e34beb36dbf0e09c70e77cf59f"
+        },
+        {
+          "source": "data/research/assessment-frequency.md",
+          "source_sha256": "f06ae1a99a637fa5b206cde925bd9147d883681baa600a7b24f3719c73ff309e",
+          "destination": "research/assessment-frequency.md",
+          "import_sha256": "f06ae1a99a637fa5b206cde925bd9147d883681baa600a7b24f3719c73ff309e"
+        },
+        {
+          "source": "data/research/automated-feedback.md",
+          "source_sha256": "1ddca5a58dcb0e9d38a57d4cdf76d0405e440ebe2534eb3ab62a10928d4aad80",
+          "destination": "research/automated-feedback.md",
+          "import_sha256": "1ddca5a58dcb0e9d38a57d4cdf76d0405e440ebe2534eb3ab62a10928d4aad80"
+        },
+        {
+          "source": "data/research/cognitive-load.md",
+          "source_sha256": "a0b8ad1b92132a4f55b4f0884a78a1127e22f0da5f84f3e8909c9081367d9405",
+          "destination": "research/cognitive-load.md",
+          "import_sha256": "a0b8ad1b92132a4f55b4f0884a78a1127e22f0da5f84f3e8909c9081367d9405"
+        },
+        {
+          "source": "data/research/competency-based-assessment.md",
+          "source_sha256": "82164670101cc837e7624d3173b0260e140f99a86066166e6896aa8ba2889b75",
+          "destination": "research/competency-based-assessment.md",
+          "import_sha256": "82164670101cc837e7624d3173b0260e140f99a86066166e6896aa8ba2889b75"
+        },
+        {
+          "source": "data/research/desirable-difficulties.md",
+          "source_sha256": "cc6fa56fd46cca55717f619b501b33c57aeccd320af599414d2c0bbcb49baec4",
+          "destination": "research/desirable-difficulties.md",
+          "import_sha256": "cc6fa56fd46cca55717f619b501b33c57aeccd320af599414d2c0bbcb49baec4"
+        },
+        {
+          "source": "data/research/diagnostic-assessment.md",
+          "source_sha256": "1227e9832131317d1899db29b0c8f5bd6d79de81bf3bfaea4d230337fcb28158",
+          "destination": "research/diagnostic-assessment.md",
+          "import_sha256": "1227e9832131317d1899db29b0c8f5bd6d79de81bf3bfaea4d230337fcb28158"
+        },
+        {
+          "source": "data/research/formative-assessment.md",
+          "source_sha256": "e591e17b8a1e6943ec341f9973909c58f2b7478156e97bb6439a694d96147b54",
+          "destination": "research/formative-assessment.md",
+          "import_sha256": "e591e17b8a1e6943ec341f9973909c58f2b7478156e97bb6439a694d96147b54"
+        },
+        {
+          "source": "data/research/formative-vs-summative.md",
+          "source_sha256": "86ad7e207ebde1085267d4fe10e07d82a1d13d0acff2c70858f9e437124fa6fd",
+          "destination": "research/formative-vs-summative.md",
+          "import_sha256": "86ad7e207ebde1085267d4fe10e07d82a1d13d0acff2c70858f9e437124fa6fd"
+        },
+        {
+          "source": "data/research/learning-strategies.md",
+          "source_sha256": "0715efbbdb8921e3c1f716f459ed793b0e42d561c0421be586c5bde77d5b4ac0",
+          "destination": "research/learning-strategies.md",
+          "import_sha256": "0715efbbdb8921e3c1f716f459ed793b0e42d561c0421be586c5bde77d5b4ac0"
+        },
+        {
+          "source": "data/research/learning-styles-myth.md",
+          "source_sha256": "1b97f430c645cb53f9db882d147360872f7de8fa306008e274ded6e841badb21",
+          "destination": "research/learning-styles-myth.md",
+          "import_sha256": "1b97f430c645cb53f9db882d147360872f7de8fa306008e274ded6e841badb21"
+        },
+        {
+          "source": "data/research/mastery-based-grading.md",
+          "source_sha256": "7c0b5abf599a75e8f8f40c240fb292dd8bbc36fc676a45376471820f4eae2e3e",
+          "destination": "research/mastery-based-grading.md",
+          "import_sha256": "7c0b5abf599a75e8f8f40c240fb292dd8bbc36fc676a45376471820f4eae2e3e"
+        },
+        {
+          "source": "data/research/multimedia-principles.md",
+          "source_sha256": "4f2692528378f6dd2358b08a37b1ec50aca01b5f84100cf157af4da8f8e6cfe8",
+          "destination": "research/multimedia-principles.md",
+          "import_sha256": "4f2692528378f6dd2358b08a37b1ec50aca01b5f84100cf157af4da8f8e6cfe8"
+        },
+        {
+          "source": "data/research/rubric-assessment.md",
+          "source_sha256": "a85853ab7233e099b455634afa5fce85b4c96cd316b9cd89b0a33310d742a58b",
+          "destination": "research/rubric-assessment.md",
+          "import_sha256": "a85853ab7233e099b455634afa5fce85b4c96cd316b9cd89b0a33310d742a58b"
+        },
+        {
+          "source": "data/research/self-determination-gamification.md",
+          "source_sha256": "8abb0bb098af85e2619934eb9a67ce47e42ddebc4133679684c2aee36237d087",
+          "destination": "research/self-determination-gamification.md",
+          "import_sha256": "8abb0bb098af85e2619934eb9a67ce47e42ddebc4133679684c2aee36237d087"
+        },
+        {
+          "source": "data/research/spaced-repetition.md",
+          "source_sha256": "8de85d7ae544e3e1c36fb7f0d2d2b4c3544b7c3ad1aee98f4969c04e87635861",
+          "destination": "research/spaced-repetition.md",
+          "import_sha256": "8de85d7ae544e3e1c36fb7f0d2d2b4c3544b7c3ad1aee98f4969c04e87635861"
+        },
+        {
+          "source": "data/research/transfer-of-learning.md",
+          "source_sha256": "a4f85b74357f44fc814bdf7ac8ac8d5fb1b6ace8213fda809f2c5ad72390f97e",
+          "destination": "research/transfer-of-learning.md",
+          "import_sha256": "a4f85b74357f44fc814bdf7ac8ac8d5fb1b6ace8213fda809f2c5ad72390f97e"
+        },
+        {
+          "source": "data/research/worked-examples.md",
+          "source_sha256": "a06300cb25af435abee73a129bc464a64268e35cc67d7682746fb458c493eb91",
+          "destination": "research/worked-examples.md",
+          "import_sha256": "a06300cb25af435abee73a129bc464a64268e35cc67d7682746fb458c493eb91"
+        },
+        {
+          "source": "docs/social-preview.html",
+          "source_sha256": "c6280ecc15df1b595e99f228bcb69e412121f77c9f12b9b4aa61716f59adee8a",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/savvides/asu-gsv-2026-summit-intelligence",
+      "commit": "f3de496b426a53e0e8a5b1ccdeeeedfdd808ffd2",
+      "files": [
+        {
+          "source": ".gitignore",
+          "source_sha256": "f920d503c48eeae05cfb27c297b26004b0c641a5f086691d8dc60c9fcd779378",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".jtbd/.gitignore",
+          "source_sha256": "42ea79a648bb74324bf579464c6484abbe4c0e4aa169b9d9ff8eca5c8c1f07f6",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".jtbd/manifest.yml",
+          "source_sha256": "50f4ad7113504872e1bf4606de5a37b552591e5f39f38a769aeb666776774326",
+          "destination": "conferences/2026-asu-gsv/.jtbd/manifest.yml",
+          "import_sha256": "50f4ad7113504872e1bf4606de5a37b552591e5f39f38a769aeb666776774326"
+        },
+        {
+          "source": ".jtbd/patterns/patterns-20260424.yml",
+          "source_sha256": "818e54e789e647ee0db44c6b1abe6da92041ceb241de37ef0d4b811fb15bac56",
+          "destination": "conferences/2026-asu-gsv/.jtbd/patterns/patterns-20260424.yml",
+          "import_sha256": "818e54e789e647ee0db44c6b1abe6da92041ceb241de37ef0d4b811fb15bac56"
+        },
+        {
+          "source": ".jtbd/switches/brent-state-cte-director-20260413.yml",
+          "source_sha256": "ff363b3258877039c85a348c07d7787d030cda76550729fb20001580b93954ab",
+          "destination": "conferences/2026-asu-gsv/.jtbd/switches/brent-state-cte-director-20260413.yml",
+          "import_sha256": "ff363b3258877039c85a348c07d7787d030cda76550729fb20001580b93954ab"
+        },
+        {
+          "source": ".jtbd/switches/josh-walmart-academy-vp-20260413.yml",
+          "source_sha256": "c88128e05d5596c4024215571794ad8979e0ab1725fe084ba231e6347984ee75",
+          "destination": "conferences/2026-asu-gsv/.jtbd/switches/josh-walmart-academy-vp-20260413.yml",
+          "import_sha256": "c88128e05d5596c4024215571794ad8979e0ab1725fe084ba231e6347984ee75"
+        },
+        {
+          "source": ".jtbd/switches/reed-education-philanthropist-20260413.yml",
+          "source_sha256": "ba39aea640d69db40ac004f4cfecf386ec0bcf59fa7d8d0a575096bb817a52b8",
+          "destination": "conferences/2026-asu-gsv/.jtbd/switches/reed-education-philanthropist-20260413.yml",
+          "import_sha256": "ba39aea640d69db40ac004f4cfecf386ec0bcf59fa7d8d0a575096bb817a52b8"
+        },
+        {
+          "source": ".jtbd/switches/sam-ceo-springpod-20260413.yml",
+          "source_sha256": "38b4dfbea6076d539285acf19a275fc631abe5a4e3eae85bff031889ce8b4acb",
+          "destination": "conferences/2026-asu-gsv/.jtbd/switches/sam-ceo-springpod-20260413.yml",
+          "import_sha256": "38b4dfbea6076d539285acf19a275fc631abe5a4e3eae85bff031889ce8b4acb"
+        },
+        {
+          "source": ".jtbd/switches/sam-classdojo-ceo-20260413.yml",
+          "source_sha256": "1826fb5ad859790d49c90994ca5b14b0703569c2ff2aeb24bf24775b1451e312",
+          "destination": "conferences/2026-asu-gsv/.jtbd/switches/sam-classdojo-ceo-20260413.yml",
+          "import_sha256": "1826fb5ad859790d49c90994ca5b14b0703569c2ff2aeb24bf24775b1451e312"
+        },
+        {
+          "source": "CHANGELOG.md",
+          "source_sha256": "fe26b8f9ab8ee6009b781201de40585ba514bed263623b80cc4e6e0e454865de",
+          "destination": "conferences/2026-asu-gsv/CHANGELOG.md",
+          "import_sha256": "fe26b8f9ab8ee6009b781201de40585ba514bed263623b80cc4e6e0e454865de"
+        },
+        {
+          "source": "CONTRIBUTING.md",
+          "source_sha256": "4c4c66f5befbe1a7f917198875c73c6125424e275a0ddbbe634c014e3751beef",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "LICENSE",
+          "source_sha256": "362bad97b442f2c6455c22904b0287fb1e4821840656afe7ca5a138c98a97859",
+          "destination": "conferences/2026-asu-gsv/LICENSE",
+          "import_sha256": "362bad97b442f2c6455c22904b0287fb1e4821840656afe7ca5a138c98a97859"
+        },
+        {
+          "source": "README.md",
+          "source_sha256": "d83b516c61908da2943408720689a84906c8c4d4f0caa3c88920c33276aca9b9",
+          "destination": "conferences/2026-asu-gsv/README.md",
+          "import_sha256": "32d97a8b3b40f1b38a92ce988c5fd8a940d29628dcee8e2ea9c1434799503877",
+          "changes": "Added navigation and source-context note; linked transcript index and documented original tool prerequisites."
+        },
+        {
+          "source": "deliverables/demand-signals.md",
+          "source_sha256": "7f2edf0ac3e457252e2b2e35b8bd27aa70bb3c8e69f6b9fe121d0d454c7036fc",
+          "destination": "conferences/2026-asu-gsv/deliverables/demand-signals.md",
+          "import_sha256": "7f2edf0ac3e457252e2b2e35b8bd27aa70bb3c8e69f6b9fe121d0d454c7036fc"
+        },
+        {
+          "source": "deliverables/edtech-pilot-playbook/LICENSE",
+          "source_sha256": "996d3e05d6b99de72b9474116418487f8e07134d09d7c66e6baab8c78de24b9b",
+          "destination": "conferences/2026-asu-gsv/deliverables/edtech-pilot-playbook/LICENSE",
+          "import_sha256": "996d3e05d6b99de72b9474116418487f8e07134d09d7c66e6baab8c78de24b9b"
+        },
+        {
+          "source": "deliverables/edtech-pilot-playbook/README.md",
+          "source_sha256": "0f07d2706ce9df2a53264a8b727d36fd4d675f10d3ca0c837603a54c26f7f18a",
+          "destination": "conferences/2026-asu-gsv/deliverables/edtech-pilot-playbook/README.md",
+          "import_sha256": "0f07d2706ce9df2a53264a8b727d36fd4d675f10d3ca0c837603a54c26f7f18a"
+        },
+        {
+          "source": "deliverables/roundtable-memo.md",
+          "source_sha256": "86afbdd6a0f28f83f2d7209659fa483bd7953c3ef70854e7213d6d239ad48110",
+          "destination": "conferences/2026-asu-gsv/deliverables/roundtable-memo.md",
+          "import_sha256": "93c3d40234d2d75442a0ee50a6682f7872c571686698812eea34efe4c3021af0",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "schedule/full-session-index.md",
+          "source_sha256": "ba546526ea28f7b98a88e69009cf2907943fad9b2b1c19c51707c90cd368e876",
+          "destination": "conferences/2026-asu-gsv/schedule/full-session-index.md",
+          "import_sha256": "942a49576a0277c4c3bcbbaf19a4c9bf93a4f57f07606827220f91379505c179",
+          "changes": "Repaired relative transcript paths, labeled links with actual transcript titles, and flagged 36 differing-title schedule associations as unverified; retained original associations and metadata."
+        },
+        {
+          "source": "schedule/scaleu-sessions.md",
+          "source_sha256": "4ede266e8d8ed51f073afd1dc91ff8c0259741c67c1e83d5358f16d35e957d62",
+          "destination": "conferences/2026-asu-gsv/schedule/scaleu-sessions.md",
+          "import_sha256": "4ede266e8d8ed51f073afd1dc91ff8c0259741c67c1e83d5358f16d35e957d62"
+        },
+        {
+          "source": "synthesis/summit-intelligence-report.md",
+          "source_sha256": "35c4f409ad4e12b0decf63134a0f6bb706cbef3c9ae8ac616101091b8694b9b6",
+          "destination": "conferences/2026-asu-gsv/synthesis/summit-intelligence-report.md",
+          "import_sha256": "c14015e37e38c966da90ada3a22cd0ae59203774047a830e57aaedbcde1d665b",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "tools/enrich-transcripts.py",
+          "source_sha256": "a8ba5d1b3d5a957b8197f416c51af559ecfb6610ed069db4102fcbe86afefa3b",
+          "destination": "conferences/2026-asu-gsv/tools/enrich-transcripts.py",
+          "import_sha256": "a8ba5d1b3d5a957b8197f416c51af559ecfb6610ed069db4102fcbe86afefa3b"
+        },
+        {
+          "source": "tools/match-schedule.py",
+          "source_sha256": "fa7d0bd059689715e730c2f10523bb0e16118da46de0d34c34e48d162499c891",
+          "destination": "conferences/2026-asu-gsv/tools/match-schedule.py",
+          "import_sha256": "fa7d0bd059689715e730c2f10523bb0e16118da46de0d34c34e48d162499c891"
+        },
+        {
+          "source": "tools/requirements.txt",
+          "source_sha256": "a18fff893a90061eed874102bdd758035df1856333de5749b3988700821b6b4b",
+          "destination": "conferences/2026-asu-gsv/tools/requirements.txt",
+          "import_sha256": "a18fff893a90061eed874102bdd758035df1856333de5749b3988700821b6b4b"
+        },
+        {
+          "source": "tools/transcribe.py",
+          "source_sha256": "c4477ebb63a3f80951c57575f951541da25d9dd4efeb14f291ba4a919adfd163",
+          "destination": "conferences/2026-asu-gsv/tools/transcribe.py",
+          "import_sha256": "c4477ebb63a3f80951c57575f951541da25d9dd4efeb14f291ba4a919adfd163"
+        },
+        {
+          "source": "transcripts/01-burning-traditional-learning-here-comes-the-disruptors.md",
+          "source_sha256": "31da3fefe3ad21c762c6433b8ff1e147c5c5660f18c167c6746641b5c526f03b",
+          "destination": "conferences/2026-asu-gsv/transcripts/01-burning-traditional-learning-here-comes-the-disruptors.md",
+          "import_sha256": "31da3fefe3ad21c762c6433b8ff1e147c5c5660f18c167c6746641b5c526f03b"
+        },
+        {
+          "source": "transcripts/02-from-wedge-to-leading-edge-rahm-emanuel-on-the-education-reset.md",
+          "source_sha256": "56b435d1177c740108952e0689b81669eb9c10a9f19790ebb17b3a1e2ce7f633",
+          "destination": "conferences/2026-asu-gsv/transcripts/02-from-wedge-to-leading-edge-rahm-emanuel-on-the-education-reset.md",
+          "import_sha256": "56b435d1177c740108952e0689b81669eb9c10a9f19790ebb17b3a1e2ce7f633"
+        },
+        {
+          "source": "transcripts/03-becoming-is-a-journey-young-adults-charting-their-paths.md",
+          "source_sha256": "60d518674ecf492dfcc9c5afa3846364cffc9b7663d7d9f81334d916909ea3be",
+          "destination": "conferences/2026-asu-gsv/transcripts/03-becoming-is-a-journey-young-adults-charting-their-paths.md",
+          "import_sha256": "60d518674ecf492dfcc9c5afa3846364cffc9b7663d7d9f81334d916909ea3be"
+        },
+        {
+          "source": "transcripts/04-meeting-educations-fierce-urgency-of-now-a-conversation-with-geoff-canada.md",
+          "source_sha256": "933b7c73765660e4f7a5c64b06001d320397406c75c6de5cd546b5064e9e4003",
+          "destination": "conferences/2026-asu-gsv/transcripts/04-meeting-educations-fierce-urgency-of-now-a-conversation-with-geoff-canada.md",
+          "import_sha256": "933b7c73765660e4f7a5c64b06001d320397406c75c6de5cd546b5064e9e4003"
+        },
+        {
+          "source": "transcripts/05-actors-math-stars-building-a-thought-full-world.md",
+          "source_sha256": "00367c34830edcec458f545b9b06f8ef11216239f004d1e5a1781798d666457b",
+          "destination": "conferences/2026-asu-gsv/transcripts/05-actors-math-stars-building-a-thought-full-world.md",
+          "import_sha256": "00367c34830edcec458f545b9b06f8ef11216239f004d1e5a1781798d666457b"
+        },
+        {
+          "source": "transcripts/06-mindup-with-goldie-hawn.md",
+          "source_sha256": "012bfc28f68f5bf72fd8418c074320c5796a336439eba1db3446b2c780c456ee",
+          "destination": "conferences/2026-asu-gsv/transcripts/06-mindup-with-goldie-hawn.md",
+          "import_sha256": "012bfc28f68f5bf72fd8418c074320c5796a336439eba1db3446b2c780c456ee"
+        },
+        {
+          "source": "transcripts/07-we-the-poets-a-civic-performance-by-lemon-andersen.md",
+          "source_sha256": "7862f523d0464eaceedacf6808f0b6cbc369bfdc2af91545aecc2b4d2244b055",
+          "destination": "conferences/2026-asu-gsv/transcripts/07-we-the-poets-a-civic-performance-by-lemon-andersen.md",
+          "import_sha256": "7862f523d0464eaceedacf6808f0b6cbc369bfdc2af91545aecc2b4d2244b055"
+        },
+        {
+          "source": "transcripts/08-what-it-means-to-be-an-american-and-what-it-requires-of-us-at-this-moment.md",
+          "source_sha256": "a8317140622776d2aebf2e17d24d9b41a4f56f904fb246549d39aca4df74fdc9",
+          "destination": "conferences/2026-asu-gsv/transcripts/08-what-it-means-to-be-an-american-and-what-it-requires-of-us-at-this-moment.md",
+          "import_sha256": "a8317140622776d2aebf2e17d24d9b41a4f56f904fb246549d39aca4df74fdc9"
+        },
+        {
+          "source": "transcripts/09-class-disrupted-live-reed-hastings-on-the-ai-powered-future-of-learning.md",
+          "source_sha256": "dc03fb03546fa92f6ca9e15068480ab8de2f7c3a9ce7231a8de75e4ad736e1c9",
+          "destination": "conferences/2026-asu-gsv/transcripts/09-class-disrupted-live-reed-hastings-on-the-ai-powered-future-of-learning.md",
+          "import_sha256": "dc03fb03546fa92f6ca9e15068480ab8de2f7c3a9ce7231a8de75e4ad736e1c9"
+        },
+        {
+          "source": "transcripts/10-democrats-finding-the-plot-on-educationhow-did-we-get-here.md",
+          "source_sha256": "e8efef1c580e8d4bfd1d38f055817bc6fcc066cb8f2b716d3f913ea44112b4d5",
+          "destination": "conferences/2026-asu-gsv/transcripts/10-democrats-finding-the-plot-on-educationhow-did-we-get-here.md",
+          "import_sha256": "e8efef1c580e8d4bfd1d38f055817bc6fcc066cb8f2b716d3f913ea44112b4d5"
+        },
+        {
+          "source": "transcripts/11-coffee-with-crow-the-ai-roadmap-ahead-pro-human-learning-work.md",
+          "source_sha256": "33f9c044acff25cab3a96b75f20a992c50ffc1dfbd39021dc30fe5e6bf36e813",
+          "destination": "conferences/2026-asu-gsv/transcripts/11-coffee-with-crow-the-ai-roadmap-ahead-pro-human-learning-work.md",
+          "import_sha256": "33f9c044acff25cab3a96b75f20a992c50ffc1dfbd39021dc30fe5e6bf36e813"
+        },
+        {
+          "source": "transcripts/12-connected-intelligence-the-ai-network-effect-in-higher-ed.md",
+          "source_sha256": "073843f94c8c4f4acfb4fa3c99a0c28537240266631967b790cc36021e480f78",
+          "destination": "conferences/2026-asu-gsv/transcripts/12-connected-intelligence-the-ai-network-effect-in-higher-ed.md",
+          "import_sha256": "073843f94c8c4f4acfb4fa3c99a0c28537240266631967b790cc36021e480f78"
+        },
+        {
+          "source": "transcripts/13-multiple-choice-whats-love-got-to-do-with-it.md",
+          "source_sha256": "2416b7515a570f3429e4cc60e7cb4485b7817906cce1e8df805a7b63765e7c40",
+          "destination": "conferences/2026-asu-gsv/transcripts/13-multiple-choice-whats-love-got-to-do-with-it.md",
+          "import_sha256": "2416b7515a570f3429e4cc60e7cb4485b7817906cce1e8df805a7b63765e7c40"
+        },
+        {
+          "source": "transcripts/14-what-do-kids-need-to-learn-in-the-age-of-ai.md",
+          "source_sha256": "fbdf846172e0c36d86d453ce29afa596dd88bc9dc36f930861f55e76bd3e0c34",
+          "destination": "conferences/2026-asu-gsv/transcripts/14-what-do-kids-need-to-learn-in-the-age-of-ai.md",
+          "import_sha256": "fbdf846172e0c36d86d453ce29afa596dd88bc9dc36f930861f55e76bd3e0c34"
+        },
+        {
+          "source": "transcripts/15-may-the-force-be-with-you-championing-diversity.md",
+          "source_sha256": "93297cea463dd7282a624831c6040f8d9a85cdb58182a32595778eb1a4c57638",
+          "destination": "conferences/2026-asu-gsv/transcripts/15-may-the-force-be-with-you-championing-diversity.md",
+          "import_sha256": "93297cea463dd7282a624831c6040f8d9a85cdb58182a32595778eb1a4c57638"
+        },
+        {
+          "source": "transcripts/16-coffee-with-crow-future-ready-nations-education-as-economic-strategy.md",
+          "source_sha256": "b2eef94be1fc289128ae4f8a3e6452f2dc0406442fc526d276687cdc1e9a4c7d",
+          "destination": "conferences/2026-asu-gsv/transcripts/16-coffee-with-crow-future-ready-nations-education-as-economic-strategy.md",
+          "import_sha256": "b2eef94be1fc289128ae4f8a3e6452f2dc0406442fc526d276687cdc1e9a4c7d"
+        },
+        {
+          "source": "transcripts/17-coffee-with-crow-building-a-future-where-everyone-can-work-with-ai.md",
+          "source_sha256": "cb5b33e34085fbc2675b24ea0b70f84dba38faf30a59d6bdae9b02442ea74af1",
+          "destination": "conferences/2026-asu-gsv/transcripts/17-coffee-with-crow-building-a-future-where-everyone-can-work-with-ai.md",
+          "import_sha256": "cb5b33e34085fbc2675b24ea0b70f84dba38faf30a59d6bdae9b02442ea74af1"
+        },
+        {
+          "source": "transcripts/18-from-experience-to-insight-state-chiefs-on-system-leadership.md",
+          "source_sha256": "ecc9d589376764684168c1954b3f4fbe24691fbd904e64fb265a2a1f6b080dc6",
+          "destination": "conferences/2026-asu-gsv/transcripts/18-from-experience-to-insight-state-chiefs-on-system-leadership.md",
+          "import_sha256": "ecc9d589376764684168c1954b3f4fbe24691fbd904e64fb265a2a1f6b080dc6"
+        },
+        {
+          "source": "transcripts/19-fusion-with-michael-moe.md",
+          "source_sha256": "9156a58fed83720e0ef98f06baacd58ad39abb7b9f3ba4ba8d854d698c97f262",
+          "destination": "conferences/2026-asu-gsv/transcripts/19-fusion-with-michael-moe.md",
+          "import_sha256": "9156a58fed83720e0ef98f06baacd58ad39abb7b9f3ba4ba8d854d698c97f262"
+        },
+        {
+          "source": "transcripts/20-fire-it-up.md",
+          "source_sha256": "3c6e4f1fe775eb77faf89ce17647668881c72dccc7874c3e69ea1969ac9a3c55",
+          "destination": "conferences/2026-asu-gsv/transcripts/20-fire-it-up.md",
+          "import_sha256": "c9998075a4fe791337302b18e9dbc7fa3a0abdcd46091258393aeb9edfc97ca7",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "transcripts/21-a-national-imperative-jim-shelton-on-the-work-of-opportunity-in-the-age-of-ai.md",
+          "source_sha256": "0f1f65ee39e119fee5b38ad921e68815977fdb0568f440f94e9802d84e5a19fc",
+          "destination": "conferences/2026-asu-gsv/transcripts/21-a-national-imperative-jim-shelton-on-the-work-of-opportunity-in-the-age-of-ai.md",
+          "import_sha256": "0f1f65ee39e119fee5b38ad921e68815977fdb0568f440f94e9802d84e5a19fc"
+        },
+        {
+          "source": "transcripts/22-beyond-the-novelty-evaluating-ai-powered-career-navigation-tools.md",
+          "source_sha256": "fe246bc51f072c1d02b930d0deea188df96f616cae83acdde92d8c1b8f39f60a",
+          "destination": "conferences/2026-asu-gsv/transcripts/22-beyond-the-novelty-evaluating-ai-powered-career-navigation-tools.md",
+          "import_sha256": "fe246bc51f072c1d02b930d0deea188df96f616cae83acdde92d8c1b8f39f60a"
+        },
+        {
+          "source": "transcripts/23-one-civic-mission-many-paths-state-leaders-on-the-future-of-civics.md",
+          "source_sha256": "b1698d63c07ff7c6cb3c90b5274ff938ed12cae4151ade9a3e5c9253f327cfc7",
+          "destination": "conferences/2026-asu-gsv/transcripts/23-one-civic-mission-many-paths-state-leaders-on-the-future-of-civics.md",
+          "import_sha256": "b1698d63c07ff7c6cb3c90b5274ff938ed12cae4151ade9a3e5c9253f327cfc7"
+        },
+        {
+          "source": "transcripts/24-accelerator-announcement-with-jonathan-hage.md",
+          "source_sha256": "53b4313df2c000ea70fc6b99b8375e106764974aab2adb7877995c9392bb36f5",
+          "destination": "conferences/2026-asu-gsv/transcripts/24-accelerator-announcement-with-jonathan-hage.md",
+          "import_sha256": "53b4313df2c000ea70fc6b99b8375e106764974aab2adb7877995c9392bb36f5"
+        },
+        {
+          "source": "transcripts/25-turning-goals-into-scalable-systems-statewide-career-navigation-in-action.md",
+          "source_sha256": "068b26e44c0bca13aa395e70835a13e07c1fd8e4fc87373b1f70382a3f444f7a",
+          "destination": "conferences/2026-asu-gsv/transcripts/25-turning-goals-into-scalable-systems-statewide-career-navigation-in-action.md",
+          "import_sha256": "068b26e44c0bca13aa395e70835a13e07c1fd8e4fc87373b1f70382a3f444f7a"
+        },
+        {
+          "source": "transcripts/26-from-content-to-conversation.md",
+          "source_sha256": "a35bec7825c02e5b152bf43d89ebd0a4a69f484b630be9a00969abf2e11ae21c",
+          "destination": "conferences/2026-asu-gsv/transcripts/26-from-content-to-conversation.md",
+          "import_sha256": "a35bec7825c02e5b152bf43d89ebd0a4a69f484b630be9a00969abf2e11ae21c"
+        },
+        {
+          "source": "transcripts/27-disagreeing-better.md",
+          "source_sha256": "2a1d086a7985ef9ba60303740f6c4688218ce623824fbf4de9def12b343bcd7e",
+          "destination": "conferences/2026-asu-gsv/transcripts/27-disagreeing-better.md",
+          "import_sha256": "2a1d086a7985ef9ba60303740f6c4688218ce623824fbf4de9def12b343bcd7e"
+        },
+        {
+          "source": "transcripts/28-leading-with-civility-from-hoosier-roots-to-harvard-halls.md",
+          "source_sha256": "db56e94a307504ce3beeb230a0427039b1fc161d21988b8cb5644e37570624ff",
+          "destination": "conferences/2026-asu-gsv/transcripts/28-leading-with-civility-from-hoosier-roots-to-harvard-halls.md",
+          "import_sha256": "db56e94a307504ce3beeb230a0427039b1fc161d21988b8cb5644e37570624ff"
+        },
+        {
+          "source": "transcripts/29-are-you-ai-ready.md",
+          "source_sha256": "1bedcf45cf7d3103b29953b961bd5e24f425a5078171e821de91067f5742fd9f",
+          "destination": "conferences/2026-asu-gsv/transcripts/29-are-you-ai-ready.md",
+          "import_sha256": "1bedcf45cf7d3103b29953b961bd5e24f425a5078171e821de91067f5742fd9f"
+        },
+        {
+          "source": "transcripts/31-from-experience-to-insight-state-chiefs-on-system-leadership.md",
+          "source_sha256": "1419a19ca2c03ae89b995fc40bd1da557450028bef09b8eac02ee0306886f47f",
+          "destination": "conferences/2026-asu-gsv/transcripts/31-from-experience-to-insight-state-chiefs-on-system-leadership.md",
+          "import_sha256": "1419a19ca2c03ae89b995fc40bd1da557450028bef09b8eac02ee0306886f47f"
+        },
+        {
+          "source": "transcripts/32-ai-with-raspberry-pi.md",
+          "source_sha256": "421ba823d25dff32d6f298fc895aa2bbe57d4672e8eb30d6fd246e517037decd",
+          "destination": "conferences/2026-asu-gsv/transcripts/32-ai-with-raspberry-pi.md",
+          "import_sha256": "421ba823d25dff32d6f298fc895aa2bbe57d4672e8eb30d6fd246e517037decd"
+        },
+        {
+          "source": "transcripts/33-ai-is-the-new-key-to-unlocking-the-american-dream.md",
+          "source_sha256": "19a48b21fd42c94b61f4d74a22d7afae674131643d2c02cb0952e99cbc7022cb",
+          "destination": "conferences/2026-asu-gsv/transcripts/33-ai-is-the-new-key-to-unlocking-the-american-dream.md",
+          "import_sha256": "19a48b21fd42c94b61f4d74a22d7afae674131643d2c02cb0952e99cbc7022cb"
+        },
+        {
+          "source": "transcripts/34-a-student-first-ai-native-vision-for-the-future.md",
+          "source_sha256": "7f2ca02c5199458c5162dfe2928dc29c6b8235bdc4fe28444c19ceea379ef982",
+          "destination": "conferences/2026-asu-gsv/transcripts/34-a-student-first-ai-native-vision-for-the-future.md",
+          "import_sha256": "7f2ca02c5199458c5162dfe2928dc29c6b8235bdc4fe28444c19ceea379ef982"
+        },
+        {
+          "source": "transcripts/35-cage-match-or-common-ground-higher-ed-skills-and-ai.md",
+          "source_sha256": "c59c5a5aa0c9726440fa76b7f843130621ddd41116bcb1b818251b2bfb1142ef",
+          "destination": "conferences/2026-asu-gsv/transcripts/35-cage-match-or-common-ground-higher-ed-skills-and-ai.md",
+          "import_sha256": "82d6779296ba9b6febe02cf02bc04fba96945614c1ee1f2ee675d3926f8fafe9",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "transcripts/36-but-what-are-you-doing-for-your-kids.md",
+          "source_sha256": "f6e42ea23e05689495f0d7b48eaa75ed7a37cf2a68e04398c6ab82183003ba9f",
+          "destination": "conferences/2026-asu-gsv/transcripts/36-but-what-are-you-doing-for-your-kids.md",
+          "import_sha256": "f6e42ea23e05689495f0d7b48eaa75ed7a37cf2a68e04398c6ab82183003ba9f"
+        },
+        {
+          "source": "transcripts/37-building-with-the-cool-kids-the-new-architecture-of-classroom-engagement.md",
+          "source_sha256": "7984dd16e22869bc505e5eb0b58a7d1d37fb074854902e73315c4bba4c776610",
+          "destination": "conferences/2026-asu-gsv/transcripts/37-building-with-the-cool-kids-the-new-architecture-of-classroom-engagement.md",
+          "import_sha256": "7984dd16e22869bc505e5eb0b58a7d1d37fb074854902e73315c4bba4c776610"
+        },
+        {
+          "source": "transcripts/38-at-the-speed-of-ai-personalizing-knowledge-for-8-billion-people.md",
+          "source_sha256": "1fa1ab42e4eb281860d2f9bf63243b64ccd6e66f743c967baf72558cf8216d7f",
+          "destination": "conferences/2026-asu-gsv/transcripts/38-at-the-speed-of-ai-personalizing-knowledge-for-8-billion-people.md",
+          "import_sha256": "1fa1ab42e4eb281860d2f9bf63243b64ccd6e66f743c967baf72558cf8216d7f"
+        },
+        {
+          "source": "transcripts/39-beg-borrow-or-steala-new-american-talent-system-for-an-ai-disrupted-world.md",
+          "source_sha256": "6650803be252dc5485adcb8e1bde7032fb9b0299833dd22a16846acb67408fbc",
+          "destination": "conferences/2026-asu-gsv/transcripts/39-beg-borrow-or-steala-new-american-talent-system-for-an-ai-disrupted-world.md",
+          "import_sha256": "6650803be252dc5485adcb8e1bde7032fb9b0299833dd22a16846acb67408fbc"
+        },
+        {
+          "source": "transcripts/40-bull-market-for-teachers-architects-of-human-potential.md",
+          "source_sha256": "4f453ec7c0fe2dc317958a9506174103452337440c0323c274210007c2366b15",
+          "destination": "conferences/2026-asu-gsv/transcripts/40-bull-market-for-teachers-architects-of-human-potential.md",
+          "import_sha256": "4f453ec7c0fe2dc317958a9506174103452337440c0323c274210007c2366b15"
+        },
+        {
+          "source": "transcripts/41-cant-we-be-friendsits-not-people-its-partiescoming-together.md",
+          "source_sha256": "8e96355923dccc835b4c04aeb1686ef3377f5cfd60e1080ab2b6edd699a2d0f4",
+          "destination": "conferences/2026-asu-gsv/transcripts/41-cant-we-be-friendsits-not-people-its-partiescoming-together.md",
+          "import_sha256": "c78401949045f35ffe656112539c4291fffb5bdedfba38b74dce4fbbfb0dcbfe",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "transcripts/42-creating-alpha-in-education.md",
+          "source_sha256": "a75159f5cf0e9d05a94719ff2ce0157d192fdb8bdc9c363315fc60289bdbad5e",
+          "destination": "conferences/2026-asu-gsv/transcripts/42-creating-alpha-in-education.md",
+          "import_sha256": "a75159f5cf0e9d05a94719ff2ce0157d192fdb8bdc9c363315fc60289bdbad5e"
+        },
+        {
+          "source": "transcripts/43-clear-eyes-full-hearts-cant-lose-texas-education-policy.md",
+          "source_sha256": "517ef4a8c6b61b3a8e32d2cb8a4ee9aef131f7f267d37b0be6eaf9ee5427f0ce",
+          "destination": "conferences/2026-asu-gsv/transcripts/43-clear-eyes-full-hearts-cant-lose-texas-education-policy.md",
+          "import_sha256": "517ef4a8c6b61b3a8e32d2cb8a4ee9aef131f7f267d37b0be6eaf9ee5427f0ce"
+        },
+        {
+          "source": "transcripts/44-career-connected-learning.md",
+          "source_sha256": "42298e49ad7b0991ba820e854f2afadf689d2e8c88266437b129ce15d9f5c1ce",
+          "destination": "conferences/2026-asu-gsv/transcripts/44-career-connected-learning.md",
+          "import_sha256": "42298e49ad7b0991ba820e854f2afadf689d2e8c88266437b129ce15d9f5c1ce"
+        },
+        {
+          "source": "transcripts/45-powered-by-curiosity-designing-learning-for-the-age-of-ai.md",
+          "source_sha256": "498e6c4609251bbd633f5b2ac52b29803d32ac57fb80f12c151c56af2af055b1",
+          "destination": "conferences/2026-asu-gsv/transcripts/45-powered-by-curiosity-designing-learning-for-the-age-of-ai.md",
+          "import_sha256": "498e6c4609251bbd633f5b2ac52b29803d32ac57fb80f12c151c56af2af055b1"
+        },
+        {
+          "source": "transcripts/48-every-student-should-have-an-ai-learning-companion.md",
+          "source_sha256": "ccc4bbdde8425a98c0ffbd3f149ebefe62bddaa1d4ba6dd8462a6ed8a3b8cb4c",
+          "destination": "conferences/2026-asu-gsv/transcripts/48-every-student-should-have-an-ai-learning-companion.md",
+          "import_sha256": "ccc4bbdde8425a98c0ffbd3f149ebefe62bddaa1d4ba6dd8462a6ed8a3b8cb4c"
+        },
+        {
+          "source": "transcripts/49-the-billion-student-ambition-scaling-education-in-the-age-of-choice.md",
+          "source_sha256": "ac55713932222bc06e5720f8c134eb5627f6def38591500f83b9d9eb0a8f2890",
+          "destination": "conferences/2026-asu-gsv/transcripts/49-the-billion-student-ambition-scaling-education-in-the-age-of-choice.md",
+          "import_sha256": "ac55713932222bc06e5720f8c134eb5627f6def38591500f83b9d9eb0a8f2890"
+        },
+        {
+          "source": "transcripts/50-crossing-the-chasm-the-brave-new-world-of-higher-ed.md",
+          "source_sha256": "8de02f1779661a1cbac44d670d1e87cb95ae71f4027bf9264fe88a2597edb35e",
+          "destination": "conferences/2026-asu-gsv/transcripts/50-crossing-the-chasm-the-brave-new-world-of-higher-ed.md",
+          "import_sha256": "8de02f1779661a1cbac44d670d1e87cb95ae71f4027bf9264fe88a2597edb35e"
+        },
+        {
+          "source": "transcripts/52-the-operating-system-of-the-modern-school.md",
+          "source_sha256": "1fba5b76fde3b1ddfc1b7af502b2e874ae1c016d8c69af3c5f8adedbc0ba8756",
+          "destination": "conferences/2026-asu-gsv/transcripts/52-the-operating-system-of-the-modern-school.md",
+          "import_sha256": "1fba5b76fde3b1ddfc1b7af502b2e874ae1c016d8c69af3c5f8adedbc0ba8756"
+        },
+        {
+          "source": "transcripts/54-from-evidence-to-action-dealing-with-learning-declines-at-scale.md",
+          "source_sha256": "c5d57adcba33e37ee826a17e173978d3e114ddb4acfc4241ee9224f177bb198b",
+          "destination": "conferences/2026-asu-gsv/transcripts/54-from-evidence-to-action-dealing-with-learning-declines-at-scale.md",
+          "import_sha256": "c5d57adcba33e37ee826a17e173978d3e114ddb4acfc4241ee9224f177bb198b"
+        },
+        {
+          "source": "transcripts/57-what-are-the-skills-we-will-need-to-work.md",
+          "source_sha256": "029fb4277b6d6bc47179c4c004170aeb120697f1ee1d9a0dfda05856013b048e",
+          "destination": "conferences/2026-asu-gsv/transcripts/57-what-are-the-skills-we-will-need-to-work.md",
+          "import_sha256": "029fb4277b6d6bc47179c4c004170aeb120697f1ee1d9a0dfda05856013b048e"
+        },
+        {
+          "source": "transcripts/59-the-paradox-of-perfect-machines.md",
+          "source_sha256": "efef9bc03eba9d01923c7b64e45d34f45f993d95be0ad609e6fa2af16cf23996",
+          "destination": "conferences/2026-asu-gsv/transcripts/59-the-paradox-of-perfect-machines.md",
+          "import_sha256": "ad210f4fc924ef0fffd3c5448268de8768d5b091b7e00cf253a90652c5c7773b",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "transcripts/60-edtech-hall-of-fame-award-winner-larry-berger.md",
+          "source_sha256": "c1ad58054e214c88842f22679e8d0a5af20643f3fb012847484c3b6e22f38529",
+          "destination": "conferences/2026-asu-gsv/transcripts/60-edtech-hall-of-fame-award-winner-larry-berger.md",
+          "import_sha256": "c1ad58054e214c88842f22679e8d0a5af20643f3fb012847484c3b6e22f38529"
+        },
+        {
+          "source": "transcripts/61-the-education-innovation-showcase.md",
+          "source_sha256": "666d34508a9c3d9d2ef3699cd028d2063ee2f534abcbf83803c865ccb31b5f6c",
+          "destination": "conferences/2026-asu-gsv/transcripts/61-the-education-innovation-showcase.md",
+          "import_sha256": "666d34508a9c3d9d2ef3699cd028d2063ee2f534abcbf83803c865ccb31b5f6c"
+        },
+        {
+          "source": "transcripts/62-the-critical-middle-scaling-project-based-career-learning.md",
+          "source_sha256": "4835d56e13fdf27c1cfb1f29a77d065b924b4869d0c26d38ea19aaa32f846d97",
+          "destination": "conferences/2026-asu-gsv/transcripts/62-the-critical-middle-scaling-project-based-career-learning.md",
+          "import_sha256": "4835d56e13fdf27c1cfb1f29a77d065b924b4869d0c26d38ea19aaa32f846d97"
+        },
+        {
+          "source": "transcripts/63-learning-amplified-with-larry-berger-and-russlynn-ali.md",
+          "source_sha256": "82a84f2854fc3b8ef43f5b87029aa217801354a8bab28700e931da175acb00b1",
+          "destination": "conferences/2026-asu-gsv/transcripts/63-learning-amplified-with-larry-berger-and-russlynn-ali.md",
+          "import_sha256": "82a84f2854fc3b8ef43f5b87029aa217801354a8bab28700e931da175acb00b1"
+        },
+        {
+          "source": "transcripts/64-does-ai-expand-human-intelligence-or-atrophy-it.md",
+          "source_sha256": "ced262573cf3702471d9670e53596363fc705fa5aa30567a1e6b8c5212dc2de7",
+          "destination": "conferences/2026-asu-gsv/transcripts/64-does-ai-expand-human-intelligence-or-atrophy-it.md",
+          "import_sha256": "ced262573cf3702471d9670e53596363fc705fa5aa30567a1e6b8c5212dc2de7"
+        },
+        {
+          "source": "transcripts/65-skills-degrees-or-both-making-sense-of-signals.md",
+          "source_sha256": "6e30a3676b156c015dbbb2c23152ae27895bc3ca89a53688acfc7ced07ef9cd7",
+          "destination": "conferences/2026-asu-gsv/transcripts/65-skills-degrees-or-both-making-sense-of-signals.md",
+          "import_sha256": "6e30a3676b156c015dbbb2c23152ae27895bc3ca89a53688acfc7ced07ef9cd7"
+        },
+        {
+          "source": "transcripts/67-jeff-selingo-on-dream-schools-in-conversation-with-doug-belkin.md",
+          "source_sha256": "127771e47ab7290d303f9e375aa352b0a1f5daec2dd60048b0d885fb453ee9a2",
+          "destination": "conferences/2026-asu-gsv/transcripts/67-jeff-selingo-on-dream-schools-in-conversation-with-doug-belkin.md",
+          "import_sha256": "127771e47ab7290d303f9e375aa352b0a1f5daec2dd60048b0d885fb453ee9a2"
+        },
+        {
+          "source": "transcripts/71-is-ai-eating-education-interview-series-with-kevin-roose-casey-newton.md",
+          "source_sha256": "a2ae66e6912fc081566c73856806ef7fa1cf1a7b37911495bcf100a46205009c",
+          "destination": "conferences/2026-asu-gsv/transcripts/71-is-ai-eating-education-interview-series-with-kevin-roose-casey-newton.md",
+          "import_sha256": "a2ae66e6912fc081566c73856806ef7fa1cf1a7b37911495bcf100a46205009c"
+        },
+        {
+          "source": "transcripts/72-gpus-hyperscalers-and-the-neocloud-rise-ai-and-learning-infrastructure.md",
+          "source_sha256": "033aeb9e02177ecc04086e6aeb3a0e9f308583eede02d949d305bb6706197c19",
+          "destination": "conferences/2026-asu-gsv/transcripts/72-gpus-hyperscalers-and-the-neocloud-rise-ai-and-learning-infrastructure.md",
+          "import_sha256": "033aeb9e02177ecc04086e6aeb3a0e9f308583eede02d949d305bb6706197c19"
+        },
+        {
+          "source": "transcripts/73-gsv-cup-2026-fan-favorites.md",
+          "source_sha256": "c79b0c21ac40304a0be694f17b309db6dd16a8d54eb725fec89ca191f3173968",
+          "destination": "conferences/2026-asu-gsv/transcripts/73-gsv-cup-2026-fan-favorites.md",
+          "import_sha256": "bed1fe1dd6b25c895e1c62786fef919f9b92a2a7936f1aa9ecba8afb05abbe68",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "transcripts/74-like-father-like-son-two-higher-ed-titans.md",
+          "source_sha256": "0d6d76132b78747cca77e573e74c96680b082a51477c9d59fd2e79c44c47c704",
+          "destination": "conferences/2026-asu-gsv/transcripts/74-like-father-like-son-two-higher-ed-titans.md",
+          "import_sha256": "0d6d76132b78747cca77e573e74c96680b082a51477c9d59fd2e79c44c47c704"
+        },
+        {
+          "source": "transcripts/77-from-big-tech-to-edtech-harnessing-human-intelligence-in-the-ai-age.md",
+          "source_sha256": "eca3b281def5cc54b3e0c1bc465f9ecd461c810a6587b9d89748a55767366727",
+          "destination": "conferences/2026-asu-gsv/transcripts/77-from-big-tech-to-edtech-harnessing-human-intelligence-in-the-ai-age.md",
+          "import_sha256": "eca3b281def5cc54b3e0c1bc465f9ecd461c810a6587b9d89748a55767366727"
+        },
+        {
+          "source": "transcripts/78-agile-or-fragileare-universities-stuck-in-the-year-2000.md",
+          "source_sha256": "f0860208d2be07e16e6d456a8a4b24c4d06ba5793a8d528533c14036ec714ea8",
+          "destination": "conferences/2026-asu-gsv/transcripts/78-agile-or-fragileare-universities-stuck-in-the-year-2000.md",
+          "import_sha256": "f0860208d2be07e16e6d456a8a4b24c4d06ba5793a8d528533c14036ec714ea8"
+        },
+        {
+          "source": "transcripts/79-durable-skills-ai-fluency-preparing-youth-for-the-future-of-work.md",
+          "source_sha256": "34c382b434402e8db78adee7e1f9f3260b112d68e9c03130adc88fe4b6b61c44",
+          "destination": "conferences/2026-asu-gsv/transcripts/79-durable-skills-ai-fluency-preparing-youth-for-the-future-of-work.md",
+          "import_sha256": "34c382b434402e8db78adee7e1f9f3260b112d68e9c03130adc88fe4b6b61c44"
+        },
+        {
+          "source": "transcripts/80-is-ai-amplifying-cognition-or-dismantling-it.md",
+          "source_sha256": "8910abb17874e7e5cabf1be5aeadc83c45eb9430b25a1df0811b1eaf25313ce2",
+          "destination": "conferences/2026-asu-gsv/transcripts/80-is-ai-amplifying-cognition-or-dismantling-it.md",
+          "import_sha256": "8910abb17874e7e5cabf1be5aeadc83c45eb9430b25a1df0811b1eaf25313ce2"
+        },
+        {
+          "source": "transcripts/82-beyond-the-pilot-ais-real-impact-on-learning-systems.md",
+          "source_sha256": "bc90027769dce52b682e229b42a76f14bc25a837919753417bb7cd17b0d51c88",
+          "destination": "conferences/2026-asu-gsv/transcripts/82-beyond-the-pilot-ais-real-impact-on-learning-systems.md",
+          "import_sha256": "4429e15b7b39363aea0850f9e840137d52d53cab08fd1c2d28f112997f941c38",
+          "changes": "Removed source whitespace flagged by git diff --check."
+        },
+        {
+          "source": "transcripts/84-living-learning-with-aliens-the-complex-psychology-of-ai-anthropomorphism.md",
+          "source_sha256": "c46f3931eee364367fef778de1d90804a45e6edf6015eac40bad36c26c946059",
+          "destination": "conferences/2026-asu-gsv/transcripts/84-living-learning-with-aliens-the-complex-psychology-of-ai-anthropomorphism.md",
+          "import_sha256": "c46f3931eee364367fef778de1d90804a45e6edf6015eac40bad36c26c946059"
+        },
+        {
+          "source": "transcripts/85-funding-the-future-of-student-support-special-needs-mental-health.md",
+          "source_sha256": "a0fec960536b4822259d1cb5df890321d18b1c55b9b64a893d8b192fc8fcb711",
+          "destination": "conferences/2026-asu-gsv/transcripts/85-funding-the-future-of-student-support-special-needs-mental-health.md",
+          "import_sha256": "a0fec960536b4822259d1cb5df890321d18b1c55b9b64a893d8b192fc8fcb711"
+        },
+        {
+          "source": "transcripts/87-non-degree-paths-hype-or-hope.md",
+          "source_sha256": "4817f5cee46e810bfb628048ca9b26dfc78933d7f09ddaf148826dbef76d44b3",
+          "destination": "conferences/2026-asu-gsv/transcripts/87-non-degree-paths-hype-or-hope.md",
+          "import_sha256": "4817f5cee46e810bfb628048ca9b26dfc78933d7f09ddaf148826dbef76d44b3"
+        },
+        {
+          "source": "transcripts/88-leading-edge-ceos-of-edtech-stars-of-tomorrow.md",
+          "source_sha256": "6d4c596bef9febfa0e9c1f51dca0192080d14cf2489e256f337c3c8ba912fce2",
+          "destination": "conferences/2026-asu-gsv/transcripts/88-leading-edge-ceos-of-edtech-stars-of-tomorrow.md",
+          "import_sha256": "6d4c596bef9febfa0e9c1f51dca0192080d14cf2489e256f337c3c8ba912fce2"
+        },
+        {
+          "source": "transcripts/91-278-million-reasons-to-pay-attention-andrew-ng-and-greg-hart.md",
+          "source_sha256": "61c51e5b99688d60a811975ce05da03321877785afd96bc5640e56bfe4ecb233",
+          "destination": "conferences/2026-asu-gsv/transcripts/91-278-million-reasons-to-pay-attention-andrew-ng-and-greg-hart.md",
+          "import_sha256": "61c51e5b99688d60a811975ce05da03321877785afd96bc5640e56bfe4ecb233"
+        },
+        {
+          "source": "transcripts/93-the-profit-prophet-on-the-future-of-research-with-george-gilder.md",
+          "source_sha256": "d5438dfa0b4515471836ab40ff723243dffa7ee9d0bcae5273cda7ebc9a97cdc",
+          "destination": "conferences/2026-asu-gsv/transcripts/93-the-profit-prophet-on-the-future-of-research-with-george-gilder.md",
+          "import_sha256": "d5438dfa0b4515471836ab40ff723243dffa7ee9d0bcae5273cda7ebc9a97cdc"
+        },
+        {
+          "source": "transcripts/94-fireside-chat-with-lovable-and-imagi.md",
+          "source_sha256": "3e7aa59375a03e5c772013a21dfa422d85980982c230e137994914b447deb27d",
+          "destination": "conferences/2026-asu-gsv/transcripts/94-fireside-chat-with-lovable-and-imagi.md",
+          "import_sha256": "3e7aa59375a03e5c772013a21dfa422d85980982c230e137994914b447deb27d"
+        },
+        {
+          "source": "video-metadata.json",
+          "source_sha256": "9b5acd44118bb9ec6e9ab5567080229419fe5323a68ee91c7848409eee4a9136",
+          "destination": "conferences/2026-asu-gsv/video-metadata.json",
+          "import_sha256": "9b5acd44118bb9ec6e9ab5567080229419fe5323a68ee91c7848409eee4a9136"
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/savvides/cracking-higher-ed-sxswedu",
+      "commit": "8a320b4f70386a88ba05d0e4c906578ed5b52e46",
+      "files": [
+        {
+          "source": ".github/ISSUE_TEMPLATE/case-study.md",
+          "source_sha256": "0b38be86831a98ffb8fed8128e27ea5b1000ffae0b1e94b5b376f75018449787",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".github/ISSUE_TEMPLATE/job-statement.md",
+          "source_sha256": "cc2f52a70f5ef183ca21da45b9c136c7806a7a7a4e724da71b197334be8d5245",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": ".gitignore",
+          "source_sha256": "455be6b41655017aa149b624a211d96f217708679f9a632dfcd5c0602f24235f",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "CHANGELOG.md",
+          "source_sha256": "92c3efdd2a006aa3efd94c0f77e268eb3fa404d52cec82d2c3913cdcfdfaa4bf",
+          "destination": "conferences/2026-sxsw-edu/CHANGELOG.md",
+          "import_sha256": "92c3efdd2a006aa3efd94c0f77e268eb3fa404d52cec82d2c3913cdcfdfaa4bf"
+        },
+        {
+          "source": "CONTRIBUTING.md",
+          "source_sha256": "c6e5cfedce9d5d94cffc303946b16fa1fa20fbf83d8ab5d460298e84d65e7ecd",
+          "excluded": "Repository-specific configuration, governance, or promotional material replaced by the unified repository; original retained at the source commit."
+        },
+        {
+          "source": "LICENSE",
+          "source_sha256": "a64167a61e1cf9fda2a148544c56249cd9b1380d3fad983bea0b6687f0a51663",
+          "destination": "conferences/2026-sxsw-edu/LICENSE",
+          "import_sha256": "a64167a61e1cf9fda2a148544c56249cd9b1380d3fad983bea0b6687f0a51663"
+        },
+        {
+          "source": "README.md",
+          "source_sha256": "1121345a21ae5333b47940920d30b9abf816d87e9d6ee541f49a1b8bf5079659",
+          "destination": "conferences/2026-sxsw-edu/README.md",
+          "import_sha256": "6d3e7520dfcf71d5e8fb6a1257bb5f8d60c44f3ba7d6083937dd991593cb7a4c",
+          "changes": "Added navigation and source-context note; updated contribution path; replaced outdated installable-skills claim with local guide links."
+        },
+        {
+          "source": "assets/social-preview.html",
+          "source_sha256": "b59211ffef1b803618faf2ccd6c9eb7781d7c5a06deb1a37eb7fe71097e172d4",
+          "destination": "conferences/2026-sxsw-edu/assets/social-preview.html",
+          "import_sha256": "b59211ffef1b803618faf2ccd6c9eb7781d7c5a06deb1a37eb7fe71097e172d4"
+        },
+        {
+          "source": "assets/social-preview.png",
+          "source_sha256": "88fb8bb56c8b03534fcfdcd6a8a2431ced1952734e5edaca568f074cf948baea",
+          "destination": "conferences/2026-sxsw-edu/assets/social-preview.png",
+          "import_sha256": "88fb8bb56c8b03534fcfdcd6a8a2431ced1952734e5edaca568f074cf948baea"
+        },
+        {
+          "source": "deck/cracking-higher-ed-sxsw-edu-2026.pdf",
+          "source_sha256": "602650568c9b59c3cd8d6ebb37c97d1706b13200cf19dd4ef15b8a4d6026f5b5",
+          "destination": "conferences/2026-sxsw-edu/deck/cracking-higher-ed-sxsw-edu-2026.pdf",
+          "import_sha256": "602650568c9b59c3cd8d6ebb37c97d1706b13200cf19dd4ef15b8a4d6026f5b5"
+        },
+        {
+          "source": "deck/cracking-higher-ed-sxsw-edu-2026.pptx",
+          "source_sha256": "5a1f97544c2074bc015ceca6c2f35ecf332dcc033d45ad1f7db7def62492c063",
+          "destination": "conferences/2026-sxsw-edu/deck/cracking-higher-ed-sxsw-edu-2026.pptx",
+          "import_sha256": "5a1f97544c2074bc015ceca6c2f35ecf332dcc033d45ad1f7db7def62492c063"
+        },
+        {
+          "source": "diagnostic/README.md",
+          "source_sha256": "59e90dea3e25b44cd61c2bf4026e4129985dea26c9e515f8288a925054f8deb6",
+          "destination": "conferences/2026-sxsw-edu/diagnostic/README.md",
+          "import_sha256": "59e90dea3e25b44cd61c2bf4026e4129985dea26c9e515f8288a925054f8deb6"
+        }
+      ]
+    }
+  ]
+}

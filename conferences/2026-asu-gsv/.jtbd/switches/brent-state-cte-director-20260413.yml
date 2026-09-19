@@ -1,0 +1,267 @@
+schema_version: 1
+
+# Source: Conference panel — "Turning Goals Into Scalable Systems: Statewide Career Navigation in Action"
+# ASU GSV Summit, Monday April 13 2026, 2:10–2:50 pm
+# Note: This is secondary evidence extracted from a multi-speaker panel, not a 1-on-1 Switch interview.
+# All confidence ratings are downgraded accordingly. The primary switching story is Oklahoma DCTE
+# switching from technology-led / compliance-mode career navigation to a people-on-the-ground
+# regional advisor model. Brent Haken is both narrator and decision-maker — closer to a first-person
+# account than the Sam/Airbus case, but still compressed by panel format.
+
+interviewee:
+  name: "Brent"
+  role: "State CTE Director"
+  company: "Oklahoma Department of Career and Technology Education (DCTE)"
+  date: "2026-04-13"
+  notes: >
+    Brent Haken is the state director of Oklahoma DCTE, an independent agency overseeing
+    CTE from 5th grade through post-secondary non-degree programs, WIOA Title II, and Perkins
+    grants across 500+ school districts. He narrates Oklahoma's own operational switch —
+    not a customer story. This is the closest to a first-person switch account in the transcript,
+    which raises confidence slightly above the typical conference panel floor.
+
+# The switching unit: Oklahoma DCTE, switching from reliance on technology platforms alone
+# to deploying a regional field team of in-person relationship builders at each school.
+
+timeline:
+  first_thought:
+    when: "not_discussed"
+    trigger: >
+      Implied: repeated observation that schools were 'checking the box' on personalized
+      learning plans despite them being mandated since 2013 (Flexible Pathways Act).
+    quote: ""
+    confidence: low
+    notes: >
+      No explicit moment of first_thought is recoverable. The panel format does not allow
+      for that level of temporal granularity. The structural frustration (mandate not
+      translating into real use) is described but not anchored to a triggering event.
+
+  passive_looking:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No evidence of a passive exploration phase. Panel format precludes this detail.
+
+  active_looking:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No information on what alternatives were evaluated before deploying the field team model.
+
+  deciding:
+    when: "not_discussed — described as recent ('the last decade or longer')"
+    trigger: >
+      Recognition that schools were performing compliance theater on mandated career plans
+      rather than genuine engagement. Technology alone was not driving adoption.
+    quote: "we were checking the box also"
+    confidence: low
+    notes: >
+      Deciding stage is inferred from the before/after contrast Brent draws. He describes
+      the old state ('checking the box') and the new state (field team) but does not
+      describe the decision moment itself.
+
+  consuming:
+    when: "Recent — framed as the most impactful change in 'the last decade or longer'"
+    trigger: >
+      Deploying a regional field team where each person owns a geography, visits every school
+      in person, builds counselor relationships, and provides hands-on platform support.
+    quote: >
+      "deploying a team from my agency that now they have a region of the state they're
+      responsible for and they visit every school in person and make sure they talk with
+      the counselors and they know what they're they're supposed to be doing and help them
+      through that platform has been the biggest change that we've seen probably in the last
+      decade or longer"
+    confidence: medium
+    notes: >
+      The consuming stage is the best-evidenced stage in this transcript. Brent describes
+      the new operating model with reasonable specificity (regional ownership, in-person visits,
+      counselor-level relationship, platform walkthroughs). 'Last decade or longer' is the
+      strongest temporal anchor available.
+
+forces:
+  push:
+    - statement: "Mandated personalized learning plans were being checked off on paper, not used meaningfully"
+      quote: "we were checking the box also hey yeah we're walking those kids through those plans that's great yeah we check the box as a school"
+      intensity: 8
+      confidence: medium
+      notes: >
+        This is the strongest push signal. A government mandate (Flexible Pathways Act, 2013)
+        was producing compliance theater rather than real student impact. Brent uses first-person
+        'we' — Oklahoma DCTE, not just schools — which increases signal quality.
+
+    - statement: "Technology platforms could not drive adoption without people building trust at the school level"
+      quote: >
+        "technology will take care of that for you technology will do nothing without the people
+        that are building trust and building the understanding of how to use it the technology
+        could be the best thing in the world and it's worthless if we don't have schools bought in"
+      intensity: 7
+      confidence: medium
+      notes: >
+        Brent frames this as a concluded learning ('we went through a long time where we were told
+        technology will take care of that for you'), implying a prior state of over-reliance on
+        the platform. Direct quote; reflects a belief system that was tested and found inadequate.
+
+    - statement: "Counselors lack time and domain knowledge — only 15 minutes per student per year"
+      quote: >
+        "teachers and counselors are not always the best person to talk to students about what
+        careers exist because they don't know themselves"
+      intensity: 6
+      confidence: medium
+      notes: >
+        The 15-minutes-per-student figure is Tom Cheney's, not Brent's, but Brent independently
+        corroborates the counselor-capacity problem. Intensity 6 because it's a structural push
+        that contributed to the decision context but is not the acute trigger.
+
+  pull:
+    - statement: "Field team creates the trusted relationship that drives actual platform adoption"
+      quote: >
+        "the only time it really works is when they have somebody that they already trust and
+        they can really rely on to have their cell phone number and call them and cry over the
+        phone when they can't figure it out"
+      intensity: 9
+      confidence: medium
+      notes: >
+        This is the strongest pull signal. 'Cell phone number' and 'cry over the phone' are
+        vivid behavioral specifics — not abstract benefits. Brent is describing the exact
+        relationship quality that was missing before the field team. High intensity because
+        he attributes it as the causal mechanism of adoption success.
+
+    - statement: "Regional ownership model makes accountability and follow-through scalable"
+      quote: >
+        "a team from my agency that now they have a region of the state they're responsible for
+        and they visit every school in person"
+      intensity: 7
+      confidence: medium
+      notes: >
+        Geographic ownership (a person owns a region) is a concrete organizational design choice
+        that makes the pull force actionable. Moderately specific for a panel transcript.
+
+    - statement: "Shift from compliance to partnership as the operating philosophy"
+      quote: "partnership not compliance right"
+      intensity: 6
+      confidence: medium
+      notes: >
+        Brief but structurally important. Brent frames the old model as compliance-driven and
+        the new model as partnership-driven. This is a values-level pull, not just a tactical one.
+
+  anxiety:
+    - statement: "Concern that the new approach still requires educators to have time and knowledge they lack"
+      quote: >
+        "The problem is the educators and the counselors don't have time or the resources to
+        get to that skill level"
+      intensity: 6
+      confidence: low
+      inferred: true
+      notes: >
+        Brent identifies this as an ongoing challenge, not a resolved one. It functions as
+        a residual anxiety about whether even the field team model is sufficient. Inferred
+        because he does not frame it as an adoption concern — more as a systemic limitation
+        that remains after the switch.
+
+    - statement: "Frequent platform and policy changes undermine any adoption strategy"
+      quote: >
+        "streamlining what we do so that the things that are winning get selected and keep
+        being used, that we don't change a platform or a system or a policy every year or
+        every two years"
+      intensity: 7
+      confidence: medium
+      notes: >
+        Brent identifies policy/platform churn as the key structural threat to sustaining
+        the gains from the field team investment. This is both an anxiety about the current
+        approach and a push force that motivated the switch in the first place.
+
+  habit:
+    - statement: "Prior operating model: trust that technology platforms would drive educator adoption"
+      quote: "we went through a long time where we were told technology will take care of that for you"
+      intensity: 7
+      confidence: medium
+      notes: >
+        'A long time' implies institutional inertia — a multi-year default assumption that
+        platform deployment equates to adoption. The passive construction ('we were told')
+        suggests the belief came from above or from the vendor market, not just internal conviction.
+
+    - statement: "Schools check compliance boxes without changing practice — 13-year-old mandate unenforced"
+      quote: >
+        "we passed a bill in 2013 called the Flexible Pathways Act… if you were to ask the
+        principals in our schools across the state if they do personalized learning plans
+        which are mandated by state law… you wouldn't see a hand in the audience up that
+        they're doing it in a meaningful way"
+      intensity: 7
+      confidence: medium
+      notes: >
+        Tom Cheney makes this observation, but Brent immediately confirms it ('we were checking
+        the box also'). The 13-year gap between mandate (2013) and meaningful implementation
+        is powerful evidence of institutional habit. High intensity because it is the structural
+        inertia the field team model directly targets.
+
+    - statement: "Educator identity loop: school → more school → back to school, no private sector exposure"
+      quote: >
+        "educators come from a background of, I went to school, I went to more school, and
+        I came back to school. I don't know what careers exist."
+      intensity: 5
+      confidence: medium
+      notes: >
+        A systemic habit force at the workforce pipeline level, not the organizational level.
+        Relevant because it explains why professional development into businesses (not just
+        platform training) is part of the new model's design.
+
+job_story: >
+  When mandated career planning is producing compliance theater instead of real student impact,
+  and we recognize that technology alone cannot drive educator adoption across 500+ school districts,
+  we want to deploy a regional field team that builds trusted one-on-one relationships with school
+  counselors on the ground, so that our platform is actually used, students receive genuine career
+  navigation, and we shift from a compliance model to a partnership model.
+
+evidence_strength:
+  direct_quotes: 6
+  # Rationale: Multiple direct quotes from the first-person decision-maker (Brent Haken),
+  # including vivid behavioral specifics ('cell phone number', 'cry over the phone', 'we were
+  # checking the box'). Deducted for panel compression — no probing, no follow-up, no
+  # timeline granularity. Stronger than most panel transcripts because Brent narrates
+  # Oklahoma's own switch rather than a customer's.
+
+  behavioral_specificity: 5
+  # Rationale: Regional field team model is described with meaningful operational detail
+  # (geographic ownership, in-person school visits, counselor-level relationship, platform
+  # walkthroughs). Scale is implied (500+ districts) but not quantified in before/after terms.
+  # No metrics on adoption rates, student outcomes, or field team size.
+
+  timeline_clarity: 2
+  # Rationale: 'Last decade or longer' is the only temporal anchor. No year of decision,
+  # no phases, no before/after timeline. Panel format makes this irretrievable.
+
+  overall: 2
+  # Overall = min of three scores per schema convention (timeline_clarity = 2).
+  # The first-person narrator and vivid quotes elevate this above a pure vendor story,
+  # but the absence of timeline data caps the overall evidence strength.
+
+analyst_notes: >
+  Brent Haken's account is the strongest switching signal in this transcript. Unlike the
+  sam-ceo-springpod case, Brent is the actual decision-maker describing his own organization's
+  operational switch, which raises quote quality and behavioral specificity. The core switch
+  (from platform-first compliance model to field-team-led relationship model) is coherent,
+  directionally supported, and organizationally meaningful.
+
+  Key confidence ceiling: panel format. The 'consuming' stage is the best-evidenced,
+  but we have no data on adoption outcomes post-switch (e.g., counselor engagement rates,
+  platform utilization change, student plan completion rates).
+
+  High-value follow-up: A 1-on-1 Switch interview with Brent would likely yield strong
+  evidence. The push forces (mandate compliance theater) and pull forces (trust-based
+  field model) are directionally clear. A 45-minute structured conversation could recover
+  the first_thought moment, the decision process, what alternatives were considered
+  (e.g., virtual training, incentive programs), and measurable before/after outcomes.
+
+  Secondary signals in transcript not pursued here:
+  - Tom Cheney (Advance Vermont): Describes building a three-pillar system (platform +
+    trained adults + statewide integration) from scratch — not a switch from a prior vendor,
+    more of a greenfield build. Limited Switch signal.
+  - Sidney Kopsa (Nebraska): Identifies early-grade career exposure gaps as a pain point
+    but does not describe a switch. Low Switch signal.
+  - Connor Harrington (Kuder): Narrates client-side switching behavior (states building
+    custom then switching to vendor partnerships) but speaks in aggregate patterns, not
+    a specific case. Low confidence.

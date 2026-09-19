@@ -1,0 +1,267 @@
+schema_version: 1
+
+# Source: Conference panel — "Building with the Cool Kids: The New Architecture of Classroom Engagement"
+# ASU GSV Summit, Tuesday April 14, 2026, 2:00–2:35 pm
+# Note: This is secondary evidence extracted from a multi-speaker panel, not a 1-on-1 Switch interview.
+# All confidence ratings are downgraded accordingly. Sam Chaudhary is both narrator and product decision-maker
+# at ClassDojo. He speaks in two registers: (1) a product-vision switch from chatbot-AI to ambient-listening-AI
+# for teachers, and (2) a concrete product launch (Sparky AI reading tutor) with hard outcome data.
+# The primary switching story extracted here is the TEACHER switch from chatbot-style AI tools
+# to ambient/passive AI teaching assistants — narrated by Sam from direct customer observation
+# and 10+ years of ClassDojo product development. The secondary story (Sparky reading tutor for families)
+# is documented in the notes but lacks sufficient force-level evidence for a standalone file.
+
+interviewee:
+  name: "Sam"
+  role: "CEO / Co-Founder, ClassDojo"
+  company: "ClassDojo"
+  date: "2026-04-14"
+  notes: >
+    Sam Chaudhary is co-founder and CEO of ClassDojo, a consumer-first edtech platform serving
+    teachers, parents, and kids. ClassDojo started as a classroom behavior tool, expanded into
+    parent-teacher communication, and is now launching AI tutoring products. Sam represents a
+    sophisticated product operator who has observed teacher switching behavior over a decade.
+    His switching narrative is about TEACHERS (as users), not ClassDojo as an organization.
+    Sam is narrator; the switching unit is the teacher population ClassDojo serves.
+    Panel format significantly limits temporal and emotional granularity — all confidence scores
+    are set accordingly.
+
+# The switching unit: Teachers switching FROM chatbot-based AI classroom tools
+# TO ambient, passive-listening AI teaching assistants (e.g., SoCrate; ClassDojo's roadmap vision)
+# The "old hire": AI chatbot interfaces requiring teachers to actively prompt/query the system
+# The "new hire": An AI assistant that passively listens to the classroom, synthesizes what happened,
+#                 surfaces actionable signals without requiring teacher input
+
+timeline:
+  first_thought:
+    when: "not_discussed"
+    trigger: >
+      Inferred: teachers began encountering AI chatbot tools positioned as classroom assistants
+      (roughly 2023–2024) and found them underwhelming — not life-changing.
+    quote: ""
+    confidence: low
+    inferred: true
+    notes: >
+      Sam references "a year ago" as when the chatbot version appeared. No specific triggering
+      moment for individual teacher first-thought is recoverable from the panel format.
+
+  passive_looking:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No evidence of a passive exploration phase. Panel format precludes this detail.
+      Sam does not describe teachers browsing alternatives — he describes the failure of
+      the incumbent chatbot approach and the emergence of a better paradigm.
+
+  active_looking:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      Not recoverable. Sam speaks about category-level product observation, not individual
+      teacher decision journeys.
+
+  deciding:
+    when: "Concurrent with product launch — roughly Q2 2025 for Sparky; ongoing for ambient assistant"
+    trigger: >
+      Awareness that a qualitatively better alternative now exists: a passive ambient assistant
+      that requires no action from the teacher. For Sparky: families seeing early outcome data
+      (pre-literacy to 2nd/3rd grade reading in 5 months at 15 min/day).
+    quote: >
+      "That is now possible for every teacher on the planet. We can give every teacher a
+      teaching assistant."
+    confidence: low
+    inferred: true
+    notes: >
+      Deciding stage is inferred. Sam describes the moment of possibility ("now possible")
+      but does not narrate individual teacher decision moments. The quote signals that
+      the new solution crossed a viability threshold, which is a deciding-stage marker,
+      but it is Sam's framing, not a teacher's voice.
+
+  consuming:
+    when: "Q2 2025 onward for Sparky; ambient assistant described as near-future vision"
+    trigger: >
+      For Sparky: families and kids actively using the reading tutor 15 minutes/day,
+      with ClassDojo capping engagement at that level. For ambient assistant: product
+      category is nascent (SoCrate cited as early example); full adoption is a projected state.
+    quote: >
+      "We launched this teaser in Q2 of last year. So it's been about eight, nine months.
+      It's our fastest growing product ever. And what we've seen is that kids are going from
+      pre-literacy, so not knowing how to read, to maybe second or third grade level of reading
+      proficiency, in about five months, in 15 minutes a day."
+    confidence: medium
+    notes: >
+      Sparky launch and outcomes are the most concretely evidenced stage. Ambient assistant
+      consuming stage is forward-looking and inferred — confidence is low for that thread.
+      The "fastest growing product ever" signal is a strong consuming-stage indicator.
+
+four_forces:
+  push:
+    label: "Frustration with chatbot AI tools that require active teacher effort and deliver no life change"
+    intensity: 3
+    quotes:
+      - text: >
+          "I think we all probably saw, a year ago, kind of the crap version of this, which was like,
+          here's a chatbot. Please talk to the chatbot and tell it to do things for you. This is like,
+          it's fine, but it doesn't change anyone's life, in my view."
+        stage: deciding
+        confidence: high
+        notes: >
+          Sam uses unusually blunt language ("crap version") to describe the incumbent. This is
+          a strong push signal — the old way is not merely imperfect but actively disappointing.
+          Intensity limited to 3 (not 4–5) because Sam speaks for himself and by implication
+          for teachers, not from a teacher's direct first-person account.
+      - text: >
+          "The homepage is just a very poor way to interact with intelligence."
+        stage: passive_looking
+        confidence: medium
+        notes: >
+          Broader critique of click-first, homepage-driven interfaces — the category of tools
+          teachers are escaping. Inferred as push force; Sam is critiquing the paradigm, not
+          reporting a teacher complaint verbatim.
+        inferred: true
+    notes: >
+      Push is the best-evidenced force in this transcript. Sam's product critique is vivid
+      and specific. The limitation is that these are founder observations, not teacher voices.
+
+  pull:
+    label: "Vision of a passive ambient AI assistant that listens, synthesizes, and acts — requiring nothing from the teacher"
+    intensity: 4
+    quotes:
+      - text: >
+          "We can give every teacher a teaching assistant. That's a much more humane interface,
+          where you don't have to do anything. This assistant is open on your phone, listens to
+          the classroom, gives to you, the teacher, the synthesis of the summary of what happened
+          or what you might need to pay attention to, can take some of those actions for you if
+          you want."
+        stage: deciding
+        confidence: high
+        notes: >
+          This is the clearest pull articulation in the transcript. Sam describes the new hire
+          in almost textbook JTBD pull language: the job (synthesize classroom, surface signals),
+          the interface (phone, passive), the relief (you don't have to do anything). The word
+          "humane" is notable — it signals that the old approach felt inhuman or burdensome.
+      - text: >
+          "I think that is now possible for every teacher on the planet."
+        stage: deciding
+        confidence: medium
+        notes: >
+          Viability-threshold signal. The pull exists because the solution is now achievable,
+          not just desirable. This shifts teachers from passive awareness to active consideration.
+    notes: >
+      Pull intensity is scored 4 (high). Sam's description of the ambient assistant is the
+      most emotionally resonant and specific moment in the panel. Docked from 5 because
+      teacher voices are absent — this is a founder projecting pull, not a teacher reporting it.
+
+  anxiety:
+    label: "Concern about screen time, student attention, and whether AI engagement is healthy"
+    intensity: 3
+    quotes:
+      - text: >
+          "There's a lot of background anxiety, honestly, about screen time and what's happening
+          with my kids' brains and that kind of stuff, which was kind of in the background with
+          Jonathan Hayes and so on, but I think it's really come more to the forefront of the
+          last year or so."
+        stage: passive_looking
+        confidence: high
+        notes: >
+          Sam names anxiety explicitly and correctly identifies it as a friction force on adoption.
+          Parents and teachers are anxious about the new tool category, not just the old one.
+          This anxiety applies both to the push (anxiety about current screen use) and to the pull
+          (anxiety about adopting more AI tools). Coded here as anxiety on the new solution.
+      - text: >
+          "We had to cap engagement on this at 15 minutes a day."
+        stage: consuming
+        confidence: medium
+        notes: >
+          ClassDojo's design response to parent anxiety — capping Sparky at 15 min/day.
+          This is behavioral evidence that anxiety is real and product-shaping, not just
+          conversational. Inferred as an anxiety force manifestation.
+        inferred: true
+    notes: >
+      Anxiety is well-evidenced for the family/parent segment. For the teacher ambient-assistant
+      story specifically, anxiety is less explicitly named — teachers may worry about AI listening
+      to their classrooms (surveillance, privacy) but Sam does not raise this. Confidence medium.
+
+  habit:
+    label: "Teachers accustomed to active, click-driven tool interfaces; classroom routines built around teacher-initiated technology use"
+    intensity: 2
+    quotes:
+      - text: >
+          "The previous interfaces was all built with this click first mode, where the experience
+          would be same for every individual. They come in. They have to follow these X steps to
+          get to the place they want to be in."
+        stage: passive_looking
+        confidence: medium
+        notes: >
+          Ankit (not Sam) describes the click-first habit. Included because it describes the
+          incumbent behavioral pattern that the ambient assistant must overcome. Habit force
+          is inferred from this description; no teacher directly voices resistance to change.
+        inferred: true
+    notes: >
+      Habit is the weakest-evidenced force. Sam's product philosophy ("build as little product
+      as possible") implies he has encountered habit inertia in teachers preferring simplicity,
+      but no direct quote captures teacher resistance to ambient listening tools. Intensity
+      scored 2 — present but unconfirmed.
+
+job_story:
+  protagonist: "An overloaded classroom teacher managing 30 students at different levels"
+  situation: >
+    When I am trying to keep track of every student's needs during a busy school day,
+    often after a lesson has already ended and the moment to intervene has passed,
+  motivation: >
+    I want an assistant that has been silently paying attention the whole time and can
+    tell me what I missed and what I should do next,
+  outcome: >
+    so I can focus my limited time and attention on the human moments of teaching —
+    the relationships, the questions, the things technology cannot do — instead of
+    on data entry and status-checking.
+  confidence: medium
+  notes: >
+    Job story is constructed from Sam's explicit product vision language. It is a reasonable
+    synthesis of the pull and push forces he describes. Confidence is medium — this is an
+    inferred job from a founder's product description, not a teacher's own words.
+
+evidence:
+  source_type: "conference_panel_secondary"
+  transcript_quality: "good — full verbatim transcript available"
+  switching_account_type: "founder_narrating_customer_behavior"
+  primary_narrator: "Sam Chaudhary, CEO ClassDojo"
+  switching_unit: "Teachers (as a user population ClassDojo serves)"
+  notes: >
+    Sam is not the switcher — he is the product maker observing switchers. This is the
+    most important limitation on all confidence scores. His observations are informed by
+    10+ years of product development and direct customer engagement, which partially offsets
+    the secondary-account discount. The Sparky outcome data (fastest growing product, pre-literacy
+    to 2nd/3rd grade in 5 months) is unusually concrete for a conference panel and treated as
+    higher-confidence evidence for the consuming stage.
+
+scores:
+  overall_evidence_strength: 3
+  force_coverage: 4  # all four forces identifiable, even if some inferred
+  temporal_resolution: 1  # timeline stages mostly not_discussed
+  quote_richness: 4  # pull and push have strong verbatim quotes
+  confidence_in_job_story: 2  # constructed from founder language, not customer voice
+  notes: >
+    Scores are on a 1–5 scale. Overall evidence strength is 3 — solid for a conference panel
+    secondary account, limited by absence of teacher voices. The pull force quotes are among
+    the strongest in this transcript corpus. Would recommend a 1-on-1 Switch interview with
+    a teacher who has trialed SoCrate or ClassDojo's ambient assistant prototype to validate
+    the job story and fill in timeline gaps.
+
+secondary_story:
+  label: "Families switching to Sparky AI reading tutor (ClassDojo)"
+  notes: >
+    A second, partially evidenced switch exists in this transcript: families and kids
+    adopting Sparky (ClassDojo's AI reading tutor) instead of prior literacy approaches.
+    Sam provides concrete outcome data (pre-literacy to 2nd/3rd grade reading in 5 months
+    at 15 min/day; hundreds of thousands of kids; fastest growing product ever) but does
+    not articulate the four forces for this switch. Push (prior literacy tools were slow,
+    inaccessible, or nonexistent for many families) is implied but not quoted. Pull (Sparky
+    is engaging, gamified, multimodal, and shows measurable results quickly) is implied by
+    the outcome data. Anxiety (screen time for young children) is explicitly named and shapes
+    product design (15-min cap). Habit is not discussed. This story would warrant a separate
+    Switch file if a parent or family member were interviewed directly.
