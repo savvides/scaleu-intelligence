@@ -96,8 +96,6 @@ def check_migration(root):
     )
     import hashlib
     for path in repository_files(root):
-        if path.suffix != ".md":
-            continue
         if path.name == "operator-lessons.md" or hashlib.sha256(path.read_bytes()).hexdigest() == restricted:
             errors.append(f"Restricted source content must not be imported: {path.relative_to(root)}")
     return errors

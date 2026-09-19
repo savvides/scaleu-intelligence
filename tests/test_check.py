@@ -80,8 +80,11 @@ class LibraryChecksTest(unittest.TestCase):
         self.assertEqual(len(check_migration(self.root)), 1)
         self.write("guides/topic.md", "# Topic")
         self.assertEqual(check_migration(self.root), [])
-        self.write("notes/renamed.md", "Restricted")
-        self.assertEqual(len(check_migration(self.root)), 1)
+        for name in ("notes/renamed.md", "notes/renamed.txt", "notes/renamed"):
+            with self.subTest(name=name):
+                candidate = self.write(name, "Restricted")
+                self.assertEqual(len(check_migration(self.root)), 1)
+                candidate.unlink()
 
     def test_main_ignores_local_files_but_checks_new_public_files(self):
         self.write(".gitignore", "private/\n.venv/\n")
