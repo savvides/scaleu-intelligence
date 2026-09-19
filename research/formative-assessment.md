@@ -1,6 +1,8 @@
 # Formative Assessment & Feedback for Achievement
 
-Research corpus for EdTech Founder Stack skills. Evidence on how formative assessment and timely feedback drive student achievement, foundational for any edtech product that includes progress checks or coaching loops.
+Research on formative assessment, feedback, and their relationships with learning outcomes.
+
+The takeaways summarize the cited papers' findings and interpretations. See [scope and interpretation](README.md#scope-and-interpretation).
 
 | # | Title | Takeaway | Type | Year | Citations | DOI |
 |---|-------|----------|------|------|-----------|-----|

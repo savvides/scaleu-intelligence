@@ -1,6 +1,8 @@
 # Spaced Repetition & Retrieval Practice
 
-Research corpus for EdTech Founder Stack skills. Core evidence on spaced repetition and retrieval practice effects on long-term retention, the single most validated learning science principle and a must-know for any edtech builder.
+Research on spaced practice and retrieval practice, including retention, transfer, and differences across study contexts.
+
+The takeaways summarize the cited papers' findings and interpretations. See [scope and interpretation](README.md#scope-and-interpretation).
 
 | # | Title | Takeaway | Type | Year | Citations | DOI |
 |---|-------|----------|------|------|-----------|-----|
@@ -23,4 +25,4 @@ Research corpus for EdTech Founder Stack skills. Core evidence on spaced repetit
 | 17 | A Random Controlled Trial to Examine the Efficacy of Blank Slate: A Novel Spaced Retrieval Tool with Real-Time Learning Analytics | Blank Slate effectively promotes learning and prevents forgetting, with embedded analytics allowing for real-time monitoring of learning progress. | rct | 2021 | 6 | 10.3390/educsci11030090 |
 | 18 | Timing of feedback and retrieval practice: a laboratory study with EFL students | Immediate feedback is more effective than delayed feedback for improving long-term retention in EFL students, while no feedback or restudying leads to worse performance. | rct | 2024 | 3 | 10.1057/s41599-024-03983-6 |
 | 19 | Spaced Retrieval Effects on Learning Capacity in Patients With Mild-to-Moderate Cognitive Impairment | Spaced retrieval improves learning capacity in patients with mild-to-moderate cognitive impairment, but its effectiveness differs from other learning techniques and increases when combined with another method. | systematic review | 2023 | 1 | 10.1027/1016-9040/a000510 |
-| 20 | Implementation of a spaced-repetition approach to enhance undergraduate learning and engagement in paediatrics | Spaced repetition significantly improves knowledge retention and student engagement in undergraduate paediatric education, offering a promising approach to enhance long-term learning outcomes in medical education. | rct | 2025 | 0 | 10.3389/fmed.2025.1601614 |
+| 20 | Implementation of a spaced-repetition approach to enhance undergraduate learning and engagement in paediatrics | The study reports significantly improved knowledge retention and engagement with a spaced-repetition approach in undergraduate paediatric education. | rct | 2025 | 0 | 10.3389/fmed.2025.1601614 |

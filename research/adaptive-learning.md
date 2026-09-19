@@ -1,6 +1,8 @@
 # Adaptive Learning Technology Efficacy
 
-Research corpus for EdTech Founder Stack skills. Randomized controlled trials evaluating adaptive learning platforms, helping founders understand which personalization approaches produce measurable learning gains and which are marketing claims.
+Research evaluating adaptive learning technologies and related adaptive interventions, including reported outcomes and comparisons with other approaches.
+
+The takeaways summarize the cited papers' findings and interpretations. See [scope and interpretation](README.md#scope-and-interpretation).
 
 | # | Title | Takeaway | Type | Year | Citations | DOI |
 |---|-------|----------|------|------|-----------|-----|

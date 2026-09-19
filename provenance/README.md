@@ -2,7 +2,7 @@
 
 [ScaleU Intelligence](../README.md) / Provenance
 
-This library was consolidated on September 19, 2026, from the three repositories below. That is the import date, not a new factual verification date. The sources' original research summaries, historical claims, speaker attributions, and update dates remain in place.
+This library was consolidated on September 19, 2026, from the three repositories below. That is the import date, not a new factual verification date. The initial import retained the sources' research summaries, historical claims, speaker attributions, and update dates. Subsequent editorial revisions appear in Git history.
 
 ## Sources
 
@@ -35,7 +35,7 @@ Conference changelogs and SXSW presentation assets are retained as historical ma
 - Documented the original processing utilities' working directories and prerequisites. The scripts and their original requirements are unchanged; their private inputs are not part of the public sources and were not imported.
 - Removed trailing spaces and extra final blank lines flagged by `git diff --check` in the imported files. These whitespace edits are recorded in the manifest.
 
-Transcripts retain their text, with whitespace-only cleanup where flagged. Research topic tables, slide files, and license notices are byte-identical to their sources. No new meeting observations or research claims were invented for the consolidation.
+At consolidation, transcripts retained their text, with whitespace-only cleanup where flagged. Research topic tables, slide files, and license notices were byte-identical to their sources. No new meeting observations or research claims were invented for the consolidation. Later research edits use neutral topic framing and attribute interpretations to the cited authors; the original source and import hashes remain unchanged.
 
 ## Validation and publication
 

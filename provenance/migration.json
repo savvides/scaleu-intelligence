@@ -320,7 +320,7 @@
         {
           "source": "data/research/learning-styles-myth.md",
           "source_sha256": "1b97f430c645cb53f9db882d147360872f7de8fa306008e274ded6e841badb21",
-          "destination": "research/learning-styles-myth.md",
+          "destination": "research/learning-styles.md",
           "import_sha256": "1b97f430c645cb53f9db882d147360872f7de8fa306008e274ded6e841badb21"
         },
         {
