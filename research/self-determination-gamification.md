@@ -1,6 +1,8 @@
 # Self-Determination Theory & Gamification
 
-Research corpus for EdTech Founder Stack skills. Research connecting intrinsic motivation theory to gamification mechanics in education, helping founders design reward systems that sustain engagement without undermining learning.
+Research on self-determination theory, gamification, motivation, and reported learning outcomes.
+
+The takeaways summarize the cited papers' findings and interpretations. See [scope and interpretation](README.md#scope-and-interpretation).
 
 | # | Title | Takeaway | Type | Year | Citations | DOI |
 |---|-------|----------|------|------|-----------|-----|
@@ -22,4 +24,4 @@ Research corpus for EdTech Founder Stack skills. Research connecting intrinsic m
 | 16 | Gamification in Physical Education: A Systematic Review | Gamification in Physical Education has shown positive effects on student motivation and commitment towards physical exercise, but not academic performance. | systematic review | 2022 | 79 | 10.3390/educsci12080540 |
 | 17 | Psychological Aspects of Digital Learning: A Self-Determination Theory Perspective | Self-determination theory (SDT) plays a significant role in digital education, predicting student success and increasing teachers' motivation to use digital resources. | systematic review | 2020 | 62 | 10.30935/cedtech/8584 |
 | 18 | Using technology to make learning fun: technology use is best made fun and challenging to optimize intrinsic motivation and engagement | Using interactive technology, such as the student response system, in classrooms with motivational framing strategies can enhance students' academic well-being, autonomy, competence, relatedness, and interest. | rct | 2023 | 51 | 10.1007/s10212-023-00734-0 |
-| 19 | Self-Determination Theory and Online Learning in University: Advancements, Future Direction and Research Gaps | Future research should incorporate additional factors like intrinsic motivation, external regulation, and amotivation in university online learning. | systematic review | 2022 | 27 | 10.3390/su142114655 |
+| 19 | Self-Determination Theory and Online Learning in University: Advancements, Future Direction and Research Gaps | The authors recommend examining intrinsic motivation, external regulation, and amotivation in future research on university online learning. | systematic review | 2022 | 27 | 10.3390/su142114655 |

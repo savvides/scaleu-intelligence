@@ -1,6 +1,8 @@
 # Cognitive Load Theory & Multimedia Learning
 
-Research corpus for EdTech Founder Stack skills. Sweller's cognitive load framework applied to multimedia instruction, providing the science behind screen design, content chunking, and information presentation that every edtech product must get right.
+Research on cognitive load theory, multimedia instruction, and measures of learning and cognitive load.
+
+The takeaways summarize the cited papers' findings and interpretations. See [scope and interpretation](README.md#scope-and-interpretation).
 
 | # | Title | Takeaway | Type | Year | Citations | DOI |
 |---|-------|----------|------|------|-----------|-----|
@@ -13,7 +15,7 @@ Research corpus for EdTech Founder Stack skills. Sweller's cognitive load framew
 | 7 | The role of learning theory in multimodal learning analytics | Multimodal learning analytics research often uses learning theories to inform study design and can contribute to theoretical contributions in learning sciences. | systematic review | 2023 | 73 | 10.1111/bjet.13320 |
 | 8 | The more total cognitive load is reduced by cues, the better retention and transfer of multimedia learning: A meta-analysis and two meta-regression analyses | Cueing in multimedia materials can reduce total cognitive load and improve retention and transfer of learning outcomes, with the more cognitive load reduced, the better the retention and transfer of multimedia learning. | meta-analysis | 2017 | 56 | 10.1371/journal.pone.0183884 |
 | 9 | Do Interactive Learning Environments Have an Effect on Learning Outcomes, Cognitive Load and Metacognitive Judgments? | Interactive learning environments, such as Augmented Reality and Virtual Reality, do not significantly impact learning outcomes or metacognitive judgments, but do affect objective cognitive load. | rct | 2022 | 41 | 10.1007/s10639-022-10912-0 |
-| 10 | A systematic review of immersive technologies for education: Learning performance, cognitive load and intrinsic motivation | AR is more suitable for education concerning cognitive load, while VR hinders learning and has inconclusive effects on intrinsic motivation. | systematic review | 2024 | 41 | 10.1111/bjet.13503 |
+| 10 | A systematic review of immersive technologies for education: Learning performance, cognitive load and intrinsic motivation | Across 36 studies, the review reports cognitive-load and learning benefits for AR, particularly among novices, and extraneous-load and learning difficulties with VR. The authors describe effects on intrinsic motivation as inconclusive. | systematic review | 2024 | 41 | 10.1111/bjet.13503 |
 | 11 | Special Issue on Cognitive Load Theory: Editorial | This Special Issue explores cognitive load theory and instructional design, highlighting the importance of reducing cognitive load and improving student learning. | systematic review | 2019 | 36 | 10.1007/s10648-019-09474-4 |
 | 12 | The effects of segmentation on cognitive load, vocabulary learning and retention, and reading comprehension in a multimedia learning environment | High segmentation in multimedia learning significantly impacts cognitive load, vocabulary learning, retention, and reading comprehension, reducing cognitive load and enhancing learning efficiency. | rct | 2024 | 36 | 10.1186/s40359-023-01489-5 |
 | 13 | Do measures of cognitive load explain the spatial split-attention principle in multimedia learning environments? A systematic review. | The spatial split-attention principle in multimedia learning environments may not be influenced by extraneous cognitive load, but rather by facilitating resource allocation and integrative cognitive processing. | systematic review | 2020 | 31 | 10.1037/edu0000372 |

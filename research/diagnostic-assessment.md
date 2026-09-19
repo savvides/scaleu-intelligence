@@ -1,6 +1,8 @@
 # Diagnostic Assessment & Adaptive Learning
 
-Research corpus for EdTech Founder Stack skills. Research on diagnostic testing that feeds adaptive pathways, essential for founders building placement engines, prerequisite checkers, or personalized onboarding flows.
+Research on diagnostic assessment, adaptive pathways, and related uses of artificial intelligence.
+
+The takeaways summarize the cited papers' findings and interpretations. See [scope and interpretation](README.md#scope-and-interpretation).
 
 | # | Title | Takeaway | Type | Year | Citations | DOI |
 |---|-------|----------|------|------|-----------|-----|
@@ -9,7 +11,7 @@ Research corpus for EdTech Founder Stack skills. Research on diagnostic testing 
 | 3 | Adaptive Learning Using Artificial Intelligence in e-Learning: A Literature Review | AI/ML integration in e-learning platforms personalizes learning experiences, optimizes learning paths, enhances engagement, and improves academic performance, with some studies reporting increased test scores. | systematic review | 2023 | 519 | 10.3390/educsci13121216 |
 | 4 | Intelligent tutoring systems: a systematic review of characteristics, applications, and evaluation methods | Intelligent tutoring systems (ITSs) are mainly used in computer sciences, with artificial intelligence techniques like rule-based reasoning, data mining, and Bayesian networks enabling adaptive guidance and instruction. | systematic review | 2018 | 403 | 10.1080/10494820.2018.1558257 |
 | 5 | Deep Transfer Learning for Bearing Fault Diagnosis: A Systematic Review Since 2016 | Deep transfer learning methods have significantly improved bearing fault diagnosis performance by transferring knowledge from other data or models, offering a new taxonomy for efficient identification of suitable models. | systematic review | 2023 | 354 | 10.1109/tim.2023.3244237 |
-| 6 | Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review | AI can enhance sustainable education by providing personalized learning experiences and data-driven decision-making, but privacy and data security concerns must be addressed. | systematic review | 2023 | 318 | 10.1186/s40561-023-00260-y |
+| 6 | Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review | The review discusses personalized learning and data-informed decisions as potential uses of AI in education and identifies privacy and data security concerns. | systematic review | 2023 | 318 | 10.1186/s40561-023-00260-y |
 | 7 | A systematic literature review on adaptive content recommenders in personalized learning environments from 2015 to 2020 | Adaptive content recommenders in personalized learning environments adapt to learner attributes and suggest appropriate resources, improving learning outcomes. | systematic review | 2021 | 160 | 10.1007/s40692-021-00199-4 |
 | 8 | Efficacy of adaptive e-learning for health professionals and students: a systematic review and meta-analysis | Adaptive e-learning environments are effective in improving skills in health professionals and students, with potential benefits for learning skills rather than factual knowledge. | meta-analysis | 2019 | 123 | 10.1136/bmjopen-2018-025252 |
 | 9 | Personalized adaptive learning in higher education: A scoping review of key characteristics and impact on academic performance and engagement | Personalized adaptive learning in higher education can positively impact academic performance and student engagement, despite technological limitations. | systematic review | 2024 | 122 | 10.1016/j.heliyon.2024.e39630 |

@@ -28,6 +28,8 @@ Nothing needs to be deployed or restarted. The merged Markdown is the published 
 
 For a research collection, keep the existing columns: `#`, Title, Takeaway, Type, Year, Citations, DOI. Add the paper's full citation and DOI, check the takeaway against the paper, keep rows sorted by the recorded citation count, and update the topic and total counts in the research index. Citation counts are a dated snapshot, not a quality score.
 
+Keep research impartial. Use descriptive topic headings and report what each study or review found, including its population, comparisons, and limitations where available. Attribute interpretations and recommendations to the authors. Avoid editorial verdicts such as calling a topic a myth or debunked, or telling readers which approach to adopt. Preserve published paper titles and reported findings, including conflicting or null results; do not alter them to support a position.
+
 For regulations, program terms, funding, or company status, check the current primary source before changing guidance. Preserve older conference statements as historical context; add a clearly dated correction instead of silently rewriting a speaker's claim. The source's transcription tools remain with the ASU+GSV collection; they are optional historical utilities, not part of routine publishing.
 
 ## Meeting material

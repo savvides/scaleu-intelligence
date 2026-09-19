@@ -1,6 +1,8 @@
 # Mayer's Multimedia Learning Principles
 
-Research corpus for EdTech Founder Stack skills. Mayer's evidence-based principles for combining text, graphics, audio, and video, providing the design playbook for any edtech product that delivers instructional content.
+Research on multimedia learning principles and instructional uses of text, graphics, audio, and video.
+
+The takeaways summarize the cited papers' findings and interpretations. See [scope and interpretation](README.md#scope-and-interpretation).
 
 | # | Title | Takeaway | Type | Year | Citations | DOI |
 |---|-------|----------|------|------|-----------|-----|
@@ -9,7 +11,7 @@ Research corpus for EdTech Founder Stack skills. Mayer's evidence-based principl
 | 3 | Multimedia tools in the teaching and learning processes: A systematic review | Multimedia tools can bridge the access gap in quality education and improve learners' performance in developing nations, with success attributed to the technologies and components embedded in their development. | systematic review | 2020 | 542 | 10.1016/j.heliyon.2020.e05312 |
 | 4 | The impact of augmented reality on cognitive load and performance: A systematic review | Augmented reality (AR) appears to be less cognitively demanding and leads to higher performance in learning environments, but more research is needed to optimize design principles and reduce cognitive load. | systematic review | 2021 | 254 | 10.1111/jcal.12617 |
 | 5 | Innovative pedagogical principles and technological tools capabilities for immersive blended learning: a systematic literature review | The cognitive factor is the most linked pedagogical principle to the four main capabilities of technological learning tools, aiding instructors in optimizing immersive blended learning practices. | systematic review | 2022 | 169 | 10.1007/s10639-022-11243-w |
-| 6 | Online Lectures in Undergraduate Medical Education: Scoping Review | Online lectures in undergraduate medical education are well-received by students and improve learning outcomes, but future studies should apply established multimedia design principles for maximum educational potential. | systematic review | 2018 | 116 | 10.2196/mededu.9091 |
+| 6 | Online Lectures in Undergraduate Medical Education: Scoping Review | The review reports student acceptance and learning benefits for online lectures in undergraduate medical education; the authors recommend further study of multimedia design principles. | systematic review | 2018 | 116 | 10.2196/mededu.9091 |
 | 7 | Effectiveness of Multimedia Pedagogical Agents Predicted by Diverse Theories: a Meta-Analysis | Multimedia pedagogical agents are more effective than learning without them, with 2D agents being more effective than 3D agents, and most agent characteristics not moderating their effectiveness. | meta-analysis | 2021 | 115 | 10.1007/s10648-020-09587-1 |
 | 8 | A meta-analysis of signaling principle in multimedia learning environments | Signaling in multimedia learning materials can improve learning outcomes, with effects varying in size and moderated by study, participant, presentation, and methodological features. | meta-analysis | 2020 | 109 | 10.1007/s11423-020-09748-7 |
 | 9 | Multimedia learning principles in different learning environments: a systematic review | Multimedia learning principles are increasingly studied in various learning environments, with modality being the most studied principle in traditional, virtual reality, and augmented reality settings. | systematic review | 2022 | 98 | 10.1186/s40561-022-00200-2 |

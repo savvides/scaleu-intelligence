@@ -1,6 +1,8 @@
 # Formative vs. Summative Assessment
 
-Research corpus for EdTech Founder Stack skills. Meta-analytic comparisons of formative and summative assessment impacts on learning outcomes, helping founders balance low-stakes practice with high-stakes evaluation in their products.
+Research on formative and summative assessment, including comparisons of assessment approaches and reported learning outcomes.
+
+The takeaways summarize the cited papers' findings and interpretations. See [scope and interpretation](README.md#scope-and-interpretation).
 
 | # | Title | Takeaway | Type | Year | Citations | DOI |
 |---|-------|----------|------|------|-----------|-----|
