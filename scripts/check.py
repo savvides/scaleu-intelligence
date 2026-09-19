@@ -5,11 +5,20 @@ import ast
 import json
 from pathlib import Path
 import re
+import subprocess
 import sys
 from urllib.parse import unquote, urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def repository_files(root):
+    names = subprocess.check_output(
+        ["git", "-C", str(root), "ls-files", "--cached", "--others", "--exclude-standard", "-z"],
+        text=True,
+    )
+    return sorted({root / name for name in names.split("\0") if name and (root / name).is_file()})
 
 
 def markdown_links(text):
@@ -41,7 +50,7 @@ def check_research(root):
     index = (directory / "README.md").read_text()
     entries = re.findall(r"\]\(([^)]+\.md)\)\s*\|\s*(\d+)\s*\|", index)
     indexed = [name for name, _ in entries]
-    topics = sorted(p.name for p in directory.glob("*.md") if p.name != "README.md")
+    topics = sorted(p.name for p in repository_files(root) if p.parent == directory and p.suffix == ".md" and p.name != "README.md")
     if sorted(indexed) != topics:
         errors.append("research/README.md: index must list every topic exactly once")
     total = 0
@@ -86,8 +95,8 @@ def check_migration(root):
         if record["source"] == "data/operator-lessons.md"
     )
     import hashlib
-    for path in root.rglob("*.md"):
-        if ".git" in path.parts:
+    for path in repository_files(root):
+        if path.suffix != ".md":
             continue
         if path.name == "operator-lessons.md" or hashlib.sha256(path.read_bytes()).hexdigest() == restricted:
             errors.append(f"Restricted source content must not be imported: {path.relative_to(root)}")
@@ -95,10 +104,11 @@ def check_migration(root):
 
 
 def main():
-    files = sorted(p for p in ROOT.rglob("*.md") if ".git" not in p.parts)
-    errors = check_links(ROOT, files) + check_research(ROOT) + check_migration(ROOT)
-    for path in ROOT.rglob("*.py"):
-        if ".git" in path.parts or ".venv" in path.parts:
+    files = repository_files(ROOT)
+    markdown = [path for path in files if path.suffix == ".md"]
+    errors = check_links(ROOT, markdown) + check_research(ROOT) + check_migration(ROOT)
+    for path in files:
+        if path.suffix != ".py":
             continue
         try:
             ast.parse(path.read_text(), filename=str(path))
@@ -107,7 +117,7 @@ def main():
     if errors:
         print("\n".join(errors), file=sys.stderr)
         return 1
-    print(f"PASS: {len(files)} Markdown files; local file links, research counts, migration coverage, restricted-file exclusion, and Python syntax")
+    print(f"PASS: {len(markdown)} Markdown files; local file links, research counts, migration coverage, restricted-file exclusion, and Python syntax")
     return 0
 
 

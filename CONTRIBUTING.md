@@ -40,6 +40,6 @@ The [migration record](provenance/migration.json) records the initial import. Do
 
 ## Checks
 
-`make check` needs Python 3.9 or newer and uses only the standard library. It checks local Markdown file links, research table structure and counts, imported file coverage, restricted-file exclusion, and Python syntax. It also runs tests of the checker. It does not verify external websites, factual claims, speaker accuracy, or permissions to publish.
+`make check` needs Git and Python 3.9 or newer and uses only the standard library. It checks tracked files and new files that Git does not ignore, so private scratch files and local environments stay outside validation. It checks local Markdown file links, research table structure and counts, imported file coverage, restricted-file exclusion, and Python syntax. It also runs tests of the checker. It does not verify external websites, factual claims, speaker accuracy, or permissions to publish.
 
 To suggest a correction without editing files, open an issue with the page, the proposed correction, and supporting evidence.

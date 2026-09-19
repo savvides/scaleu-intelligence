@@ -1,10 +1,15 @@
 import hashlib
+import contextlib
+import io
 import json
 from pathlib import Path
 import re
+import subprocess
 import tempfile
 import unittest
+from unittest.mock import patch
 
+from scripts import check
 from scripts.check import check_links, check_migration, check_research, markdown_links
 
 
@@ -25,6 +30,7 @@ class LibraryChecksTest(unittest.TestCase):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name).resolve()
+        subprocess.run(["git", "init", "-q", str(self.root)], check=True)
 
     def write(self, name, text):
         path = self.root / name
@@ -76,6 +82,26 @@ class LibraryChecksTest(unittest.TestCase):
         self.assertEqual(check_migration(self.root), [])
         self.write("notes/renamed.md", "Restricted")
         self.assertEqual(len(check_migration(self.root)), 1)
+
+    def test_main_ignores_local_files_but_checks_new_public_files(self):
+        self.write(".gitignore", "private/\n.venv/\n")
+        self.write("README.md", "# Public library\n")
+        self.write("research/README.md", "Total: 0 paper entries across 0 topics\n")
+        self.write("provenance/migration.json", json.dumps({"sources": [{"files": [{
+            "source": "data/operator-lessons.md",
+            "source_sha256": hashlib.sha256(b"Restricted").hexdigest(),
+            "excluded": "No redistribution",
+        }]}]}))
+        self.write("private/scratch.md", "[Private working link](missing.md)")
+        self.write("private/scratch.py", "not valid Python !")
+        self.write(".venv/package/README.md", "[Package documentation](missing.md)")
+        with patch.object(check, "ROOT", self.root), contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(check.main(), 0)
+            self.write("new-note.md", "[Broken public link](missing.md)")
+            self.assertEqual(check.main(), 1)
+            subprocess.run(["git", "-C", str(self.root), "add", "new-note.md"], check=True)
+            self.write(".gitignore", "private/\n.venv/\nnew-note.md\n")
+            self.assertEqual(check.main(), 1)  # Already tracked files remain published.
 
 
 if __name__ == "__main__":
