@@ -1,0 +1,12 @@
+schema_version: 1
+product:
+  name: "EdTech / Career Navigation Tools"
+  description: "AI-powered tools for career navigation, learning, and workforce development"
+  stage: "has-users"
+target_user:
+  role: "Education Leader / EdTech Builder"
+  context: "K-12 districts, higher ed institutions, workforce development organizations adopting AI-powered tools"
+settings:
+  auto_commit: true
+  gitignore_raw: true
+  evidence_threshold: 6

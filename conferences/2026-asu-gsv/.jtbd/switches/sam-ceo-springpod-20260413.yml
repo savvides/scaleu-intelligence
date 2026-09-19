@@ -1,0 +1,188 @@
+schema_version: 1
+
+# Source: Conference panel — "Beyond the Novelty: Evaluating AI-Powered Career Navigation Tools"
+# ASU GSV Summit, Monday April 13 2026, 3:00–3:40 pm
+# Note: This is secondary evidence extracted from a multi-speaker panel, not a 1-on-1 Switch interview.
+# All confidence ratings are downgraded accordingly. The primary switching story is Airbus
+# (reported by Sam Hyams, CEO SpringPod) switching from capped in-person work experience to
+# SpringPod's virtual platform. Sam is the narrator; Airbus is the switching organization.
+
+interviewee:
+  name: "Sam"
+  role: "CEO"
+  company: "SpringPod"
+  date: "2026-04-13"
+  notes: >
+    Sam Hyams described the Airbus case as a representative example of the SpringPod value
+    proposition. He is a vendor narrating a customer switch, not the switcher himself.
+    Data points are plausible but originate from a sales/investment pitch context.
+
+# The switching unit: Airbus (employer), switching from capped in-person work experience
+# delivery to SpringPod's virtual career-connected learning platform.
+
+timeline:
+  first_thought:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No signal about when Airbus first considered an alternative. The structural problem
+      is described ('a hundred students in person… that was their sort of cap') but no
+      trigger moment or internal conversation is revealed.
+
+  passive_looking:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No evidence of a passive exploration phase. Panel context precludes this level of detail.
+
+  active_looking:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No information on whether Airbus evaluated competing platforms or ran an RFP.
+
+  deciding:
+    when: "not_discussed"
+    trigger: "Capacity ceiling on in-person delivery made the old model structurally untenable"
+    quote: "they used to have about a hundred students in person on work experience and that was their sort of cap that they could deliver"
+    confidence: low
+    notes: >
+      The decision trigger is implied (hitting a hard cap) but not described from the buyer's
+      perspective. Sam frames it as a supply constraint, not a moment of decision.
+
+  consuming:
+    when: "Ongoing — stated as current scale at time of panel"
+    trigger: "not_discussed"
+    quote: "We now help 10,000 students a year gain an Airbus experience"
+    confidence: medium
+    notes: >
+      The outcome is concrete and verifiable in principle (100x scale from in-person baseline).
+      LinkedIn destination tracking for Amazon cohort adds corroborating behavioral specificity.
+
+forces:
+  push:
+    - statement: "Hard capacity ceiling on in-person work experience delivery"
+      quote: "they used to have about a hundred students in person on work experience and that was their sort of cap that they could deliver"
+      intensity: 8
+      confidence: medium
+      notes: >
+        This is the clearest push signal in the transcript. A defined ceiling ('their sort of cap')
+        is a structural forcing function, not just dissatisfaction. Intensity 8 because it's
+        quantified and organizationally constraining, but narrated by vendor, not buyer.
+
+    - statement: "Structural gap: two in three young people leave school with zero work experience"
+      quote: "two in three young people leave the school system with zero work experience. That is a structural problem"
+      intensity: 6
+      confidence: low
+      notes: >
+        This is a market-level push articulated by Sam as rationale, not a stated pain from
+        Airbus itself. Included because it contextualizes the employer's motivation to expand.
+
+    - statement: "Employers historically struggled to evidence the value exchange of engaging young people"
+      quote: "historically, it's been quite difficult to evidence what that value exchange is going to be for the employer, apart from a long-term talent ambition"
+      intensity: 5
+      confidence: low
+      notes: >
+        Push from inadequacy of prior framing/ROI visibility. Vague and panel-level, not specific to Airbus.
+
+  pull:
+    - statement: "Virtual platform enables 100x scale with measurable downstream destination outcomes"
+      quote: "We now help 10,000 students a year gain an Airbus experience and through virtuals which can act as that top of funnel to widen access"
+      intensity: 8
+      confidence: medium
+      notes: >
+        The scale jump (100 → 10,000) is the strongest pull signal. It's concrete and directional.
+        Vendor-narrated but specificity is high enough to treat seriously.
+
+    - statement: "LinkedIn-trackable destination data as proof of actual impact, not just engagement"
+      quote: "for 30,000 students going through the Amazon program with us, a third end up in tech-aligned roles, and we can track that through LinkedIn"
+      intensity: 7
+      confidence: low
+      notes: >
+        This is from the Amazon program, not Airbus specifically. Attributed here because Sam
+        presents it as the same measurement model. Confidence is low due to cross-case attribution.
+
+    - statement: "AI-native young people can deliver immediate ROI for employers on business processes"
+      quote: "young people are the most AI native… what are they missing? They're missing context on business processes"
+      intensity: 5
+      confidence: low
+      notes: >
+        A pull toward a new framing of the value exchange, but too abstract and forward-looking
+        to score high as a behavioral adoption driver.
+
+  anxiety:
+    - statement: "Concern that AI career tools feel like magic but may not impact actual destinations"
+      quote: "AI will make it feel better and it will feel like magic, but actually, is it impacting that destination?"
+      intensity: 6
+      confidence: medium
+      notes: >
+        Sam himself voices this anxiety, suggesting it's a live concern for buyers evaluating
+        these tools. For Airbus specifically it's inferred, not stated.
+
+    - statement: "32% fewer early career opportunities — fear that AI harms rather than helps young people"
+      quote: "there's all these negative headlines on it's killing early careers. There's 32% fewer opportunities for young people already"
+      intensity: 5
+      confidence: low
+      notes: >
+        Sector-level anxiety that may inform employer caution about AI-augmented hiring pipelines.
+        Not specific to Airbus.
+
+  habit:
+    - statement: "In-person work experience as the established and trusted delivery model"
+      quote: "they used to have about a hundred students in person on work experience"
+      intensity: 6
+      confidence: medium
+      notes: >
+        The in-person model is described as the prior state, implying institutional inertia.
+        '100 students' as a stable ceiling suggests a long-running program, not a recent experiment.
+
+    - statement: "Career navigation sector defaults to engagement metrics rather than destination outcomes"
+      quote: "Measurement is the bit that's always been missing from the career navigation world. So, if you think about all the tools that you might use in K-12, college, whatever space you're in, how do you know if they're actually working"
+      intensity: 5
+      confidence: medium
+      notes: >
+        Habit of measuring inputs (engagement, ratings) rather than outputs (destinations).
+        This inertia is a barrier SpringPod is explicitly trying to displace.
+
+job_story: >
+  When we reach our hard ceiling on how many students we can serve through in-person programs,
+  we want a virtual delivery model that can scale our employer brand reach by orders of magnitude,
+  so we can widen access to young people and build a measurable talent pipeline we can track
+  through to actual career destinations.
+
+evidence_strength:
+  direct_quotes: 5
+  # Rationale: Several verbatim quotes are available (100 students, 10,000 students, cap,
+  # destination tracking). Scores moderate because all quotes come through a vendor narrator
+  # in a pitch/panel context, not from the buyer directly.
+
+  behavioral_specificity: 6
+  # Rationale: The before/after scale (100 → 10,000 Airbus; 30,000 Amazon students, 1/3 in
+  # tech roles) is unusually concrete for a panel transcript. LinkedIn tracking adds method
+  # specificity. Deducted points because no Airbus voice is present.
+
+  timeline_clarity: 2
+  # Rationale: No timeline stages are recoverable. We know the before state and the current
+  # state but nothing about when or how the transition decision was made. Panel format precludes this.
+
+  overall: 2
+  # Overall = min of the three scores per schema convention (timeline_clarity = 2).
+  # Despite the behavioral specificity being decent, the complete absence of timeline and
+  # the vendor-narrator limitation make this low-quality switch evidence by Switch interview standards.
+
+analyst_notes: >
+  This is the strongest switching signal in a transcript that was not designed to surface switch
+  data. The Airbus case has real specificity (quantified before/after, named organization, a
+  concrete forcing function) but is narrated by the vendor in a conference pitch context.
+  A follow-up 1-on-1 interview with an Airbus talent or early careers leader would be high-value:
+  the push force (hard capacity ceiling) and pull force (virtual scale + destination tracking)
+  are directionally credible. Secondary candidates for Switch analysis: Julia Dixon (ESAI)
+  narrates a switch from elite human advisors to AI-augmented career coaching; Keely Cat-Wells
+  (Making Space) describes a forcing function around disability underemployment and employer
+  confidence gaps. Both are also vendor-narrated and carry the same confidence ceiling.

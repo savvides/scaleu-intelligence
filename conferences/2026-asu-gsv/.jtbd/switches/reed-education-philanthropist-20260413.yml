@@ -1,0 +1,371 @@
+schema_version: 1
+
+# Source: Conference panel — "Class Disrupted Live: Reed Hastings on the AI-Powered Future of Learning"
+# ASU GSV Summit, Tuesday April 14, 2026, 10:00–10:50 am
+# Note: This is secondary evidence extracted from a structured interview/podcast format panel,
+# not a 1-on-1 Switch interview. Reed Hastings is both subject and narrator of his own switching
+# journey. Confidence ratings are downgraded for panel format, but the evidence density is
+# unusually high because Reed explicitly reflects on three prior "chapters" and articulates
+# why each failed before naming his fourth. This is a rare case of a subject narrating a
+# completed Switch retrospectively with named pushes, named pulls, and explicit anxiety.
+# The switching unit is Reed Hastings as an education philanthropist/investor making a
+# strategic commitment to AI-powered individualized learning as his primary vehicle for
+# education transformation — displacing his prior reliance on state policy, charter schools,
+# and EdTech tools.
+
+interviewee:
+  name: "Reed"
+  role: "Education Philanthropist / Anthropic Board Member / Netflix Co-Founder"
+  company: "Philanthropic (Anthropic board; former Netflix; KIPP board; DreamBox investor)"
+  date: "2026-04-14"
+  notes: >
+    Reed Hastings has 25+ years of education philanthropy across four distinct strategic chapters:
+    (1) California State Board of Education chair (state policy, accountability, No Child Left Behind era);
+    (2) charter school advocacy and investment (KIPP, City Fund, multiple charter networks);
+    (3) EdTech investment (DreamBox Learning, early adaptive learning);
+    (4) AI-powered individualized learning (current chapter, announced at this session).
+    Reed earned a master's degree in AI 40 years ago and joined the Anthropic board ~1 year before
+    this session. He is narrating a strategic switch in his own philanthropic thesis, not a
+    product purchase decision. The "job" is: accelerate meaningful, durable, large-scale improvement
+    in student learning outcomes globally. Panel format limits emotional granularity somewhat,
+    but Reed's narrative is unusually structured and self-reflective — he names his prior hires
+    explicitly, evaluates each, and declares a new hire. Evidence quality is higher than typical
+    panel extractions.
+
+# ─── SWITCHING UNIT ────────────────────────────────────────────────────────────
+# FROM: Distributing philanthropic attention and capital across state policy reform,
+#       charter school advocacy, and classroom EdTech tools (DreamBox-style adaptive software
+#       deployed within the existing "sage on the stage" model)
+# TO:   AI-powered individualized learning systems that bypass the classroom delivery model
+#       entirely — targeting homeschoolers, building "self-driving" education software,
+#       and funding experiments (individual tutoring study; Rwanda one-tablet-per-child)
+#       that establish the ceiling of individualized learning
+
+job_story:
+  when: "When I've spent 25 years across state policy, charters, and EdTech and can point to
+    little durable impact on student learning at scale — and AI capability is now doubling
+    annually — "
+  i_want_to: "redirect my philanthropic thesis toward AI-powered individualized learning
+    systems that operate outside the institutional grammar of schooling, so I can finally
+    achieve the 2x learning rate improvement I believe is possible"
+  so_i_can: "see meaningful, durable, globally scalable improvement in student outcomes
+    before the current institutional reform window closes again"
+
+timeline:
+  passive_looking:
+    period: "~2010–2022"
+    notes: >
+      Reed continued investing in EdTech (DreamBox) and charters while watching AI capability
+      mature. He had a master's in AI from 40 years prior — the domain was always in view.
+      No direct quote captures a specific moment of passive looking; inferred from his
+      description of the 25-year arc and the timing of his Anthropic board appointment (~2025).
+    inferred: true
+
+  active_looking:
+    period: "~2022–2025 (ChatGPT launch through Anthropic board join)"
+    notes: >
+      ChatGPT launched ~3 years before this session (implying ~early 2023 in the transcript's
+      reference frame, though the actual date was late 2022). Reed describes AI going from
+      "barely third-grade math" to "very impressive" — suggesting he was actively evaluating
+      AI capability during this window. His joining the Anthropic board (~1 year before April 2026)
+      marks the transition from active looking to decision.
+    inferred: true
+
+  decision:
+    period: "~2025 (joining Anthropic board)"
+    notes: >
+      Joining the Anthropic board is the clearest behavioral marker of commitment to AI as
+      the new philanthropic vehicle. Reed frames this explicitly: "for my first 25 years I
+      spent the time trying to do the better classroom... [now] I have to be brave enough to
+      try to do school without sage on a stage at all." The individual tutoring study and
+      Rwanda project are the operational expressions of this decision.
+    inferred: false
+    supporting_quote: >
+      "For my first 25 years, I spent the time trying to do the better classroom... But it
+      reminds me of the story about steam-powered factories in the 1800s... The sage on a
+      stage is the power distribution system. It's holding back technology from its natural
+      effects and its ability to teach children directly. And we have to be brave enough to
+      try to do school without sage on a stage at all."
+
+  first_use:
+    period: "~2025–2026 (funding tutoring study; Rwanda tablet project)"
+    notes: >
+      Reed announces two concrete funded experiments: (1) a full-year individual tutoring
+      study of 50 median students run by Ben Summers/RecessGG, establishing the "two sigma"
+      learning rate baseline; (2) a Rwanda one-tablet-per-child project led by CJ, aiming to
+      make Rwanda "the most successful education state in Africa, maybe the world." These are
+      first-use instantiations of the new philanthropic thesis.
+    inferred: false
+    supporting_quote: >
+      "One of the projects we're doing is funding that and take 50 random kids, median kids
+      in a median school, and give them a full year of the whole school day individual tutoring
+      and try to figure out, OK, how much more do they learn?"
+
+  ongoing_use:
+    period: "Present / ongoing (as of April 2026)"
+    notes: >
+      Reed is on the Anthropic board, funding multiple AI education experiments, and advising
+      EdTech entrepreneurs to "skate to where the puck is going" — individualized AI learning.
+      He frames this as a long-term chapter, not a transitional experiment.
+    inferred: false
+    supporting_quote: >
+      "If you want to change the world, focus on the homeschoolers. Focus on people who are
+      able to go at their own pace and build systems that are individualized."
+
+# ─── FOUR FORCES ───────────────────────────────────────────────────────────────
+
+forces:
+  push_of_situation:
+    intensity: 9
+    notes: >
+      Reed delivers an unusually explicit, structured account of everything that pushed him
+      away from his prior three strategic approaches. The pushes are named, sequenced, and
+      evaluated with specific evidence. This is the strongest force in the transcript.
+    moments:
+      - label: "State policy chapter: progress dismantled by political cycles"
+        quote: >
+          "The tragic thing was the next five years after that, I watched it all get dismantled.
+          Independent of its results, it sort of, you know, politically wasn't in favor. New
+          administrations elected. They are like, get rid of the old guy stuff and let's put
+          in different stuff."
+        note: >
+          Reed names the "hero syndrome" — Tom Pezant in Boston, Joel Klein in New York, Rod Page,
+          Mike Miles in Houston — as a systemic pattern: reform rises and falls with political cycles,
+          independent of results. This is not a personal failure; it is a structural push.
+
+      - label: "State policy chapter: personal assessment of net impact"
+        quote: >
+          "For all the work that I did and all that state board, there's very little to show for it."
+        note: >
+          Blunt self-assessment. Reed does not hedge. This is a clean push signal from someone
+          who invested years and emerged with "very little to show."
+
+      - label: "Charter chapter: grindingly slow, contested terrain"
+        quote: >
+          "Charters haven't failed, but they haven't succeeded at driving up NAEP scores in
+          the high charter states... even after 20 years, we have good success at the city level...
+          But it's grindingly slow. Think trench warfare."
+        note: >
+          Reed maintains commitment to charters but names the ceiling: city-level impact after
+          20 years, with no systemic NAEP lift. The "trench warfare" metaphor signals exhaustion
+          with the pace, not abandonment.
+
+      - label: "EdTech chapter: no discernible change; institutional resistance to adaptive learning"
+        quote: >
+          "DreamBox was one of the early adaptive learning systems. But school districts kept
+          telling us to turn that off, because they didn't want kids to get ahead. If the kid
+          gets ahead, they're disruptible and bored in the class."
+        note: >
+          This is a crystallizing push: the institution actively resisted the product's
+          best feature (adaptive pacing) because it threatened classroom coherence. Reed
+          frames this as "the grammar of schooling" — a structural constraint, not a
+          solvable sales problem.
+
+      - label: "EdTech chapter: summary verdict"
+        quote: >
+          "EdTech, no real discernible change yet."
+        note: >
+          Reed's own three-word verdict on 15+ years of EdTech investment. Delivered without
+          qualification in the same breath as his chapter summaries.
+
+  pull_of_new:
+    intensity: 8
+    notes: >
+      The pull is strong and multi-layered: AI capability doubling annually; the chess.com
+      analogy as proof of concept; the Bloom two-sigma framework as a quantified learning
+      upside; global scalability via software. Reed does not describe an emotional "aha"
+      moment — the pull is intellectual and strategic, consistent with his analytical style.
+    moments:
+      - label: "AI doubling curve makes prior objections time-limited"
+        quote: >
+          "We're on one of these curves where it's, let's call it doubling every year in quality.
+          So it will be twice as good as it is today a year from now... Whatever challenge you
+          think AI is not up to, just wait a year."
+        note: >
+          Reed frames AI capability growth as the strategic unlock. Every prior EdTech failure
+          was partly a capability problem — adaptive software wasn't good enough. The doubling
+          argument dissolves that objection structurally.
+
+      - label: "Chess.com as proof of concept for AI tutoring at scale"
+        quote: >
+          "The typical 10-year-old on chess.com is scoring way higher than 10-year-olds of
+          20 years ago on a stable, vertically scored system. And what's happening is the
+          10-year-olds are getting tutored by AI... And so that's true for chess today and
+          could be true for biology and history tomorrow."
+        note: >
+          Reed uses this as his strongest empirical pull. It's not hypothetical — it's a
+          measurable outcome on a vertically scored system, already happening. The analogy
+          does the work of making the "possible future" feel like an "existing present."
+
+      - label: "Bloom two-sigma as the quantified prize"
+        quote: >
+          "I suspect that we'll find that it is twice as much [learning], which roughly means
+          by the time you get to eighth grade, you know as much as a typical high schooler
+          today. Or by the time you get to 11th grade, you know as much as a typical college
+          student today."
+        note: >
+          Reed translates Bloom's 1984 two-sigma finding into a concrete, grade-level
+          milestone. This gives the pull a specific, falsifiable form — not just "better"
+          but "two grade levels ahead by eighth grade." The individual tutoring study is
+          designed to validate this number.
+
+      - label: "Global scalability via software — the Rwanda vision"
+        quote: >
+          "When we figure out software-based AI teaching that really does all the work, we
+          can share that with the entire world. A phone in Kibera runs basically the same
+          operating system that we run."
+        note: >
+          This is the global-scale pull that charters and state policy could never offer.
+          Reed explicitly contrasts it: "When we figure out good teaching practices, like
+          Success Academy or KIPP, it's very hard to export that to a Brazilian or African
+          context. But when you figure out tech, it's very easy to share."
+
+  anxiety_of_new:
+    intensity: 5
+    notes: >
+      Reed acknowledges anxieties but addresses them immediately and at length — suggesting
+      they are live concerns he has thought through, not dismissed. The intensity is moderate:
+      he has answers, but the questions are real. The social-emotional development concern
+      is the most substantive. The AI safety/harm concern is present but Reed's framing
+      is characteristically contrarian (car accident tradeoff analogy).
+    moments:
+      - label: "Social-emotional development: won't kids be isolated?"
+        quote: >
+          "We want to maintain the social development. So the person in the classroom really
+          becomes a social worker. They're specializing in learning and emotional maturity
+          and doing valor type circles and these kinds of things."
+        note: >
+          Diane Tavenner presses this explicitly ("I don't want this to get lost — people
+          often get confused when we talk about the power of individual tutoring, and they
+          think kids are going to be learning by themselves. And that is not what you're
+          saying here"). Reed's answer is structured but brief — the anxiety is real enough
+          that Diane felt it needed explicit management for the audience.
+
+      - label: "AI harm to teens — acknowledged but reframed via car-accident tradeoff"
+        quote: >
+          "That's happened with some tragic cases of, you know, teens and suicide already.
+          And look, at the societal level, we make certain choices... We lose 40,000 people
+          a year to car accidents in the U.S. and about half a million globally... So I look
+          at it and say, you know, is it as powerful as a car?"
+        note: >
+          Reed does not dismiss the teen harm concern — he names it explicitly. But he
+          immediately reframes it as a societal tradeoff calculation. This is anxiety
+          that has been rationalized, not resolved. The reframe is deliberate enough to
+          suggest it required conscious work.
+
+      - label: "Institutional inertia: will school districts ever move?"
+        quote: >
+          "If you want to make money, sell to a school district, makes teachers' lives easier.
+          Don't worry about learning too much... If you want to change the world, focus on
+          the homeschoolers."
+        note: >
+          This is an implicit anxiety that Reed resolves by routing around the institution
+          rather than changing it. The fact that he explicitly instructs EdTech entrepreneurs
+          to start with homeschoolers — not districts — signals he has accepted that
+          institutional adoption is too slow to be the primary path.
+        inferred: true
+
+  habit_of_present:
+    intensity: 6
+    notes: >
+      Reed's habits of the present are strong: 20 years of charter board memberships, ongoing
+      DreamBox/EdTech relationships, and a philanthropic identity built around institutional
+      reform. He explicitly says he "continues to be a huge donor" to charters and sits on
+      "half a dozen boards of charter networks." This is not a clean break — it is an additive
+      switch where the new chapter is layered on top of continuing commitments, which slightly
+      dilutes the intensity of pull and push signals.
+    moments:
+      - label: "Ongoing charter commitment — not abandoning prior chapter"
+        quote: >
+          "I continue to be a huge donor in that space and continue to believe in it on maybe
+          a half dozen boards of charter networks."
+        note: >
+          Reed explicitly maintains his charter commitments. The switch to AI is a new chapter,
+          not a repudiation. This is consistent with the "grindingly slow but hasn't failed"
+          verdict — charters are a continuing bet, just no longer the primary one.
+        inferred: false
+
+      - label: "The 'grammar of schooling' as an ingrained mental model to overcome"
+        quote: >
+          "It was an early lesson in sort of the depth and strength of the grammar of schooling
+          that we have."
+        note: >
+          Reed uses this phrase to describe a systemic force, but it also reveals his own
+          prior mental model: 25 years spent working within the grammar of schooling, trying
+          to make it better, rather than asking whether the grammar itself should be replaced.
+          The AI chapter is his first attempt to exit that frame entirely.
+        inferred: true
+
+      - label: "25-year identity as an institutional reformer — hard to leave"
+        quote: >
+          "In my first 25 years, I spent the time trying to do the better classroom, whether
+          that's from the state board level and testing and assessment, how do we make schools
+          and classrooms better..."
+        note: >
+          25 years of institutional reform work is a significant habit of present — professional
+          identity, relationships, board seats, and philanthropic reputation are all tied to
+          this approach. The switch to AI individualized learning is a genuine identity shift,
+          not just a portfolio reallocation.
+        inferred: true
+
+# ─── JOB DEFINITION ────────────────────────────────────────────────────────────
+
+job:
+  functional: >
+    Achieve durable, large-scale improvement in student learning outcomes (2x rate or better)
+    that persists across political cycles and scales globally without requiring institutional
+    adoption by school districts.
+  emotional: >
+    Finally see the impact that 25 years of effort in education has not delivered — and do so
+    before the current AI capability window closes.
+  social: >
+    Be recognized as the philanthropist who identified the correct lever (AI individualized
+    learning) when institutional reformers were still fighting trench warfare inside the
+    existing system.
+
+# ─── EVIDENCE QUALITY ──────────────────────────────────────────────────────────
+
+evidence:
+  overall_strength: 7
+  notes: >
+    Unusually high for a panel format. Reed narrates his own switch retrospectively with
+    named chapters, explicit verdicts on each, and announced commitments (tutoring study,
+    Rwanda project) that constitute behavioral evidence of the new hire. The weakness is
+    format: no probing follow-up questions about emotional experience, no timeline granularity
+    for passive/active looking phases, and no "first use" reflection on what it was like to
+    begin the new chapter. The chess.com analogy and factory electrification analogy are
+    pull evidence of the highest quality — Reed has clearly used these to persuade himself
+    before deploying them to persuade an audience.
+
+  push_confidence: 9
+  pull_confidence: 8
+  anxiety_confidence: 5
+  habit_confidence: 6
+
+  cautions:
+    - >
+      Reed is on the Anthropic board — he has a financial and reputational stake in AI's
+      success. This does not invalidate the switch evidence, but it means pull signals
+      may be amplified and anxiety signals may be suppressed relative to a neutral subject.
+    - >
+      The panel format (podcast hosts, live audience) creates performance incentives.
+      Reed's "very little to show" verdicts may be more candid than typical — he has
+      credibility to spend — but the emotional texture of the switch is inaccessible.
+    - >
+      The passive_looking and active_looking timeline stages are entirely inferred.
+      No direct quote supports specific dates or triggering moments for those phases.
+    - >
+      Reed's switch is additive (not abandoning charters) which makes it harder to
+      score as a clean JTBD fire/hire. The prior solutions are still running in parallel.
+
+  strongest_evidence: >
+    The DreamBox story (school districts instructing Reed to turn off adaptive pacing
+    because ahead-of-grade-level kids are "disruptive") is the single most JTBD-rich
+    moment in the transcript. It is a push crystallizing event with a specific, named
+    institutional mechanism — and it directly motivated the factory electrification
+    analogy Reed uses to frame the entire AI chapter.
+
+  weakest_evidence: >
+    The passive_looking and active_looking timeline phases. There is no direct evidence
+    of a specific moment when Reed began searching for alternatives. The Anthropic board
+    appointment is inferred as the decision marker, not confirmed as such in the transcript.

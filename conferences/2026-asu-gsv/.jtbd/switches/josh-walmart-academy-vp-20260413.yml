@@ -1,0 +1,304 @@
+schema_version: 1
+
+# Source: Conference panel — "AI is the New Key to Unlocking the American Dream"
+# ASU GSV Summit, Tuesday April 14, 2026, 2:10–2:50 pm
+# Note: This is secondary evidence extracted from a multi-speaker panel, not a 1-on-1 Switch interview.
+# All confidence ratings are downgraded accordingly.
+# The primary switching story is Walmart's frontline associates switching from manual barcode
+# scanning for inventory management to AI-vision-assisted VisPick, as narrated by Josh Allen
+# (VP-level, leads Walmart Academy content and strategy). Josh is not the frontline associate
+# who made the switch — he is the organizational narrator. This is a third-person account of
+# an institutional adoption, told by the person who designed the intervention.
+# A secondary personal switch (Josh loading his personality profile into AI to get faster output)
+# is noted in analyst_notes but not the primary focus of this file.
+
+interviewee:
+  name: "Josh"
+  role: "Head of Content and Strategy, Walmart Academy"
+  company: "Walmart"
+  date: "2026-04-13"
+  notes: >
+    Josh Allen leads learning content and strategy for Walmart Academy, covering stores,
+    Sam's Club, Supply Chain, and campus roles. He narrates both an organizational switch
+    (VisPick inventory system for frontline associates) and a secondary personal switch
+    (loading personality results into AI for faster work output). He is the institutional
+    decision-maker for the intervention, not the frontline worker who experienced the switch.
+    This means push forces are inferred from Josh's framing, not described first-person
+    by the worker.
+
+# The switching unit: Walmart frontline associates, switching from manual barcode-scan
+# inventory management to AI-vision-assisted VisPick system.
+# Before: ~60 minutes to scan individual boxes, receive audio beeps indicating pull/no-pull
+# After: ~20 minutes, holding up phone to get visual green-check confirmation via computer vision
+
+timeline:
+  first_thought:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No information on when Walmart first recognized the inventory scanning task as a
+      target for AI replacement, or what triggered the first exploration. Panel format
+      does not allow this level of granularity. The VisPick system is described as
+      already deployed and embedded in frontline work — we are hearing the post-adoption
+      account.
+
+  passive_looking:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No evidence of an evaluation phase. Josh describes the deployed outcome, not
+      the selection process. Whether Walmart evaluated competing inventory AI vendors
+      or built VisPick internally is not discussed.
+
+  active_looking:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      Not recoverable from this transcript.
+
+  deciding:
+    when: "not_discussed"
+    trigger: "not_discussed"
+    quote: ""
+    confidence: low
+    notes: >
+      No deciding-stage signal. Josh introduces VisPick as a fait accompli example
+      of AI embedded in frontline work — no account of who decided, when, or why
+      this specific approach was chosen.
+
+  consuming:
+    when: "Recent — framed as current state of frontline AI integration"
+    description: >
+      Frontline associates now use VisPick by holding a phone up to inventory shelves.
+      Computer vision reads labels and delivers a visual green-check indicator on
+      whether to pull inventory down. Prior process required scanning each individual
+      box and listening for an audio beep response.
+    quote: >
+      "with AI, we're able to kind of read these labels, determine whether it needs to
+      come down or not. So instead of scanning every single individual box, you're just
+      holding your phone up and it's gonna give like a green check mark if you pull it
+      down. So system that we call VisPick, that removed, it was about an hour task to
+      do these things, cut it down to about 20 minutes."
+    time_saved: "~40 minutes per inventory cycle (60 min → 20 min)"
+    confidence: medium
+    notes: >
+      The consuming stage is the best-evidenced stage in this transcript. Josh provides
+      named system (VisPick), process description (before/after interaction model), and
+      a quantified time-savings figure. These are the strongest behavioral specifics in
+      the transcript. Confidence capped at medium because this is a third-person account
+      and the 60/20 minute figures are not verified by a worker; they are Josh's
+      organizational-level representation.
+
+forces:
+  push:
+    - statement: "Manual barcode scanning consumed ~60 minutes per inventory cycle — time unavailable for customer-facing work"
+      quote: >
+        "it was about an hour task to do these things"
+      intensity: 7
+      confidence: medium
+      notes: >
+        Josh frames the hour-long manual scan as the problem VisPick was solving.
+        The intensity is real (a full hour of associate time lost to a mechanical,
+        low-value task) but we don't hear from the associate about what this felt
+        like — only from the system designer. Intensity 7 because the time cost is
+        meaningful at Walmart's scale even if the individual associate's frustration
+        level is unconfirmed.
+
+    - statement: "Associates unavailable to help customers while doing inventory scanning — a visible failure mode in stores"
+      quote: >
+        "I'm sure many of you have been to a Walmart store and just thought I'd need to
+        talk to an associate or find an associate to do something. And I think that the
+        AI that we're seeing for our frontline associates is giving them time back to do
+        things like help customers."
+      intensity: 6
+      confidence: medium
+      inferred: true
+      notes: >
+        Josh frames associate unavailability (from manual tasks) as a recognizable
+        customer experience problem. This is an inferred push — the associate being
+        pulled into inventory scanning is implicitly the person not available to help
+        the customer. No frontline associate quote confirms this was a felt frustration.
+        Inferred: true because this is Josh's framing, not the worker's.
+
+    - statement: "Manual scanning compressed the experience gap between new and tenured associates without changing the underlying task design"
+      quote: >
+        "I think it's compressing the skill gap, the experience gap we see. So I think
+        people are much more effective, much more quickly than they were in the past."
+      intensity: 5
+      confidence: low
+      inferred: true
+      notes: >
+        Josh makes this point as a general observation about AI's effect on the workforce,
+        not specifically about VisPick. Applied here as a contextual push: the old manual
+        task required a learning curve and was subject to error variance. Intensity 5
+        because it is directional but not anchored to VisPick specifically.
+
+  pull:
+    - statement: "Time freed from scanning redirected to higher-value customer-facing and leadership activities"
+      quote: >
+        "what happens is you get the time back to, you know, for managers, you're leading
+        your teams, for associates, you're helping customers. So, I mean, it's giving time
+        back for growth. It's giving time back for more human activities than kind of the
+        manual activities."
+      intensity: 8
+      confidence: medium
+      notes: >
+        This is the strongest pull signal. Josh explicitly names the value of the reclaimed
+        time: customer interaction and team leadership — both higher-skill, higher-value
+        activities. The framing ('growth', 'human activities') suggests the pull is not just
+        efficiency but a qualitative improvement in what associates do with their time.
+        Confidence medium because this is Josh's aspiration for the program — we don't
+        hear from an associate about whether they experience it this way.
+
+    - statement: "Simpler, faster interaction model — one gesture replaces repetitive scanning"
+      quote: >
+        "instead of scanning every single individual box, you're just holding your phone
+        up and it's gonna give like a green check mark if you pull it down"
+      intensity: 6
+      confidence: medium
+      notes: >
+        The new interaction (lift phone, get visual confirmation) is dramatically simpler
+        than the prior process (scan each box, interpret audio beep). This ease-of-use pull
+        is a real factor in frontline adoption — simpler tools have lower trust gap and
+        capability gap. Intensity 6 because simplicity is a pull, but Josh presents it as
+        fact not as something associates said they wanted.
+
+  anxiety:
+    - statement: "Trust gap: associates who get a wrong AI answer tend to abandon the tool entirely rather than iterate"
+      quote: >
+        "you get a wrong answer, and I mean, a lot of people are just going to discount it.
+        So instead of either correcting it, you know, instead of coming back, sometimes people
+        are like, I give up"
+      intensity: 7
+      confidence: medium
+      notes: >
+        Josh describes this as a general pattern for AI tool adoption at Walmart, not
+        specifically VisPick. Applied here because any new AI tool faces this adoption
+        anxiety — a single bad experience becomes evidence to abandon the tool.
+        VisPick (vision-based, deterministic output) likely has lower wrong-answer risk
+        than generative AI tools, so this anxiety may be less acute for this specific
+        system. Intensity 7 for the general adoption risk; may be lower for VisPick.
+
+    - statement: "Capability gap: associates using AI for only basic functions, not leveraging full capability"
+      quote: >
+        "what you're going to see with the capability gap is people using it for super
+        basic functions, not using the right prompts, not using it for all of its abilities here"
+      intensity: 5
+      confidence: low
+      inferred: true
+      notes: >
+        Josh describes this as a general capability gap pattern. Applied to VisPick as
+        a mild inferred anxiety — if VisPick has features beyond basic scan-and-confirm
+        (e.g., demand forecasting, reorder flagging), associates may not use them.
+        Inferred: true because Josh is not speaking about VisPick here specifically.
+
+  habit:
+    - statement: "Prior process: scan each box individually with handheld barcode scanner, receive audio beep"
+      quote: >
+        "The way we do inventory management or used to do inventory management, you would
+        scan all of the boxes or inventory up top and then it would kind of beep whether
+        to bring it down or not."
+      intensity: 6
+      confidence: medium
+      notes: >
+        Josh explicitly describes the old process as a before-state, which is a clean
+        habit force. One-box-at-a-time scanning is a deeply ingrained physical routine.
+        At Walmart scale, this represents millions of associate-hours of muscle memory.
+        Intensity 6 because Josh presents it as a solvable operational pattern, not as
+        a deeply defended identity or emotional attachment to the old method.
+
+    - statement: "Copy AI output into Word/email and manually rewrite rather than iterating with AI"
+      quote: >
+        "I'll get an answer, and then, you know, I'll copy it in my Word document or email
+        or whatever. fix it all myself. And it kind of defeats the purpose there."
+      intensity: 6
+      confidence: medium
+      notes: >
+        Josh describes this as a common pattern he has observed — people revert to their
+        known tool (Word, email) and manually edit rather than iterating with AI. This
+        habit force applies broadly to Walmart's AI adoption programs, not to VisPick
+        specifically (which has a deterministic output, not freeform text). Included
+        because Josh identifies it as a primary obstacle to AI adoption success in his
+        training design work.
+
+    - statement: "Institutional default: learning via video or micro-certification without embedded practice"
+      quote: >
+        "you don't become a leader by watching a video. So you're not gonna become AI
+        proficient by doing a micro certification. This has to be embedded in your jobs."
+      intensity: 7
+      confidence: medium
+      notes: >
+        Josh identifies passive consumption (video, certification) as the prior default
+        for L&D at Walmart and in the industry broadly. This is the habit force against
+        which Walmart Academy is positioning the embedded, in-flow-of-work model.
+        High intensity because Josh frames this explicitly as a design principle that
+        guided the shift to sandbox-based and job-embedded AI training.
+
+job_story: >
+  When frontline associates spend an hour on manual barcode scanning for inventory management —
+  time that pulls them away from customers and growth activities — we want an AI-vision system
+  embedded directly in the workflow that reduces that task to 20 minutes with a simple
+  phone-lift gesture, so associates can redirect their time to customer service and human
+  activities that actually build capability and engagement.
+
+evidence_strength:
+  direct_quotes: 5
+  # Rationale: Josh provides named system (VisPick), quantified before/after time (60→20 min),
+  # and process description (scan-per-box → phone-lift-green-check). These are the strongest
+  # behavioral specifics in the transcript. Deducted heavily because Josh is the L&D program
+  # designer narrating the organizational switch — not a frontline associate describing
+  # their own experience. No worker voice, no emotional texture, no timeline granularity.
+
+  behavioral_specificity: 6
+  # Rationale: The VisPick description is unusually concrete for a panel setting — named system,
+  # interaction model, and quantified time savings. The reclaimed-time-to-customers framing
+  # adds another behavioral layer. Deducted because we have no data on adoption rate, rollout
+  # scope, associate satisfaction, or whether the time savings are consistent across store formats.
+
+  timeline_clarity: 1
+  # Rationale: No timeline information is recoverable. VisPick is described as current
+  # operating state. No year of decision, no pilot-to-rollout arc, no phases. Complete
+  # absence of temporal anchor points.
+
+  overall: 2
+  # Overall = min(direct_quotes, behavioral_specificity, timeline_clarity) per schema convention.
+  # timeline_clarity = 1 caps the overall. The VisPick story is operationally interesting
+  # but structurally thin as a Switch analysis due to the complete absence of timeline data
+  # and the third-person narrator position.
+
+analyst_notes: >
+  Josh Allen's VisPick account is the most concrete single-system adoption story in this
+  transcript. The named tool, quantified time savings (60→20 min), and described interaction
+  model make this unusually specific for conference panel evidence. However, the Switch
+  methodology requires first-person switching narrative — and Josh is describing what
+  Walmart built and deployed, not what a frontline associate decided to do. The push forces,
+  pull forces, and habit forces are all inferred from Josh's organizational framing rather
+  than recovered from the person who actually made the switch.
+
+  Secondary personal switch not pursued here: Josh describes loading his in-depth personality
+  assessment results into AI and asking it to adapt its interaction style to him — resulting
+  in faster work output. Quote: "I loaded my in-depth personality results into AI, and then
+  just said, how will you interact with me based on this? My product comes out much faster
+  now than it used to." This is a genuine personal Switch story (from unoptimized AI use →
+  personality-tuned AI interaction) with a clearer first-person narrator, but the evidence
+  is thinner (one sentence) and no timeline, anxiety, or habit forces are visible.
+
+  Third signal: The 40-year Walmart associate who completed the OpenAI certification first
+  in the entire company. Josh describes her as someone "who had not used AI before" and
+  reports that completing the certification gave her "confidence" that she "integrated into
+  her role." This is a strong emotional Signal of a switch from non-user → confident adopter,
+  but Josh gives it in one sentence with no supporting detail on what she switched from or
+  what her adoption looked like in practice.
+
+  High-value follow-up: A 1-on-1 Switch interview with either (a) a VisPick-using frontline
+  associate or (b) the 40-year associate who completed the OpenAI certification would likely
+  yield high-quality evidence. The push forces and habit forces for both are directionally
+  clear from Josh's account. A structured 45-minute conversation could recover the first_thought
+  moment, the emotional experience of the switch, anxiety about job security (notably absent
+  from Josh's framing), and what 'confidence' actually translated to in the role.
