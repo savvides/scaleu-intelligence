@@ -4,6 +4,8 @@ Practical knowledge for edtech founders and the people who work with them: how e
 
 Maintained by Philippos Savvides, who runs [ASU ScaleU](https://scaleu.org), Arizona State University's edtech accelerator. This is a growing working library drawn from conferences, research, and experience with education companies and institutions.
 
+[Download a release](https://github.com/savvides/scaleu-intelligence/releases/latest) · [What's changed](CHANGELOG.md) · [Cite the library](CITATION.cff) · [Get help](SUPPORT.md)
+
 ## Start with your decision
 
 | What you're working on | Start here | Go deeper |
@@ -36,6 +38,12 @@ git clone https://github.com/savvides/scaleu-intelligence.git
 
 For use with an AI assistant, provide the files relevant to your question and ask it to cite the document, underlying source, and date, while separating evidence from interpretation.
 
+## Download, cite, and reuse
+
+Use `main` for the latest edits or a [tagged release](https://github.com/savvides/scaleu-intelligence/releases) for a stable snapshot. Each release includes the complete library as ZIP and tar.gz downloads under **Assets**. There is no installable package.
+
+When citing the collection, include the release version or commit you used. Cite individual authors, speakers, and original papers when drawing on their work; the [library citation](CITATION.cff) does not replace those credits. Reuse follows the [license for the relevant collection](LICENSE.md): this repository combines MIT and CC BY 4.0 material.
+
 ## Work with ScaleU
 
 Building an edtech company and exploring an institutional pilot? [Learn about ASU ScaleU and get in touch](https://scaleu.org). This library shares the questions and evidence behind that work.
@@ -43,5 +51,7 @@ Building an edtech company and exploring an institutional pilot? [Learn about AS
 ## Keep it growing
 
 Have a finding, correction, or useful source? Follow the [contribution guide](CONTRIBUTING.md). For a new observation, start with the [field-note template](templates/field-note.md). Add dated source material first, then update the relevant guide when it changes the advice.
+
+Contributors follow the [code of conduct](CODE_OF_CONDUCT.md). For exposed private information or security concerns, use the [private reporting route](SECURITY.md).
 
 This repository consolidates EdTech Founder Stack, ASU+GSV 2026 Summit Intelligence, and Cracking Higher Ed at SXSW EDU. [Provenance](provenance/README.md) records the source commits, file destinations, and exclusions. [Licenses](LICENSE.md) retain the original terms for each collection.

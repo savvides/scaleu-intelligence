@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Cite the library version you used, and credit the original authors, speakers, and papers for individual works."
+title: "ScaleU Intelligence"
+authors:
+  - family-names: "Savvides"
+    given-names: "Philippos"
+version: "1.0.0"
+date-released: 2026-09-19
+url: "https://github.com/savvides/scaleu-intelligence"
+repository-code: "https://github.com/savvides/scaleu-intelligence"
+preferred-citation:
+  type: generic
+  title: "ScaleU Intelligence"
+  authors:
+    - family-names: "Savvides"
+      given-names: "Philippos"
+  version: "1.0.0"
+  year: 2026
+  date-released: 2026-09-19
+  url: "https://github.com/savvides/scaleu-intelligence/releases/tag/v1.0.0"
