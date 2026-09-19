@@ -2,6 +2,8 @@
 
 Keep the library useful for edtech founders and practitioners. Prefer a focused correction or a well-sourced observation over another broad overview.
 
+Follow the [code of conduct](CODE_OF_CONDUCT.md). The [support guide](SUPPORT.md) explains where to ask questions and report problems.
+
 ## Where an update belongs
 
 | Material | Location | Index to update |
@@ -42,4 +44,14 @@ The [migration record](provenance/migration.json) records the initial import. Do
 
 `make check` needs Git and Python 3.9 or newer and uses only the standard library. It checks tracked files and new files that Git does not ignore, so private scratch files and local environments stay outside validation. It checks local Markdown file links, research table structure and counts, imported file coverage, restricted-file exclusion, and Python syntax. It also runs tests of the checker. It does not verify external websites, factual claims, speaker accuracy, or permissions to publish.
 
-To suggest a correction without editing files, open an issue with the page, the proposed correction, and supporting evidence.
+To suggest a correction without editing files, [open an issue](https://github.com/savvides/scaleu-intelligence/issues/new/choose) with the page, the proposed correction, and supporting evidence.
+
+## Publishing a snapshot
+
+Releases are dated snapshots of this library. They do not certify that every imported claim has been fact-checked. Routine edits can remain on `main` between releases.
+
+1. Summarize the changes and known limitations in [CHANGELOG.md](CHANGELOG.md). Update both citation entries in [CITATION.cff](CITATION.cff), including the version, release date, year, and tagged release URL.
+2. Merge the reviewed pull request after `make check` and GitHub's Validate check pass. Check the merged commit's Validate result too.
+3. Create a GitHub release with a new `vMAJOR.MINOR.PATCH` tag targeting that exact commit. Use a major version for a substantial reorganization, minor for new collections or substantial additions, and patch for corrections.
+4. Write release notes describing the contents, changes, evidence limits, and collection-specific licenses. GitHub supplies the ZIP and tar.gz source archives; no package build is needed.
+5. Verify the tag points to the reviewed commit, the download opens, and the latest-release link in the README resolves. Do not move published release tags; publish a new correction release.

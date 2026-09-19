@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Private information or security concern
+    url: https://github.com/savvides/scaleu-intelligence/security/advisories/new
+    about: Report sensitive material privately, without opening a public issue.
+  - name: Work with ASU ScaleU
+    url: https://scaleu.org
+    about: Contact ScaleU about edtech partnerships and institutional pilots.
