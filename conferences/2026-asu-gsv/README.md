@@ -17,7 +17,6 @@ Transcripts, analysis, and session data from the ASU+GSV Summit 2026 (April 12-1
 | [Roundtable Memo](deliverables/roundtable-memo.md) | Synthesis from "What If Universities Stopped Running the Same Pilot Twice?" |
 | [Demand Signals](deliverables/demand-signals.md) | Why education leaders are switching -- patterns from ten summit panels |
 | [EdTech Pilot Playbook](deliverables/edtech-pilot-playbook/) | Evaluation and diagnostic frameworks for EdTech pilots |
-| [Video Metadata](video-metadata.json) | Structured data for all transcribed sessions (speakers, URLs, schedule matches) |
 
 ## Quick Start
 
@@ -27,9 +26,7 @@ Transcripts, analysis, and session data from the ASU+GSV Summit 2026 (April 12-1
 
 **If you want to explore:** Browse the [Full Session Index](schedule/full-session-index.md). Sessions with a 🎙️ have full transcripts. Sessions with ⭐ were flagged as ScaleU-relevant.
 
-**If you want raw data:** The `transcripts/` directory has sessions with YAML frontmatter (speakers, track, tags, dates, YouTube links). The `video-metadata.json` file has structured data for all transcribed sessions.
-
-**If you want to revisit the processing workflow:** See the [original transcription utilities and their prerequisites](tools/README.md). They are optional and are not needed to read or update this library.
+**If you want raw data:** The `transcripts/` directory has sessions with YAML frontmatter (speakers, track, tags, dates, YouTube links).
 
 ## About
 

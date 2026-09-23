@@ -4,7 +4,8 @@ Explain the reader's problem, what changes, and which sources support it.
 
 ## Verification
 
-- [ ] I ran `make check`, or the PR's Validate check passed.
+- [ ] I worked through the review checklist in CONTRIBUTING.md.
+- [ ] This change adds no code or structured data files.
 - [ ] I checked the rendered pages and navigation affected by this change.
 - [ ] I preserved attribution and the applicable collection licenses.
 - [ ] I confirmed that all added material is suitable for public release.
