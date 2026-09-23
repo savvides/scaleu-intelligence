@@ -30,11 +30,7 @@ The guides bring recurring questions together. Conference collections retain the
 
 Research summaries point to papers; conference transcripts record what speakers said; frameworks offer practitioner judgment. A speaker's claim about a product is not an independently verified result. Dates in imported material describe the original publication or update, not a new fact check. Verify current regulations, company status, and program terms at their primary sources before acting on them.
 
-You can read everything on GitHub, download individual files, or clone the library. No application or installation is required.
-
-```sh
-git clone https://github.com/savvides/scaleu-intelligence.git
-```
+You can read everything on GitHub, download individual files or a [release](https://github.com/savvides/scaleu-intelligence/releases/latest), or clone the [repository](https://github.com/savvides/scaleu-intelligence) with Git. No application or installation is required.
 
 For use with an AI assistant, provide the files relevant to your question and ask it to cite the document, underlying source, and date, while separating evidence from interpretation.
 

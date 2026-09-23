@@ -216,7 +216,7 @@ Five implications for anyone building or buying EdTech tools right now.
 
 ## Methodology
 
-This analysis uses a switching-behavior lens adapted from the Jobs-to-be-Done framework. Each panel transcript was analyzed for the forces that drove a change in behavior: what pushed people away from the old approach, what pulled them toward the new one, what anxieties almost stopped the switch, and what habits kept them in the old way. Round one drew on five panels selected for breadth across career navigation, AI tutoring, and corporate workforce. Round two drew on five additional panels selected after a fuller corpus became available, biased toward the institutional-operating-layer angles round one undersampled. The structured data behind this document is available in the repository's [.jtbd/](../.jtbd/) directory for anyone who wants to examine or extend the analysis.
+This analysis uses a switching-behavior lens adapted from the Jobs-to-be-Done framework. Each panel transcript was analyzed for the forces that drove a change in behavior: what pushed people away from the old approach, what pulled them toward the new one, what anxieties almost stopped the switch, and what habits kept them in the old way. Round one drew on five panels selected for breadth across career navigation, AI tutoring, and corporate workforce. Round two drew on five additional panels selected after a fuller corpus became available, biased toward the institutional-operating-layer angles round one undersampled.
 
 ---
 
