@@ -48,7 +48,7 @@ Use `main` for the latest edits or a [tagged release](https://github.com/savvide
 
 Cite the library with the version or commit you used:
 
-> Savvides, P. (2026). *ScaleU Intelligence* (Version 1.0.0). https://github.com/savvides/scaleu-intelligence
+> Savvides, P. (2026). *ScaleU Intelligence* (Version 2.0.0). https://github.com/savvides/scaleu-intelligence/releases/tag/v2.0.0
 
 Cite individual authors, speakers, and original papers when drawing on their work; the library citation does not replace those credits. Reuse follows the [license for the relevant collection](LICENSE.md): this repository combines MIT and CC BY 4.0 material.
 
