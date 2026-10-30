@@ -1,8 +1,10 @@
 # JTBD Switch interviews for edtech
 
-How to discover and validate real demand by interviewing the people who already switched — and reading the four forces that pushed them. For edtech founders selling to K-12 districts, universities, or corporate L&D who keep hearing "this sounds great" and want to know whether anyone will actually buy.
+**The question it answers:** who should I interview, and what should I ask, to find out whether anyone will actually switch to (and pay for) what I'm building? Use it when you keep hearing "this sounds great" and can't tell whether that means demand.
 
-*Adapted from the JTBD Switch toolkit (github.com/savvides/jtbd, MIT), itself based on Bob Moesta's Jobs-to-be-Done "Switch" method.*
+How to discover and validate real demand by interviewing the people who already switched — and reading the four forces that pushed them. **Audience:** the method works for K–12 districts, universities, and corporate L&D alike; the examples mix all three and are labeled by role.
+
+*Adapted from the [JTBD Switch toolkit](https://github.com/savvides/jtbd) (MIT), itself based on Bob Moesta's Jobs-to-be-Done "Switch" method.*
 
 People don't buy products. They hire them to make progress. A registrar had a routine before your tool showed up — transcripts in a shared drive, a wait-list spreadsheet, a part-time evaluator. It was terrible, and they were getting the job done anyway. Then something broke. They looked around, picked one option, and switched. Reconstruct that whole story and you learn exactly what to build and how to sell it. Survey the concept and you learn nothing. See [operator-lessons.md](https://github.com/savvides/edtechfounderstack/blob/800fcaf5fcc187b3ee3c35f4224cbcdc560548a6/data/operator-lessons.md): count the workaround, don't survey the concept.
 
@@ -22,6 +24,8 @@ Pull of the new          ──►     ◄──  Habit of the present
 solution
 "what is attracting me"            "what I am used to"
 ```
+
+The example quotes under each force below are illustrative, written to show what each force sounds like. They are not data from real interviews.
 
 Score each force you find on a 1-10 intensity scale: 10 is the dominant driver of the decision, 1 is barely relevant. The number is directional, not precise — a 3 versus an 8 is meaningful, a 6 versus a 7 is noise. The point is to rank what actually moved the buyer, not to grade them.
 
@@ -110,7 +114,7 @@ Open with: *"Tell me about the last time you switched from one [category] to ano
 4. **First thought:** "Take me back to the very first moment you thought 'maybe I should look for something different.' What happened?"
 5. **Consuming:** "After you decided, what was onboarding like? What was harder than expected?"
 
-The trigger from passive to active is gold. It's usually a specific event — a missed deadline, a bad board meeting, a public embarrassment in front of a superintendent. Probe until you get the story. And shut up: the best interviewers talk about 20% of the time. Ask, then wait.
+The trigger from passive to active is gold. It's usually a specific event — a missed deadline, a bad board meeting, a public embarrassment in front of a superintendent. Probe until you get the story. And shut up: a common rule of thumb is to talk no more than about 20% of the time. Ask, then wait.
 
 ### Four interview contexts
 
@@ -146,7 +150,7 @@ These tell you you're getting speculation, not memory. Redirect on the spot.
 | **Feature list** | "It has dashboards and an API and…" | "Which mattered most to you? Why that one?" |
 | **Pleasing you** | "Your product is great because…" | "I appreciate that, but I'm after the messy middle. What almost stopped you?" |
 
-The big one is **"I would."** Hypothetical language means they're inventing an answer, not recalling a behavior. "I would definitely use a tool that does X" is a wish, not evidence. The same problem shows up in surveys: "would you use this" predicts nothing, while a count of people already hacking a workaround predicts everything (see [operator-lessons.md](https://github.com/savvides/edtechfounderstack/blob/800fcaf5fcc187b3ee3c35f4224cbcdc560548a6/data/operator-lessons.md)). Switch interviews are trustworthy precisely because they ask what someone *did*, in a setting where one buyer decides — which is exactly the institutional buying setup. "I surveyed eight teachers" is noise; the registrar who already runs a manual workaround is signal.
+The big one is **"I would."** Hypothetical language means they're inventing an answer, not recalling a behavior. "I would definitely use a tool that does X" is a wish, not evidence. The same problem shows up in surveys: "would you use this" predicts little, while a count of people already hacking a workaround is much stronger evidence (see [operator-lessons.md](https://github.com/savvides/edtechfounderstack/blob/800fcaf5fcc187b3ee3c35f4224cbcdc560548a6/data/operator-lessons.md)). Switch interviews are trustworthy precisely because they ask what someone *did*. In institutions, though, no one person decides: each approver has their own forces. Interview the budget holder and at least one approver (IT, procurement), not just the user — see question 5 in [demand-validation.md](demand-validation.md#5-who-else-must-say-yes). "I surveyed eight teachers" is noise; the registrar who already runs a manual workaround is signal.
 
 After three or more interviews, patterns emerge: the same push event, the same anxiety blocking the same buyers, the same habit you have to break. That repeated pattern — not any single story — is the job your product actually serves.
 
