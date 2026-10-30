@@ -2,7 +2,7 @@
 
 Release dates describe library snapshots, not new factual review dates for the source material. See [releases](https://github.com/savvides/scaleu-intelligence/releases) for downloads and [commit history](https://github.com/savvides/scaleu-intelligence/commits/main/) for edits between releases.
 
-## Unreleased
+## 2.1.0 · 2026-10-30
 
 - Added the first field note, on SETDA's 2026 State EdTech Trends Report, and its K-12 state findings to the procurement, K-12 regulation, and evidence tiers guides. State AI requirements in Ohio, North Carolina, and Tennessee were checked at the statute.
 
