@@ -41,6 +41,11 @@ The person who uses your product and the person who buys it are rarely the same 
 *   **Motivation:** Faculty workload and student success in *their* specific discipline.
 *   **The Secret:** In ScaleU's experience, this is the highest-leverage persona in higher ed. They often control a discretionary budget and can approve a small pilot; purchases above the institution's threshold go to procurement (see the [procurement guide](../selling/procurement-guide.md)).
 
+### The Registrar and Enrollment Management (The Process Owners)
+*   **Who:** The offices that run admissions, transcript evaluation, transfer credit, registration, and degree audits. Titles and ownership vary: a registrar, a transfer or articulation office, admissions, or a VP of enrollment management.
+*   **Motivation:** Processing speed, accuracy, and enrollment yield (how many admitted students actually start).
+*   **How to sell:** Ask early who owns the process and whose numbers it moves, such as time-to-decision or admitted students who never enroll. These are usually central offices, so the department-first approach in the [procurement guide](../selling/procurement-guide.md) may not apply. The budget may sit with enrollment management rather than the office doing the work.
+
 ### Individual Faculty (The Skeptic)
 *   **Motivation:** Their own time and "Academic Freedom."
 *   **What they hate:** Being told how to teach by a software company.

@@ -33,7 +33,7 @@ Everyone—students, faculty, advisors—will tell you that "X is the problem." 
 
 Qualitative data in education tends to overrepresent the people who struggled: they have complaints to register. The silent majority who succeeded leave no trace in your interviews.
 
-*Example from the SXSW EDU 2026 talk:* across large online programs, stakeholders widely blamed accelerated 7.5-week formats for attrition. Yet the talk reported that controlled outcome analyses in specific disciplines found students in shorter sessions passed at higher rates and withdrew less. Those analyses are not published here.
+*Example from the SXSW EDU 2026 talk:* across large online programs, stakeholders widely blamed accelerated 7.5-week formats for attrition. Yet the talk reported that controlled outcome analyses in specific disciplines found students in shorter sessions passed at higher rates and withdrew less. Those analyses are not published here, and the claim is pending verification against published research.
 
 **The ScaleU Test:** If every stakeholder tells you the same story, stop. That's a signal to validate quantitatively before you write a single line of code. If the data contradicts the narrative, the real opportunity is where nobody is looking.
 

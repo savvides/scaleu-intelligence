@@ -58,6 +58,7 @@ Ask the buyer: *What budget would this come from?* Acceptable answers (higher-ed
 - "Our Title III Strengthening Institutions grant has a line for this" (the federal [Strengthening Institutions Program](https://www.federalregister.gov/d/2026-10623) for colleges under Title III of the Higher Education Act; in K–12, "Title III" means English-learner funding, a different program)
 - "IT security budget"
 - "Student success allocation"
+- "Enrollment management budget"
 - "We have a line item for retention tools"
 
 Unacceptable answers:
