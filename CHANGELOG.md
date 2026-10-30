@@ -2,7 +2,7 @@
 
 Release dates describe library snapshots, not new factual review dates for the source material. See [releases](https://github.com/savvides/scaleu-intelligence/releases) for downloads and [commit history](https://github.com/savvides/scaleu-intelligence/commits/main/) for edits between releases.
 
-## Unreleased
+## 2.0.0 · 2026-10-30
 
 - Added `AGENTS.md` (imported by `CLAUDE.md`) telling AI assistants to start in `guides/`, cite sources, keep evidence types apart, and avoid bulk-reading transcripts.
 - Reorganized the library for founders and their AI assistants: `guides/` grouped by founder question (demand, selling, evidence, product, market), `sources/` for research, events, and field notes, and `about/` for provenance and licenses. Contributor files moved to `.github/`.
