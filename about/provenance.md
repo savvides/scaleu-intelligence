@@ -14,12 +14,12 @@ This library was consolidated on September 19, 2026, from the three repositories
 
 At import, a machine-readable manifest recorded every tracked file at those commits: its original path and SHA-256 hash, and either its destination or an exclusion reason. It was removed when the library became Markdown-only; it remains in this repository's history at [release v1.0.0](https://github.com/savvides/scaleu-intelligence/blob/v1.0.0/provenance/migration.json). Later maintenance belongs in Git history.
 
-The 143 imported files include the founder reference material, 19 research topics, 74 summit transcripts, reports, schedules, structured session and demand-analysis data, the original processing scripts, and both SXSW slide formats. The original repositories and their histories remain available at the links above. Their Git histories were not merged into this repository, which would also import material excluded below.
+The 143 imported files include the founder reference material, 19 research topics, 74 summit transcripts, reports, schedules, and both SXSW slide formats. The original repositories and their histories remain available at the links above. Their Git histories were not merged into this repository, which would also import material excluded below.
 
 ## Exclusions
 
 - `edtechfounderstack/data/operator-lessons.md`: the source [license](licenses/founder-stack.md) explicitly prohibits redistribution as raw content. The file is not included. Existing references link to its pinned original location.
-- Source-specific agent instructions, workflows, contribution templates, repository documentation, ignore files, and Founder Stack promotional HTML: replaced by the unified navigation, contribution guide, ignore rules, and validation workflow. Each excluded path is listed individually in the manifest, and remains available in its source history.
+- Source-specific agent instructions, workflows, contribution templates, repository documentation, ignore files, and Founder Stack promotional HTML: replaced by the unified navigation, contribution guide, and ignore rules. Each excluded path remains available in its source history.
 
 Conference changelogs and SXSW presentation assets are retained as historical material. The sources' licenses are preserved; see [license scopes](../LICENSE.md).
 
@@ -32,10 +32,9 @@ Conference changelogs and SXSW presentation assets are retained as historical ma
 - Pointed the buyer-demand guide to the local summit collection. Changed references to the excluded operator-lessons file to links to the original source.
 - Added source-context notes to the research and event entry pages. Clarified that the research total counts paper entries, with possible overlap between topics.
 - Replaced the SXSW page's outdated installable-skills claim with links to the actual guides. Updated its contribution-guide path.
-- Documented the original processing utilities' working directories and prerequisites. The scripts and their original requirements are unchanged; their private inputs are not part of the public sources and were not imported.
-- Removed trailing spaces and extra final blank lines flagged by `git diff --check` in the imported files. These whitespace edits are recorded in the manifest.
+- Removed trailing spaces and extra final blank lines in the imported files.
 
-At consolidation, transcripts retained their text, with whitespace-only cleanup where flagged. Research topic tables, slide files, and license notices were byte-identical to their sources. No new meeting observations or research claims were invented for the consolidation. Later research edits use neutral topic framing and attribute interpretations to the cited authors; the original source and import hashes remain unchanged.
+At consolidation, transcripts retained their text, with whitespace-only cleanup. Research topic tables, slide files, and license notices were byte-identical to their sources. No new meeting observations or research claims were invented for the consolidation. Later research edits use neutral topic framing and attribute interpretations to the cited authors.
 
 ## Later reorganization
 
@@ -45,6 +44,8 @@ The library was later reorganized into `guides/` (grouped by founder question), 
 - SXSW EDU: the slide deck (PDF and PowerPoint), the social preview image, and the standalone `diagnostic/` page, whose five questions appear in the [demand validation guide](../guides/demand/demand-validation.md).
 - The repository's own validation script, tests, workflow, and citation file.
 
-## Publication
+## Review and publication
+
+Changes are reviewed by hand against the [contribution guide's review checklist](../.github/CONTRIBUTING.md#review-checklist); no automated checks run. Review does not establish URL availability or factual accuracy.
 
 The source repositories have not been changed, redirected, or archived. This consolidation is reviewed through a pull request in `scaleu-intelligence`; merging publishes the library on GitHub. Retiring the source repositories is a separate maintainer action after the destination is accepted.
