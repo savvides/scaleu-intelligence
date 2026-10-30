@@ -29,7 +29,7 @@
 - A written data retention policy; children's data may not be kept indefinitely
 - A written children's information security program
 
-The FTC proposed codifying rules for edtech and school authorization but did not finalize them, to avoid conflict with possible changes to FERPA regulations. It said it will continue to enforce COPPA in schools under its existing guidance (below).
+The FTC proposed codifying rules for edtech and school authorization but did not finalize them. The Department of Education had said it intended to propose FERPA amendments, and the FTC wanted to avoid a conflict. No FERPA proposed rule had appeared in the Federal Register by the October 2026 recheck. It said it will continue to enforce COPPA in schools under its existing guidance (below).
 
 **What it means for edtech founders:**
 - If your product is directed at children under 13, or you have actual knowledge that a user is under 13, COPPA applies.

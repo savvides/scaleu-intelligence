@@ -10,6 +10,8 @@ Two independent trackers, reported as published. They define "edtech" differentl
 - **HolonIQ (global):** $2.6B of edtech venture funding in 2025, about 11% more than in 2024 ([published February 6, 2026](https://www.holoniq.com/notes/edtech-hits-2-6b-in-investment-as-the-market-stabilizes-bigger-bets-in-ai-and-workforce-training)). About $1B in the first half of 2026, 26% below the $1.35B of the first half of 2025 ([published July 14, 2026](https://www.holoniq.com/notes/1b-in-edtech-venture-capital-to-date-funding-falls-short-of-last-years-midpoint-asia-mena-buck-the-trend)).
 - **Crunchbase News:** about $2.8B globally and $1.2B in the US for 2025 year-to-date, seed through growth stage, roughly flat with 2024. These figures exclude general-purpose AI platforms ([published November 21, 2025](https://news.crunchbase.com/venture/edtech-funding-stays-low/)).
 
+Neither tracker breaks out K-12 or AI products separately. For individual 2025 K-12 AI rounds, see the [competitive landscape](competitive-landscape.md#ai-specific-emerging-2025-2026).
+
 Federal sources of non-dilutive money also changed in 2025–2026 (see [Grants](#grants)): SBIR/STTR authority lapsed for six months, and ESSER pandemic relief has ended.
 
 ## Who Funds EdTech
@@ -70,11 +72,11 @@ Activity notes reflect what each firm's own site or announcements showed in Octo
 
 ### Accelerators and Incubators
 
-Terms as published on each program's site, checked October 2026.
+Terms as published on each program's site, checked October 2026. ASU ScaleU is run by this library's maintainer.
 
 | Program | Stage | Investment | Equity | Key benefit |
 |---------|-------|------------|--------|-------------|
-| [ASU ScaleU](https://scaleu.org/faq) | Post-traction (usually $10K+ MRR or 500+ active users) | No direct funding; every pilot is paid | 1%, paid in kind | Paid pilot and evidence at ASU, usually 12–18 months |
+| [ASU ScaleU](https://scaleu.org/faq) | Post-traction (usually $10K+ MRR or 500+ active users) | No cash investment during the program; the FAQ says every pilot is paid | 1% to ASU, paid in kind rather than cash | Pilot and evidence at ASU, usually 12–18 months |
 | [Y Combinator](https://www.ycombinator.com/deal) | Early | $500K total: $125K for 7% plus $375K on an uncapped MFN SAFE | 7% plus the SAFE | Network, brand, demo day. YC absorbed Imagine K12, the former edtech accelerator, in [2016](https://www.ycombinator.com/blog/ik12-plus-yc). |
 | [Techstars](https://www.techstars.com/equity-back-guarantee-the-details) | Early | $220K: $20K for 5% plus a $200K uncapped MFN SAFE (terms dated April 2025) | 5% plus the SAFE | Mentorship network |
 | [Siakam EdTech Engine](https://dmz.torontomu.ca/edtech) (PS43 Foundation with DMZ) | Validated MVP, North America | $50K grant-prize pool | None | K-12, youth learning, and AI skills focus |
