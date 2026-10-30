@@ -4,6 +4,16 @@ In edtech, "evidence" isn't a marketing buzzword—it's a regulatory framework. 
 
 Most founders overestimate their evidence. If you tell a district CTO you have "strong evidence" because a teacher gave you a quote, you've just lost the deal.
 
+## Who this applies to
+
+**K-12 founders.** The four tiers are defined in the Elementary and Secondary Education Act, as amended by ESSA ([20 U.S.C. 7801(21)](https://www.law.cornell.edu/uscode/text/20/7801)). That definition covers state, district, and school activities: strong evidence comes from an experimental study, moderate from a quasi-experimental study, promising from a correlational study with statistical controls for selection bias, and "demonstrates a rationale" from research-based reasoning plus ongoing evaluation. The costs, timelines, sample sizes, and investor expectations on this page are ScaleU practitioner estimates, not part of the law.
+
+**Higher-ed founders.** ESSA's definition is written for state, district, and school activities, not colleges and universities. For higher ed, these sources apply:
+
+- **Federal grants.** The Department of Education's general grant regulations define the same four levels in [34 CFR 77.1](https://www.law.cornell.edu/cfr/text/34/77.1). They apply across the Department's regulations, including those of its Office of Postsecondary Education ([34 CFR subtitle B, chapter VI](https://www.law.cornell.edu/cfr/text/34/subtitle-B)). These definitions are tied to What Works Clearinghouse (WWC) standards, and a single experimental study counts as strong evidence only if it includes at least 350 students or other individuals across more than one site, such as more than one postsecondary campus.
+- **Published reviews.** WWC practice guides grade the evidence for postsecondary practices. One example is [Effective Advising for Postsecondary Students](https://ies.ed.gov/ncee/WWC/PracticeGuide/28) (2021). Cite one as the research base for your logic model if its studies match your population.
+- **What university buyers ask for.** The Cracking Higher Ed framework uses a retention analytics tool as its example of how evidence needs differ by role: the provost wants year-over-year retention and the advisor wants proof of time saved ([Cracking Higher Ed](../../sources/events/2026-sxsw-edu/README.md#3-identify-the-buyer-not-just-the-user)). At an ASU+GSV 2026 roundtable, an innovation director at a business school said results from two or three peer universities would help him make the case internally ([EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md#what-we-heard-from-institutional-leaders)). See [pilot benchmarks](../selling/pilot-benchmarks.md) for how to design a pilot that produces this evidence.
+
 ## The Four Tiers (The Hard Truth)
 
 ### Tier 1: Strong Evidence (The Gold Standard)
@@ -59,3 +69,5 @@ If you're building an AI-native product, the ESSA tiers are necessary but not su
 
 ---
 *Last updated: 2026-04-27*
+
+*Edited 2026-10-30: added who this applies to and higher-ed sources. The tier descriptions and estimates were not rechecked.*

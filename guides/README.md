@@ -18,13 +18,13 @@ Each folder answers one founder question. To add a guide, put it in the folder w
 ## Selling: how does an institution buy?
 
 - [EdTech pilot playbook](selling/edtech-pilot-playbook/README.md): readiness checklist, evaluation criteria, and a 12-week pilot method.
-- [Pilot benchmarks](selling/pilot-benchmarks.md): design and evaluate a pilot.
+- [Pilot benchmarks](selling/pilot-benchmarks.md): sizes, timelines, and metrics for a pilot, including advising and retention pilots.
 - [Procurement guide](selling/procurement-guide.md): the path from a champion to a contract.
 - Source: [Cracking Higher Ed](../sources/events/2026-sxsw-edu/README.md), the full SXSW EDU framework.
 
 ## Evidence: how strong is a claim?
 
-- [Evidence tiers](evidence/evidence-tiers.md): understand the strength of an evidence claim.
+- [Evidence tiers](evidence/evidence-tiers.md): understand the strength of an evidence claim (ESSA tiers for K-12, with higher-ed pointers).
 
 ## Product: will it work, and can it be copied?
 

@@ -133,6 +133,7 @@ The biggest opportunities are in the first four phases—Pre-enroll, Apply, Onbo
 2.  **Check Saturation:** If you're in Course Experience, move "upstream" to an underserved phase that causes the problem.
 3.  **Follow the Budget:** The person feeling the pain (the student) is rarely the one who pays the bill. Find the provider-side job.
 4.  **Pressure-test it:** Run a job through [demand-validation.md](demand-validation.md) before you build, and use [jtbd-interviews.md](jtbd-interviews.md) to discover and validate jobs of your own.
+5.  **Design the pilot:** Use the [EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md) and [pilot benchmarks](../selling/pilot-benchmarks.md). For advising and retention jobs (7, 9, 11, and 12), see [advising, retention, and persistence pilots](../selling/pilot-benchmarks.md#advising-retention-and-persistence-pilots).
 
 ---
 *Last updated: 2026-05-30*

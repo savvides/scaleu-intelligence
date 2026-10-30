@@ -8,6 +8,7 @@ Release dates describe library snapshots, not new factual review dates for the s
 - Made the library Markdown only. Converted the ASU+GSV JTBD analyses to Markdown with their content preserved. Removed the validation script, tests, workflow, citation file, ASU+GSV processing scripts and metadata file, and the SXSW slide deck and preview image; the originals remain at their pinned source commits.
 - Moved the EdTech pilot playbook from the ASU+GSV deliverables to `guides/selling/`, so the pilot entry point stays within the guides.
 - Removed the standalone SXSW diagnostic page, which duplicated the demand validation guide.
+- Made the EdTech pilot playbook the canonical source for pilot readiness filters and the decision gate. Pilot benchmarks now link to it, reconcile its cohort and timeline figures, label the pilot-to-contract rates as unsourced practitioner estimates, and cover advising, retention, and persistence pilots. Clarified the playbook's evidence window, cohort size, and HECVAT spelling. Evidence tiers and the procurement guide now state their K-12 scope and add sourced pointers for higher ed.
 
 ## 1.0.0 · 2026-09-19
 

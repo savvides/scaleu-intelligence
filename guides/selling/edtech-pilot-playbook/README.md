@@ -85,7 +85,7 @@ Once you know what you need, assess whether your institution can actually run a 
 | What's your procurement threshold before RFP is required? | You know the dollar amount (e.g., $50K, $100K) | You're not sure |
 | Do you have a team that can run a 12-week pilot? | Instructional designers, IT support, faculty champions identified | "We'd need to assemble a team" |
 | Can you provide a cohort of 200+ students? | A specific course, program, or population identified | "We'd need to find willing faculty" |
-| Does your institution have a security review process (FERPA, SOC 2, HECCVAT)? | Process exists, timeline is known | No formal process or timeline unknown |
+| Does your institution have a security review process (FERPA, SOC 2, [HECVAT](https://www.educause.edu/hecvat))? | Process exists, timeline is known | No formal process or timeline unknown |
 
 **Scoring:** If you answered "Ready" to 4-5 questions, you can run a structured pilot. 2-3, you can run a lightweight "dirty pilot" to test demand before investing in full process. 0-1, focus on the needs discovery first.
 
@@ -104,10 +104,11 @@ Before scoring, every company must clear these binary gates:
 1. **Institutional buyer exists.** Can you name a specific person at a specific institution who would champion this product? "Higher education" is not a buyer. A Dean of Online Learning at a specific university is.
 2. **The problem is real.** Is there evidence (not assumption) that the stated problem exists and matters to institutional stakeholders?
 3. **A product exists.** Not a pitch deck. Not a prototype. A product that users can actually use today.
-4. **Validation is possible.** Can you design a pilot that produces measurable evidence within 12-18 months?
+4. **Validation is possible.** Can you design a pilot that produces measurable evidence within the 12-18 month sales cycle? The pilot itself runs [12 weeks](#how-to-run-a-pilot-in-12-weeks); outcomes measured in a later term, such as retention, arrive after it ends. See [advising, retention, and persistence pilots](../pilot-benchmarks.md#advising-retention-and-persistence-pilots).
 5. **The founder will engage.** Is the founder willing to treat the pilot as an evidence-generation instrument, not a sales demo?
 
 If any answer is "no," the company is not ready for a structured pilot, regardless of product quality.
+
 
 ### Eight-Dimension Scoring Rubric
 
@@ -146,13 +147,13 @@ A structured pilot that produces actionable evidence, not just "we tried it and 
 ### Week 1-2: Design
 
 1. **State the hypothesis.** Use the template: "[Target population] who use [product] will show [measurable outcome] compared to [control], as measured by [metric] over [time period]."
-2. **Identify the cohort.** Minimum 200 students for statistical significance. Name the course(s), the faculty champion(s), and the IT contact.
+2. **Identify the cohort.** Aim for 200 or more students. This is a practitioner threshold: whether a cohort is large enough for statistical significance depends on the effect size you need to detect. For smaller, classroom-based pilots, see [pilot benchmarks](../pilot-benchmarks.md#participant-scale). Name the course(s), the faculty champion(s), and the IT contact.
 3. **Define success criteria.** What outcome means "go" (proceed to procurement)? What means "pivot" (adjust and re-test)? What means "no-go" (end the relationship)?
 4. **Negotiate terms.** Pilot cost, post-pilot pricing, data ownership, support commitments. Have these conversations before deployment, not after.
 
 ### Week 3-4: Setup
 
-5. **Security review.** FERPA, SOC 2, HECCVAT, LTI 1.3 as applicable. This is where timelines stretch. Start early.
+5. **Security review.** FERPA, SOC 2, HECVAT, LTI 1.3 as applicable. This is where timelines stretch. Start early.
 6. **Technical integration.** LMS integration, SSO, data feeds. For a "dirty pilot," skip full integration: use standalone access with manual enrollment.
 7. **Faculty briefing.** The faculty champion needs to understand the hypothesis, their role, and what data will be collected.
 

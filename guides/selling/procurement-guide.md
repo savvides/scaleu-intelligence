@@ -2,6 +2,8 @@
 
 In edtech, "it's a great product" is only 20% of the battle. The other 80% is understanding how public money moves. If you ignore the calendar and the "magic numbers," your deal will die of old age.
 
+**Who this applies to:** The sales calendar below is for K-12. The threshold table is a general rule of thumb whose roles mix K-12 (principal) and higher ed (department chair); actual thresholds vary by institution and state, and your buyer's policy decides. Higher-ed founders should start with [Higher Ed vs. K-12](#higher-ed-vs-k-12-the-key-differences), [Higher-ed pointers](#higher-ed-pointers), and the field signals from university buyers at the end of this page.
+
 ## The Magic Numbers (Purchase Thresholds)
 
 Prices aren't just about value; they are about what a buyer can approve without a board meeting.
@@ -35,6 +37,13 @@ You sell to the district. If the CTO says "no" because of data privacy, the deal
 Departments and even individual faculty have their own "P-Cards." You can land a dozen $3,000 deals before anyone in central IT even knows you exist.
 *   **The ScaleU Strategy:** Use the "Wedge" approach. Land in a department, prove the outcomes, and use that evidence to pitch the Provost for an enterprise deal.
 
+### Higher-ed pointers
+
+*   **The approval path:** The [higher-ed landscape](../market/highered-landscape.md#procurement-in-higher-ed) traces a deal from faculty champion through department, IT review, procurement, and budget approval, and lists the deal size and cycle at each level.
+*   **Readiness questions to ask your buyer:** The playbook's [readiness assessment](edtech-pilot-playbook/README.md#part-2-readiness-assessment) asks whether the institution has a named budget holder, knows its RFP threshold, and has a security review process with a known timeline.
+*   **Security review:** Many universities ask vendors to complete EDUCAUSE's [HECVAT](https://www.educause.edu/hecvat), a questionnaire on cybersecurity, privacy, IT accessibility, and compliance. Find out early whether your buyer uses it.
+*   **Who needs what evidence:** In the Cracking Higher Ed framework's example, advisors, student affairs, and the provost each want different proof from a pilot. Map the [higher-ed jobs atlas](../demand/higher-ed-jobs-atlas.md) job you serve to its budget holder, and see [pilot benchmarks](pilot-benchmarks.md#advising-retention-and-persistence-pilots) for student-success pilots.
+
 ---
 
 ## ScaleU Pro Tips for Accelerating Deals
@@ -63,3 +72,5 @@ See also [buyer-demand-signals.md](../demand/buyer-demand-signals.md), [pilot-be
 
 ---
 *Last updated: 2026-05-30*
+
+*Edited 2026-10-30: added who this applies to and higher-ed pointers. The thresholds and calendar were not rechecked.*
