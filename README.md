@@ -24,7 +24,7 @@ git clone https://github.com/savvides/scaleu-intelligence.git
 |---|---|---|
 | Finding a problem someone will pay to solve | [Five-question demand diagnostic](guides/demand/demand-validation.md) | [Buyer interviews](guides/demand/jtbd-interviews.md) · [Higher-ed jobs atlas](guides/demand/higher-ed-jobs-atlas.md) |
 | Selling to a school or university | [Buyer personas](guides/demand/buyer-personas.md) | [Procurement](guides/selling/procurement-guide.md) · [Buyer demand signals](guides/demand/buyer-demand-signals.md) |
-| Designing a pilot that can lead to a purchase | [EdTech pilot playbook](sources/events/2026-asu-gsv/deliverables/edtech-pilot-playbook/README.md) | [Pilot benchmarks](guides/selling/pilot-benchmarks.md) · [Evidence tiers](guides/evidence/evidence-tiers.md) |
+| Designing a pilot that can lead to a purchase | [EdTech pilot playbook](guides/selling/edtech-pilot-playbook/README.md) | [Pilot benchmarks](guides/selling/pilot-benchmarks.md) · [Evidence tiers](guides/evidence/evidence-tiers.md) |
 | Building a product that helps people learn | [Learning research](sources/research/README.md) | [Cognitive load](sources/research/cognitive-load.md) · [Feedback](sources/research/formative-assessment.md) |
 | Making decisions about AI | [AI-native framework](guides/product/ai-native-framework.md) | [Risk and trust](guides/product/ai-risk-and-trust.md) · [Defensibility](guides/product/defensibility-moats.md) |
 | Understanding the market | [Competitive landscape](guides/market/competitive-landscape.md) | [Funding](guides/market/funding-landscape.md) · [Summit intelligence report](sources/events/2026-asu-gsv/synthesis/summit-intelligence-report.md) |

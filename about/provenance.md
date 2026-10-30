@@ -39,7 +39,7 @@ At consolidation, transcripts retained their text, with whitespace-only cleanup 
 
 ## Later reorganization
 
-The library was later reorganized into `guides/` (grouped by founder question), `sources/` (research, events, field notes), and `about/`, and reduced to Markdown only. These files were removed and remain in the original repositories at the pinned commits above:
+The library was later reorganized into `guides/` (grouped by founder question), `sources/` (research, events, field notes), and `about/`, and reduced to Markdown only. The EdTech pilot playbook moved from the ASU+GSV deliverables to `guides/selling/` because it is maintained advice rather than event material. These files were removed and remain in the original repositories at the pinned commits above:
 
 - ASU+GSV: the processing scripts in `tools/`, `video-metadata.json`. The `.jtbd/` analyses were converted to Markdown in [jtbd/](../sources/events/2026-asu-gsv/jtbd/README.md) with their content preserved verbatim.
 - SXSW EDU: the slide deck (PDF and PowerPoint), the social preview image, and the standalone `diagnostic/` page, whose five questions appear in the [demand validation guide](../guides/demand/demand-validation.md).

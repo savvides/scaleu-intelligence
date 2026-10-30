@@ -17,10 +17,10 @@ Each folder answers one founder question. To add a guide, put it in the folder w
 
 ## Selling: how does an institution buy?
 
+- [EdTech pilot playbook](selling/edtech-pilot-playbook/README.md): readiness checklist, evaluation criteria, and a 12-week pilot method.
 - [Pilot benchmarks](selling/pilot-benchmarks.md): design and evaluate a pilot.
 - [Procurement guide](selling/procurement-guide.md): the path from a champion to a contract.
-- [EdTech pilot playbook](../sources/events/2026-asu-gsv/deliverables/edtech-pilot-playbook/README.md): diagnostic and evaluation frameworks from ASU+GSV 2026.
-- [Cracking Higher Ed](../sources/events/2026-sxsw-edu/README.md): the full SXSW EDU framework and presentation.
+- Source: [Cracking Higher Ed](../sources/events/2026-sxsw-edu/README.md), the full SXSW EDU framework.
 
 ## Evidence: how strong is a claim?
 

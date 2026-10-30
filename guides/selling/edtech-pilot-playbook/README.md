@@ -13,7 +13,7 @@ Built from 4,000+ company reviews, 30+ paid pilots, and conversations with insti
 | Start with the [Pilot Readiness Checklist](#pilot-readiness-checklist) to figure out what you actually need and whether you're ready to test it. | Start with the [Evaluation Criteria](#evaluation-criteria) to see what institutions look for when they assess your product. |
 | Then read [How to Run a Pilot in 12 Weeks](#how-to-run-a-pilot-in-12-weeks) for a step-by-step methodology. | Then read [What Institutions Actually Care About](#what-institutions-actually-care-about) to understand the buyer's real priorities. |
 
-For founders looking for a deeper diagnostic on selling into higher education, see [Cracking Higher Ed](../../../2026-sxsw-edu/README.md), a companion framework with a 5-question demand validation tool and a jobs atlas mapping 15+ institutional roles.
+For founders looking for a deeper diagnostic on selling into higher education, see [Cracking Higher Ed](../../../sources/events/2026-sxsw-edu/README.md), a companion framework with a 5-question demand validation tool and a jobs atlas mapping 15+ institutional roles.
 
 ---
 
@@ -204,7 +204,7 @@ ScaleU has reviewed 4,000+ EdTech companies and run 30+ paid institutional pilot
 
 ### Related Resources
 
-- **[Cracking Higher Ed](../../../2026-sxsw-edu/README.md)** — A diagnostic framework for EdTech founders validating institutional demand. Includes a 5-question diagnostic and a jobs atlas mapping 15+ institutional roles. Presented at SXSW EDU 2026.
+- **[Cracking Higher Ed](../../../sources/events/2026-sxsw-edu/README.md)** — A diagnostic framework for EdTech founders validating institutional demand. Includes a 5-question diagnostic and a jobs atlas mapping 15+ institutional roles. Presented at SXSW EDU 2026.
 
 ### Contributing
 

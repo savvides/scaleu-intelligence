@@ -16,7 +16,7 @@ Transcripts, analysis, and session data from the ASU+GSV Summit 2026 (April 12-1
 | [Transcripts](transcripts/README.md) | Full session transcripts with speaker metadata, executive summaries, and key quotes |
 | [Roundtable Memo](deliverables/roundtable-memo.md) | Synthesis from "What If Universities Stopped Running the Same Pilot Twice?" |
 | [Demand Signals](deliverables/demand-signals.md) | Why education leaders are switching -- patterns from ten summit panels |
-| [EdTech Pilot Playbook](deliverables/edtech-pilot-playbook/) | Evaluation and diagnostic frameworks for EdTech pilots |
+| [EdTech Pilot Playbook](../../../guides/selling/edtech-pilot-playbook/README.md) | Evaluation and diagnostic frameworks for EdTech pilots. First published with this collection; now maintained with the founder guides. |
 | [JTBD switch data](jtbd/README.md) | Structured switching analyses behind the demand signals |
 
 ## Quick Start
