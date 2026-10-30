@@ -68,9 +68,24 @@ Field signals from a roundtable of university administrators and founders at the
 
 *Source: ASU+GSV 2026 Summit Intelligence — ScaleU. CC BY 4.0.*
 
+---
+
+## What state edtech offices told SETDA (K-12, 2026)
+
+SETDA's [2026 State EdTech Trends Report](https://www.setda.org/priorities/state-trends/) surveyed state agency leaders: 73 responses from 45 states and one territory. These are state officials, not district buyers, but state guidance and purchasing cooperatives shape what districts ask of you. Figures are shares of respondents. Details and page numbers are in the [field note](../../sources/notes/2026-10-30-setda-state-edtech-trends-2026.md).
+
+- **States are writing buying standards.** 53% have published guidance on buying AI-enabled tools. That guidance draws on the EdTech Quality Collaborative's [five quality indicators](https://digitalpromise.org/initiative/edtech-quality-collaborative/): safe, evidence-based, inclusive, usable, interoperable. Among states with such guidance, 96% include the safe indicator, and the share including the evidence-based indicator rose from 45% to 79% in a year.
+- **Privacy decides first.** Data privacy and security carry the most weight in state purchasing decisions (82%), ahead of evidence of effectiveness (50%) and accessibility, usability, or interoperability (32% each).
+- **Your claims alone won't be believed.** 68% said it is hard to independently verify vendor claims about AI products. When deciding, states rely on national organizations (62%), peer states (55%), and independent research (48%) well before vendor documentation (28%).
+- **Cooperatives and multi-state bids (Illinois, as reported by its staff).** The Learning Technology Center of Illinois runs a free statewide purchasing cooperative and is helping build a national AI-tools bid through the Association of Educational Purchasing Agencies. Traditional procurement looks for three to five years of financial history, which few new AI companies have. Because districts braid funds from several budgets, curriculum coordinators, business officials, and superintendents now sign off on more orders, not just technology directors.
+
+**The ScaleU read (practitioner view):** Have your privacy package ready before the first demo (see [K-12 regulation](../market/k12-regulatory.md)). Show evidence a reviewer can check without trusting you: your ESSA tier and the study behind it (see [evidence tiers](../evidence/evidence-tiers.md)), a third-party validation if you have one, and a current VPAT. Ask early whether your target districts buy through a cooperative, and what it takes to get on its contract.
+
 See also [buyer-demand-signals.md](../demand/buyer-demand-signals.md), [pilot-benchmarks.md](pilot-benchmarks.md), and [demand-validation.md](../demand/demand-validation.md).
 
 ---
 *Last updated: 2026-05-30*
 
 *Edited 2026-10-30: added who this applies to and higher-ed pointers. The thresholds and calendar were not rechecked.*
+
+*Edited 2026-10-30: added the K-12 state findings from SETDA's 2026 State EdTech Trends Report, checked against the report's pages 22–25.*

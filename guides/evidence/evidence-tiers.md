@@ -71,7 +71,15 @@ If you're building an AI-native product, the ESSA tiers are necessary but not su
 3.  **Find a "Mirror":** Use your pilot data to find where the student's problem meets a provider's capacity constraint.
 4.  **Partner early:** University researchers want publications. You want proof. It's a fair trade.
 
+## What state buyers are starting to check (K-12, 2026)
+
+In SETDA's [2026 State EdTech Trends Report](https://www.setda.org/priorities/state-trends/), a survey of state agency leaders, 52% of respondents said their state collects no data on whether edtech tools are used or effective, and 68% said vendor claims about AI products are hard to verify. Among states with guidance on buying AI tools, the share that includes an evidence-based quality indicator rose from 45% to 79% in a year. North Carolina's agency plans to track app usage from August 2027 and later link it to assessment results, with a stated goal of ending or renegotiating contracts that fall below return-on-investment benchmarks. Its 2026 budget law also requires the agency to review generative AI tools against a framework and publish the list of reviewed tools ([S.L. 2026-41](https://www.ncleg.gov/EnactedLegislation/SessionLaws/PDF/2025-2026/SL2026-41.pdf), section 7.39). Survey details and page numbers are in the [field note](../../sources/notes/2026-10-30-setda-state-edtech-trends-2026.md).
+
+The ScaleU read: most states can't yet compare your usage data with outcomes, but the ones that can will judge renewals on it. Report an outcome tied to your tier, not logins.
+
 ---
 *Last updated: 2026-04-27*
 
 *Edited 2026-10-30: added who this applies to and higher-ed sources. Checked the tier requirements against 20 U.S.C. 7801(21) and 34 CFR 77.1, replaced the Tier 1 sample-size and publication claims with what the statute and regulation require, added the section 1003 rule, and labeled the cost, timeline, buyer, and investor figures as ScaleU estimates. The tier headings, the Tier 2-4 "Reality" descriptions, the AI evidence section, and the ScaleU Take were not rechecked.*
+
+*Edited 2026-10-30: added state buyer findings from SETDA's 2026 State EdTech Trends Report (pages 17–18 and 22–23) and North Carolina's AI tool review requirement, checked against S.L. 2026-41.*
