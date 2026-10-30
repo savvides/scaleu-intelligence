@@ -25,7 +25,7 @@ solution
 "what is attracting me"            "what I am used to"
 ```
 
-The example quotes under each force below are illustrative, written to show what each force sounds like. They are not data from real interviews.
+Treat the example quotes under each force below as illustrations of what each force sounds like, not as evidence.
 
 Score each force you find on a 1-10 intensity scale: 10 is the dominant driver of the decision, 1 is barely relevant. The number is directional, not precise — a 3 versus an 8 is meaningful, a 6 versus a 7 is noise. The point is to rank what actually moved the buyer, not to grade them.
 
