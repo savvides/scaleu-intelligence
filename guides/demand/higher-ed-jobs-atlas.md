@@ -6,7 +6,7 @@
 
 *Source: "Cracking Higher Ed: Why Startups Miss the Mark" — Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0.*
 
-## The Critical Insight
+## Where Most Founders Build
 
 **Most higher-ed edtech founders build for the "Course Experience" phase.** The SXSW EDU 2026 talk put it at about 80% of founders, with 15+ product categories competing. That figure is ScaleU's practitioner estimate, not a published count.
 

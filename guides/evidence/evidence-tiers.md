@@ -1,6 +1,6 @@
 # The ESSA Evidence Ladder
 
-In edtech, "evidence" isn't a marketing buzzword—it's a regulatory framework. The Every Student Succeeds Act (ESSA) defines four tiers of evidence that schools, districts, and states use to decide what to buy.
+In edtech, "evidence" is a regulatory framework, not a marketing buzzword. The Every Student Succeeds Act (ESSA) defines four tiers of evidence that schools, districts, and states use to decide what to buy.
 
 Most founders overestimate their evidence. If you tell a district CTO you have "strong evidence" because a teacher gave you a quote, you've just lost the deal.
 
@@ -14,7 +14,7 @@ Most founders overestimate their evidence. If you tell a district CTO you have "
 - **Published reviews.** WWC practice guides grade the evidence for postsecondary practices. One example is [Effective Advising for Postsecondary Students](https://ies.ed.gov/ncee/WWC/PracticeGuide/28) (2021). Cite one as the research base for your logic model if its studies match your population.
 - **What university buyers ask for.** The Cracking Higher Ed framework uses a retention analytics tool as its example of how evidence needs differ by role: the provost wants year-over-year retention and the advisor wants proof of time saved ([Cracking Higher Ed](../../sources/events/2026-sxsw-edu/README.md#3-identify-the-buyer-not-just-the-user)). At an ASU+GSV 2026 roundtable, an innovation director at a business school said results from two or three peer universities would help him make the case internally ([EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md#what-we-heard-from-institutional-leaders)). See [pilot benchmarks](../selling/pilot-benchmarks.md) for how to design a pilot that produces this evidence.
 
-## The Four Tiers (The Hard Truth)
+## The Four Tiers
 
 ### Tier 1: Strong Evidence (The Gold Standard)
 *   **What it is:** An experimental study, usually a randomized controlled trial (RCT). 34 CFR 77.1 also counts regression discontinuity and single-case designs as experimental studies.

@@ -4,9 +4,9 @@ In edtech, "it's a great product" is only 20% of the battle. The other 80% is un
 
 **Who this applies to:** The sales calendar below is for K-12. The threshold table is a general rule of thumb whose roles mix K-12 (principal) and higher ed (department chair); actual thresholds vary by institution and state, and your buyer's policy decides. Higher-ed founders should start with [Higher Ed vs. K-12](#higher-ed-vs-k-12-the-key-differences), [Higher-ed pointers](#higher-ed-pointers), and the field signals from university buyers at the end of this page.
 
-## The Magic Numbers (Purchase Thresholds)
+## Purchase Thresholds
 
-Prices aren't just about value; they are about what a buyer can approve without a board meeting.
+Price depends on value and on what a buyer can approve without a board meeting.
 
 | The Price | The Process (Typical) |
 |-----------|------------------------|
@@ -17,9 +17,9 @@ Prices aren't just about value; they are about what a buyer can approve without 
 
 ---
 
-## The Sales Calendar: Time is Your Enemy
+## The Sales Calendar
 
-If you pitch K-12 in September, you aren't "early"—you're 9 months late for the budget.
+If you pitch K-12 in September, you're 9 months late for the budget.
 
 *   **Jan - March (The Hunt):** This is when next year's budgets are planned. Be in the room *before* the numbers are locked.
 *   **April - May (The Closing):** Purchase orders (POs) are flying. If you aren't in the system by now, you're waiting until next year.

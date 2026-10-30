@@ -1,6 +1,6 @@
 # AI-Native vs. Decorative AI
 
-Is your product genuinely AI-native, or just traditional software with a chatbot wrapper? This isn't just a technical question—it's a business strategy. Your architecture shapes your pricing, your competitive position, and your ability to raise capital. Use this guide when you're deciding how central AI should be to your product, how to price it, or how to describe it to buyers and investors.
+Is your product genuinely AI-native, or just traditional software with a chatbot wrapper? It's a business question as much as a technical one: your architecture shapes your pricing, your competitive position, and your ability to raise capital. Use this guide when you're deciding how central AI should be to your product, how to price it, or how to describe it to buyers and investors.
 
 **Audience.** Founders building for K–12, higher education, or workforce learning. The criteria apply to all three; the pricing advice addresses institutional buyers.
 
@@ -21,7 +21,7 @@ Is your product genuinely AI-native, or just traditional software with a chatbot
 2. **The Chat Sidebar:** You've added a chatbot that answers questions about your product. If the sidebar disappeared, the product would still solve the user's problem.
 3. **Session Amnesia:** Every interaction starts from zero. The AI doesn't remember the user's history, preferences, or learning patterns across sessions.
 4. **The Novelty Drop-Off:** Users try the AI feature once, say "that's neat," and then go back to using the app the "normal" way. A typical pattern (a rule of thumb, not a measured benchmark): usage peaks in week 1 and dies by week 3.
-5. **Architectural Stagnation:** Your product stays the same regardless of base model improvements. You're wrapping a static API call, not leveraging a model's reasoning engine.
+5. **Architectural Stagnation:** Your product stays the same regardless of base model improvements. You're wrapping a static API call, not using a model's reasoning.
 
 ## The Removal Test
 
@@ -57,7 +57,7 @@ K-12 and Higher Ed procurement systems *hate* usage-based pricing. They need a p
 
 Don't force AI into a job that doesn't need it. Bolted-on AI is the right call when:
 - The core problem is structural (e.g., procurement, scheduling, payments) and doesn't require a reasoning engine.
-- The AI is genuinely just an efficiency booster for a mature product.
+- The AI is only an efficiency booster for a mature product.
 - Your buyers are risk-averse and suspicious of "black box" algorithms.
 
 **Know your game.** Bolted-on products win through sales and distribution. AI-native products win through better results and lower costs at scale.

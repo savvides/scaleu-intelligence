@@ -73,7 +73,7 @@ If the answer is "nobody specifically," the pilot will die from lack of ownershi
 
 Even if the answer is "nothing formal," there's always a workaround: spreadsheets, manual processes, adjunct labor, duct-taped tools. Name the workaround and estimate what it costs in time, money, or outcomes.
 
-If the current state is genuinely "nothing" and no one is bothered, the problem isn't painful enough to sustain a pilot.
+If the current state is "nothing" and no one is bothered, the problem isn't painful enough to sustain a pilot.
 
 ### Part 2: Readiness Assessment
 
@@ -142,7 +142,7 @@ Pure software is increasingly exposed to AI substitution. The question is not wh
 
 ## How to Run a Pilot in 12 Weeks
 
-A structured pilot that produces actionable evidence, not just "we tried it and it was fine."
+A structured pilot that produces evidence the institution can act on, not just "we tried it and it was fine."
 
 ### Week 1-2: Design
 

@@ -51,7 +51,7 @@ Students describe "teaching myself" and "absent instructors." Faculty describe "
 
 These aren't two separate problems. They are the same structural constraint described from two different positions. Growing enrollment reduces time per student, which degrades feedback, which causes disengagement.
 
-**The ScaleU Test:** When you hear a student experience problem, find its mirror on the provider side. The tool that solves the provider's capacity job usually solves the student's experience job as a byproduct. **Crucial:** The provider side is where the budget and procurement authority live.
+**The ScaleU Test:** When you hear a student experience problem, find its mirror on the provider side. The tool that solves the provider's capacity job usually solves the student's experience job as a byproduct. The provider side is where the budget and procurement authority live.
 
 ---
 

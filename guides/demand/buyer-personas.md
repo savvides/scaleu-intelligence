@@ -10,7 +10,7 @@ The person who uses your product and the person who buys it are rarely the same 
 
 ### The District CTO (The Gatekeeper)
 *   **Motivation:** Data privacy and zero downtime. They don't care about your pedagogy; they care about FERPA and SSO.
-*   **What gets them promoted:** A seamless, secure rollout with zero parent complaints about data.
+*   **What gets them promoted:** A smooth, secure rollout with zero parent complaints about data.
 *   **What gets them fired:** A data breach or a system crash during high-stakes testing.
 *   **The ScaleU Take:** If you don't have a DPA (Data Privacy Agreement) and a VPAT ready, don't even call them.
 
@@ -39,7 +39,7 @@ The person who uses your product and the person who buys it are rarely the same 
 
 ### The Department Chair (The Practical Champion)
 *   **Motivation:** Faculty workload and student success in *their* specific discipline.
-*   **The Secret:** In ScaleU's experience, this is the highest-leverage persona in higher ed. They often control a discretionary budget and can approve a small pilot; purchases above the institution's threshold go to procurement (see the [procurement guide](../selling/procurement-guide.md)).
+*   **Why they matter:** In ScaleU's experience, this is the highest-leverage persona in higher ed. They often control a discretionary budget and can approve a small pilot; purchases above the institution's threshold go to procurement (see the [procurement guide](../selling/procurement-guide.md)).
 
 ### The Registrar and Enrollment Management (The Process Owners)
 *   **Who:** The offices that run admissions, transcript evaluation, transfer credit, registration, and degree audits. Titles and ownership vary: a registrar, a transfer or articulation office, admissions, or a VP of enrollment management.
