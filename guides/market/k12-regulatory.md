@@ -110,6 +110,19 @@ No federal statute specific to AI in schools was found during the October 2026 r
 
 Many states and districts publish their own AI guidance; check the state you are selling into. For product-level risk, see [AI risk and trust](../product/ai-risk-and-trust.md).
 
+## State AI requirements
+
+Some states have turned AI guidance into law. In SETDA's [2026 State EdTech Trends Report](https://www.setda.org/priorities/state-trends/), 23% of state agency respondents said their state's AI guidance is now required by law, up from 4% in 2024 ([field note](../../sources/notes/2026-10-30-setda-state-edtech-trends-2026.md)). Three examples, checked at the source in October 2026:
+
+- **Ohio** ([ORC 3301.24](https://codes.ohio.gov/ohio-revised-code/section-3301.24)): each school district, community school, and STEM school had to adopt a policy on AI use by July 1, 2026. Schools may adopt the state's model policy.
+- **North Carolina** ([S.L. 2026-41](https://www.ncleg.gov/EnactedLegislation/SessionLaws/PDF/2025-2026/SL2026-41.pdf), section 7.39):
+  - Public school units must adopt AI-use policies by June 30, 2027. The model policy they review must cover data privacy and security, including protection of personally identifiable information.
+  - The Department of Public Instruction must keep a framework for evaluating generative AI tools on privacy, standards alignment, and accessibility, and publish the list of tools it has reviewed.
+  - The Department must also set procurement guidance and qualified vendor lists that favor reviewed tools, and publish a list of every AI tool used in public school units.
+- **Tennessee** ([Public Chapter 1056](https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=HB0545&GA=114), 2026): teachers in grades 6–12 must complete a department-approved AI course by August 1, 2028, or within two years of licensure, whichever is later.
+
+**What it means for edtech founders:** A district with an AI-use policy will ask how your product fits it. In North Carolina, the state's review list and vendor lists are meant to steer districts toward reviewed tools. Find out whether a state reviews AI tools, and on what criteria, before you sell there.
+
 ## Practical Checklist for K-12 Edtech Founders
 
 1. [ ] Privacy policy that addresses FERPA, COPPA (including the 2025 amendments), and the state laws where you sell
@@ -125,3 +138,5 @@ Many states and districts publish their own AI guidance; check the state you are
 
 ---
 *Originally updated 2026-03-31. Rechecked 2026-10-30 against the primary sources linked above: FERPA regulations, the COPPA Rule and FAQ, the New York and Illinois statutes, the SDPC/NDPA documents, the DOJ Title II rule and its 2026 extension, and the Department of Education AI actions. California and Colorado details were not rechecked. US-focused. International rules such as GDPR are not covered in this library.*
+
+*Edited 2026-10-30: added state AI requirements. The Ohio, North Carolina, and Tennessee provisions were checked against ORC 3301.24, S.L. 2026-41 section 7.39, and the Tennessee General Assembly's page for HB 545 / SB 677. The 23% figure is from SETDA's survey (page 11).*
