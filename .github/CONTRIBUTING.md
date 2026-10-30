@@ -1,0 +1,62 @@
+# Maintaining ScaleU Intelligence
+
+Keep the library useful for edtech founders and practitioners. Prefer a focused correction or a well-sourced observation over another broad overview.
+
+The library is Markdown only: no code, scripts, data files, or binaries. Founders point their AI assistants at it, so every file should be readable as text. Link to anything else at its original location.
+
+Follow the [code of conduct](CODE_OF_CONDUCT.md). The [support guide](SUPPORT.md) explains where to ask questions and report problems.
+
+## Where an update belongs
+
+| Material | Location | Index to update |
+|---|---|---|
+| Advice that answers a founder question | `guides/<question>/`: `demand/`, `selling/`, `evidence/`, `product/`, or `market/` | [Founder guides](../guides/README.md) |
+| Papers about learning or assessment | `sources/research/` | [Research index](../sources/research/README.md) |
+| Conference synthesis, transcripts, and session indexes | `sources/events/YYYY-event-name/` | [Events index](../sources/events/README.md) |
+| A publishable meeting observation, research note, or other finding | `sources/notes/YYYY-MM-DD-short-topic.md` | [Field notes](../sources/notes/README.md) |
+| A new kind of source material | `sources/<kind>/` with its own README | [Sources index](../sources/README.md) |
+
+Guides synthesize; sources preserve. A guide states the advice and links to the sources behind it. A source keeps its original context, dates, and attribution.
+
+## A routine update
+
+1. Create a branch, or use GitHub's file editor and choose to propose the change in a new branch.
+2. Edit the relevant guide or copy the [field-note template](../about/templates/field-note.md). For a conference, create a collection README with the event date, author, summary, evidence limits, source links, and links to its supporting files.
+3. State who the finding applies to. Cite a public primary source where possible. Keep observations, reported claims, and your interpretation distinct.
+4. Record when the event happened and what you actually reviewed. Change a factual review date only after checking the facts; a formatting edit or migration is not a new fact check.
+5. Add the page to its section index and link any related guides. Update the root README only when the entry point for a reader changes.
+6. Check that every relative link you added or changed opens the right file, and review the rendered Markdown and the diff. Merge after maintainer review.
+
+Nothing needs to be deployed or restarted. The merged Markdown is the published library on GitHub.
+
+## Research and dated references
+
+For a research collection, keep the existing columns: `#`, Title, Takeaway, Type, Year, Citations, DOI. Add the paper's full citation and DOI, check the takeaway against the paper, keep rows sorted by the recorded citation count, and update the topic and total counts in the research index. Citation counts are a dated snapshot, not a quality score.
+
+Keep research impartial. Use descriptive topic headings and report what each study or review found, including its population, comparisons, and limitations where available. Attribute interpretations and recommendations to the authors. Avoid editorial verdicts such as calling a topic a myth or debunked, or telling readers which approach to adopt. Preserve published paper titles and reported findings, including conflicting or null results; do not alter them to support a position.
+
+For regulations, program terms, funding, or company status, check the current primary source before changing guidance. Preserve older conference statements as historical context; add a clearly dated correction instead of silently rewriting a speaker's claim.
+
+## Meeting material
+
+This is a public repository. Publish only content you have permission to share. Do not upload raw private meeting transcripts, student records, unpublished company data, contact lists, or credentials. Review anonymized notes for identifying details too. Keep working material outside the repository; `.gitignore` is a convenience, not a publication review.
+
+## Attribution and licenses
+
+Preserve existing authors, citations, and license notices. Additions to imported collections follow that collection's license. New editorial pages and field notes use CC BY 4.0. See [LICENSE.md](../LICENSE.md) for the scope of each license.
+
+The [provenance record](../about/provenance.md) describes the initial import and later reorganization. Normal updates appear in Git history; if a file moves, repair the links to it.
+
+## Corrections
+
+To suggest a correction without editing files, [open an issue](https://github.com/savvides/scaleu-intelligence/issues/new/choose) with the page, the proposed correction, and supporting evidence.
+
+## Publishing a snapshot
+
+Releases are dated snapshots of this library. They do not certify that every imported claim has been fact-checked. Routine edits can remain on `main` between releases.
+
+1. Summarize the changes and known limitations in [CHANGELOG.md](../CHANGELOG.md). Update the version in the citation in the [README](../README.md#cite-and-reuse).
+2. Merge the reviewed pull request.
+3. Create a GitHub release with a new `vMAJOR.MINOR.PATCH` tag targeting that exact commit. Use a major version for a substantial reorganization, minor for new collections or substantial additions, and patch for corrections.
+4. Write release notes describing the contents, changes, evidence limits, and collection-specific licenses. GitHub supplies the ZIP and tar.gz source archives; no package build is needed.
+5. Verify the tag points to the reviewed commit, the download opens, and the latest-release link in the README resolves. Do not move published release tags; publish a new correction release.

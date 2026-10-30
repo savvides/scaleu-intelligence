@@ -2,6 +2,12 @@
 
 Release dates describe library snapshots, not new factual review dates for the source material. See [releases](https://github.com/savvides/scaleu-intelligence/releases) for downloads and [commit history](https://github.com/savvides/scaleu-intelligence/commits/main/) for edits between releases.
 
+## Unreleased
+
+- Reorganized the library for founders and their AI assistants: `guides/` grouped by founder question (demand, selling, evidence, product, market), `sources/` for research, events, and field notes, and `about/` for provenance and licenses. Contributor files moved to `.github/`.
+- Made the library Markdown only. Converted the ASU+GSV JTBD analyses to Markdown with their content preserved. Removed the validation script, tests, workflow, citation file, ASU+GSV processing scripts and metadata file, and the SXSW slide deck and preview image; the originals remain at their pinned source commits.
+- Removed the standalone SXSW diagnostic page, which duplicated the demand validation guide.
+
 ## 1.0.0 · 2026-09-19
 
 - Consolidated EdTech Founder Stack, ASU+GSV 2026 Summit Intelligence, and Cracking Higher Ed at SXSW EDU into one library with navigation organized around founder decisions.
