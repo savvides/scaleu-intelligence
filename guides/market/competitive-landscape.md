@@ -69,7 +69,7 @@
 - **Degree Works (Ellucian)**: degree audit and planning
 
 ### Online Program Management (OPM)
-- **Risepoint** (formerly Academic Partnerships): first by share of active partnerships in [Validated Insights' 2025 OPM data](https://www.businesswire.com/news/home/20251030532249/en/New-Validated-Insights-Report-OPM-Market-Continues-Slowdown)
+- **Risepoint** (formerly Academic Partnerships): first by share of active partnerships in [Validated Insights' 2025 OPM data](https://www.businesswire.com/news/home/20251030532249/en/New-Validated-Insights-Report-OPM-Market-Continues-Slowdown). [Acquired Keypath Education's North American operations](https://www.prnewswire.com/news-releases/risepoint-acquires-keypath-educations-north-american-operations-to-expand-online-healthcare-education-and-clinical-placement-services-302854011.html) in August 2026.
 - **2U (edX)**: [emerged from Chapter 11 as a private company](https://2u.com/newsroom/2u-successfully-completes-transaction/) in September 2024
 - **Coursera**: platform plus degree partnerships
 - **Noodle**: unbundled OPM services
@@ -85,6 +85,8 @@
 - **Gemini for Education (Google)**: [launched June 2025](https://blog.google/products-and-platforms/products/education/gemini-iste-2025/)
 - **Claude for Education (Anthropic)**: [launched April 2025](https://www.anthropic.com/news/introducing-claude-for-education)
 - **Various AI tutoring and writing assistants**: rapidly evolving, with no clear leader
+
+Startups crowd here too. Of the 88 higher-ed and workforce companies ScaleU sourced in July–September 2026, 17 built AI grading and integrity tools and 17 built AI tutors, study tools, or course assistants ([field note](../../sources/notes/2026-10-30-scaleu-q1-fy27-update.md); ScaleU pipeline data, not a market count).
 
 ### What differentiates winners in higher ed (practitioner view)
 - LTI 1.3 integration (Canvas especially)
@@ -144,10 +146,10 @@ See [corporate L&D](corporate-ld.md) for buyers and procurement.
 ## Cross-segment trends (2025-2026)
 
 1. **AI everywhere:** General AI platforms (OpenAI, Microsoft, Google, Anthropic) now sell directly to schools and universities. The question is less whether AI applies to your product than how it is differentiated from what institutions already license (interpretation; see [defensibility](../product/defensibility-moats.md)).
-2. **Ownership churn:** Private-equity take-privates (PowerSchool, Instructure), restructurings (2U, Anthology/Blackboard), and mergers (Coursera and Udemy) reshaped incumbents in 2024–2026. That can open gaps for startups and also creates platform risk when a partner's owner changes.
+2. **Ownership churn:** Private-equity take-privates (PowerSchool, Instructure), restructurings (2U, Anthology/Blackboard), and mergers (Coursera and Udemy) reshaped incumbents in 2024–2026. In higher ed, Risepoint bought Keypath's North American operations in August 2026, and Main Capital Partners, a private equity firm, [announced its intent to acquire Watermark Insights](https://main.nl/press-release/main-capital-partners-announces-intent-to-acquire-watermark-insights/) (assessment and accreditation software) in September 2026. That can open gaps for startups and also creates platform risk when a partner's owner changes.
 3. **Evidence expectations rising (practitioner observation):** Buyers increasingly ask for evidence, not just testimonials. See [evidence tiers](../evidence/evidence-tiers.md).
 4. **Privacy rules tightening:** The amended COPPA Rule took full effect in April 2026, and state laws keep changing. See [K-12 regulation](k12-regulatory.md).
 5. **Accessibility as a legal requirement:** The ADA Title II web rule makes WCAG 2.1 AA mandatory for public schools and universities, with compliance dates in 2027 and 2028. See [K-12 regulation](k12-regulatory.md#accessibility-requirements).
 
 ---
-*Originally updated 2026-03-31. Ownership and company-status facts rechecked 2026-10-30 against the linked company announcements, filings, and, where noted, trade press. Positioning notes, "winners," and "failure modes" are practitioner judgment and were not rechecked. Not verified: Diffit's status, the outcome of the D2L proposal, the Skillsoft sale closing, and Blackboard's current owners.*
+*Originally updated 2026-03-31. Ownership and company-status facts rechecked 2026-10-30 against the linked company announcements, filings, and, where noted, trade press. Positioning notes, "winners," and "failure modes" are practitioner judgment and were not rechecked. Not verified: Diffit's status, the outcome of the D2L proposal, the Skillsoft sale closing, the Watermark sale closing, and Blackboard's current owners.*

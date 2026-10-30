@@ -35,7 +35,7 @@ git clone https://github.com/savvides/scaleu-intelligence.git
 - **[Sources](sources/README.md):** the evidence underneath.
   - [Learning research](sources/research/README.md): 19 topic collections with paper citations and DOIs.
   - [Events](sources/events/README.md): ASU+GSV 2026 reports and transcripts, and the SXSW EDU 2026 higher-ed framework.
-  - [Field notes](sources/notes/README.md): the home for future observations from meetings and other work. None published yet.
+  - [Field notes](sources/notes/README.md): dated observations from meetings, research reading, and other ScaleU work.
 - **[About](about/provenance.md):** where the material came from, plus [licenses](LICENSE.md) and the [field-note template](about/templates/field-note.md). Not needed to use the library.
 
 ## Read the evidence in context
@@ -48,7 +48,7 @@ Use `main` for the latest edits or a [tagged release](https://github.com/savvide
 
 Cite the library with the version or commit you used:
 
-> Savvides, P. (2026). *ScaleU Intelligence* (Version 2.1.0). https://github.com/savvides/scaleu-intelligence/releases/tag/v2.1.0
+> Savvides, P. (2026). *ScaleU Intelligence* (Version 2.2.0). https://github.com/savvides/scaleu-intelligence/releases/tag/v2.2.0
 
 Cite individual authors, speakers, and original papers when drawing on their work; the library citation does not replace those credits. Reuse follows the [license for the relevant collection](LICENSE.md): this repository combines MIT and CC BY 4.0 material.
 

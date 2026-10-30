@@ -2,6 +2,13 @@
 
 Release dates describe library snapshots, not new factual review dates for the source material. See [releases](https://github.com/savvides/scaleu-intelligence/releases) for downloads and [commit history](https://github.com/savvides/scaleu-intelligence/commits/main/) for edits between releases.
 
+## 2.2.0 · 2026-10-30
+
+- Added a field note from ScaleU's Q1 FY27 update (July–September 2026): the stages of the student journey where ScaleU's 88 sourced higher-ed and workforce companies build, higher-ed venture funding, the Keypath and Watermark deals, the federal earnings accountability rule, news from ScaleU portfolio companies, and four reports for further reading.
+- The higher-ed jobs atlas now gives the pipeline counts beside its Course Experience estimate and no longer calls Graduate & Beyond "wide open". The competitive landscape adds the Keypath and Watermark deals, the funding landscape a higher-ed funding figure, and the higher-ed landscape the earnings rule, checked at the Federal Register.
+
+Known limits: the pipeline reflects where ScaleU looked in one quarter, not the market. The higher-ed funding figures come from ScaleU's analysis of Harmonic, a paid database, and were not independently checked. The Watermark sale had not been confirmed closed.
+
 ## 2.1.0 · 2026-10-30
 
 - Added the first field note, on SETDA's 2026 State EdTech Trends Report, and its K-12 state findings to the procurement, K-12 regulation, and evidence tiers guides. State AI requirements in Ohio, North Carolina, and Tennessee were checked at the statute.

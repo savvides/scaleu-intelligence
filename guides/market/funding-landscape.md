@@ -12,6 +12,8 @@ Two independent trackers, reported as published. They define "edtech" differentl
 
 Neither tracker breaks out K-12 or AI products separately. For individual 2025 K-12 AI rounds, see the [competitive landscape](competitive-landscape.md#ai-specific-emerging-2025-2026).
 
+For higher-education technology alone, ScaleU's analysis of Harmonic deal data counted $31M across seven venture deals in July–September 2026, against $172M in the same quarter a year earlier ([field note](../../sources/notes/2026-10-30-scaleu-q1-fy27-update.md)). Harmonic is a paid database, so the figures can't be checked from this library, and the count depends on which companies are classed as higher ed.
+
 Federal sources of non-dilutive money also changed in 2025–2026 (see [Grants](#grants)): SBIR/STTR authority lapsed for six months, and ESSER pandemic relief has ended.
 
 ## Who Funds EdTech
@@ -161,4 +163,4 @@ Practitioner advice from the original Founder Stack authors.
 6. **International markets (the original authors' view).** Education systems share common problems, and some international markets (UK, Australia, India, Middle East) adopt US-proven solutions. Weigh this against the advice to stay narrow until you have proven one market ([operating principles](../ethos.md)).
 
 ---
-*Originally updated 2026-03-31. Rechecked 2026-10-30 against the linked sources: funding totals, federal grant programs, foundations, accelerator terms, investor activity, and corporate programs. Stage sizes and advice are practitioner estimates and were not rechecked. Removed as unverifiable or out of date: Tiger Global and SoftBank (no 2025–2026 edtech deals found), "1871 Education" (no such program found), Google for Startups AI for Education (no cohort since 2024 found), AWS EdStart (its page now redirects to AWS's general startup program), and "McGraw Hill ventures" (no such entity found).*
+*Originally updated 2026-03-31. Rechecked 2026-10-30 against the linked sources: funding totals, federal grant programs, foundations, accelerator terms, investor activity, and corporate programs. Stage sizes and advice are practitioner estimates and were not rechecked. The higher-ed funding figure from ScaleU's analysis of Harmonic data was not independently checked. Removed as unverifiable or out of date: Tiger Global and SoftBank (no 2025–2026 edtech deals found), "1871 Education" (no such program found), Google for Startups AI for Education (no cohort since 2024 found), AWS EdStart (its page now redirects to AWS's general startup program), and "McGraw Hill ventures" (no such entity found).*
