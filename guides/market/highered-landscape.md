@@ -1,35 +1,41 @@
 # Higher Education Landscape
 
+**Answers:** What rules and systems shape whether a US college or university can adopt your product? Use this guide when you scope a higher-ed product. It covers accreditation, accessibility law, LMS integration, and the policy trends behind buyer priorities.
+
+**Audience:** Higher education, United States. International systems differ significantly. How institutions buy is covered in the [procurement guide](../selling/procurement-guide.md), and who buys in [buyer personas](../demand/buyer-personas.md). For the vendors you will meet, see the [competitive landscape](competitive-landscape.md).
+
 ## Accreditation
 
-**What it is:** The quality assurance process for higher education institutions. Accreditation bodies evaluate whether institutions meet established standards for academic quality.
+**What it is:** The quality-assurance process for higher education institutions. Accrediting agencies evaluate whether institutions meet standards for academic quality. Institutions need accreditation from an agency recognized by the US Department of Education to take part in federal student aid.
 
-**Why it matters for edtech founders:**
-- Accredited institutions must demonstrate that technology used in instruction supports learning outcomes
-- If your product delivers or assesses academic content, it may be evaluated during accreditation reviews
-- Accreditors increasingly look at how technology is integrated into the curriculum, not just whether it exists
+**Why it matters for edtech founders (practitioner view):**
+- If your product delivers or assesses academic content, the institution may need to show accreditors how it supports learning outcomes.
+- If your product replaces or augments a core academic function, such as assessment, advising, or course delivery, find out how accreditors evaluate that function.
 
-**Regional accreditors (now "institutional accreditors"):**
-- HLC (Higher Learning Commission) — Midwest and West
-- SACSCOC — Southern states
-- MSCHE — Mid-Atlantic states
-- NECHE — New England
-- NWCCU — Northwest
-- WASC/WSCUC — California, Hawaii, Pacific
+**Institutional accreditors:** Since July 1, 2020, Department of Education [regulations](https://www.federalregister.gov/documents/2019/11/01/2019-23129/student-assistance-general-provisions-the-secretarys-recognition-of-accrediting-agencies-the) no longer distinguish between "regional" and "national" accreditors. The six formerly regional agencies still accredit most nonprofit colleges:
+- HLC (Higher Learning Commission)
+- SACSCOC (Southern Association of Colleges and Schools Commission on Colleges)
+- MSCHE (Middle States Commission on Higher Education)
+- NECHE (New England Commission of Higher Education)
+- NWCCU (Northwest Commission on Colleges and Universities)
+- WSCUC (WASC Senior College and University Commission)
 
-**Practical guidance:** You don't need accreditation approval to sell your product. But your product should help institutions demonstrate compliance with accreditation standards, not create problems for them. If your product replaces or augments a core academic function (assessment, advising, course delivery), understand how that function is evaluated during accreditation.
+**Changing landscape:** Public university systems in Florida, Georgia, North Carolina, South Carolina, Tennessee, and Texas formed a new accreditor, the Commission for Public Higher Education (CPHE). It was not federally recognized as of October 2026; the Department was running negotiated rulemaking on accreditor recognition in 2026. Recognition timelines in press coverage vary, so check the [Department's list of recognized accreditors](https://ope.ed.gov/dapip/) before relying on any agency's status.
+
+**Practical guidance:** You don't need accreditation approval to sell your product. But your product should help institutions show they meet accreditation standards, not create problems for them.
 
 ## Accessibility in Higher Ed
 
 **Legal requirements:**
-- Section 504 of the Rehabilitation Act (all institutions receiving federal funds)
-- ADA Title II (public institutions) and Title III (private institutions)
-- OCR (Office for Civil Rights) actively investigates accessibility complaints against universities
+- Section 504 of the Rehabilitation Act applies to all institutions receiving federal funds.
+- ADA Title II applies to public institutions and Title III to private institutions.
+- The Department of Justice's [2024 ADA Title II web rule](https://www.ada.gov/resources/2024-03-08-web-rule/) requires public colleges and universities to make web content and mobile apps conform to **WCAG 2.1 Level AA**, including content provided through contractors and vendors. An [April 20, 2026 interim final rule](https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web) moved the compliance dates to **April 26, 2027** for public entities with a total population of 50,000 or more, and **April 26, 2028** for smaller entities and special district governments ([28 CFR 35.200](https://www.ecfr.gov/current/title-28/chapter-I/part-35/subpart-H/section-35.200)). Which date applies to a given institution depends on how the rule classifies it; the institution's counsel decides that.
+- The Office for Civil Rights (OCR) investigates accessibility complaints against universities.
 
 **Standards:**
-- WCAG 2.1 AA is the de facto standard
-- Many institutions are moving toward WCAG 2.2
-- VPATs (Voluntary Product Accessibility Templates) are commonly required during procurement
+- WCAG 2.1 AA is the legal standard for public institutions under the Title II rule and the usual benchmark for private ones.
+- Some institutions also ask about WCAG 2.2 (practitioner observation, not measured).
+- VPATs (Voluntary Product Accessibility Templates) are commonly required during procurement.
 
 **Common procurement requirements:**
 - Completed VPAT
@@ -37,71 +43,47 @@
 - Documented process for addressing accessibility issues
 - Some institutions require third-party accessibility audits
 
-**Practical guidance:** Higher ed takes accessibility more seriously than K-12 in procurement. An incomplete or missing VPAT can disqualify you from consideration. Invest in accessibility early.
+**Practical guidance (practitioner view):** An incomplete or missing VPAT can disqualify you from consideration. Invest in accessibility early.
 
 ## LMS Integration
 
-**The big four:**
-- **Canvas (Instructure)** — dominant and growing, especially at large institutions
-- **Blackboard (Anthology)** — legacy market share, declining
-- **D2L Brightspace** — strong in community colleges and Canadian institutions
-- **Moodle** — open source, popular internationally and at smaller institutions
+**The major LMSs:**
+- **Canvas (Instructure)**
+- **Blackboard** (the company formerly called Anthology, which [emerged from Chapter 11 as Blackboard](https://blackboard.com/news/blackboard-formerly-anthology-emerges-debt-free-and-focused) on March 2, 2026)
+- **D2L Brightspace**
+- **Moodle**: open source
+
+For ownership, market notes, and other vendors, see the [competitive landscape](competitive-landscape.md).
 
 **Integration standards:**
-- **LTI (Learning Tools Interoperability)** — the primary standard for integrating external tools into an LMS
+- **LTI (Learning Tools Interoperability)** is the primary standard for integrating external tools into an LMS.
   - LTI 1.1: basic launch and grade passback
-  - LTI 1.3 / Advantage: modern standard with improved security (OAuth 2.0), deep linking, names and roles, assignment and grade services
-  - **Build for LTI 1.3.** LTI 1.1 is legacy. Most institutions want 1.3.
-- **SIS Integration:** Student Information System integration via SIF, OneRoster, or custom APIs
+  - LTI 1.3 / Advantage: the current standard, with improved security (OAuth 2.0), deep linking, names and roles, and assignment and grade services
+  - **Build for LTI 1.3.** LTI 1.1 is legacy.
+- **SIS integration:** Student Information System integration via OneRoster, SIF, or custom APIs
 - **xAPI / Caliper:** Learning analytics standards for tracking learner activity across systems
 
-**Practical guidance:**
-- LTI 1.3 integration with Canvas should be your first priority if selling to US higher ed
-- Canvas REST API is well-documented and widely used for deeper integrations
-- Getting listed on the Canvas App Center or similar marketplace significantly reduces friction
-- Single Sign-On (SSO) via SAML or institutional identity providers is often required
+**Practical guidance (practitioner view):**
+- If you sell to US higher ed, make LTI 1.3 integration with Canvas your first priority.
+- Canvas REST API is well documented and widely used for deeper integrations.
+- A listing in the LMS's app marketplace reduces friction.
+- Single sign-on (SSO) via SAML or the institution's identity provider is often required.
 
-## Procurement in Higher Ed
+## Selling to Higher Ed
 
-**How it works (simplified):**
-1. **Faculty champion:** A professor or department finds your product and wants to use it
-2. **Department approval:** Department chair or program director signs off
-3. **IT review:** Institutional IT evaluates security, privacy, accessibility, and integration
-4. **Procurement/legal:** Contracts, pricing, terms negotiated
-5. **Budget approval:** Funding source identified (department budget, grant, provost office)
+The [procurement guide](../selling/procurement-guide.md) covers purchase thresholds, the budget calendar, and how higher ed differs from K-12. [Buyer personas](../demand/buyer-personas.md) profiles the CIO, Provost, Department Chair, and individual faculty.
 
-**Key differences from K-12:**
-- Individual faculty often have more autonomy to try new tools (especially free/freemium)
-- Procurement thresholds matter: under $5K-$10K may be a departmental decision; over that triggers formal procurement
-- Security reviews can take months at large institutions
-- Multi-year contracts are common for institution-wide adoption
+Two points specific to higher ed (practitioner view):
+- Individual faculty often have the autonomy to try new tools, especially free or freemium ones. That is the fastest adoption path but the hardest to scale.
+- Security reviews can take months at large institutions. Ask about the review process, such as a HECVAT, early.
 
-**Selling to different levels:**
-- **Individual faculty:** Fastest adoption, smallest deal, hardest to scale
-- **Department:** Medium deal size, requires chair support, often tied to curriculum decisions
-- **College/school:** Larger deal, requires dean-level buy-in, longer cycle
-- **Institution-wide:** Largest deal, longest cycle (12-24 months), requires IT, provost, and procurement alignment
+## Key Trends
 
-**Practical guidance:** Start with faculty champions. Let them use it in their courses. Gather evidence of impact. Then use that evidence to pitch department or college-level adoption. Bottom-up adoption is faster than top-down sales in higher ed.
-
-## Higher Ed Buyer Personas
-
-See `buyer-personas.md` for detailed profiles of:
-- Chief Information Officer (CIO)
-- Provost / VP Academic Affairs
-- Department Chair
-- Individual Faculty
-- Director of Online Learning
-- Instructional Designer
-- Dean of Students
-
-## Key Trends (2025-2026)
-
-- **AI policy:** Institutions are rapidly developing AI use policies. Your product needs to align with or support institutional AI policies.
-- **OPM transition:** The unbundling of Online Program Management (OPM) contracts creates opportunities for modular solutions
-- **Enrollment pressure:** Demographic cliff hitting many institutions. Products that demonstrably improve retention and completion have a strong value proposition.
-- **Micro-credentials:** Growing interest in shorter, stackable credentials. Products that support this model have tailwind.
-- **Transfer and articulation:** Increasing policy focus on credit transfer between institutions. Products that facilitate this address a real pain point.
+- **Enrollment pressure:** WICHE's [*Knocking at the College Door*](https://www.wiche.edu/knocking/) (December 2024) projects that US high school graduates peak in 2025 at about 3.9 million, then fall to about 3.4 million by 2041, 13% below the 2025 peak. Institutions facing smaller pools put more weight on retention and completion.
+- **Short-term credentials:** The Working Families Tax Cuts Act (signed July 4, 2025, and also called the One Big Beautiful Bill Act) created **Workforce Pell Grants**. These fund eligible workforce programs of 150–599 clock hours that run 8 to 15 weeks. The programs must be approved by a governor and the Department and must meet annual outcome metrics. Grants were available from July 1, 2026 ([final rule, May 19, 2026](https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant)). Products that help institutions run, document, or report on these programs serve a new, funded line of work.
+- **AI policy (practitioner observation):** Institutions are writing AI use policies. Your product needs to fit within them.
+- **OPM unbundling (practitioner observation):** Institutions are moving away from bundled online program management contracts toward modular services. See the [competitive landscape](competitive-landscape.md) for OPM company status.
+- **Transfer and articulation (practitioner observation):** Policy attention to credit transfer between institutions continues.
 
 ---
-*Last updated: 2026-03-31. US-focused. International higher ed landscapes differ significantly.*
+*Originally updated 2026-03-31. Rechecked 2026-10-30 against the sources linked above: the ED accreditation rule, the DOJ Title II rule and its 2026 extension, the Workforce Pell final rule, WICHE projections, and Blackboard's announcement. Items labeled "practitioner view" or "practitioner observation" are judgment, not sourced data. CPHE status rests on press coverage. US-focused.*
