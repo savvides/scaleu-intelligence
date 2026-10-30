@@ -45,4 +45,4 @@ Each folder answers one founder question. To add a guide, put it in the folder w
 
 [Operating principles](ethos.md) connect demand, evidence, and the institutional buyer.
 
-These guides combine reference material and practitioner frameworks. Their inclusion here does not update their factual review dates. See [provenance and attribution](../about/provenance.md) and the [Founder Stack license](../about/licenses/founder-stack.md).
+These guides combine reference material and practitioner frameworks. Their inclusion here does not update their factual review dates. See the [Founder Stack license](../about/licenses/founder-stack.md).

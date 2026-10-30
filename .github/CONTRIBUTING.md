@@ -45,8 +45,6 @@ This is a public repository. Publish only content you have permission to share. 
 
 Preserve existing authors, citations, and license notices. Additions to imported collections follow that collection's license. New editorial pages and field notes use CC BY 4.0. See [LICENSE.md](../LICENSE.md) for the scope of each license.
 
-The [provenance record](../about/provenance.md) describes the initial import and later reorganization. Normal updates appear in Git history; if a file moves, repair the links to it.
-
 ## Review checklist
 
 Reviewers check these by hand before merging; nothing runs automatically.

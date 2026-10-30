@@ -13,5 +13,3 @@ This repository combines material with different licenses. There is no blanket r
 The Founder Stack license excludes `data/operator-lessons.md` from MIT and prohibits redistributing it as raw content. That file has not been imported. References to it link to the original repository, where the source terms still apply.
 
 Paper abstracts, linked publications, conference recordings, and other third-party works retain their own rights. A link or citation does not extend this repository's license to the underlying work.
-
-The [provenance record](about/provenance.md) identifies the original repositories and commits and describes migration edits. Keep that attribution when sharing or adapting the collections.
