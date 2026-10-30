@@ -33,7 +33,15 @@ Everyone—students, faculty, advisors—will tell you that "X is the problem." 
 
 Qualitative data in education tends to overrepresent the people who struggled: they have complaints to register. The silent majority who succeeded leave no trace in your interviews.
 
-*Example from the SXSW EDU 2026 talk:* across large online programs, stakeholders widely blamed accelerated 7.5-week formats for attrition. Yet the talk reported that controlled outcome analyses in specific disciplines found students in shorter sessions passed at higher rates and withdrew less. Those analyses are not published here, and the claim is pending verification against published research.
+*Example from the SXSW EDU 2026 talk:* across large online programs, stakeholders widely blamed accelerated 7.5-week formats for attrition. Yet the talk reported that controlled outcome analyses in specific disciplines found students in shorter sessions passed at higher rates and withdrew less. Those analyses are unpublished, and no published source for them was found as of 2026-10-30.
+
+Published comparisons of shorter and full-length college courses are mixed, and none of them tests the talk's 7.5-week format:
+
+- **Better outcomes in shorter courses.** Across seven Western US community colleges (22,280 students), [Kim and Im (2026)](https://doi.org/10.1177/15210251261437233) found the highest retention and academic performance in 5-week online courses, compared with 16-week online and face-to-face courses. [Shehadeh (2025)](https://doi.org/10.18848/1835-9795/CGP/v19i01/1-15) found higher success and lower withdrawal rates in 8-week than in 16-week online English courses.
+- **No difference.** [Harwood et al. (2018)](https://doi.org/10.1186/s12909-018-1343-7) found no difference in final grades or course ratings between 7-week and 15-week online graduate health courses. [Brittain and Denson (2026)](https://doi.org/10.3928/01484834-20250804-02) found no difference in grades, withdrawals or incompletes when RN-to-BSN courses were condensed from 16 weeks to 8.
+- **Less time to engage.** In a graduate nurse-educator program, [Tiedt et al. (2021)](https://doi.org/10.1016/j.nepr.2021.103164) found that students in 16-week courses more often reported having enough time to engage with the material than students in 8-week courses.
+
+These studies analyze existing course records or survey students; none randomly assigned students to a course length.
 
 **The ScaleU Test:** If every stakeholder tells you the same story, stop. That's a signal to validate quantitatively before you write a single line of code. If the data contradicts the narrative, the real opportunity is where nobody is looking.
 
@@ -61,4 +69,4 @@ Use this after every pilot or customer call. If you can't answer "YES" to all fo
 **The Verdict:** If any answer is "NO," stop building features and start validating the market.
 
 ---
-*Last updated: 2026-04-27*
+*Originally updated 2026-04-27. The research claim in Pattern 3 was checked against published studies on 2026-10-30.*
