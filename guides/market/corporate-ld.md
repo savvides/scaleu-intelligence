@@ -1,5 +1,9 @@
 # Corporate Learning & Development Market
 
+**Answers:** How is selling learning products to employers different from selling to schools and colleges? Use this guide when you consider an employer or workforce buyer, or when you weigh moving from education into corporate training.
+
+**Audience:** Workforce and corporate learning and development (L&D). The buyer roles, cycle lengths, and deal sizes below are practitioner estimates from the original Founder Stack authors, not sourced data. Company status is kept in the [competitive landscape](competitive-landscape.md).
+
 ## Market Overview
 
 Corporate L&D is a distinct market from K-12 and higher ed. The buyer, the use case, the procurement process, and the success metrics are all different.
@@ -36,39 +40,23 @@ Corporate L&D is a distinct market from K-12 and higher ed. The buyer, the use c
 
 ## Technology Landscape
 
-**Learning Management Systems (LMS):**
-- Cornerstone OnDemand
-- SAP SuccessFactors Learning
-- Workday Learning
-- Docebo
-- Absorb LMS
-
-**Learning Experience Platforms (LXP):**
-- Degreed
-- EdCast (now Cornerstone)
-- 360Learning
-
-**Content platforms:**
-- LinkedIn Learning
-- Coursera for Business
-- Udemy Business
-- Pluralsight (technical skills)
+Corporate buyers run an LMS (such as Cornerstone, SAP SuccessFactors Learning, Workday Learning, Docebo, or Absorb), often a learning experience platform (LXP), and one or more content libraries (such as LinkedIn Learning, Coursera, which merged with Udemy in May 2026, or Pluralsight). The [competitive landscape](competitive-landscape.md#corporate-ld) lists vendors and their current ownership.
 
 **Integration standards:**
 - **SCORM 1.2 / 2004:** Legacy standard for content packaging. Still widely used.
-- **xAPI (Tin Can):** Modern standard for tracking learning activities across systems. Preferred for new development.
-- **LTI:** Less common in corporate than in higher ed, but growing.
-- **HRIS integration:** Workday, SAP SuccessFactors, BambooHR APIs for user provisioning and reporting.
+- **xAPI (Tin Can):** Standard for tracking learning activities across systems. Preferred for new development.
+- **LTI:** Less common in corporate than in higher ed.
+- **HRIS integration:** Workday, SAP SuccessFactors, and BambooHR APIs for user provisioning and reporting.
 
 ## Procurement
 
-**How corporate procurement differs from education:**
+**How corporate procurement differs from education (practitioner view):**
 - Faster decision cycles (weeks to months, not months to years)
-- More focused on ROI and business impact
-- Procurement thresholds are higher (enterprise deals often start at $50K+)
-- Security reviews are rigorous (SOC 2 Type II often required)
-- Legal review of data processing agreements (DPA) is standard
-- Pilot programs are common before enterprise rollout
+- More focus on ROI and business impact
+- Larger minimum deal sizes (enterprise deals often start around $50K)
+- Rigorous security reviews (SOC 2 Type II often required)
+- Standard legal review of data processing agreements (DPAs)
+- Pilot programs common before enterprise rollout
 
 **Common deal structure:**
 - Per-user or per-seat licensing (annual)
@@ -77,21 +65,23 @@ Corporate L&D is a distinct market from K-12 and higher ed. The buyer, the use c
 - Implementation/customization fees
 
 **Practical guidance:**
-- SOC 2 Type II certification significantly accelerates enterprise sales. Prioritize it if targeting large companies.
-- Start with a department pilot, prove ROI, then expand enterprise-wide
-- Having case studies with recognizable company names is critical for credibility
+- SOC 2 Type II certification speeds enterprise sales. Prioritize it if you target large companies.
+- Start with a department pilot, prove ROI, then expand enterprise-wide.
+- Case studies with recognizable company names matter for credibility.
 
 ## Key Differences from Education Markets
+
+Practitioner generalizations; individual institutions and companies vary. For education thresholds and calendars, see the [procurement guide](../selling/procurement-guide.md).
 
 | Dimension | K-12 / Higher Ed | Corporate L&D |
 |-----------|-------------------|---------------|
 | Buyer motivation | Student outcomes, compliance | Business results, ROI |
 | Budget source | Public funding, grants, tuition | Corporate operating budget |
-| Procurement speed | 6-18 months | 1-6 months |
-| Decision makers | Committees, boards | Individual executives |
-| Evidence required | Research-based, ESSA tiers | ROI data, case studies |
-| Compliance focus | FERPA, COPPA, accessibility | SOC 2, GDPR, industry-specific |
-| Content standard | LTI, QTI | SCORM, xAPI |
+| Procurement speed | Months to over a year, depending on deal size | Weeks to months |
+| Decision makers | Committees, boards | Individual executives, with IT and legal review |
+| Evidence required | Research-based ([ESSA tiers](../evidence/evidence-tiers.md)) | ROI data, case studies |
+| Compliance focus | FERPA, COPPA, accessibility ([K-12 rules](k12-regulatory.md), [higher ed](highered-landscape.md)) | SOC 2, GDPR, industry-specific |
+| Integration standard | LTI, OneRoster, QTI | SCORM, xAPI |
 | Price sensitivity | High (public funding) | Medium (ROI-justified) |
 
 ## Practical Checklist for Corporate L&D Founders
@@ -108,4 +98,4 @@ Corporate L&D is a distinct market from K-12 and higher ed. The buyer, the use c
 10. [ ] At least one recognizable customer case study
 
 ---
-*Last updated: 2026-03-31.*
+*Originally updated 2026-03-31. On 2026-10-30, only the vendor references were rechecked; see the competitive landscape. Buyer roles, cycle times, and deal sizes are practitioner estimates and were not rechecked.*
