@@ -2,7 +2,7 @@
 
 [ScaleU Intelligence](../../../README.md) / [Events](../README.md) / ASU+GSV 2026
 
-This collection preserves the original event material. Speaker claims and transcripts have not been independently reverified during migration. See [provenance](../../../about/provenance.md).
+This collection preserves the original event material. Speaker claims and transcripts have not been independently reverified during migration.
 
 Transcripts, analysis, and session data from the ASU+GSV Summit 2026 (April 12-15, San Diego).
 

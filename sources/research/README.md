@@ -2,7 +2,7 @@
 
 [ScaleU Intelligence](../../README.md) / [Sources](../README.md) / Learning research
 
-Imported from EdTech Founder Stack. Paper selection and citation counts originate in that collection; editorial revisions do not imply a comprehensive factual review. Read the cited paper for study design, population, and limits. See [provenance](../../about/provenance.md) and [license](../../about/licenses/founder-stack.md).
+Imported from EdTech Founder Stack. Paper selection and citation counts originate in that collection; editorial revisions do not imply a comprehensive factual review. Read the cited paper for study design, population, and limits. See the [license](../../about/licenses/founder-stack.md).
 
 ## Scope and interpretation
 
