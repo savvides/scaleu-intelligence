@@ -11,7 +11,7 @@ Data and patterns from edtech pilots at research universities and K-12 districts
 - **4-6 weeks:** Too short for meaningful outcome data. Can demonstrate usability, engagement, and teacher/faculty adoption. Acceptable for a proof-of-concept but not for evidence building.
 - **8-12 weeks:** The sweet spot for most edtech pilots. Long enough to measure behavior change and preliminary outcomes. Short enough to stay within a single semester.
 - **Full semester (15-16 weeks):** Required for rigorous evidence. Allows pre/post assessment with enough instructional time for impact. This is what institutional research teams expect.
-- **Full academic year:** Required for Tier 1-2 evidence. Uncommon for initial pilots.
+- **Full academic year:** Needed when the outcome is measured once a year, such as fall-to-fall retention (see [Advising, retention, and persistence pilots](#advising-retention-and-persistence-pilots)). Uncommon for initial pilots. Not required for any evidence tier: neither the ESSA definition ([20 U.S.C. 7801(21)](https://www.law.cornell.edu/uscode/text/20/7801)) nor the Department of Education's grant definitions ([34 CFR 77.1](https://www.law.cornell.edu/cfr/text/34/77.1)) sets a minimum study length. See [evidence tiers](../evidence/evidence-tiers.md) for what each tier does require.
 
 **Benchmark:** Pilots that lead to adoption contracts are most commonly 8-12 weeks. Shorter pilots generate enthusiasm but not evidence. Longer pilots lose momentum.
 
@@ -35,7 +35,7 @@ Data and patterns from edtech pilots at research universities and K-12 districts
 - Feature adoption patterns
 - Support ticket volume and nature
 
-**Benchmark — active usage:** A healthy pilot shows 60-80% weekly active usage among enrolled participants. Below 40% indicates an adoption problem (not a product problem — an implementation problem).
+**Practitioner estimate — active usage:** A healthy pilot shows 60-80% weekly active usage among enrolled participants. Below 40% indicates an adoption problem (not a product problem — an implementation problem). These figures came into the library with the first version of EdTech Founder Stack (March 31, 2026), which cites no source for them. They are not measured rates. Agree a usage target with the buyer before launch, based on how often the product is meant to be used.
 
 **Outcome metrics (what buyers actually care about):**
 - Pre/post assessment scores on targeted skills/knowledge
@@ -44,7 +44,9 @@ Data and patterns from edtech pilots at research universities and K-12 districts
 - Time-to-competency for specific skills
 - Student/learner self-reported confidence or satisfaction
 
-**Benchmark — outcome improvement:** Meaningful pilots show 10-25% improvement on targeted outcomes compared to baseline or comparison. Effects smaller than 5% are hard to distinguish from noise. Effects larger than 30% should be scrutinized for measurement bias.
+**Practitioner estimate — outcome improvement:** Meaningful pilots show 10-25% improvement on targeted outcomes compared to baseline or comparison. Effects smaller than 5% are hard to distinguish from noise. Effects larger than 30% should be scrutinized for measurement bias. These figures also came from Founder Stack's first version, which cites no source and does not say whether the percentages are relative changes or percentage points.
+
+Education research usually reports effects in standard deviations (SD), so the percentages above can't be compared directly with published studies. For causal studies of preK-12 interventions with standardized achievement outcomes, [Kraft (2020)](https://doi.org/10.3102/0013189X20912798) proposes treating less than 0.05 SD as small, 0.05 to less than 0.20 SD as medium, and 0.20 SD or more as large. He bases these on 1,942 effect sizes from 747 randomized controlled trials, with a median of 0.10 SD. Across 645 studies of preschool, reading, mathematics, and science programs, [Cheung and Slavin (2016)](https://doi.org/10.3102/0013189X16656615) found effect sizes roughly twice as large in small-scale trials and with experimenter-made measures as in large-scale studies and independent measures. Neither paper covers higher-ed outcomes.
 
 **Teacher/faculty metrics:**
 - Time saved on specific tasks (grading, feedback, content creation)
@@ -104,8 +106,8 @@ A Memorandum of Understanding for an edtech pilot should cover:
 
 **Practical guidance:**
 - If you plan to publish results or use findings in marketing, get IRB approval. It adds credibility and protects you legally.
-- IRB review takes 2-8 weeks for expedited review, 1-3 months for full board review
-- Most edtech pilots qualify for expedited review (minimal risk to participants)
+- Review times vary by institution. Across AAHRPP-accredited academic institutions, the 2025 medians were 15 days from submission to an exemption determination, 32 days from submission to approval under expedited review, and 56 days from submission to approval by the convened board. The expedited and convened-board figures cover institutions with their own IRB ([AAHRPP 2025 metrics for academic institutions](https://www.aahrpp.org/docs/default-source/metrics/2025-metrics-for-academic-organizations.pdf), September 2026). Half of submissions take longer than the median, so ask the IRB office for its own turnaround.
+- Under the federal Common Rule, many classroom studies may be exempt rather than needing expedited review. The exemption categories include research in established educational settings on normal educational practices that are not likely to adversely affect students' opportunity to learn ([45 CFR 46.104(d)(1)](https://www.law.cornell.edu/cfr/text/45/46.104)), and research that only uses educational tests, surveys, interviews, or observation of public behavior, subject to conditions on identifiability and risk (46.104(d)(2)). Expedited review is for minimal-risk research in categories on a federal list ([45 CFR 46.110](https://www.law.cornell.edu/cfr/text/45/46.110)). Ask the IRB office which applies to your study.
 - Your university research partner (if you have one) handles the IRB submission
 
 ## Pilot-to-Contract Conversion
@@ -135,4 +137,4 @@ See also [demand-validation.md](../demand/demand-validation.md), [higher-ed-jobs
 ---
 *Last updated: 2026-05-30. Benchmarks are directional, drawn from patterns across multiple edtech accelerator programs and university partnerships.*
 
-*Edited 2026-10-30: linked to the playbook instead of copying it, reconciled cohort and timeline figures with it, labeled the conversion figures as unsourced estimates, and added the advising section with its sources. The other benchmarks were not rechecked.*
+*Edited 2026-10-30: linked to the playbook instead of copying it, reconciled cohort and timeline figures with it, labeled the conversion, active-usage, and outcome-improvement figures as unsourced estimates with published effect-size context, corrected the full-academic-year and expedited-review claims against the statute, regulations, and Common Rule, replaced the IRB time ranges with AAHRPP's published medians, and added the advising section with its sources. The 4-6 week, 8-12 week, and full-semester timeline claims, the participant-scale ranges, the reasons pilots fail, the MOU elements, and the advice on IRB approval for marketing were not rechecked.*
