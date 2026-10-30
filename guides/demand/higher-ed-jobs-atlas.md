@@ -10,6 +10,8 @@
 
 **Most higher-ed edtech founders build for the "Course Experience" phase.** The SXSW EDU 2026 talk put it at about 80% of founders, with 15+ product categories competing. That figure is ScaleU's practitioner estimate, not a published count.
 
+ScaleU's own sourcing gives a second, smaller data point. Of the 88 higher-ed and workforce companies added to ScaleU's pipeline in July–September 2026, 46 (52%) build for students taking classes, 29 (33%) for graduation and careers, and 13 (15%) for the four phases before classes start ([field note](../../sources/notes/2026-10-30-scaleu-q1-fy27-update.md)). That is one quarter of one accelerator's sourcing, not a market count. It puts Course Experience below the talk's estimate and careers well above it, and it agrees that the early phases are thin.
+
 The biggest opportunities are in the first four phases: Pre-enroll, Apply, Onboard, and Select & Enroll. In the talk's framing, the pain in these phases is quantified at scale but product coverage is thin.
 
 ## Journey Phase Overview
@@ -21,7 +23,7 @@ The biggest opportunities are in the first four phases: Pre-enroll, Apply, Onboa
 | **Onboard** | **Underserved** | Transfer credit clarity, post-admission "dead zones," format readiness. |
 | **Select & Enroll** | **Underserved** | Course info for decision-making, availability, advising, degree audits. |
 | **Course Experience** | **Saturated** | 15+ product categories. Low margins, high noise. |
-| **Graduate & Beyond** | **Partial Coverage** | Career transition, credentialing, alumni outcomes. |
+| **Graduate & Beyond** | **Partial Coverage** | Career transition, credentialing, alumni outcomes. Skills and job-search tools are growing; outcome data is still thin. |
 
 ---
 
@@ -67,7 +69,7 @@ The biggest opportunities are in the first four phases: Pre-enroll, Apply, Onboa
 
 ### Job 7: The Post-Admission Communication Dead Zone
 *   **The Moment:** The gap between "You're Accepted" and the first day of class.
-*   **The Struggle:** Total silence from the institution. This is where "summer melt" happens.
+*   **The Struggle:** Total silence from the institution. This is where "summer melt" happens. EdResearch for Action's [brief on summer melt](https://edresearchforaction.org/research-briefs/helping-students-make-it-to-college-evidence-based-design-principles-for-reducing-summer-melt/) (December 2025) summarizes what randomized trials say about reducing it.
 *   **The Job:** "Keep me engaged and ready during the void."
 
 ### Job 8: The Format Readiness Gap
@@ -125,7 +127,7 @@ The biggest opportunities are in the first four phases: Pre-enroll, Apply, Onboa
 *   **The Moment:** A student graduating and wondering "What now?"
 *   **The Struggle:** The connection between the degree and the job market is invisible or unsupported.
 *   **The Job:** "Turn this credential into the career outcome I enrolled for."
-*   **The ScaleU Take:** The least-researched, least-served phase in the whole lifecycle. In the talk's assessment, most institutions have limited data on post-graduation outcomes. Wide open.
+*   **The ScaleU Take:** Startups are arriving here. In ScaleU's July–September 2026 pipeline, 29 of 88 higher-ed and workforce companies built for this phase, mostly workforce-skills simulations, coaching, and credentials (13) and job-search and career-guidance tools (12) ([field note](../../sources/notes/2026-10-30-scaleu-q1-fy27-update.md)). What remains thin is evidence of outcomes: in the talk's assessment, most institutions have limited data on post-graduation outcomes. A product that shows whether the credential led to the career has more room than another job-search tool.
 
 ---
 
@@ -138,4 +140,4 @@ The biggest opportunities are in the first four phases: Pre-enroll, Apply, Onboa
 5.  **Design the pilot:** Use the [EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md) and [pilot benchmarks](../selling/pilot-benchmarks.md). For advising and retention jobs (7, 9, 11, and 12), see [advising, retention, and persistence pilots](../selling/pilot-benchmarks.md#advising-retention-and-persistence-pilots).
 
 ---
-*Last updated: 2026-05-30*
+*Originally updated 2026-05-30. Updated 2026-10-30 with ScaleU's Q1 FY27 pipeline counts and the summer melt brief; the 15 jobs were not rechecked.*
