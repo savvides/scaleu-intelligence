@@ -1,10 +1,14 @@
 # The Demand Validation Test
 
-The "how" behind ETHOS principle #1: validate demand, not interest. Five questions that separate real institutional demand from false positives, plus the depth probes that tell you whether your answers will survive a 12-18 month sales cycle. For edtech founders selling into K-12 districts, universities, or corporate L&D before they build, before they pitch, and before they ask for a pilot.
+**The question it answers:** is there real demand for what I want to build, or just interest? Use it before you build, before you pitch, and before you ask for a pilot.
+
+The "how" behind [principle #1 in the ethos](../ethos.md#1-validate-demand-not-interest): validate demand, not interest. Five questions that separate real institutional demand from false positives, plus the depth probes that tell you whether your answers will hold up through a long institutional sales cycle. How long depends on deal size and buyer; see the [procurement guide](../selling/procurement-guide.md).
+
+**Audience:** built for founders selling to universities, and its examples are higher ed. The five questions also work for K–12 districts and corporate L&D; swap in that buyer's budget lines and approvers (for K–12, see [K–12 regulation](../market/k12-regulatory.md); for employers, [corporate L&D](../market/corporate-ld.md)).
 
 *Source: "Cracking Higher Ed: Why Startups Miss the Mark" — Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0.*
 
-If you can't answer all five questions, you're not ready. "Interesting" and "funded" are different categories. Enthusiasm is not demand. This file is the test that tells you which one you have.
+If you can't answer all five questions, you're not ready to pilot (see [Scoring yourself](#scoring-yourself)). "Interesting" and "funded" are different categories. Enthusiasm is not demand. This file is the test that tells you which one you have.
 
 The jobs you're validating live in [higher-ed-jobs-atlas.md](higher-ed-jobs-atlas.md). The structural patterns the depth probes reference live in [founder-traps.md](founder-traps.md). The interview method for discovering and pressure-testing these jobs lives in [jtbd-interviews.md](jtbd-interviews.md).
 
@@ -49,11 +53,12 @@ What they've already hired and fired tells you the actual job. If the current wo
 
 This is the single biggest filter. "Interesting" and "funded" are completely different categories.
 
-Ask the buyer: *What budget would this come from?* Acceptable answers:
+Ask the buyer: *What budget would this come from?* Acceptable answers (higher-ed examples):
 
-- "Title III funds"
+- "Our Title III Strengthening Institutions grant has a line for this" (the federal [Strengthening Institutions Program](https://www.ed.gov/grants-and-programs/grants-higher-education/improvement-of-postsecondary-education/title-iii-part-programs-strengthening-institutions) for colleges under Title III of the Higher Education Act; in K–12, "Title III" means English-learner funding, a different program)
 - "IT security budget"
 - "Student success allocation"
+- "Enrollment management budget"
 - "We have a line item for retention tools"
 
 Unacceptable answers:
@@ -103,8 +108,8 @@ If the answer is "just me," your pilot will succeed and your deal will die.
 
 Real institutional adoption requires multiple approvals:
 
-- **IT:** Security review (HECVAT, SOC 2)
-- **Legal:** Compliance review (FERPA, data governance)
+- **IT:** Security review (in higher ed, the EDUCAUSE HECVAT questionnaire; SOC 2)
+- **Legal:** Compliance review (FERPA, data governance; in K–12, often a signed data privacy agreement)
 - **Finance:** Budget approval and procurement process
 - **Faculty governance:** If the product touches curriculum or pedagogy
 - **Accessibility:** ADA / Section 508 compliance
@@ -144,4 +149,4 @@ The five questions above filter demand before you build. Once a pilot is underwa
 
 ---
 
-*Last updated: 2026-05-30*
+*Last updated: 2026-10-30*

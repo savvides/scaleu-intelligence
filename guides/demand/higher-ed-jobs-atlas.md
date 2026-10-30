@@ -1,14 +1,16 @@
 # The Higher Ed Jobs Atlas
 
-15 validated jobs across the student journey. If you're building in higher ed, this is your map of the territory.
+**The question it answers:** which student-journey problems in higher ed are real, and which are already crowded? Use it to place your product on the journey, find an underserved job, and pick the job you'll test with [demand validation](demand-validation.md).
+
+**Audience:** higher ed only. The 15 jobs come from research across large-scale online programs, many with accelerated 7.5-week sessions and transfer students, as described in the SXSW EDU 2026 talk. That research is not published here. Residential, community-college, and K–12 settings may differ, so test any job against your own buyers.
 
 *Source: "Cracking Higher Ed: Why Startups Miss the Mark" — Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0.*
 
 ## The Critical Insight
 
-**80% of edtech founders build for the "Course Experience" phase.** It's the most crowded shark tank in the industry, with 15+ product categories fighting for the same tiny sliver of budget.
+**Most higher-ed edtech founders build for the "Course Experience" phase.** The SXSW EDU 2026 talk put it at about 80% of founders, with 15+ product categories competing. That figure is ScaleU's practitioner estimate, not a published count.
 
-The biggest opportunities are in the first four phases—Pre-enroll, Apply, Onboard, and Select & Enroll. The pain in these phases is massive, but product coverage is thin.
+The biggest opportunities are in the first four phases: Pre-enroll, Apply, Onboard, and Select & Enroll. In the talk's framing, the pain in these phases is quantified at scale but product coverage is thin.
 
 ## Journey Phase Overview
 
@@ -122,16 +124,16 @@ The biggest opportunities are in the first four phases—Pre-enroll, Apply, Onbo
 ### Job 15: The Career Transition Bridge
 *   **The Moment:** A student graduating and wondering "What now?"
 *   **The Struggle:** The connection between the degree and the job market is invisible or unsupported.
-*   **The Job:** "Turn this credential into the promotion I came for."
-*   **The ScaleU Take:** The least-researched, least-served phase in the whole lifecycle. Most institutions have almost no data on post-graduation outcomes. Wide open.
+*   **The Job:** "Turn this credential into the career outcome I enrolled for."
+*   **The ScaleU Take:** The least-researched, least-served phase in the whole lifecycle. In the talk's assessment, most institutions have limited data on post-graduation outcomes. Wide open.
 
 ---
 
 ## How to use this Atlas
 
 1.  **Map your product:** If you don't map to a job here, your "problem" might not be an institutional priority.
-2.  **Check Saturation:** If you're in Course Experience, move "upstream" to an underserved phase that causes the problem.
-3.  **Follow the Budget:** The person feeling the pain (the student) is rarely the one who pays the bill. Find the provider-side job.
+2.  **Check Saturation:** If you're in Course Experience, move "upstream" to an underserved phase that causes the problem (see [founder traps](founder-traps.md#pattern-2-the-upstream-cause--downstream-symptom-split)).
+3.  **Follow the Budget:** The person feeling the pain (the student) is rarely the one who pays the bill. Find the provider-side job and the office that owns it (see [buyer personas](buyer-personas.md)).
 4.  **Pressure-test it:** Run a job through [demand-validation.md](demand-validation.md) before you build, and use [jtbd-interviews.md](jtbd-interviews.md) to discover and validate jobs of your own.
 5.  **Design the pilot:** Use the [EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md) and [pilot benchmarks](../selling/pilot-benchmarks.md). For advising and retention jobs (7, 9, 11, and 12), see [advising, retention, and persistence pilots](../selling/pilot-benchmarks.md#advising-retention-and-persistence-pilots).
 

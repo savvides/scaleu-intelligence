@@ -1,6 +1,8 @@
 # The Structural Traps EdTech Founders Miss
 
-Most edtech startups fail not because they built a bad product, but because they built for a symptom rather than a cause. These four patterns are usually invisible during surface-level discovery.
+**The question it answers:** why does my discovery feel like demand when it might not be? Use it when interviews keep pointing at one obvious problem, and after a pilot to test whether the results are signal or noise.
+
+In ScaleU's experience, many edtech startups fail not because they built a bad product, but because they built for a symptom rather than a cause. These four patterns are usually invisible during surface-level discovery. **Audience:** the patterns come from higher-ed online programs, and the examples are higher ed; Patterns 3 and 4 and the noise vs. signal filter apply to K–12 and corporate buyers too.
 
 *Source: "Cracking Higher Ed: Why Startups Miss the Mark" — Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0.*
 
@@ -29,7 +31,9 @@ Pain points in education originate 1-2 phases before they become visible. When y
 
 Everyone—students, faculty, advisors—will tell you that "X is the problem." Then you look at the outcome data and see that X actually produces the best results.
 
-Qualitative data in education is heavily biased toward the loud minority who struggled. The silent majority who succeeded leave no trace in your interviews.
+Qualitative data in education tends to overrepresent the people who struggled: they have complaints to register. The silent majority who succeeded leave no trace in your interviews.
+
+*Example from the SXSW EDU 2026 talk:* across large online programs, stakeholders widely blamed accelerated 7.5-week formats for attrition. Yet the talk reported that controlled outcome analyses in specific disciplines found students in shorter sessions passed at higher rates and withdrew less. Those analyses are not published here, and the claim is pending verification against published research.
 
 **The ScaleU Test:** If every stakeholder tells you the same story, stop. That's a signal to validate quantitatively before you write a single line of code. If the data contradicts the narrative, the real opportunity is where nobody is looking.
 
