@@ -36,7 +36,7 @@ git clone https://github.com/savvides/scaleu-intelligence.git
   - [Learning research](sources/research/README.md): 19 topic collections with paper citations and DOIs.
   - [Events](sources/events/README.md): ASU+GSV 2026 reports and transcripts, and the SXSW EDU 2026 higher-ed framework.
   - [Field notes](sources/notes/README.md): dated observations from meetings, research reading, and other ScaleU work.
-- **[About](about/provenance.md):** where the material came from, plus [licenses](LICENSE.md) and the [field-note template](about/templates/field-note.md). Not needed to use the library.
+- **[About](LICENSE.md):** licenses, plus the [field-note template](about/templates/field-note.md). Not needed to use the library.
 
 ## Read the evidence in context
 

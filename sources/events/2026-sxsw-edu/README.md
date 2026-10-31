@@ -2,7 +2,7 @@
 
 [ScaleU Intelligence](../../../README.md) / [Events](../README.md) / SXSW EDU 2026
 
-The framework and presentation below retain their original context and dates. Consolidation is not a new factual review. See [provenance](../../../about/provenance.md).
+The framework and presentation below retain their original context and dates. Consolidation is not a new factual review.
 
 **A diagnostic framework for EdTech founders selling into higher education.**
 
