@@ -12,10 +12,10 @@ Four public examples, to show the range. Read your buyer's own policy before dra
 
 | Source | What it says |
 |---|---|
-| Federal funds: [2 CFR 200.320(c)](https://www.law.cornell.edu/cfr/text/2/200.320) | A recipient of a federal award may buy noncompetitively only in five circumstances: the purchase is within the micro-purchase threshold; it can only be fulfilled by a single source; a public exigency or emergency will not permit the delay of competition; the federal agency or pass-through entity approves a written request; or competition is determined inadequate after soliciting several sources. The thresholds are defined by reference to the Federal Acquisition Regulation ([2 CFR 200.1](https://www.law.cornell.edu/cfr/text/2/200.1)). This governs purchases paid from federal awards. |
+| Federal funds: [2 CFR 200.320(c)](https://www.law.cornell.edu/cfr/text/2/200.320) | A recipient of a federal award may buy noncompetitively only in five circumstances: the purchase is within the micro-purchase threshold; it can only be fulfilled by a single source; a public exigency or emergency will not permit the delay of competition; the federal agency or pass-through entity approves a written request; or competition is determined inadequate after soliciting several sources. The micro-purchase threshold is the Federal Acquisition Regulation's, now $15,000 ([2 CFR 200.1](https://www.law.cornell.edu/cfr/text/2/200.1); [FAR 2.101](https://www.acquisition.gov/far/2.101)). This governs purchases paid from federal awards. |
 | A university: [University of Arizona, policy 4.7](https://policy.arizona.edu/procurement-policy/ppm-47-sole-source) | Sole source means only one source of supply exists, and is the exception. A department's preference for a vendor after quotes or demos does not qualify, and neither do business purpose or budget. The chief procurement officer or a designee approves the justification form. |
 | A university: [Michigan State University](https://procurement.msu.edu/procurement/policies-procedures/single-sole-source) | Distinguishes sole source (no alternative exists) from single source (alternatives exist, but only one meets the need). Purchases above $25,000 need a justification form to skip bidding, the justification must be defensible in an audit, and the procurement office makes the final determination. |
-| A state K-12 statute: [Texas Education Code 44.031](https://texas.public.law/statutes/tex._educ._code_section_44.031) | District contracts of $50,000 or more in a 12-month period must use a listed competitive method. Subsection (j) exempts an item available from only one source, including one for which a patent, copyright, secret process, or monopoly precludes competition. |
+| A state K-12 statute: Texas Education Code 44.031 | District contracts of $100,000 or more in aggregate over 12 months must use a listed competitive method; [S.B. 1173](https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01173F.htm), effective September 1, 2025, raised the line from $50,000. [Subsection (j)](https://texas.public.law/statutes/tex._educ._code_section_44.031) exempts an item available from only one source, including one for which a patent, copyright, secret process, or monopoly precludes competition. |
 
 Two lessons hold across them. The test is whether anyone else can meet the requirement, not whether your product is better. And the institution, not the vendor, makes and documents the finding.
 
@@ -25,7 +25,7 @@ Two lessons hold across them. The test is whether anyone else can meet the requi
 Requesting department: [ ]. Requester: [champion, title]. Date: [ ].
 Vendor: [Company legal name]. Product: [ ]. Amount: $[ ] for [term]. Funding source: [budget line; state whether federal funds are used].
 
-**1. Requirement.** [Department] needs to [function] for [population] by [date], in order to [institutional goal or mandate]. Stated as a need, without naming the product.
+**1. Requirement.** [Department] needs to [function] for [population] by [date], to meet [institutional goal or mandate]. Stated as a need, without naming the product.
 
 **2. Essential features.** The requirement cannot be met without:
 
@@ -78,4 +78,4 @@ Vendor: [Company legal name]. Product: [ ]. Amount: $[ ] for [term]. Funding sou
 - [All templates](README.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources. The University of Arizona policy shows a last-revised date of February 1, 1996; the Michigan State page is undated; the Texas statute was read at a public mirror of the code. The template and the advice are ScaleU's view, not legal advice.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day. The University of Arizona policy shows a last-revised date of February 1, 1996; the Michigan State page is undated; Texas subsection (j) was read at a public mirror of the code, which still showed the pre-amendment $50,000 figure in subsection (a). The template and the advice are ScaleU's view, not legal advice.*

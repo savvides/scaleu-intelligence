@@ -12,12 +12,12 @@ These are ScaleU templates: judgment drawn from running pilots and reviewing com
 |---|---|---|---|
 | Discovery | [Buyer discovery interview](discovery-interview.md) | You have a call booked with someone who owns, or recently solved, the problem | [Demand validation](../demand/demand-validation.md), [JTBD interviews](../demand/jtbd-interviews.md) |
 | Before the first enterprise conversation | [Trust packet checklist](trust-packet-checklist.md) | A buyer is about to ask for security, privacy, and accessibility documents | [Vendor review readiness](../selling/vendor-review-readiness.md) |
-| Before the first pilot | [Logic model](logic-model.md) | You need to show why the product should work and what you will measure | [Evidence tiers](../evidence/evidence-tiers.md) |
+| Before the first pilot | [Logic model](logic-model.md) | You need to show why the product should work and what you will measure | [Evidence roadmap](../evidence/evidence-roadmap.md), [evidence tiers](../evidence/evidence-tiers.md) |
 | Pilot design | [Pilot agreement outline](pilot-agreement.md) | A buyer has agreed to a pilot and nothing is yet in writing | [EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md), [pilot benchmarks](../selling/pilot-benchmarks.md) |
 | After a pilot or study | [Evidence brief](evidence-brief.md) | You have a result and a buyer who will check it | [Evidence tiers](../evidence/evidence-tiers.md) |
 | Purchase | [Budget request memo](budget-request-memo.md) | Your champion must ask someone else for the money | [Procurement guide](../selling/procurement-guide.md) |
 | Purchase | [Sole-source justification](sole-source-justification.md) | The buyer wants to purchase without a competitive bid and its rules may allow it | [Procurement guide](../selling/procurement-guide.md) |
-| Every month | [Investor update](investor-update.md) | You have investors, or want them | [Start here](../start-here.md) |
+| Every month | [Investor update](investor-update.md) | You have investors, or want them | [Fundraising](../business/fundraising.md), [unit economics](../business/unit-economics.md) |
 
 ## How to use them
 
@@ -31,4 +31,4 @@ These are ScaleU templates: judgment drawn from running pilots and reviewing com
 These templates are published under [CC BY 4.0](../../LICENSE.md). Adapt them freely.
 
 ---
-*Facts checked 2026-11-11 against the linked sources. The templates themselves are ScaleU's view, not data.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day. The templates themselves are ScaleU's view, not data.*

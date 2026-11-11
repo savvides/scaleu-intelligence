@@ -53,7 +53,7 @@ Main risk: [low adoption / integration delay / vendor viability], managed by [mi
 - The quote, valid past the decision date, with multi-year pricing if you offer it.
 - The cost-of-inaction arithmetic as a starting draft, built from the institution's public figures and clearly marked for the champion to replace with internal ones.
 - The compliance table, filled in honestly, with the documents from your [trust packet](trust-packet-checklist.md).
-- Timing. Budgets are planned months before the fiscal year starts; see the sales calendar in the [procurement guide](../selling/procurement-guide.md).
+- Timing. Budgets are planned months before the fiscal year starts; see the [budget calendar](../selling/procurement-guide.md#the-budget-calendar) in the procurement guide.
 
 ## Common mistakes
 
@@ -73,4 +73,4 @@ Main risk: [low adoption / integration delay / vendor viability], managed by [mi
 - [All templates](README.md)
 
 ---
-*Facts checked 2026-11-11 against the linked library guides. This template is ScaleU's view, not data.*
+*Facts checked 2026-11-11 against the linked library guides, with an independent check against the rewritten guides the same day. This template is ScaleU's view, not data.*

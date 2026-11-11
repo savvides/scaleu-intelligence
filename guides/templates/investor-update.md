@@ -92,4 +92,4 @@ ScaleU's view on what an investor looks for in each:
 - [All templates](README.md)
 
 ---
-*Facts checked 2026-11-11 against the linked library guides. This template is ScaleU's view, not data.*
+*Facts checked 2026-11-11 against the linked library guides, with an independent check against the rewritten guides the same day. This template is ScaleU's view, not data.*

@@ -83,4 +83,4 @@ ScaleU's view: charge for the pilot, even a modest fee. A fee tests whether a bu
 - [All templates](README.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources. The outline and the advice on paid pilots are ScaleU's view, not legal advice.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day. The outline and the advice on paid pilots are ScaleU's view, not legal advice.*

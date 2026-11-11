@@ -40,7 +40,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **Baseline equivalence.** Evidence that the treatment and comparison groups in a study were similar on key measures, such as prior test scores, before the product was used. A quasi-experimental study must show it to meet [WWC standards](https://ies.ed.gov/ncee/wwc/Handbooks). See the [evidence roadmap](evidence/evidence-roadmap.md).
 
-**Bookings.** The total value of contracts signed in a period, whether or not the money has been billed or earned. In edtech, bookings cluster in spring and summer while revenue is recognized across the school year. See [unit economics](business/unit-economics.md).
+**Bookings.** The total value of contracts signed in a period, whether or not the money has been billed or earned. In edtech, bookings cluster in spring and summer; revenue is recognized across the school year. See [unit economics](business/unit-economics.md).
 
 ## C
 
@@ -104,13 +104,13 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **ERP (enterprise resource planning system).** The institution's system of record for finance, human resources, and often student records, such as Workday, Banner, or PeopleSoft. See [interoperability](product/interoperability.md).
 
-**ESA (education savings account).** A state-funded account that parents spend on approved education costs such as tuition, tutoring, online programs, and materials. EdChoice listed 21 programs in 18 states when checked in November 2026 ([EdChoice](https://www.edchoice.org/school-choice/types-of-school-choice/education-savings-account/)). See [consumer learning](market/consumer-learning.md).
+**ESA (education savings account).** A state-funded account that parents spend on approved education costs such as tuition, tutoring, online programs, and materials. EdChoice listed 21 programs in 18 states when checked in November 2026 ([EdChoice](https://www.edchoice.org/school-choice/education-savings-account/)). See [consumer learning](market/consumer-learning.md).
 
 **ESA (educational service agency).** A regional public agency that provides services to school districts, such as a BOCES in New York or an education service center in Texas ([20 U.S.C. 7801(18)](https://www.law.cornell.edu/uscode/text/20/7801)). Many run purchasing cooperatives. See [go-to-market](selling/go-to-market.md).
 
 **ESSA (Every Student Succeeds Act).** The current version of the Elementary and Secondary Education Act, the main federal K-12 law. Its definition of "evidence-based" created the four evidence tiers. See the next entry.
 
-**ESSA evidence tiers.** Four levels of evidence in federal law: strong (an experimental study), moderate (a quasi-experimental study), promising (a correlational study with controls), and demonstrates a rationale (a research-based logic model with a study under way) ([20 U.S.C. 7801(21)](https://www.law.cornell.edu/uscode/text/20/7801)). See [evidence tiers](evidence/evidence-tiers.md).
+**ESSA evidence tiers.** Four levels of evidence in federal law: strong (an experimental study), moderate (a quasi-experimental study), promising (a correlational study with controls), and demonstrates a rationale (a rationale grounded in research, with a study of effects under way) ([20 U.S.C. 7801(21)](https://www.law.cornell.edu/uscode/text/20/7801)). See [evidence tiers](evidence/evidence-tiers.md).
 
 **ESSER (Elementary and Secondary School Emergency Relief).** Pandemic-era federal relief money for school districts. The spending window has closed, and purchases it funded must now compete for recurring budgets. See the [funding landscape](market/funding-landscape.md) and the [K-12 landscape](market/k12-landscape.md).
 
@@ -128,7 +128,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **Fiscal year.** The 12-month budget year. Forty-six states begin theirs on July 1, and most districts and universities follow, so purchasing peaks in spring. See the [procurement guide](selling/procurement-guide.md).
 
-**Formative assessment.** Checking understanding during learning in order to adjust teaching, as opposed to grading at the end. See [learning science](product/learning-science.md) and the [research collection](../sources/research/formative-assessment.md).
+**Formative assessment.** Checking understanding during learning to adjust teaching, as opposed to grading at the end. See [learning science](product/learning-science.md) and the [research collection](../sources/research/formative-assessment.md).
 
 **FRL (free or reduced-price lunch).** Eligibility for the National School Lunch Program, long used as a proxy for student poverty. Students from households at or below 130% of the federal poverty guideline qualify for free lunch, and those up to 185% for reduced price ([NCES glossary](https://nces.ed.gov/programs/coe/glossary)).
 
@@ -136,7 +136,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 ## G
 
-**Gainful employment (GE).** Federal shorthand for programs that the Higher Education Act requires to prepare students for gainful employment in a recognized occupation, chiefly nondegree programs and programs at for-profit colleges. The 2026 rule applies one earnings test to GE and other programs alike; see Earnings accountability.
+**Gainful employment (GE).** Federal shorthand for programs that the Higher Education Act requires to prepare students for gainful employment in a recognized occupation, chiefly nondegree programs and programs at for-profit colleges. The 2026 rule applies one earnings measure to GE programs and nearly all others; see Earnings accountability.
 
 **Gateway course.** A high-enrollment introductory course, such as college algebra or first-year composition, that students must pass to continue in a program. High DFW rates here are a common target for products. See the [higher-ed jobs atlas](demand/higher-ed-jobs-atlas.md).
 
@@ -184,7 +184,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **LMS (learning management system).** The platform where courses, assignments, and grades live: Canvas, Blackboard, Moodle, and D2L Brightspace in higher ed; Canvas, Schoology, and Google Classroom in K-12; and a compliance-training system in companies. See [interoperability](product/interoperability.md).
 
-**Logic model.** A diagram or statement of how a product is expected to produce outcomes: inputs, activities, outputs, and results. Federal grant rules define it ([34 CFR 77.1](https://www.law.cornell.edu/cfr/text/34/77.1)), and it is the basis of ESSA's fourth tier. See the [logic model template](templates/logic-model.md).
+**Logic model.** A diagram or statement of how a product is expected to produce outcomes: inputs, activities, outputs, and results. Federal grant rules define it ([34 CFR 77.1](https://www.law.cornell.edu/cfr/text/34/77.1)), and it is the usual way to document ESSA's fourth tier, though the statute does not name it. See the [evidence roadmap](evidence/evidence-roadmap.md) and the [logic model template](templates/logic-model.md).
 
 **LTI (Learning Tools Interoperability).** The 1EdTech standard by which a tool launches inside an LMS and returns grades. [LTI 1.3](https://www.1edtech.org/standards/lti) is current; earlier versions are no longer supported. See [interoperability](product/interoperability.md).
 
@@ -198,7 +198,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **Metacognition.** A learner's awareness and control of their own thinking: planning, monitoring understanding, and judging what they know. See the [learning strategies research](../sources/research/learning-strategies.md).
 
-**Micro-purchase threshold.** The federal ceiling below which a buyer spending grant money may purchase without quotes ([2 CFR 200.320](https://www.law.cornell.edu/cfr/text/2/200.320)). States and institutions set their own, often lower, lines. See the [procurement guide](selling/procurement-guide.md) for current figures.
+**Micro-purchase threshold.** The federal ceiling, $15,000 ([FAR 2.101](https://www.acquisition.gov/far/2.101)), up to which a buyer spending federal grant money may purchase without quotes ([2 CFR 200.320](https://www.law.cornell.edu/cfr/text/2/200.320)). States and institutions set their own lines for their own money. See the [procurement guide](selling/procurement-guide.md).
 
 **MSA (master services agreement).** The contract that sets the standing legal terms between vendor and buyer, under which individual orders are placed. Public institutions often insist on their own. See the [procurement guide](selling/procurement-guide.md).
 
@@ -272,7 +272,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **RTI (response to intervention).** A tiered approach that gives struggling students progressively more intensive instruction and tracks how they respond. MTSS grew out of it and adds behavior and other supports.
 
-**Runway.** The months of cash left at the current rate of spending. Time a raise so that it closes before, not during, the summer when school revenue arrives. See [fundraising](business/fundraising.md).
+**Runway.** The months of cash left at the current rate of spending. See [fundraising](business/fundraising.md).
 
 ## S
 
@@ -300,7 +300,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **Sole source.** A purchase made without competition because only one vendor can meet the need. The buyer must justify it in writing, and the rules are strict. See the [sole-source justification template](templates/sole-source-justification.md).
 
-**SOPIPA.** California's law barring operators of K-12 online services from using student data for targeted advertising, building non-educational profiles, or selling it ([Bus. & Prof. Code § 22584](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=22584)). Known as the Student Online Personal Information Protection Act; the code chapter is now headed the K–12 Pupil Online Personal Information Protection Act. See [K-12 regulation](market/k12-regulatory.md).
+**SOPIPA.** California's law barring operators of K-12 online services from using student data for targeted advertising, building non-educational profiles, or selling it ([Bus. & Prof. Code § 22584](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=22584)). The law was enacted as the Student Online Personal Information Protection Act; a 2024 amendment renamed the chapter the K–12 Pupil Online Personal Information Protection Act. See [K-12 regulation](market/k12-regulatory.md).
 
 **SOPPA (Student Online Personal Protection Act).** Illinois's student data law ([105 ILCS 85](https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3806&ChapterID=17)). It requires a written agreement before data is shared and makes districts post their vendors and agreements. See [K-12 regulation](market/k12-regulatory.md).
 
@@ -352,14 +352,10 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 - [Start here](start-here.md)
 - [Resources](resources.md)
-- [K-12 landscape](market/k12-landscape.md) and [K-12 regulation](market/k12-regulatory.md)
-- [Higher-ed landscape](market/highered-landscape.md)
-- [Corporate L&D](market/corporate-ld.md)
+- [K-12 regulation](market/k12-regulatory.md)
 - [Procurement guide](selling/procurement-guide.md)
 - [Vendor review readiness](selling/vendor-review-readiness.md)
-- [Evidence tiers](evidence/evidence-tiers.md)
 - [Interoperability](product/interoperability.md)
-- [Unit economics](business/unit-economics.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources: statute and regulation citations, standards versions, compliance dates, and program terms. Definitions of general business, learning science, and AI terms are plain-language summaries in common use, not quotations from a governing source. Not legal advice.*
+*Facts checked 2026-11-11 against the linked sources: statute and regulation citations, standards versions, compliance dates, and program terms, with an independent spot-check of 40 entries the same day. Definitions of general business, learning science, and AI terms are plain-language summaries in common use, not quotations from a governing source. Not legal advice.*

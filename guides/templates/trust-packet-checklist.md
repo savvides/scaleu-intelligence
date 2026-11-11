@@ -10,7 +10,7 @@ Mark each item ready, in progress, or not applicable, with the document's date a
 
 ### Security
 
-- [ ] Completed security questionnaire. In higher ed this is usually EDUCAUSE's HECVAT; K-12 districts and employers often send their own. [date] [owner]
+- [ ] Completed security questionnaire. In higher ed this is usually EDUCAUSE's HECVAT; in K-12, CoSN's K-12CVAT or the district's own form; employers send their own. [date] [owner]
 - [ ] Independent assurance: a SOC 2 report, or, until you have one, a recent penetration-test summary and a letter stating your audit timeline. [date] [owner]
 - [ ] Security overview, two pages: hosting, encryption in transit and at rest, access control, logging, backups. [date] [owner]
 - [ ] Architecture and data-flow diagram showing where student data enters, rests, and leaves. [date] [owner]
@@ -35,7 +35,7 @@ Mark each item ready, in progress, or not applicable, with the document's date a
 - [ ] Roadmap for known gaps, with dates. [date] [owner]
 - [ ] Accessibility contact and the process for handling a reported barrier. [date] [owner]
 
-Public schools, colleges, and universities now have a federal deadline of their own. The Justice Department's ADA Title II rule requires state and local government web content and mobile apps to meet WCAG 2.1 Level AA. An interim final rule published April 20, 2026 moved the compliance dates to April 26, 2027 for entities serving a population of 50,000 or more, and April 26, 2028 for smaller entities and special district governments ([Federal Register, 28 CFR 35.200](https://www.govinfo.gov/content/pkg/FR-2026-04-20/html/2026-07663.htm)). Expect public buyers to ask for WCAG 2.1 AA conformance in writing.
+Expect public buyers to ask for WCAG 2.1 Level AA conformance in writing. The Justice Department's ADA Title II rule requires it of their web content and mobile apps by April 26, 2027, for entities with a population of 50,000 or more, and by April 26, 2028, for smaller entities and special district governments ([interim final rule, April 20, 2026](https://www.govinfo.gov/content/pkg/FR-2026-04-20/html/2026-07663.htm)).
 
 ### Commercial
 
@@ -63,4 +63,4 @@ Public schools, colleges, and universities now have a federal deadline of their 
 - [All templates](README.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources. The list itself is ScaleU's view; each buyer sets its own requirements.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day. The list itself is ScaleU's view; each buyer sets its own requirements.*

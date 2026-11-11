@@ -70,4 +70,4 @@ A pre-post result with no comparison group and no statistical controls fits none
 - [All templates](README.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources. The template is ScaleU's view, not data.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day. The template is ScaleU's view, not data.*

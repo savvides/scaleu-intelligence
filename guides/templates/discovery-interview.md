@@ -70,7 +70,7 @@ Fill this in within an hour of the call. Use their words.
 
 Strong signals: [ ] of 5. Introductions offered: [names]. Next step with a date: [ ].
 
-Mark a signal strong only if the notes hold a hard detail; the definitions are in [Scoring yourself](../demand/demand-validation.md#scoring-yourself). Five strong: design the pilot. Three or four: close the gaps first. Two or fewer: you have a hypothesis, so keep interviewing. Judge the pattern across interviews, not one call.
+Mark a signal strong only if the buyer said it or showed it and the notes hold a hard detail. The strong and weak signals are defined in [The five questions at a glance](../demand/demand-validation.md#the-five-questions-at-a-glance), and the verdicts in [Scoring yourself](../demand/demand-validation.md#scoring-yourself). Five strong: design the pilot. Three or four: close the gaps first. Two or fewer: you have a hypothesis, so keep interviewing. Judge the pattern across interviews, not one call.
 
 ## Common mistakes
 
@@ -89,4 +89,4 @@ Mark a signal strong only if the notes hold a hard detail; the definitions are i
 - [All templates](README.md)
 
 ---
-*Facts checked 2026-11-11 against the linked library guides. This template is ScaleU's view, not data.*
+*Facts checked 2026-11-11 against the linked library guides, with an independent check against the rewritten guides the same day. This template is ScaleU's view, not data.*

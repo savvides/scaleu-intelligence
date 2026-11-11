@@ -4,7 +4,7 @@ A short directory of the outside sources worth an edtech founder's time: what ea
 
 **Applies to:** K-12, higher ed, and workforce founders, mainly in the United States; UK and international entries are marked.
 
-**Disclosure.** ASU ScaleU, which appears in the accelerator table this page links to, is run by this library's maintainer. Inclusion here is editorial judgment. Nobody paid or asked to be listed, and a listing is not an endorsement. The "good for" notes are ScaleU's view; dates, prices, and program terms come from each linked page.
+**Disclosure.** This library's maintainer runs ASU ScaleU, which appears in the accelerator table this page links to. Inclusion here is editorial judgment: nobody paid or asked to be listed, and a listing is not an endorsement. The "good for" notes are ScaleU's view; dates, prices, and program terms come from each linked page.
 
 ## If you read only five things
 
@@ -23,7 +23,7 @@ ScaleU's view of the minimum weekly reading, by segment:
 **K-12**
 
 - [EdWeek Market Brief](https://marketbrief.edweek.org/): district purchasing, funding, and policy reported for vendors, with purchasing alerts and briefings. Paid membership; the site publishes no price and asks you to request a demo. For any founder with a K-12 sales team.
-- [EdSurge](https://www.edsurge.com/): free news on teaching, AI, and school operations, published as an editorially independent newsroom of ISTE. Good for learning what teachers and administrators worry about.
+- [EdSurge](https://www.edsurge.com/): free news on teaching, AI, and school operations, published as an editorially independent news site of the International Society for Transforming Education (formerly ISTE+ASCD). Good for learning what teachers and administrators worry about.
 - [The 74](https://www.the74million.org/): free, donor-funded K-12 news and commentary, strong on state policy and school choice.
 - [K-12 Dive](https://www.k12dive.com/): free daily briefs on district policy and operations. Skim the newsletter.
 - [The Hechinger Report](https://hechingerreport.org/): free nonprofit reporting, from early childhood through college, on what works and for whom.
@@ -44,7 +44,7 @@ ScaleU's view of the minimum weekly reading, by segment:
 
 **The business of edtech**
 
-- [The EdSheet](https://edsheet.whiteboardadvisors.com/), by Matt Tower at Whiteboard Advisors: funding, venture deals, mergers, and policy, every two weeks. Volume 45 was dated November 9, 2026. Tower formerly wrote the EdTech Thoughts newsletter.
+- [The EdSheet](https://edsheet.whiteboardadvisors.com/), by Matt Tower at Whiteboard Advisors: funding, venture deals, mergers, and policy, every two weeks. Volume 45 was dated November 9, 2026.
 - [Edtech Insiders newsletter](https://edtechinsiders.substack.com/), by Alex Sarlin: interviews and essays, several a month; the page reports more than 20,000 subscribers.
 - [HolonIQ](https://www.holoniq.com/): global funding totals, regional company lists, and quarterly AI-in-education notes. The notes are free; the data platform is paid. The site now carries QS branding. Compare its figures only with its own earlier figures (see the [funding landscape](market/funding-landscape.md)).
 
@@ -66,7 +66,7 @@ ScaleU's view of the minimum weekly reading, by segment:
 - [EdWorkingPapers](https://edworkingpapers.com/) (Annenberg Institute at Brown): new studies before journal publication. These are working papers; most have not been peer reviewed.
 - [Stanford SCALE AI Hub research repository](https://scale.stanford.edu/ai/repository): academic studies of generative AI in preK-12, 1,754 entries when checked, last updated November 2026. Its summaries are AI-generated and human-reviewed; read the paper before you cite it.
 - [The Learning Agency](https://the-learning-agency.com/): runs the Tools Competition and publishes guides on learning engineering and AI benchmarks for education tasks.
-- [Digital Promise](https://digitalpromise.org/): research-practice partnerships and the [EdTech Quality Collaborative](https://digitalpromise.org/initiative/edtech-quality-collaborative/).
+- [Digital Promise](https://digitalpromise.org/): research-practice partnerships and the [EdTech Quality Collaborative](https://digitalpromise.org/programs/edtech-quality-collaborative/).
 - In this library: [learning science](product/learning-science.md), the [evidence roadmap](evidence/evidence-roadmap.md), and paper collections on [19 topics](../sources/research/README.md).
 
 ## Standards and trust bodies
@@ -80,16 +80,16 @@ These groups write the rules and checklists that buyers copy into RFPs. [Vendor 
 | [EDUCAUSE](https://www.educause.edu/) | The [HECVAT](https://www.educause.edu/hecvat) security questionnaire (version 4.1.6 when checked), free to vendors | Before the first university security review |
 | [CoSN](https://www.cosn.org/) | The association of district technology leaders | To meet K-12 CTOs and learn their priorities |
 | [SETDA](https://www.setda.org/) | The association of state edtech directors; publishes an annual state trends report and a procurement guide | When state policy or a state contract shapes your market |
-| [ISTE](https://iste.org/) | Educator technology standards and ISTELive; merged with ASCD in 2026 | For reach among teachers and instructional leaders |
+| [ISTE](https://iste.org/) | Educator technology standards and ISTELive. ISTE merged with ASCD in 2023, and in 2026 the combined body took the name International Society for Transforming Education ([ISTELive FAQ](https://conference.iste.org/2027/about/faq.php)) | For reach among teachers and instructional leaders |
 | [EDSAFE AI Alliance](https://www.edsafeai.org/) | The SAFE Benchmarks Framework for AI in education; an industry council of 175+ companies. Led by InnovateEDU | When districts ask how your AI product was vetted |
 | [TeachAI](https://www.teachai.org/) | An AI guidance toolkit that districts adapt into policy. Its newest resources were dated 2025 | To predict what a district AI policy will say |
 | [Common Sense Privacy Program](https://privacy.commonsense.org/) | Public ratings of privacy policies | Now: you may already be rated |
-| [Future of Privacy Forum](https://fpf.org/issue/education/) | Analysis of student privacy law. It absorbed Student Privacy Compass, whose address now redirects to FPF | To track state privacy bills |
+| [Future of Privacy Forum](https://fpf.org/youth-policy-governance/) | Analysis of student and youth privacy law. It retired the Student Privacy Pledge in 2025 (see [vendor review readiness](selling/vendor-review-readiness.md)) | To track state privacy bills |
 | [Project Unicorn](https://www.projectunicorn.org/) | A vendor pledge and rubric on data interoperability, also from InnovateEDU | When districts ask about data portability |
 
 ## Conferences
 
-Go where your buyer goes, with meetings booked in advance ([go-to-market](selling/go-to-market.md)). Dates and places are from each organizer's page unless noted; audience and purpose are ScaleU's view. Note the April 2027 collisions: ASU+GSV, AACRAO, and NSBA share one week, and CoSN and UPCEA share the next.
+Go where your buyer goes, with meetings booked in advance ([go-to-market](selling/go-to-market.md)). Dates and places are from each organizer's page unless noted; audience and purpose are ScaleU's view. Two April 2027 collisions: ASU+GSV and AACRAO fall on the same four days, two days after NSBA opens, and CoSN and UPCEA overlap the following week.
 
 | Event | Usual month | 2027 dates and place | Audience | Why a founder goes |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ Go where your buyer goes, with meetings booked in advance ([go-to-market](sellin
 | [Bett UK](https://uk.bettshow.com/) | January | January 20–22, ExCeL London | UK and international school buyers, ministries, resellers | The entry point for UK and international distribution |
 | [1EdTech Learning Impact](https://www.1edtech.org/) | February in 2027 | February 8–10, San Antonio | Standards leads at institutions, districts, and vendors | Integration partnerships and certification |
 | [AASA National Conference on Education](https://nce.aasa.org/faq/) | February | February 25–27, Atlanta | Superintendents | The K-12 budget holder, in one building |
-| [NASPA Annual Conference](https://events.naspa.org/e/2027-naspa-annual-conference) | March | Opens March 6, National Harbor, Maryland | Student affairs leaders | Student success, wellbeing, and engagement products |
+| [NASPA Annual Conference](https://events.naspa.org/e/2027-naspa-annual-conference) | March | Pre-conference March 6–7, National Harbor, Maryland; the page showed no main-conference dates when checked | Student affairs leaders | Student success, wellbeing, and engagement products |
 | [NSBA Annual Conference](https://www.nsba.org/events/2027-annual-conference) | April | April 2–4, Washington, DC | School board members | Only if board approval gates your sale |
 | [AACRAO Annual Meeting](https://www.aacrao.org/annual-meeting/) | April | April 4–7, Long Beach, California | Registrars and admissions officers | Credentials, transfer, records, and enrollment products |
 | [CoSN Annual Conference](https://www.cosn.org/cosn2027/) | April | April 12–14, Orlando | District CTOs and CIOs | Infrastructure, security, privacy, and interoperability |
@@ -110,10 +110,10 @@ Go where your buyer goes, with meetings booked in advance ([go-to-market](sellin
 | [Learning Technologies](https://www.learningtechnologies.co.uk/) | May in 2027 | May 5–6, ExCeL London | UK and European L&D buyers | Workforce sales in Europe |
 | [DevLearn](https://devlearn.com/) | October or November | October 6–8, Las Vegas | Instructional designers and learning technologists | Tools for people who build corporate training |
 | [EDUCAUSE Annual Conference](https://events.educause.edu/annual-conference) | Late September or October | October 18–21, Orlando (date from [Higher Ed Dive](https://www.highereddive.com/news/top-higher-education-conferences-2027/832196/)) | Higher-ed CIOs and IT staff | The higher-ed technology buyer and every incumbent vendor |
-| [NACADA Annual Conference](https://nacada.ksu.edu/Events/Annual-Conference.aspx) | October | October 24–27, Atlanta (date from Higher Ed Dive) | Academic advisors | Advising and retention products |
+| [NACADA Annual Conference](https://nacada.ksu.edu/Events/Annual-Conference) | October | October 24–27, Atlanta (date from Higher Ed Dive) | Academic advisors | Advising and retention products |
 | [EDTECH WEEK](https://www.started.com/) | October | New York; 2027 dates not yet published | Founders, investors, district and university innovators | Peer founders and New York investors |
 
-Three events on older lists have changed. ASCD's annual conference merged into ISTELive when the two organizations became one. The AIR Show (later the AI Show) was [folded into the ASU+GSV Summit](https://asugsvsummit.com/news/update-for-the-ai-show-2026) in 2026, and no separate 2027 show had been announced when checked. HolonIQ's site listed no upcoming summit of its own.
+Three events on older lists have changed. ASCD's annual conference is now part of ISTELive. The AIR Show (later the AI Show) was [folded into the ASU+GSV Summit](https://asugsvsummit.com/news/update-for-the-ai-show-2026) in 2026, and no separate 2027 show had been announced when checked. HolonIQ's site listed no upcoming summit of its own.
 
 ## Accelerators, fellowships, and competitions
 
@@ -123,7 +123,7 @@ The [funding landscape](market/funding-landscape.md) holds the main accelerator 
 |---|---|---|
 | [LearnLaunch](https://learnlaunch.com/) (Boston) | A pre-seed fund and accelerator; the site reports three funds and 95+ companies backed | Pre-seed; investment terms are not published |
 | [StartEd](https://www.started.com/) (New York) | A founder membership with peer circles, masterclasses, and investor introductions; hosts EDTECH WEEK | Any stage; fees and terms are not on the home page |
-| [Camelback Ventures Fellowship](https://www.camelbackventures.org/fellowship/) | $40,000 and a 16-week hybrid program, twice a year | Friends-and-family stage ventures in education and "conscious technology," with a focus on diverse founders |
+| [Camelback Ventures Fellowship](https://www.camelbackventures.org/fellowship/) | A $40,000 investment and a 16-week hybrid program, twice a year | Friends-and-family stage ventures in education and "conscious technology," with a focus on diverse founders |
 | [Tools Competition](https://tools-competition.org/) (The Learning Agency, with Renaissance Philanthropy) | Prizes of $50,000 (Catalyst), $150,000 (Growth), and $300,000 (Transform) from a pool above $4.5M | Any stage; tools must support learning engineering. The 2027 cycle launched September 10, 2026; abstracts were due October 13, and winners are named in June 2027 |
 | [Milken-Penn GSE Education Business Plan Competition](https://www.educationcompetition.org/) | Cash prizes; in 2026 the grand prize was $40,000, with others of $25,000, $10,000, and $5,000 | Early ventures. In 2026 applications ran January 14 to February 11 and finals were held September 14 |
 | [GSV Cup](https://www.asugsvsummit.com/gsv-cup) | A pitch competition at the ASU+GSV Summit; selected companies get a free pass and a demo slot. The page names no cash prize | Pre-Series A; 2027 nominations were open when checked |
@@ -173,16 +173,6 @@ Grant terms and the 2025–2026 changes to SBIR are covered in the [funding land
 
 For NCES, IPEDS, the College Scorecard, Census, BLS, and the other sources used to size a market, see [market data sources](market/market-data-sources.md).
 
-## Checked and left out
-
-- GSV's N2K newsletter: the archived issues found were from 2024 and early 2025, and no current issue or sign-up page was located.
-- Matt Tower's EdTech Thoughts: superseded by The EdSheet, above.
-- Student Privacy Compass: absorbed by the Future of Privacy Forum. The Student Privacy Pledge was retired in 2025 (see [vendor review readiness](selling/vendor-review-readiness.md)).
-- AWS EdStart and Google for Startups' education cohort: dropped from the funding landscape in October 2026 as closed or inactive, and not rechecked here.
-- MindCET (Israel): its site did not load when checked.
-- 4.0 and Transcend: both are active nonprofits, but neither page showed a current program for a startup founder to apply to.
-- Class Disrupted (Michael Horn and Diane Tavenner): the series page on The 74 returned an error, so it is not linked.
-
 ## Related guides
 
 - [Start here](start-here.md)
@@ -194,4 +184,4 @@ For NCES, IPEDS, the College Scorecard, Census, BLS, and the other sources used 
 - [Market data sources](market/market-data-sources.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources. Descriptions of what each resource is good for are ScaleU's view, not data. EDUCAUSE and NACADA dates for 2027 come from Higher Ed Dive's October 6, 2026 conference list; NASPA's page showed a March 6, 2027 opening and no closing date. Prices and program terms change; confirm them at the source.*
+*Facts checked 2026-11-11 against the linked sources, with an independent review the same day that reopened every link and rechecked the conference dates, prices, and program terms. Descriptions of what each resource is good for are ScaleU's view, not data. EDUCAUSE and NACADA dates for 2027 come from Higher Ed Dive's October 6, 2026, conference list, not the organizers; NASPA's page showed pre-conference dates of March 6–7, 2027, and no main-conference dates. Prices and program terms change; confirm them at the source.*
