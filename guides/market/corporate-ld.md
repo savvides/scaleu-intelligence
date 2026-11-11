@@ -6,7 +6,7 @@ Employers buy learning with four different budgets, and each has its own buyer, 
 
 ## How to use this page
 
-Find your budget in the first table, then read the section on that budget. Figures with a link were checked at the linked source on November 11, 2026. Buyer roles, cycle lengths, and deal sizes are practitioner estimates from the original Founder Stack authors and are labeled where they appear.
+Find your budget in the first table, then read the section on that budget. Linked figures were checked at their sources on November 11, 2026. Buyer roles, cycle lengths, and deal sizes are practitioner estimates from the original Founder Stack authors and are labeled where they appear.
 
 ## Four budgets, four buyers
 
@@ -21,42 +21,42 @@ Four more people can stop a deal (practitioner view). The HR business partner of
 
 ## The training budget
 
-Three published surveys size this budget. Their definitions and samples differ, so use each for its trend, and do not add them together.
+Three published surveys size this budget. Their definitions and samples differ, so use each for its trend and never add them together.
 
 | Source | Finding | Scope |
 |---|---|---|
 | [Training magazine, 2025 Training Industry Report](https://trainingmag.com/2025-training-industry-report/) (November 10, 2025) | Total US training spending of $102.8B, up 4.9%. Of that, $64.7B was training staff payroll and $16B was outside products and services, up 29%. Spending per learner was $874; training hours per employee fell from 47 to 40. | US companies and educational institutions with 100 or more employees, surveyed April to July 2025 |
-| ATD, 2026 State of the Industry (2025 data), [as summarized by Zensai](https://zensai.com/articles/employee-training-time-and-falling-investment/) (May 27, 2026) | Direct learning spending of $846 per employee, down from $1,254 in 2024; 16.7 formal learning hours per employee, up from 13.7; cost per learning hour of $120, down from $165 | ATD's member survey. ATD's own pages blocked automated access, so these figures were read from a vendor's summary and not checked against the full report. |
+| ATD, 2026 State of the Industry (2025 data), [as summarized by Zensai](https://zensai.com/articles/employee-training-time-and-falling-investment/) (May 27, 2026) | Direct learning spending of $846 per employee, down from $1,254 in 2024; 16.7 formal learning hours per employee, up from 13.7; cost per learning hour of $120, down from $165 | ATD's annual survey. Zensai sponsored the report, and ATD's site sat behind a bot check on November 11, 2026, so these figures come from the sponsor's summary and were not checked against the report. |
 | [LinkedIn, Workplace Learning Report 2025](https://business.linkedin.com/learn/resources/workplace-learning-report) | 49% of L&D and talent professionals say their executives worry that employees lack the skills to carry out the business strategy; 88% of organizations are concerned about retention; 71% offer leadership training | 937 L&D and HR professionals and 679 learners in several regions |
 
-Two points follow. First, most training money pays internal staff: in Training magazine's count, vendors compete for about $16B of the $102.8B. Second, ATD's figures show employers buying more hours for less money per hour. A product that lowers the cost of a learning hour fits that trend; a product that adds cost per hour must show a business result.
+Two points follow. First, most training money pays internal staff: in Training magazine's count, vendors compete for about $16B of the $102.8B, or 16%. Second, ATD's figures as summarized show employers buying more hours for less money per hour. A product that lowers the cost of a learning hour fits that trend; a product that raises it must show a business result (ScaleU's view).
 
 The budget is planned annually, usually in the third and fourth quarters for the following year (practitioner estimate). The segments inside it are compliance training, skills development, leadership development, onboarding, and sales enablement.
 
 ## The benefits budget: tuition assistance
 
-Section 127 of the Internal Revenue Code lets an employer give each employee up to $5,250 a year in educational assistance tax-free. The IRS restated the rules in [Fact Sheet 2026-10](https://www.irs.gov/newsroom/updates-to-frequently-asked-questions-about-educational-assistance-programs) (April 2026):
+Section 127 of the Internal Revenue Code lets an employer give each employee up to $5,250 a year in educational assistance tax-free. The 2025 budget law changed it in two ways ([Public Law 119-21](https://www.congress.gov/bill/119th-congress/house-bill/1/text), section 70412), and the IRS restated the rules in [Fact Sheet 2026-10](https://www.irs.gov/newsroom/updates-to-frequently-asked-questions-about-educational-assistance-programs) (April 2026):
 
-- The $5,250 limit applies for 2025 and 2026 and will be adjusted for the cost of living in tax years beginning after 2026.
+- The $5,250 limit applies for 2025 and 2026. For tax years beginning after 2026 the law indexes it to inflation, rounded to the nearest $50.
 - Tuition, fees, books, supplies, and equipment qualify, for undergraduate or graduate courses, and the courses need not relate to the job.
-- Employer payments toward an employee's own student loans count against the same limit. The 2025 budget law removed the expiration date on that provision, which had been set for December 31, 2025 ([Mercer summary](https://www.mercer.com/en-us/insights/law-and-policy/obbba-makes-tax-free-student-loan-reimbursements-permanent/), August 12, 2025).
+- Employer payments toward an employee's own student loans count against the same limit. That provision would have expired at the end of 2025; the law made it permanent ([Mercer summary](https://www.mercer.com/en-us/insights/law-and-policy/obbba-makes-tax-free-student-loan-reimbursements-permanent/), August 12, 2025).
 - Meals, lodging, transportation, and tools the employee keeps do not qualify.
 
-The limit matters for pricing. A program that costs an employee's employer more than $5,250 a year creates taxable income for the employee above that amount, unless another exclusion applies.
+The limit matters for pricing. When an employer pays more than $5,250 a year for an employee's program, the excess is taxable income to the employee unless another exclusion applies.
 
 Large employers usually run the benefit through an administrator that manages the policy, the payments, and a network of approved schools and programs:
 
 - [EdAssist by Bright Horizons](https://www.brighthorizons.com/edassist-solutions) reports 257 clients, more than 352,000 active participants, and more than $1B in education and loan payments administered a year (company figures, read November 11, 2026).
-- [Guild](https://www.guild.com/) sells education benefits to employers. Its site was live on November 11, 2026; its customer and learner counts were not verified.
-- InStride, which builds employer programs with university partners, could not be checked: its site blocked automated access.
+- [Guild](https://guild.com/) sells employers an education benefit, cohort-based academies, and pathways into hard-to-fill roles (company description, read November 11, 2026). Its customer and learner counts were not verified.
+- [InStride](https://www.instride.com/) sells education and skills programs to talent, L&D, and benefits leaders (company description, read November 11, 2026).
 
-ScaleU's view: for a course or credential provider, the administrator is the channel. Getting into its catalog matters more than selling the employer directly, and the administrator will ask for completion and career outcomes before it lists you.
+ScaleU's view: for a course or credential provider, the administrator is the channel. A place in its catalog matters more than a direct sale to the employer, and the administrator will ask for completion and career outcomes before it lists you.
 
 ## Business-unit and frontline operations budgets
 
 Line leaders buy outside the L&D budget when a gap costs them money. The purchase is justified by an operating number, and the learning is often built into the work tool itself.
 
-A speaker claim illustrates the pattern. At ASU+GSV 2026, Walmart Academy's head of content and strategy described VisPick, a computer-vision tool that tells store associates which inventory to pull. He said it cut a task of about an hour to about 20 minutes ([switch analysis](../../sources/events/2026-asu-gsv/jtbd/josh-walmart-academy-vp-20260413.md)). The figure is the speaker's account from a panel, not a verified result. The lesson for founders is that an operations buyer may prefer to remove the need for training rather than buy more of it.
+A speaker claim illustrates the pattern. At ASU+GSV 2026, Walmart Academy's head of content and strategy described VisPick, a computer-vision tool that tells store associates which inventory to pull. He said it cut a task of about an hour to about 20 minutes ([switch analysis](../../sources/events/2026-asu-gsv/jtbd/josh-walmart-academy-vp-20260413.md)). The figure is the speaker's account from a panel, not a verified result. An operations buyer may prefer removing the need for training to buying more of it.
 
 ## Public workforce money
 
@@ -71,7 +71,7 @@ Public funds pay for training that employers and workers do not buy themselves. 
 
 Employers talk about hiring for skills more than they do it. A February 2024 study by the Burning Glass Institute and Harvard Business School found that dropping degree requirements changed fewer than 1 in 700 hires in the prior year. About 45% of the firms studied changed their postings but not their hiring, and about a fifth reverted ([summary by co-author Joseph Fuller](https://pw.hks.harvard.edu/post/skills-based-hiring-the-long-road-from-pronouncements-to-practice)).
 
-Supply is not the constraint. Credential Engine counted [1,850,034 unique credentials](https://credentialengine.org/2025/12/09/new-report-finds-1-85-million-credentials-and-opportunities/) from more than 134,000 providers in the United States (December 9, 2025), including 1,022,028 badges, 486,352 certificates, and 264,099 degrees.
+Credentials are plentiful. Credential Engine counted [1,850,034 unique credentials](https://credentialengine.org/2025/12/09/new-report-finds-1-85-million-credentials-and-opportunities/) from more than 134,000 providers in the United States (December 9, 2025), including 1,022,028 badges, 486,352 certificates, and 264,099 degrees.
 
 ScaleU's view: a new credential has value only when a named employer hires or promotes on it. Sell the hiring or promotion outcome, with the employer's name attached, and treat the credential as the record of it.
 
@@ -79,7 +79,7 @@ ScaleU's view: a new credential has value only when a named employer hires or pr
 
 In Training magazine's 2025 survey, 37% of companies used AI learning technology, up from 25% a year earlier. AI accounted for 2% of training hours, 25% of organizations planned to raise AI training budgets in 2026, and 29% of training vendors had launched AI products. In LinkedIn's 2025 report, 71% of L&D professionals were exploring, testing, or using AI in their own work.
 
-The practical effect (ScaleU's view) is that generic content has lost pricing power, because L&D teams can produce it themselves. What still sells is practice with feedback, assessment that a manager trusts, and data that ties learning to a business number. See the [AI-native framework](../product/ai-native-framework.md) and [defensibility](../product/defensibility-moats.md).
+ScaleU's view: generic content has lost pricing power, because L&D teams can produce it themselves. Practice with feedback, assessment that a manager trusts, and data that ties learning to a business number still sell. See the [AI-native framework](../product/ai-native-framework.md) and [defensibility](../product/defensibility-moats.md).
 
 ## Compliance training as a wedge
 
@@ -105,7 +105,7 @@ Practitioner estimates from the original Founder Stack authors, not sourced data
 - Enterprise deals often start around $50,000 a year.
 - Common structures are annual per-seat licenses, enterprise licenses with usage tiers, content licenses, and implementation fees.
 - Most enterprise rollouts begin with a paid department pilot. Prove the business result there, then expand.
-- A case study from a recognizable company carries more weight than any feature.
+- A case study from a recognizable company outweighs any product capability.
 
 For pricing models, see [business models and pricing](../business/business-models-and-pricing.md).
 
@@ -146,4 +146,4 @@ Practitioner generalizations; individual institutions and companies vary. For ed
 - [Market data sources](market-data-sources.md)
 
 ---
-*Facts last checked: originally updated 2026-03-31; on 2026-10-30 only the vendor references were rechecked. Rewritten for clarity 2026-11-11; added and checked that day against the linked sources: the three market surveys, Section 127, EdAssist, WIOA provider rules, apprenticeship counts, California's Employment Training Panel, the skills-based hiring study, Credential Engine's count, the SOC 2 and SCIM references, and the Walmart speaker claim. Not verified: ATD's figures against ATD's own report, Guild's and InStride's current figures, and the buyer roles, cycle times, and deal sizes, which are practitioner estimates.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day: Section 127 against Public Law 119-21 and the IRS fact sheet, the Training magazine and LinkedIn surveys, EdAssist, Guild's and InStride's sites, 29 USC 3152, the Department of Labor's job-center count, apprenticeship counts, California's Employment Training Panel, the skills-based hiring study, and Credential Engine's count. Not verified: ATD's figures against ATD's own report. Buyer roles, cycle times, and deal sizes are practitioner estimates, not data.*

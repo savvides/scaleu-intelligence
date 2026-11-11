@@ -6,13 +6,13 @@ Before a US district signs, your product must satisfy two federal privacy laws (
 
 ## How to use this page
 
-Start with the checklist, then read the section behind any item you cannot yet tick. The page covers federal law and example states; it is a starting point, not legal advice. Confirm current requirements at the linked primary sources and with counsel. For the documents a district will ask for, see [vendor review readiness](../selling/vendor-review-readiness.md); for purchasing thresholds and the budget calendar, see the [procurement guide](../selling/procurement-guide.md).
+Start with the checklist, then read the section behind any item you cannot yet tick. The page covers federal law and example states. It is a starting point, and counsel should confirm what applies to you. For the documents a district will ask for, see [vendor review readiness](../selling/vendor-review-readiness.md); for purchasing thresholds and the budget calendar, see the [procurement guide](../selling/procurement-guide.md).
 
 ## Checklist for K-12 founders
 
 1. A privacy policy that addresses FERPA, COPPA (including the 2025 amendments), and the state laws where you sell
 2. A data governance agreement template ready for districts
-3. Familiarity with the NDPA: can you sign the standard agreement and Exhibit E?
+3. A decision on the NDPA: whether you can sign the standard agreement and Exhibit E
 4. Data minimization: collect only what the educational purpose requires
 5. A written data retention and deletion policy
 6. A written information security program
@@ -35,7 +35,7 @@ Start with the checklist, then read the section behind any item you cannot yet t
 
 ## FERPA (Family Educational Rights and Privacy Act)
 
-FERPA is the federal law that protects the privacy of student education records. It applies to schools and agencies that receive funds from US Department of Education programs, which includes virtually all public K-12 schools. The regulations are at [34 CFR Part 99](https://www.ecfr.gov/current/title-34/subtitle-A/part-99); the Department's [Student Privacy Policy Office](https://studentprivacy.ed.gov/) publishes guidance for vendors.
+FERPA is the federal law that protects the privacy of student education records. It applies to schools and agencies that receive funds from US Department of Education programs, as nearly every public K-12 school does. The regulations are at [34 CFR Part 99](https://www.ecfr.gov/current/title-34/subtitle-A/part-99); the Department's [Student Privacy Policy Office](https://studentprivacy.ed.gov/) publishes guidance for vendors.
 
 What it means for founders:
 
@@ -46,7 +46,7 @@ What it means for founders:
 
 Common mistakes:
 
-- Assuming parental consent is always required, when the school official exception often applies
+- Assuming that parental consent is always required, when the school official exception often applies
 - Accessing student data before a data governance agreement is signed
 - Keeping student data longer than the agreement allows
 - Using student data for advertising or other non-educational purposes
@@ -61,7 +61,7 @@ COPPA is the federal law that governs the online collection of personal informat
 - A written data retention policy; children's data may not be kept indefinitely
 - A written children's information security program
 
-The FTC proposed codifying rules for edtech and school authorization but did not finalize them. The Department of Education had said it intended to propose FERPA amendments, and the FTC wanted to avoid a conflict. No FERPA proposed rule had appeared in the Federal Register by the October 2026 recheck, and a search of the Federal Register on November 11, 2026, found none. The FTC said it will continue to enforce COPPA in schools under its existing guidance, described below.
+The FTC proposed rules for edtech and school authorization but left them out of the final rule. The Department of Education had said it intended to propose FERPA amendments, and the FTC wanted to avoid a conflict. A search of the Federal Register on November 11, 2026, found no proposed FERPA rule. The FTC said it will continue to enforce COPPA in schools under its existing guidance, described below.
 
 **What it means for founders:**
 
@@ -87,16 +87,16 @@ Common mistakes:
 
 ## State student privacy laws
 
-Most states have their own student privacy laws, and many are stricter than FERPA. No current, dated national count was found during the October 2026 recheck. The [Future of Privacy Forum](https://fpf.org/issue/education/), which absorbed Student Privacy Compass, tracks state laws. Four commonly cited examples:
+Most states have their own student privacy laws, and many are stricter than FERPA. We found no current, dated national count. The [Future of Privacy Forum](https://fpf.org/issue/education/), which absorbed Student Privacy Compass, tracks state laws. Four commonly cited examples:
 
 | State and law | Main requirements |
 |---|---|
 | California: SOPIPA, [Bus. & Prof. Code 22584](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=22584) | No targeted advertising and no profiles built for non-educational purposes; no sale of student data; reasonable security; deletion at the school's request |
 | New York: [Education Law 2-d](https://www.nysenate.gov/legislation/laws/EDN/2-D) | Every contract with a vendor that receives student data must include a data security and privacy plan; each school publishes a parents' bill of rights for data privacy and security on its website and includes it with every such contract; parents can file complaints about possible breaches |
 | Colorado: [Student Data Transparency and Security Act](https://www.cde.state.co.us/dataprivacyandsecurity) | Transparency about the data elements vendors collect; no targeted advertising; breach notification |
-| Illinois: SOPPA, [105 ILCS 85](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3806&ChapterID=17) | A written agreement between school and vendor before data sharing; schools must post a list of vendors, a copy of each written agreement, and a list of breaches; specific breach notification requirements |
+| Illinois: SOPPA, [105 ILCS 85](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3806&ChapterID=17) | A written agreement between school and vendor before data sharing; schools must post a list of vendors, a copy of each written agreement, and a list of breaches; a vendor must notify the school within 30 calendar days of determining that a breach occurred |
 
-The New York and Illinois points were rechecked against the statutes in October 2026. The California and Colorado points were not.
+The California, New York, and Illinois rows were checked against the statutes on November 11, 2026. The Colorado row was not: the linked Department of Education page names the act (House Bill 16-1423) but does not summarize it.
 
 Practitioner view: if you sell to K-12 nationally, design to the strictest requirements you will face. Many founders treat California and New York as a baseline, then check each new state.
 
@@ -108,24 +108,24 @@ The SDPC is a [special interest group of the Access 4 Learning (A4L) Community](
 - When you sign the standard NDPA with one district, you also sign Exhibit E, the General Offer of Privacy Terms. Other districts covered by that agreement can then subscribe to the same privacy terms without renegotiating ([NDPA v2 usage guide](https://files.a4l.org/privacy/NDPA/NDPAv2_Usage_Guide_and_Development_Process.pdf)). Price and other commercial terms are still negotiated separately.
 - Search the [SDPC Resource Registry](https://privacy.a4l.org/sdpc-resource-registry/) to see which agreements you or your competitors have already signed.
 
-Read the NDPA template early. If you can sign it without modifications, you remove a major procurement blocker.
+Read the NDPA template early. A vendor that signs it unmodified clears one of procurement's slowest steps (practitioner view).
 
 ## Accessibility requirements
 
-**Section 504 and the ADA.** Schools must give students with disabilities equal access to education, and that includes the digital tools they use.
+**Section 504 and the ADA.** Schools must give students with disabilities equal access to education, including the digital tools they use.
 
 **ADA Title II web rule.** The Department of Justice's [2024 rule](https://www.ada.gov/resources/2024-03-08-web-rule/) requires state and local government entities, including public school districts, to make web content and mobile apps conform to WCAG 2.1 Level AA. It covers content provided through contractors. An [interim final rule published April 20, 2026](https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web) extended the compliance dates:
 
 - April 26, 2027, for public entities with a total population of 50,000 or more
 - April 26, 2028, for public entities with a population under 50,000, and for special district governments
 
-Which date applies depends on the population of the jurisdiction the district serves ([28 CFR 35.200](https://www.ecfr.gov/current/title-28/chapter-I/part-35/subpart-H/section-35.200)). The standard did not change, and DOJ said it may revisit the rule, so check the current text. The Department's page showed the same two dates on November 11, 2026.
+Which date applies depends on the population of the jurisdiction the district serves ([28 CFR 35.200](https://www.ecfr.gov/current/title-28/chapter-I/part-35/subpart-H/section-35.200)). The standard did not change, and DOJ said it may revisit the rule, so check the current text. The regulation and the Department's page both showed these two dates on November 11, 2026.
 
 **Voluntary Product Accessibility Template (VPAT).** Many districts and states require a completed VPAT during procurement. It documents how your product conforms to accessibility standards.
 
 ## AI-specific federal guidance
 
-No federal statute specific to AI in schools was found during the October 2026 recheck. Two Department of Education actions affect how districts may spend federal money on AI:
+We found no federal statute specific to AI in schools as of October 2026. Two Department of Education actions affect how districts may spend federal money on AI:
 
 - A [July 22, 2025 guidance letter](https://www.ed.gov/about/news/press-release/us-department-of-education-issues-guidance-artificial-intelligence-use-schools-proposes-additional-supplemental-priority) on using existing federal grant funds for AI tools, tutoring, and advising.
 - A [final supplemental grant priority on advancing AI in education](https://www.federalregister.gov/documents/2026/04/13/2026-07087/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing), effective May 13, 2026, which the Department may apply to its discretionary grant competitions.
@@ -134,7 +134,7 @@ Many states and districts publish their own AI guidance; check the state you are
 
 ## State AI requirements
 
-Some states have turned AI guidance into law. In SETDA's [2026 State EdTech Trends Report](https://www.setda.org/priorities/state-trends/), 23% of state agency respondents said their state's AI guidance is now required by law, up from 4% in 2024 ([field note](../../sources/notes/2026-10-30-setda-state-edtech-trends-2026.md)). Three examples, checked at the source in October 2026:
+Some states have turned AI guidance into law. In SETDA's [2026 State EdTech Trends Report](https://www.setda.org/priorities/state-trends/), 23% of state agency respondents said their state's AI guidance is now required by law, up from 4% in 2024 ([field note](../../sources/notes/2026-10-30-setda-state-edtech-trends-2026.md)). Three examples, checked at the source on November 11, 2026:
 
 - **Ohio** ([ORC 3301.24](https://codes.ohio.gov/ohio-revised-code/section-3301.24)): each school district, community school, and STEM school had to adopt a policy on AI use by July 1, 2026. Schools may adopt the state's model policy.
 - **North Carolina** ([S.L. 2026-41](https://www.ncleg.gov/EnactedLegislation/SessionLaws/PDF/2025-2026/SL2026-41.pdf), section 7.39):
@@ -154,4 +154,4 @@ What it means for founders: a district with an AI-use policy will ask how your p
 - [Trust packet checklist](../templates/trust-packet-checklist.md)
 
 ---
-*Facts last checked: originally updated 2026-03-31; rechecked 2026-10-30 against the primary sources linked above for the FERPA regulations, the COPPA Rule and FAQ, the New York and Illinois statutes, the SDPC/NDPA documents, the DOJ Title II rule and its 2026 extension, and the Department of Education AI actions; state AI requirements were added that day and checked against ORC 3301.24, S.L. 2026-41 section 7.39, and the Tennessee General Assembly's page for HB 545 / SB 677, and the 23% figure is from SETDA's survey (page 11). Rewritten for clarity 2026-11-11; rechecked that day only the Title II compliance dates on ADA.gov (unchanged) and the Federal Register for a FERPA proposed rule (none found in the first page of results). California and Colorado details were not rechecked. US-focused.*
+*Facts checked 2026-10-30 against the linked primary sources, with an independent spot-check on 2026-11-11 of the COPPA amendment's effective and compliance dates and the FTC's COPPA FAQ; the Title II dates in 28 CFR 35.200, the interim final rule, and ADA.gov; the California, New York, and Illinois statutes; ORC 3301.24, S.L. 2026-41 section 7.39, and Tennessee's page for HB 545; the AI grant priority's effective date; and the Federal Register for a proposed FERPA rule (none found). Not rechecked on 2026-11-11: the FERPA regulations' text, the NDPA documents, the July 2025 guidance letter, and the Colorado row. The 23% figure is from SETDA's survey (page 11). Items labeled practitioner view are judgment, not data.*
