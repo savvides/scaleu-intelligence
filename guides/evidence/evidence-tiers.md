@@ -23,7 +23,7 @@ The study-design column states the law: the Elementary and Secondary Education A
 
 **Tier 3, promising.** You analyzed existing usage and outcome data and found a statistical link between them, using a regression model with controls. A chart of usage against scores does not qualify.
 
-**Tier 4, demonstrates a rationale.** You have a logic model grounded in existing research and a study under way to test it. ScaleU's view: this is the minimum for a product sold to schools, and a founder without it is not ready to sell.
+**Tier 4, demonstrates a rationale.** You have a [logic model](../templates/logic-model.md) grounded in existing research and a study under way to test it. ScaleU's view: this is the minimum for a product sold to schools, and a founder without it is not ready to sell.
 
 Two limits on what a tier buys:
 
@@ -55,14 +55,14 @@ These are ScaleU estimates, not published investor criteria. Founder Stack's ori
 
 The [evidence roadmap](evidence-roadmap.md) sets out the path from logic model to study. In brief (ScaleU's view):
 
-1. **Stop reporting logins as evidence.** Usage is not an outcome.
+1. **Stop reporting logins as evidence.** Usage shows that the product ran; an outcome shows that students learned.
 2. **Choose one outcome.** Pick a single measurable learning goal.
 3. **Use pilot data to locate the need.** Find where the student's problem meets a capacity constraint at the institution.
 4. **Find a research partner early.** University researchers want publications and you want proof; the trade is fair.
 
 ## Evidence for AI products
 
-ScaleU's view, not part of the law: for an AI-native product the tiers are necessary and insufficient. Investors and experienced buyers also look for behavior change. Ask whether the AI changes how the user works or only speeds up the old task. The measure is the reversion rate: if the AI were switched off today, would users wait for it to return, or go straight back to their old workaround? Users who go straight back have not changed their behavior.
+ScaleU's view, not part of the law: an [AI-native](../product/ai-native-framework.md) product needs a tier and more. Investors and experienced buyers also look for behavior change. Ask whether the AI changes how the user works or only speeds up the old task. The measure is the reversion rate: if the AI were switched off today, would users wait for it to return, or go straight back to their old workaround? Users who go straight back have not changed their behavior.
 
 ## What state buyers are starting to check (K-12, 2026)
 
@@ -76,6 +76,7 @@ ScaleU's view: most states cannot yet compare your usage data with outcomes, and
 - [Pilot benchmarks](../selling/pilot-benchmarks.md) and the [EdTech pilot playbook](../selling/edtech-pilot-playbook/README.md)
 - [Procurement guide](../selling/procurement-guide.md): what state and district buyers weigh
 - [K-12 regulation](../market/k12-regulatory.md)
+- [Logic model template](../templates/logic-model.md)
 
 ---
-*Facts last checked: 2026-10-30 for the tier requirements (against 20 U.S.C. 7801(21) and 34 CFR 77.1), the section 1003 rule, the higher-ed sources, the SETDA findings (report pages 17–18 and 22–23), and North Carolina S.L. 2026-41. The plain-language tier descriptions, the AI evidence section, and the advice on moving up date from 2026-04-27 and were never rechecked. Rewritten for clarity 2026-11-11; on that date the Tier 4 wording was rechecked against 20 U.S.C. 7801(21)(A)(ii) and 34 CFR 77.1, and nothing else. Costs, timelines, audiences, and investor expectations are ScaleU estimates, not data.*
+*Facts last checked: 2026-10-30 for the tier requirements (against 20 U.S.C. 7801(21) and 34 CFR 77.1), the section 1003 rule, the higher-ed sources, the SETDA findings (report pages 17–18 and 22–23), and North Carolina S.L. 2026-41. An independent spot-check on 2026-11-11 reread 20 U.S.C. 7801(21), the 350-individual, multi-site, and logic-model wording of 34 CFR 77.1, and the WWC advising guide; it did not reopen the SETDA report, the North Carolina law, or the Department's 2023 guidance, whose site refused the request. The plain-language tier descriptions, the AI evidence section, and the advice on moving up date from 2026-04-27 and were never rechecked. Costs, timelines, audiences, and investor expectations are ScaleU estimates, not data.*

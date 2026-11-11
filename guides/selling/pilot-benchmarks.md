@@ -75,7 +75,7 @@ These are practitioner observations, not rechecked against a source.
 2. **Thin onboarding.** Teachers or faculty were never shown how to fit the tool into instruction, and used a fraction of it.
 3. **Wrong metrics.** The pilot measured engagement and the buyer wanted outcomes, or it measured outcomes on the wrong assessment.
 4. **Too much ambition.** One pilot tried to prove everything. Choose one or two outcomes.
-5. **No comparison.** Without a baseline or comparison group, a good result is an anecdote ("students liked it") where the buyer needed evidence ("pilot sections scored higher than comparison sections").
+5. **No comparison.** Without a baseline or comparison group, the pilot yields an anecdote ("students liked it") where the buyer needed evidence ("pilot sections scored higher than comparison sections").
 6. **Inconsistent use.** Each teacher used the product differently, so there was no single treatment to evaluate.
 
 ## Advising, retention, and persistence pilots
@@ -108,7 +108,7 @@ Put the pilot in writing before launch. The [pilot agreement template](../templa
 4. **Implementation plan.** Training schedule, support availability, and expected usage.
 5. **Data collection.** What is collected, by whom, how it is stored, and how it is shared.
 6. **Success criteria.** Specific, measurable, and agreed in advance.
-7. **Data privacy.** FERPA compliance, data governance, and what happens to the data after the pilot.
+7. **Data privacy.** FERPA terms, data governance, and what happens to the data after the pilot. See [vendor review readiness](vendor-review-readiness.md).
 8. **Costs.** Who pays for product access, researcher time, and assessments.
 9. **Intellectual property and publication.** Who owns the findings, and whether results may be published or shared.
 10. **Exit plan.** The adoption path, data deletion, and transition at the end.
@@ -137,7 +137,7 @@ Four practices raise the odds (practitioner view):
 
 - Present results in terms of the buyer's priorities.
 - Have an adoption path ready before the pilot ends.
-- Show what the product would look like at scale, beyond the fact that it worked.
+- Show what the product would look like at scale, not only that it worked in the pilot.
 - Raise implementation concerns (training, support, integration) before the buyer does.
 
 ## Readiness filters and the decision gate
@@ -153,4 +153,4 @@ The [EdTech pilot playbook](edtech-pilot-playbook/README.md) is the canonical ve
 - [Demand validation](../demand/demand-validation.md) and the [higher-ed jobs atlas](../demand/higher-ed-jobs-atlas.md)
 
 ---
-*Facts last checked: 2026-10-30 for the evidence-tier and Common Rule citations, the AAHRPP medians, the effect-size papers, the NCES and Clearinghouse definitions, the WWC advising guide, and the search for conversion-rate sources. The timeline and participant-scale ranges, the reasons pilots fail, the agreement elements, and the advice on IRB approval for marketing date from 2026-05-30 and were never rechecked. Rewritten for clarity 2026-11-11; no facts rechecked.*
+*Facts last checked: 2026-10-30 for the evidence-tier and Common Rule citations, the AAHRPP medians, the effect-size papers, the NCES and Clearinghouse definitions, the WWC advising guide, and the search for conversion-rate sources. An independent spot-check on 2026-11-11 confirmed in Consensus the author, year, DOI, and findings of Kraft (2020) and Cheung and Slavin (2016), and reopened the NCES definition, the WWC advising guide, and 34 CFR 77.1. Kraft's cutoffs, his counts of trials and effect sizes, and his median sit behind the publisher's paywall and were not reconfirmed that day; the AAHRPP medians were not reconfirmed either. The timeline and participant-scale ranges, the reasons pilots fail, the agreement elements, and the advice on IRB approval for marketing date from 2026-05-30 and were never rechecked.*

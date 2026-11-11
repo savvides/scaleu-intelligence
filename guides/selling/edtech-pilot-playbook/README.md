@@ -21,7 +21,7 @@ Universities evaluate the same edtech companies independently. Each runs its own
 
 Both sides pay for the repetition. Institutions spend staff time re-evaluating products their peers have tested. Founders repeat a sales cycle of 12 to 18 months (ScaleU's estimate) at every institution.
 
-This playbook shares the filter and leaves the verdict to each institution. The evaluation method, the pilot design, and the readiness criteria are public. What to buy remains each institution's decision.
+This playbook makes the evaluation method, the pilot design, and the readiness criteria public, so that institutions can share them. What to buy remains each institution's decision.
 
 ### What we heard from institutional leaders
 
@@ -87,8 +87,8 @@ ScaleU uses this filter to judge whether an edtech company is ready for a struct
 
 Every company must pass five gates before scoring.
 
-1. **An institutional buyer exists.** You can name a specific person at a specific institution who would champion the product. "Higher education" is not a buyer; the dean of online learning at a named university is.
-2. **The problem is real.** Evidence, not assumption, shows that the problem exists and matters to institutional stakeholders.
+1. **An institutional buyer exists.** You can name a specific person at a specific institution who would champion the product: the dean of online learning at a named university, say. "Higher education" names no one.
+2. **The problem is real.** Evidence shows that the problem exists and matters to institutional stakeholders. An assumption fails the gate.
 3. **A product exists.** Users can use it today. A pitch deck or a prototype does not pass.
 4. **Validation is possible.** A pilot can produce measurable evidence within the 12-18 month sales cycle. The pilot itself runs [12 weeks](#how-to-run-a-pilot-in-12-weeks); outcomes measured in a later term, such as retention, arrive after it ends. See [advising, retention, and persistence pilots](../pilot-benchmarks.md#advising-retention-and-persistence-pilots).
 5. **The founder will engage.** The founder treats the pilot as a way to produce evidence, not as a sales demonstration.
@@ -107,21 +107,21 @@ Score each dimension from 1 to 5. A company needs 24 of 40 to advance.
 | Solution effectiveness | Does the product work? | Demo stage, limited evidence | Deployed, with measurable outcomes and user retention data |
 | Market scale | How large is the addressable market? | One institution, one use case | Many institutions and departments |
 | Collaboration potential | Will the company be a partner? | Transactional, seeking a logo | Co-develops, responds to institutional needs |
-| Ethical commitment | Does the product handle data, access, and equity responsibly? | No privacy policy, no accessibility plan | FERPA-ready, WCAG-compliant, transparent data practices |
+| Ethical commitment | Does the product handle data, access, and equity responsibly? | No privacy policy, no accessibility plan | Signs the institution's data-privacy agreement, conforms to WCAG, publishes its data practices |
 | Technical innovation | Is the technology defensible? | Commodity feature, easily replicated | Proprietary approach, durable advantage |
 
 ### The moat durability test
 
 One more test for products built in the AI era: would this product survive a large language model and a two-week prompt-engineering sprint by a competent IT team?
 
-Pure software is increasingly exposed to AI substitution. Using AI earns no credit here; the test is whether the product's core value survives replication. Four moats last ([defensibility and moats](../../product/defensibility-moats.md) treats them in full):
+Using AI earns no credit here. The test is whether the product's core value sits outside the model, where a sprint cannot reach it. Four moats pass. [Defensibility and moats](../../product/defensibility-moats.md) defines them in full, and its definitions govern:
 
-1. **Proprietary data networks.** Usage data that competitors cannot replicate makes the product more valuable over time.
-2. **Deep institutional integration.** The product sits inside workflows (LMS, SIS, SSO) in ways that create switching costs.
-3. **Supply-side network effects.** Each new user or institution makes the product more valuable for the others.
-4. **Regulated access.** Certifications, compliance requirements, or licensed content keep entrants out.
+1. **Proprietary data network.** Longitudinal data that improves with use and that a new entrant cannot reconstruct.
+2. **Deep integration.** LTI and SIS write-back wired into the institution's daily work, so that switching costs more than the product does.
+3. **Supply-side network effects.** Each added provider, mentor, employer, or contributor raises quality for every existing user. More students or more institutions on the buying side do not count.
+4. **Regulated access.** Student-privacy, security, and accessibility approvals already granted by the institution: a signed data-privacy agreement, a completed security review, an accessibility review. No federal FERPA certification exists, and the paperwork alone is a head start that a funded competitor can match in months.
 
-Being AI-powered is a feature layer, exposed to the same substitution risk as any other software.
+Being AI-powered is a feature layer, as exposed to substitution as any other software.
 
 ## How to run a pilot in 12 weeks
 
@@ -136,8 +136,8 @@ A structured pilot ends with evidence the institution can act on.
 
 ### Week 3-4: Setup
 
-5. **Security review.** FERPA, SOC 2, HECVAT, and LTI 1.3, as applicable. Timelines stretch here, so start early. See [vendor review readiness](../vendor-review-readiness.md).
-6. **Technical integration.** LMS integration, SSO, and data feeds. A lightweight pilot skips full integration and uses standalone access with manual enrollment.
+5. **Security review.** A data-privacy agreement under FERPA, the HECVAT, and a SOC 2 report, as the institution requires. Timelines stretch here, so start early. See [vendor review readiness](../vendor-review-readiness.md).
+6. **Technical integration.** LMS integration (LTI 1.3), SSO, and data feeds; see [interoperability](../../product/interoperability.md). A lightweight pilot skips full integration and uses standalone access with manual enrollment.
 7. **Faculty briefing.** The faculty champion must understand the hypothesis, their role, and what data will be collected.
 
 ### Week 5-10: Execution
@@ -158,7 +158,7 @@ For founders, in order of influence on the decision (ScaleU's view).
 
 **Deal-breakers**
 
-- Security compliance (FERPA, SOC 2, accessibility)
+- Passing security, privacy, and accessibility review (FERPA terms, SOC 2, WCAG)
 - A named institutional champion who will own the pilot internally
 - Pricing that works for a pilot, not enterprise pricing from the first day
 
@@ -207,4 +207,4 @@ This work is licensed under [Creative Commons Attribution 4.0 International (CC 
 You are free to share and adapt this material for any purpose, including commercial use, as long as you provide attribution.
 
 ---
-*Facts last checked: no fact-check date is recorded for this page. The company-review and pilot counts are ScaleU's own figures as first published with ASU+GSV 2026 (April 2026); the roundtable statements are speaker claims; the thresholds, scores, and sales-cycle length are ScaleU practitioner estimates. Rewritten for clarity 2026-11-11; no facts rechecked.*
+*Reviewed 2026-11-11 by an independent editor: the moat durability test was aligned with the defensibility guide, whose regulated-access facts were checked 2026-10-30, and the HECVAT link was opened. The page holds few outside facts. The company-review and pilot counts are ScaleU's own figures as first published with ASU+GSV 2026 (April 2026) and were not rechecked; the roundtable statements are speaker claims; the thresholds, scores, and sales-cycle length are ScaleU practitioner estimates.*

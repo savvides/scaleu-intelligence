@@ -53,7 +53,7 @@ A cooperative runs one competitive solicitation and lets its member agencies buy
 | [Sourcewell](https://www.sourcewell-mn.gov/cooperative-purchasing/how-it-works) | A Minnesota unit of government; government and education entities register free | Win a national RFP |
 | [OMNIA Partners](https://www.omniapartners.com/publicsector/about-us/who-we-are) | Nearly 1,000 contracts across K-12, higher ed, and government; free membership | Hold one of the underlying contracts |
 | [BuyBoard](https://www.buyboard.com/vendor/vendor-faq) | Administered by the Texas Association of School Boards; open to local governments and nonprofits | Respond to a proposal invitation; pay a 2% service fee on each purchase order |
-| TIPS (The Interlocal Purchasing System) | Run by Region 8 Education Service Center in Texas, separate from TASB | Win a TIPS solicitation; pay a fee on sales |
+| [TIPS](https://www.tips-usa.com/about/faqs) (The Interlocal Purchasing System) | Lead agency is Region 8 Education Service Center in Pittsburg, Texas, whose board awards the contracts | Respond to a TIPS solicitation and meet its scoring requirements; TIPS says no other route exists. Ask TIPS for its vendor fees |
 | [Texas DIR cooperative contracts](https://dir.texas.gov/cooperative-contracts) | State IT contracts open to Texas K-12 (public, private, charter), higher ed, and out-of-state public entities with an interstate agreement ([eligibility](https://dir.texas.gov/it-solutions-and-services/customer-eligibility)); DIR reports $599.9M in K-12 purchases in 2024 | Win a DIR solicitation, attend contract training, report sales monthly, and pay administrative fees ([vendor page](https://dir.texas.gov/it-solutions-and-services/selling-through-dir)) |
 | [AEPA](https://aepacoop.org/) | 31 state agencies; bids are national and awarded state by state | Bid in AEPA's annual cycle |
 | [E&I Cooperative Services](https://www.eandi.org/company/about-us/) | Nonprofit, member-owned, education only; more than 6,500 member institutions and 260 contracts | Win an E&I solicitation |
@@ -67,7 +67,7 @@ A listing puts you where an administrator already manages apps. It proves the in
 
 | Program | What it requires | Cost to the vendor |
 |---|---|---|
-| [Clever](https://clever.com/pricing) | Single sign-on through the Clever Library; rostering through Secure Sync | Library integration is free; rostering is a custom quote. Clever is free to schools and bars partners from charging schools for it |
+| [Clever](https://clever.com/pricing) | Single sign-on through the Clever Library; rostering through Secure Sync | Library integration is free to application partners; ask Clever for its rostering price. Clever's terms bar partners from charging schools a fee for rostering through it |
 | [ClassLink](https://classlink.com/oneroster) | OneRoster rostering; SAML, OAuth, or LTI sign-on | ClassLink states it charges vendors no fee for sign-on support |
 | [Instructure partner program](https://www.instructure.com/partners) | An interest form; options for platform integration, content, and evidence services | Terms are not published; ask |
 | [Google Classroom add-ons](https://developers.google.com/workspace/classroom/add-ons) | Build the add-on, pass Google's review, publish in the Google Workspace Marketplace | Only teachers with a Teaching & Learning or Plus license can use add-ons, so reach is limited to paid editions |
@@ -113,10 +113,9 @@ Add a second motion when the first renews, and choose the one your customers are
 - [Vendor review readiness](vendor-review-readiness.md)
 - [Procurement guide](procurement-guide.md)
 - [Pilot playbook](edtech-pilot-playbook/README.md) and [pilot benchmarks](pilot-benchmarks.md)
-- [Buyer personas](../demand/buyer-personas.md)
+- [Buyer personas](../demand/buyer-personas.md) and [business models and pricing](../business/business-models-and-pricing.md)
 - [Interoperability](../product/interoperability.md)
 - [K-12 regulation](../market/k12-regulatory.md) and [higher-ed landscape](../market/highered-landscape.md)
-- [Consumer learning](../market/consumer-learning.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources. Figures labeled as practitioner estimates are judgment, not data. TIPS's website refused automated access, so its row rests on search excerpts of its own FAQ and carries no link. Program fees and terms change; confirm them with each program before you plan around them.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day of the cooperative and marketplace tables, the Texas review dates, and the Glimpse K12 figures. The TIPS row was confirmed in a browser at TIPS's own FAQ, which states no vendor fee. Clever's rostering price and Instructure's partner terms are unpublished. Figures labeled as practitioner estimates are judgment, not data. Program fees and terms change; confirm them with each program before you plan around them.*

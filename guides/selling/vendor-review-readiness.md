@@ -30,7 +30,7 @@ Items 1 through 6 cost time and little money. Do them first: together they answe
 
 **The National Data Privacy Agreement.** The Student Data Privacy Consortium's [NDPA](https://privacy.a4l.org/national-dpa/) is the contract most districts send. The current standard is version 2.2. The Consortium reports more than 222,000 signed agreements across 13,000 districts and 35 state alliances. State alliances publish their own versions with state-law terms added, so ask which version your buyer uses. Sign it unmodified if you can: each change sends the agreement to the district's lawyer. The regulatory guide explains [Exhibit E](../market/k12-regulatory.md#student-data-privacy-consortium-sdpc), which lets other districts adopt terms you have already signed.
 
-**The Student Privacy Pledge is gone.** The Future of Privacy Forum [retired the pledge](https://fpf.org/student-privacy-pledge/) on April 25, 2025, after nearly 500 companies had signed it. Remove the badge from your site. FPF points companies to the NDPA and to CISA's K-12 Education Technology Secure by Design Pledge instead.
+**The Student Privacy Pledge is retired.** The Future of Privacy Forum [retired the pledge](https://fpf.org/student-privacy-pledge/) on April 25, 2025, ten years after it began, and asked signatories to remove every reference to it. Take the badge off your site. FPF points companies to the NDPA and to CISA's K-12 Education Technology Secure by Design Pledge instead.
 
 **State requirements you will meet most often.**
 
@@ -42,9 +42,9 @@ Items 1 through 6 cost time and little money. Do them first: together they answe
 
 ## Higher-ed security review
 
-**HECVAT.** EDUCAUSE's [Higher Education Community Vendor Assessment Toolkit](https://www.educause.edu/hecvat) is a questionnaire on cybersecurity, privacy, IT accessibility, and compliance. The current version is 4.1.6, and version 4 added privacy and AI questions. Vendors may use it at no cost. Fill it out before anyone asks. Answer "no" where the answer is no, and add a date by which it becomes "yes." Reviewers forgive gaps in a young company and do not forgive a false answer in a document attached to a contract.
+**HECVAT.** EDUCAUSE's [Higher Education Community Vendor Assessment Toolkit](https://www.educause.edu/hecvat) is a questionnaire on cybersecurity, privacy, IT accessibility, and compliance. The current version is 4.1.6, and version 4 added privacy and AI questions. EDUCAUSE publishes it free. Fill it out before anyone asks. Answer "no" where the answer is no, and add a date by which it becomes "yes." Reviewers forgive gaps in a young company and do not forgive a false answer in a document attached to a contract.
 
-**SOC 2.** A SOC 2 report is a CPA firm's examination of your controls against the AICPA's trust services criteria: security, availability, processing integrity, confidentiality, and privacy ([AICPA](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2)). A Type I report gives the auditor's opinion on control design at a single date. A Type II report covers how the controls operated over a period, and it is the one enterprise buyers want. ScaleU's view: start Type I when a buyer worth more than the audit asks for it in writing, and tell every earlier buyer your timeline.
+**SOC 2.** A SOC 2 report is a CPA firm's examination of your controls against the AICPA's trust services criteria: security, availability, processing integrity, confidentiality, and privacy ([AICPA](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2)). A Type I report assesses the design of your controls as of one date. A Type II report tests whether those controls worked over a period of months, and it is the one enterprise buyers want (the audit firm KirkpatrickPrice [explains the difference](https://kirkpatrickprice.com/video/soc-2-type-i-vs-soc-2-type-ii/); the AICPA page linked above does not spell it out). ScaleU's view: start Type I when a buyer worth more than the audit asks for it in writing, and tell every earlier buyer your timeline.
 
 **ISO/IEC 27001.** The [2022 edition](https://www.iso.org/standard/27001) sets requirements for an information security management system, and an accredited body certifies you against it. US schools seldom require it. Buyers abroad often prefer it to SOC 2.
 
@@ -115,10 +115,9 @@ Date every document within the past 12 months. The [trust packet checklist](../t
 - [Go-to-market](go-to-market.md)
 - [Procurement guide](procurement-guide.md)
 - [K-12 regulation](../market/k12-regulatory.md)
-- [Higher-ed landscape](../market/highered-landscape.md)
 - [Interoperability](../product/interoperability.md)
 - [AI risk and trust](../product/ai-risk-and-trust.md)
 - [Trust packet checklist](../templates/trust-packet-checklist.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources. Figures labeled as practitioner estimates are judgment, not data. The SOC 2 Type I and Type II descriptions follow common audit usage and were not confirmed on an AICPA page. Not legal advice.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day of the NDPA figures, the pledge's retirement, the HECVAT and K-12CVAT versions, the VPAT edition, the ADA Title II dates (against the Federal Register and ADA.gov), the New York regulation, the Texas statute, and the badge programs. The SOC 2 Type I and Type II distinction rests on an audit firm's explanation, not an AICPA page. The spot-check could not reopen the New York Senate, ISO, or TX-RAMP pages, which refused automated access. Figures labeled as practitioner estimates are judgment, not data. Not legal advice.*
