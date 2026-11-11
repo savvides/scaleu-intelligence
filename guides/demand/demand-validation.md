@@ -53,7 +53,7 @@ What the buyer has already hired and fired tells you the job. If the current wor
 
 ## 3. Is there a budget line item?
 
-This question filters out more ideas than any other. Ask the buyer: "What budget would this come from?"
+In ScaleU's experience this question filters out more ideas than any other. Ask the buyer: "What budget would this come from?"
 
 | Answers that count (higher-ed examples) | Answers that do not |
 |---|---|
@@ -63,7 +63,7 @@ This question filters out more ideas than any other. Ask the buyer: "What budget
 | "Enrollment management budget" | |
 | "We have a line item for retention tools" | |
 
-The grant in the first row is the federal [Strengthening Institutions Program](https://www.ed.gov/grants-and-programs/grants-higher-education/improvement-of-postsecondary-education/title-iii-part-programs-strengthening-institutions) for colleges under Title III of the Higher Education Act. In K-12, "Title III" means English-learner funding, a different program.
+The grant in the first row is the federal [Strengthening Institutions Program](https://www.ed.gov/grants-and-programs/grants-special-populations/grants-economically-disadvantaged-students/strengthening-institutions-program-84031a) for colleges under Title III, Part A of the Higher Education Act. In K-12, "Title III" means English-learner funding, a different program.
 
 A pilot whose buyer cannot name the source of the money will not become a purchase.
 
@@ -102,7 +102,7 @@ If the answer is "just me," the pilot will succeed and the deal will die. Instit
 - **Faculty governance:** when the product touches curriculum or pedagogy.
 - **Accessibility:** ADA and Section 508 compliance.
 
-Map this chain before the pilot starts. Otherwise the pilot produces evidence that never reaches the person who signs the purchase order.
+Map this chain before the pilot starts. Otherwise the pilot produces evidence that never reaches the person who signs the purchase order. [Vendor review readiness](../selling/vendor-review-readiness.md) lists the paperwork IT, legal, and accessibility reviewers ask for.
 
 **Probes**
 
@@ -135,4 +135,4 @@ The five questions filter demand before you build. Once a pilot is running, test
 - [Procurement guide](../selling/procurement-guide.md): thresholds, calendar, and RFPs
 
 ---
-*Facts last checked: no fact check is recorded; the page was last updated 2026-10-30. Rewritten for clarity 2026-11-11; no facts rechecked.*
+*The test and its thresholds are ScaleU's practitioner view, not data. An independent reviewer checked the Strengthening Institutions link and the internal links 2026-11-11; the page states no other outside facts.*

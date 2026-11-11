@@ -78,6 +78,7 @@ If any answer is no, stop building features and return to the [demand validation
 - [JTBD Switch interviews](jtbd-interviews.md): interviewing for what buyers did, which limits Pattern 3
 - [Buyer personas](buyer-personas.md): the provider-side roles behind Pattern 4
 - [Pilot benchmarks](../selling/pilot-benchmarks.md): choosing outcomes the buyer cares about
+- [Evidence roadmap](../evidence/evidence-roadmap.md): checking a story against outcome data
 
 ---
-*Facts last checked: the Pattern 3 research claims against the published studies 2026-10-30; no other fact check is recorded (page first dated 2026-04-27). Rewritten for clarity 2026-11-11; no facts rechecked.*
+*The five Pattern 3 studies were checked 2026-10-30 and rechecked 2026-11-11 by an independent reviewer against their Consensus records (authors, year, DOI, sample, and direction of finding). The patterns and tests are ScaleU's practitioner view, not data; the talk's outcome analyses remain unpublished and unverified.*

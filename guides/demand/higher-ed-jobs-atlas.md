@@ -90,11 +90,11 @@ If you build here, build for the provider side, where the budget sits.
 
 ## Related guides
 
-- [Demand validation](demand-validation.md)
-- [JTBD Switch interviews](jtbd-interviews.md)
-- [Founder traps](founder-traps.md)
-- [Buyer personas](buyer-personas.md)
-- [Higher ed market](../market/highered-landscape.md)
+- [Demand validation](demand-validation.md): five questions to test the job you choose
+- [JTBD Switch interviews](jtbd-interviews.md): how to find jobs of your own
+- [Founder traps](founder-traps.md): why the upstream phases matter
+- [Buyer personas](buyer-personas.md): the offices that own each phase
+- [Higher ed market](../market/highered-landscape.md): the institutions, money, and rules around these jobs
 
 ---
-*Facts last checked: ScaleU's Q1 FY27 pipeline counts and the summer melt brief were added 2026-10-30; the 15 jobs were not rechecked then (page first dated 2026-05-30). Rewritten for clarity 2026-11-11; no facts rechecked. The "likely owner" column, added 2026-11-11, is ScaleU's view.*
+*ScaleU's pipeline counts were checked 2026-11-11 against the linked field note by an independent reviewer, and the summer melt brief was opened the same day. The 15 jobs, the 80% figure, the coverage ratings, and the likely owners are ScaleU's practitioner view from unpublished research; they are judgment, not data.*

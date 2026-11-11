@@ -24,7 +24,7 @@ Start with the buyer's struggle, not your idea.
 2. Run the [demand validation test](demand/demand-validation.md): five questions, scored. Use the [discovery interview template](templates/discovery-interview.md) on your calls.
 3. Learn to reconstruct a real purchase with [Jobs-to-be-Done interviews](demand/jtbd-interviews.md).
 4. Check yourself against the [founder traps](demand/founder-traps.md), the patterns that produce false confidence.
-5. Choose where to build. In higher ed, the [jobs atlas](demand/higher-ed-jobs-atlas.md) maps fifteen jobs across the student journey and shows which phases are crowded. For other segments, read the market guide for yours: [K-12](market/k12-landscape.md), [higher ed](market/highered-landscape.md), [workforce](market/corporate-ld.md), or [consumer](market/consumer-learning.md).
+5. Choose where to build. In higher ed, the [jobs atlas](demand/higher-ed-jobs-atlas.md) maps 15 jobs across the student journey and shows which phases are crowded. For other segments, read the market guide for yours: [K-12](market/k12-landscape.md), [higher ed](market/highered-landscape.md), [workforce](market/corporate-ld.md), or [consumer](market/consumer-learning.md).
 6. Size the market from the bottom up with [public data](market/market-data-sources.md).
 
 Unfamiliar term? The [glossary](glossary.md) defines the vocabulary of schools, universities, and their purchasing.
@@ -44,7 +44,7 @@ Know the people and the process before you ask for a meeting.
 
 A pilot is a purchase decision with a test attached. Design it that way.
 
-1. Follow the [EdTech pilot playbook](selling/edtech-pilot-playbook/README.md): readiness checklist, evaluation criteria, and a twelve-week method.
+1. Follow the [edtech pilot playbook](selling/edtech-pilot-playbook/README.md): readiness checklist, evaluation criteria, and a 12-week method.
 2. Size and time the pilot with [pilot benchmarks](selling/pilot-benchmarks.md).
 3. Put the terms in writing with the [pilot agreement outline](templates/pilot-agreement.md), including the metric and the decision rule.
 4. Pass review before it stalls you: [vendor review readiness](selling/vendor-review-readiness.md) covers security, privacy, and accessibility paperwork; [interoperability](product/interoperability.md) covers sign-on, rostering, and LMS integration.

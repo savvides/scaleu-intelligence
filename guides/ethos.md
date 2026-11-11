@@ -14,7 +14,7 @@ Before you build, answer five questions. Who is struggling, and at what moment? 
 
 ## 2. Build upstream of the symptom
 
-A problem surfaces in one phase of the student journey and begins one or two phases earlier. Students drop a course in week two, and founders build retention dashboards. The failure came months before, when nobody translated "7.5-week accelerated session" into "fifteen hours a week on top of your job."
+A problem surfaces in one phase of the student journey and begins one or two phases earlier. Students drop a course in week two, and founders build retention dashboards. The failure came months before, when nobody translated "7.5-week accelerated session" into "15 hours a week on top of your job."
 
 When you hear a problem, ask what happened one phase earlier that made it inevitable. The upstream job usually has fewer competitors and more effect. See [the upstream-cause pattern in founder traps](demand/founder-traps.md#pattern-2-the-upstream-cause--downstream-symptom-split).
 
@@ -44,7 +44,7 @@ Your first ten customers should look alike: the same kind of institution, the sa
 
 ## 7. A crowd is a warning
 
-In higher ed, most founders build for the course experience, the most crowded phase of the student journey. The SXSW EDU 2026 talk put the share at about 80% of founders across more than fifteen product categories; that figure is ScaleU's estimate, not a published count. The phases before a student reaches a classroom (pre-enrollment, application, onboarding, course selection) carry measured pain and few products.
+In higher ed, most founders build for the course experience, the most crowded phase of the student journey. The SXSW EDU 2026 talk put the share at about 80% of founders across more than 15 product categories; that figure is ScaleU's estimate, not a published count. The phases before a student reaches a classroom (pre-enrollment, application, onboarding, course selection) carry measured pain and few products.
 
 Many founders in one space does not prove demand there. It proves that the problem is easy to see. The [higher-ed jobs atlas](demand/higher-ed-jobs-atlas.md) maps the phases with fewer builders.
 

@@ -22,7 +22,7 @@ The premise is that people hire a product to make progress. A registrar had a ro
 
 Clayton Christensen's jobs theory holds that customers hire products to do a job. He and his coauthors set it out in the Harvard Business Review article [Know Your Customers' "Jobs to Be Done"](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) (Christensen, Hall, Dillon, and Duncan, September 2016) and in the book [*Competing Against Luck*](https://www.christenseninstitute.org/books/competing-against-luck/) (2016).
 
-The interview technique comes from practitioners. Bob Moesta and Chris Spiek developed the [four-forces model](https://jobstobedone.org/the-four-forces/) as part of their Jobs-to-be-Done interviewing method, and they teach the [Switch interview](https://jobstobedone.org/switch-interview/) as a backward walk through a real purchase. Moesta, whom Christensen mentored for many years, applied the method to selling in *Demand-Side Sales 101* (with Greg Engle, 2020; discussed in this [Intercom interview](https://www.intercom.com/blog/podcasts/bob-moesta-on-unleashing-your-sales-superpower), October 2020).
+The interview technique comes from practitioners. Bob Moesta and Chris Spiek developed the [four-forces model](https://jobstobedone.org/the-four-forces/) as part of their Jobs-to-be-Done interviewing method, and they teach the [Switch interview](https://jobstobedone.org/switch-interview/) as a backward walk through a real purchase. Moesta, who has called Christensen his mentor, applied the method to selling in *Demand-Side Sales 101* (with Greg Engle, 2020; discussed in this [Intercom interview](https://www.intercom.com/blog/podcasts/bob-moesta-on-unleashing-your-sales-superpower), October 2020).
 
 The job story format came from Intercom's product team in 2013; Alan Klement later named it ([Paul Adams, Intercom, 2016](https://www.intercom.com/blog/accidentally-invented-job-stories/)).
 
@@ -172,4 +172,4 @@ After three or more interviews, patterns appear: the same push event, the same a
 - [Buyer personas](buyer-personas.md): whom to interview at a district or university
 
 ---
-*Facts last checked: no fact check is recorded; the page was last updated 2026-05-30. Rewritten for clarity 2026-11-11; the method's origins and the cited books and articles were checked 2026-11-11 against the linked sources, and nothing else was rechecked.*
+*The method's origins and the cited books and articles were checked 2026-11-11 against the linked sources, with an independent spot-check the same day. The interview quotations are illustrations, and the advice is ScaleU's practitioner view, not data.*

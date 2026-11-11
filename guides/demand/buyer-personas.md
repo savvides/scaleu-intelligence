@@ -24,7 +24,7 @@ One person may hold two seats; no one holds all four. The approval chain is ques
 | Superintendent | Budget holder, signer | Equity, graduation rates, the board's satisfaction; moving state test scores or closing an achievement gap | A direct line from your product to one of the board's top three strategic goals | A product that serves no goal on that list |
 | Chief academic officer (assistant superintendent for teaching and learning) | Budget holder for instructional tools | Coherence: one instructional strategy across schools, and results on the measures the district reports | Outcome data from similar districts; fit with the adopted curriculum and assessments | A tool that competes with the core program or adds another initiative for teachers |
 | Curriculum director | Evaluator | Standards alignment and teacher adoption; replacing stale materials with something teachers use | Standards alignment documents, teacher usage data, and your place on the ESSA evidence tiers | A testimonial offered as evidence |
-| District chief technology officer (CTO) | Approver | Data privacy and uptime: FERPA, single sign-on, a secure rollout with no parent complaints | A signed data privacy agreement (DPA), a current VPAT, rostering and sign-on that work with district systems | A breach, an outage during testing, or missing paperwork |
+| District chief technology officer (CTO) | Approver | Data privacy and uptime: FERPA, single sign-on, a secure rollout with no parent complaints | A signed data privacy agreement (DPA), a current VPAT, [rostering and sign-on](../product/interoperability.md) that work with district systems | A breach, an outage during testing, or missing paperwork |
 | Business official or chief financial officer (CFO) | Approver, sometimes signer | A balanced budget, clean audits, and spending that is allowable under its funding source | A price tied to a named funding source, a clear contract term, a lawful purchasing route | Costs that recur after one-time money ends; a purchase that skips procurement rules |
 | Principal | Champion, sometimes buyer of small purchases | The school's improvement goals, staff morale, and teachers' time | Results from a school like theirs and a light training load | A rollout that lands on teachers mid-year without support |
 | Teacher | User | Class time and their own workload | Seeing it work with their students; a colleague's recommendation | Extra logins, extra data entry, or a tool imposed without consultation |
@@ -33,7 +33,7 @@ One person may hold two seats; no one holds all four. The approval chain is ques
 
 Notes on the table:
 
-- **District CTO.** Have the DPA and VPAT ready before you call. See [K-12 regulation](../market/k12-regulatory.md) for the privacy and accessibility requirements behind them.
+- **District CTO.** Have the DPA and VPAT ready before you call; [vendor review readiness](../selling/vendor-review-readiness.md) lists the full packet. See [K-12 regulation](../market/k12-regulatory.md) for the privacy and accessibility requirements behind them.
 - **Curriculum director.** Expect a question about ESSA evidence tiers, especially when federal funds pay: school-improvement funds under ESSA Section 1003 require Tier 1–3 evidence. See [evidence tiers](../evidence/evidence-tiers.md).
 - **Business official.** Staff of the Learning Technology Center of Illinois told SETDA that curriculum coordinators, business officials, and superintendents now sign off on more orders, because districts combine funds from several budgets (speaker claim, recorded in the [field note](../../sources/notes/2026-10-30-setda-state-edtech-trends-2026.md) checked 2026-10-30).
 - **School board.** Large purchases go to an RFP and board approval; the [procurement guide](../selling/procurement-guide.md) gives the thresholds.
@@ -82,4 +82,4 @@ Corporate buyers differ in title and in budget cycle: a chief learning officer o
 - [Corporate L&D](../market/corporate-ld.md): workforce buyers
 
 ---
-*Facts last checked: no fact check is recorded for the original profiles (page dated 2026-04-27). Rewritten for clarity 2026-11-11, with roles added as practitioner view; the SETDA survey figures were checked 2026-11-11 against the linked press release, and nothing else was rechecked.*
+*The SETDA survey figures were checked 2026-11-11 against the linked press release and the field note, with an independent spot-check the same day; the section 1003 statement matches the [evidence tiers](../evidence/evidence-tiers.md) guide. The profiles are ScaleU's practitioner view, not data, and were not otherwise fact-checked.*
