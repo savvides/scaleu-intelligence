@@ -2,7 +2,7 @@
 
 [ScaleU Intelligence](../README.md) / Sources
 
-The original evidence behind the [guides](../guides/README.md). Each collection keeps its source's context, dates, and attribution. Start with a guide, then follow its links here when you need the detail.
+The original evidence behind the [guides](../guides/README.md). Each collection keeps its source's context, dates, and attribution. Start with a guide, then follow its links here for detail.
 
 | Collection | What it holds |
 |---|---|
