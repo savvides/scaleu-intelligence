@@ -1,6 +1,6 @@
 # Interoperability: what to connect to, and in what order
 
-A school or university adopts a product only after it signs users in, loads rosters, and sits inside the systems staff already use. Build sign-on first, rostering or LMS launch second, and everything else when a signed customer asks for it.
+A school or university adopts a product only when the product signs users in with school accounts, loads rosters, and sits inside the systems staff already use. Build sign-on first, rostering or LMS launch second, and everything else when a signed customer asks for it.
 
 **Applies to:** K-12 and higher ed, with a note on workforce. United States.
 
@@ -47,7 +47,7 @@ LTI Advantage adds three services. Build them in this order (ScaleU's view):
 2. **Assignment and Grade Services.** The tool creates gradebook columns and posts scores. Faculty ask for this first.
 3. **Deep Linking.** An instructor picks a specific item in your tool and places it in the course.
 
-Which LMS to test first depends on segment. In US higher ed, Edutechnica's [14th annual update](https://edutechnica.com/2026/09/27/14th-annual-lms-data-update/) (September 27, 2026) reports that Canvas takes almost all switching institutions, Brightspace is close to passing Blackboard Learn for second place by institution count, and Moodle's decline is accelerating; exact shares are sold, not published. In K-12, [LISTedTECH](https://listedtech.com/blog/k-12-lms-market-update-insights-may-2026/) (May 2026) puts Google Classroom at 31% of tracked implementations, Canvas at 24%, Schoology at 19%, and Moodle at 7%. That is a share of implementations, not of students. Vendor ownership and status are in the [higher-ed landscape](../market/highered-landscape.md#lms-integration) and the [competitive landscape](../market/competitive-landscape.md).
+Which LMS to test first depends on segment. In US higher ed, Edutechnica's [14th annual update](https://edutechnica.com/2026/09/27/14th-annual-lms-data-update/) (September 27, 2026) reports that most institutions that switch go to Canvas or Brightspace, that few leave Canvas, that Brightspace has nearly passed Blackboard Learn for second place by institution count, and that Moodle's decline is accelerating. Exact shares are sold, not published. In K-12, [LISTedTECH](https://listedtech.com/blog/k-12-lms-market-update-insights-may-2026/) (May 2026) puts Google Classroom at 31% of tracked implementations, Canvas at 24%, Schoology at 19%, and Moodle at 7%. The article states neither the geography nor whether the shares count implementations or weight them by enrollment, so treat them as rough. Vendor ownership and status are in the [higher-ed landscape](../market/highered-landscape.md#lms-integration) and the [competitive landscape](../market/competitive-landscape.md).
 
 Google Classroom has its own [add-ons framework](https://developers.google.com/workspace/classroom/add-ons) and API. Add-ons work only for teachers whose district licenses the Teaching and Learning or Plus edition of Google Workspace for Education, so confirm the edition before promising the integration.
 
@@ -64,10 +64,10 @@ Build these when a named customer or channel partner requires them. The last col
 | Standard | What it carries | Who asks for it |
 |---|---|---|
 | [QTI 3.0](https://www.1edtech.org/standards/qti) | Assessment items, tests, and results | Assessment vendors, state testing programs |
-| [Common Cartridge 1.4](https://www.1edtech.org/standards/cc) and Thin Common Cartridge | Course content packages; the thin form carries only LTI links | Publishers, K-12 curriculum adoptions |
+| [Common Cartridge 1.4](https://www.1edtech.org/standards/cc) (candidate final) and Thin Common Cartridge | Course content packages; the thin form carries only LTI links | Publishers, K-12 curriculum adoptions |
 | [Caliper Analytics 1.2](https://www.1edtech.org/standards/caliper) | Learning activity events | Universities with a learning-data warehouse |
 | [xAPI](https://standards.ieee.org/ieee/9274.1.1/7321/) (IEEE 9274.1.1-2023) | Activity statements sent to a learning record store | Corporate L&D, military, some universities |
-| cmi5 | The rules for launching xAPI content from an LMS ([xAPI overview](https://xapi.com/overview/)) | Corporate LMS buyers moving off SCORM |
+| [cmi5](https://xapi.com/cmi5/) | An xAPI profile that sets how an LMS launches xAPI content, authorizes it, and receives results | Corporate LMS buyers moving off SCORM |
 | SCORM | Packaged courses with completion and score | Nearly every [corporate LMS](../market/corporate-ld.md) |
 | [CASE 1.1](https://www.1edtech.org/standards/case) | Machine-readable academic standards and competencies, each with a unique identifier | K-12 content and assessment products that align to state standards |
 
@@ -79,7 +79,7 @@ If the product issues a credential, issue it in a portable format. [Open Badges 
 
 The Model Context Protocol (MCP) is an [open standard](https://modelcontextprotocol.io/docs/getting-started/intro) for connecting AI applications to outside tools and data. Three things were verifiable when this page was checked:
 
-- Instructure said in [July 2025](https://www.instructure.com/press-release/instructure-launches-igniteai-simplify-and-seamlessly-transform-ai-integration) that partners would connect their agents to its Canvas agent through MCP. It launched [IgniteAI Agent](https://www.instructure.com/press-release/instructure-delivers-its-agentic-ai-promise-launch-igniteai-agent) on March 12, 2026; that release does not mention MCP, and we found no generally available Instructure MCP server.
+- Instructure said in [July 2025](https://www.instructure.com/press-release/instructure-launches-igniteai-simplify-and-seamlessly-transform-ai-integration) that partners would connect their agents to its Canvas agent through MCP. It launched [IgniteAI Agent](https://www.instructure.com/press-release/instructure-delivers-its-agentic-ai-promise-launch-igniteai-agent) on March 12, 2026; that release does not mention MCP, and this check found no generally available Instructure MCP server.
 - 1EdTech [announced](https://www.1edtech.org/1edtech-article/1edtech-leads-collaborative-effort-to-shape-responsible-ai-in-education/411336) on October 21, 2025, a cross-sector effort, building on MCP, to give AI models educational context. No finished specification had been published when checked.
 - LTI 1.3 remains the standard that 1EdTech certifies for placing a tool inside a course.
 
@@ -111,7 +111,6 @@ Two tests keep the order honest. Ask each prospect which systems the product mus
 - [Procurement guide](../selling/procurement-guide.md)
 - [Corporate learning and development](../market/corporate-ld.md)
 - [Defensibility](defensibility-moats.md): when integrations create switching costs
-- [AI-native framework](ai-native-framework.md)
 
 ---
-*Facts checked 2026-11-11 against the linked sources. Figures labeled as practitioner estimates are judgment, not data.*
+*Facts checked 2026-11-11 against the linked sources, with an independent review the same day that reread the 1EdTech, IEEE, W3C, InCommon, eduGAIN, Clever, ClassLink, Google, Instructure, Edutechnica, and LISTedTECH pages. Not rechecked in that review: the Ed-Fi and MCP descriptions. Figures labeled as practitioner estimates are judgment, not data.*

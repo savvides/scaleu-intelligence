@@ -1,6 +1,6 @@
 # Higher education landscape
 
-US higher education is a large market under financial strain: enrollment grew 1% in fall 2025, yet state funding per student fell, graduate lending was capped, and the pool of high school graduates has begun to shrink. Sell what protects enrollment, completion, or compliance, and meet the accreditation, accessibility, and integration requirements below before procurement asks.
+US higher education is a large market under financial strain. Enrollment grew 1% in fall 2025, yet state funding per student fell, Congress capped graduate lending, and the pool of high school graduates has begun to shrink. Sell what protects enrollment, completion, or compliance, and meet the accreditation, accessibility, and integration requirements below before procurement asks.
 
 **Applies to:** Higher education, United States. International systems differ; see [international markets](international-markets.md). Who buys is covered in [buyer personas](../demand/buyer-personas.md), and the vendors you will meet in the [competitive landscape](competitive-landscape.md).
 
@@ -8,49 +8,50 @@ US higher education is a large market under financial strain: enrollment grew 1%
 
 | Measure | Figure | Source and date |
 |---|---|---|
-| Institutions eligible for federal student aid | 5,819 in 2023–24, down about 2% in a year: 2,691 four-year, 1,496 two-year, and 1,632 less-than-two-year | [NCES](https://ies.ed.gov/learn/press-release/total-number-higher-education-institutions-decreases-2-percent), August 21, 2024 |
+| Institutions eligible for federal student aid, in the United States and other jurisdictions | 5,819 in 2023–24, down about 2% in a year: 2,691 four-year, 1,496 two-year, and 1,632 less-than-two-year | [NCES](https://ies.ed.gov/learn/press-release/total-number-higher-education-institutions-decreases-2-percent), August 21, 2024 |
 | Total enrollment, fall 2025 | More than 19.4 million, up 1.0%; undergraduate 16.2 million (up 1.2%), graduate 3.2 million (down 0.3%) | [National Student Clearinghouse Research Center](https://nscresearchcenter.org/final-fall-enrollment-trends/), January 15, 2026 |
 | Community college enrollment, fall 2025 | Up 3.0% | Same |
 | Undergraduate enrollment at private nonprofit four-year colleges, fall 2025 | Down 1.6% | Same |
 | Students taking at least one online course, fall 2024 | 54.8%, against about 37% in 2019; 26.5% studied entirely online | [Phil Hill's analysis of IPEDS data](https://onedtech.philhillaa.com/p/fall-2024-ipeds-data-profile-of-us-higher-ed-online-education), January 6, 2026 |
 | State and local funding per full-time-equivalent student, fiscal 2025 | $12,082, down 1.0% after inflation | [SHEEO, State Higher Education Finance](https://sheeo.org/shef_fy25_release/), April 9, 2026 |
-| High school graduates | Peak of about 3.9 million in 2025, falling to about 3.4 million by 2041 | [WICHE, *Knocking at the College Door*](https://www.wiche.edu/knocking/), December 2024 |
+| High school graduates | Projected to peak in 2025, then fall 13% by 2041 | [WICHE, *Knocking at the College Door*](https://www.wiche.edu/knocking/), December 2024 |
 
 To size a segment yourself, start with the public datasets in [market data sources](market-data-sources.md).
 
 ## Financial pressure and what it does to buying
 
-**Enrollment is growing at the top line and shrinking where budgets are thinnest.** In fall 2025 community colleges grew 3.0% while private nonprofit four-year colleges lost 1.6% of their undergraduates. WICHE projects that the number of high school graduates peaked in 2025 and will fall 13% by 2041, so institutions facing smaller pools put more weight on retention and completion.
+**Enrollment is growing in total and shrinking where budgets are thinnest.** In fall 2025 community colleges grew 3.0%, and private nonprofit four-year colleges lost 1.6% of their undergraduates. WICHE projects that the number of high school graduates peaked in 2025 and will fall 13% by 2041. Institutions that recruit from a smaller pool put more weight on retention and completion (ScaleU's view).
 
-**Colleges are closing and merging.** BestColleges' tracker counted 49 public or private nonprofit colleges or campuses that closed or announced closure, and 40 that merged or announced mergers, between March 2020 and its [April 16, 2026 update](https://www.bestcolleges.com/research/closed-colleges-list-statistics-major-closures/). The same page cites federal and SHEEO data, published by The Hechinger Report, showing about 312 colleges that grant at least associate degrees closed from 2008 to 2024. Higher Ed Dive keeps a [state-by-state tracker](https://www.highereddive.com/news/how-many-colleges-and-universities-have-closed-since-2016/539379/) of closures and mergers since 2016. Before you sign a multi-year contract with a small private college, read its enrollment trend.
+**Colleges are closing and merging.** BestColleges' tracker counted 49 public or private nonprofit colleges or campuses that closed or announced closure, and 40 that merged or announced mergers, between March 2020 and its [April 16, 2026 update](https://www.bestcolleges.com/research/closed-colleges-list-statistics-major-closures/). The same page cites federal and SHEEO data, published by The Hechinger Report, showing about 312 colleges that grant at least associate degrees closed from 2008 to 2024. Higher Ed Dive keeps a [state-by-state tracker](https://www.highereddive.com/news/how-many-colleges-and-universities-have-closed-since-2016/539379/) of closures and mergers since 2016. Before you sign a multi-year contract with a small private college, read its enrollment trend in [IPEDS](market-data-sources.md).
 
-**State money per student fell for public institutions.** In fiscal 2025, full-time-equivalent enrollment at public institutions rose 3.6% to 10.8 million, and appropriations did not keep pace. Net tuition revenue per student fell 3.5% after inflation to $7,459, and students paid 38.4% of education revenue (SHEEO, linked above). A public institution with more students and less money per student buys what saves staff time.
+**State money per student fell for public institutions.** In fiscal 2025, full-time-equivalent enrollment at public institutions rose 3.6% to 10.8 million, faster than appropriations. Net tuition revenue per student fell 3.5% after inflation to $7,459, and students paid 38.4% of education revenue (SHEEO, linked above). A public institution with more students and less money per student buys what saves staff time (ScaleU's view).
 
-**Federal research funding became uncertain.** In February 2025 the National Institutes of Health announced a 15% cap on indirect cost payments. Courts blocked it; the First Circuit upheld the ruling on January 5, 2026, and the Justice Department declined to seek Supreme Court review by April 6, 2026. Litigation over terminated grants continues ([AAMC litigation tracker](https://www.aamc.org/about-us/mission-areas/biomedical-research/science-policy-hub/federal-research-related-litigation)). Research universities have delayed discretionary spending while these cases run (practitioner observation).
+**Federal research funding became uncertain.** In February 2025 the National Institutes of Health announced a 15% cap on indirect cost payments. Courts blocked it. The First Circuit upheld the ruling on January 5, 2026, and on April 6, 2026, the Justice Department declined to seek Supreme Court review, which left the injunction in place. Litigation over terminated grants continues ([AAMC litigation tracker](https://www.aamc.org/about-us/mission-areas/biomedical-research/science-policy-hub/federal-research-related-litigation)). Research universities have delayed discretionary spending while these cases run (practitioner observation).
 
-**New international enrollment dropped.** In the Institute of International Education's [fall 2025 snapshot](https://www.iie.org/blog/four-things-to-know-about-the-fall-2025-snapshot/) of 828 institutions (November 17, 2025), new international enrollment fell 17% and international graduate enrollment fell 12%, while the total, which includes graduates on work authorization, fell 1%. The Clearinghouse counted a 5.9% decline in international graduate students. ScaleU's view: master's programs that depend on international students are the most exposed.
+**New international enrollment dropped.** In the Institute of International Education's [fall 2025 snapshot](https://www.iie.org/blog/four-things-to-know-about-the-fall-2025-snapshot/) of 828 institutions (November 17, 2025), new international enrollment fell 17% and international graduate enrollment fell 12%; the total, which includes graduates on work authorization, fell 1%. The Clearinghouse counted a 5.9% decline in international graduate students. ScaleU's view: master's programs that depend on international students are the most exposed.
 
-ScaleU's view: in this market, a product framed as an added cost stalls. One framed as recovered tuition, retained students, or avoided compliance risk gets a hearing, provided you can show the arithmetic with the institution's own numbers.
+ScaleU's view: a product framed as an added cost stalls. One framed as recovered tuition, retained students, or avoided compliance risk gets a hearing if you show the arithmetic with the institution's own numbers.
 
 ## Policy changes that move budgets
 
-The 2025 budget law, signed July 4, 2025 (the Working Families Tax Cuts Act, also called the One Big Beautiful Bill Act), changed four things founders should know.
+The 2025 budget law ([Public Law 119-21](https://www.congress.gov/bill/119th-congress/house-bill/1/text), signed July 4, 2025) changed four things founders should know. The press calls it the One Big Beautiful Bill Act; the Department of Education's rules call it the Working Families Tax Cuts Act. The figures below were read from the statute's text.
 
-**Graduate and parent lending.** From July 1, 2026, per the National Conference of State Legislatures' [summary](https://www.ncsl.org/resources/details/new-rules-take-effect-for-student-loan-borrowers-and-universities) (July 14, 2026):
+**Graduate and parent lending.** From July 1, 2026 (section 81001 of the law):
 
 - Graduate PLUS loans ended for new borrowers. Graduate students may borrow $20,500 a year and $100,000 in total; students in professional programs, $50,000 a year and $200,000 in total. Borrowing could previously reach the full cost of attendance.
+- A student's federal loans, parent loans aside, may not exceed $257,500 over a lifetime.
 - Parent PLUS loans are capped at $20,000 a year and $65,000 in total per student.
-- Earlier PLUS borrowers keep access for three more years or the rest of their program, whichever is shorter.
-- New borrowers choose between a tiered standard plan and the new Repayment Assistance Plan.
-- Which programs count as professional is in litigation, so the list may change.
+- Students who had borrowed for a program before July 1, 2026, keep the old limits for three more academic years or the rest of that program, whichever is shorter.
+- New borrowers choose between a tiered standard plan and the new Repayment Assistance Plan, according to the National Conference of State Legislatures' [summary](https://www.ncsl.org/resources/details/new-rules-take-effect-for-student-loan-borrowers-and-universities) (July 14, 2026).
+- A court has temporarily blocked the Department's list of professional programs, so the list may change (NCSL summary).
 
-Programs priced above the caps must cut price, find private lenders, or shrink. Expect demand for tools that lower the cost of delivering graduate programs.
+Programs priced above the caps must cut price, find private lenders, or shrink. ScaleU's view: expect demand for tools that lower the cost of delivering graduate programs.
 
-**Endowment tax.** For tax years beginning after December 31, 2025, the excise tax on private college endowment income is tiered: 1.4% for endowments of $500,000 to $750,000 per student, 4% up to $2 million, and 8% above that. The minimum size rose from 500 to 3,000 tuition-paying students, so the tax now falls only on larger wealthy universities ([Troutman Pepper Locke analysis](https://www.troutman.com/insights/the-one-big-beautiful-bill-act-analysis-of-key-amendments-to-the-excise-tax-imposed-on-certain-private-college-and-university-endowments.html)).
+**Endowment tax.** For tax years beginning after December 31, 2025, the excise tax on private colleges' net investment income is tiered: 1.4% for endowments of $500,000 to $750,000 per student, 4% up to $2 million, and 8% above that (section 70415). The tax applies only to institutions with at least 3,000 tuition-paying students; the earlier threshold was 500, according to a [Troutman Pepper Locke analysis](https://www.troutman.com/insights/the-one-big-beautiful-bill-act-analysis-of-key-amendments-to-the-excise-tax-imposed-on-certain-private-college-and-university-endowments.html). It now falls only on larger wealthy universities.
 
-**Workforce Pell Grants.** The law created Pell Grants for eligible workforce programs of 150 to 599 clock hours that run at least 8 but fewer than 15 weeks. A governor and the Department of Education must approve each program, and programs must meet annual outcome metrics. Grants were available from July 1, 2026 ([final rule, May 19, 2026](https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant)). Products that help institutions run, document, or report on these programs serve a new, funded line of work. See also [corporate learning and development](corporate-ld.md#public-workforce-money).
+**Workforce Pell Grants.** The law created Pell Grants for eligible workforce programs of 150 to 599 clock hours that run at least 8 but fewer than 15 weeks (section 83002). A governor and the Department of Education must approve each program, and programs must meet annual outcome metrics. The grants began with the award year that started July 1, 2026 ([final rule, May 19, 2026](https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant)). Products that help institutions run, document, or report on these programs serve a new, funded line of work. See also [corporate learning and development](corporate-ld.md#public-workforce-money).
 
-**Earnings accountability.** The same law added an earnings test for programs. The Department's final rule ([91 FR 40136, July 1, 2026](https://www.govinfo.gov/content/pkg/FR-2026-07-01/pdf/2026-13286.pdf)) takes effect July 1, 2027. A program loses Direct Loan eligibility if, in two of any three consecutive years, its completers' median earnings fall below those of working adults aged 25 to 34 with only a high school diploma (for undergraduate programs) or only a bachelor's degree (for graduate programs, where the benchmark can also be set by field of study). Earnings are mostly measured in the institution's state. NCSL's summary adds that an institution with more than half its students or aid in failing programs can lose all federal aid, with losses possible from the 2028–29 academic year. Institutions now have a dated reason to track what their completers earn, which favors products that produce outcome and placement evidence.
+**Earnings accountability.** The same law added an earnings test for programs (section 84001). The Department's final rule ([91 FR 40136, July 1, 2026](https://www.govinfo.gov/content/pkg/FR-2026-07-01/pdf/2026-13286.pdf)) takes effect July 1, 2027. A program loses Direct Loan eligibility if, in two of any three consecutive years, its completers' median earnings fall below those of working adults aged 25 to 34 with only a high school diploma (for undergraduate programs) or only a bachelor's degree (for graduate programs, where the benchmark can also be set by field of study). Earnings are mostly measured in the institution's state. NCSL's summary adds that an institution with more than half its students or aid in failing programs can lose all federal aid, with losses possible from the 2028–29 academic year. Institutions now have a dated reason to track what their completers earn. That favors products that produce evidence of outcomes and placement (ScaleU's view).
 
 ## Community colleges as a distinct buyer
 
@@ -64,7 +65,7 @@ Practitioner view: budgets are smaller, staff are fewer, and many colleges buy t
 
 ## Accreditation
 
-Accreditation is the quality-assurance process for higher education. An institution needs accreditation from an agency recognized by the Department of Education to take part in federal student aid.
+An institution must be accredited by an agency the Department of Education recognizes before its students can receive federal aid.
 
 Since July 1, 2020, Department [regulations](https://www.federalregister.gov/documents/2019/11/01/2019-23129/student-assistance-general-provisions-the-secretarys-recognition-of-accrediting-agencies-the) no longer distinguish regional from national accreditors. The six formerly regional agencies still accredit most nonprofit colleges:
 
@@ -88,7 +89,7 @@ What this means for founders (practitioner view): you need no accreditor's appro
 - The Department of Justice's [2024 ADA Title II web rule](https://www.ada.gov/resources/2024-03-08-web-rule/) requires public colleges and universities to make web content and mobile apps conform to WCAG 2.1 Level AA, including content provided through contractors and vendors. An [April 20, 2026 interim final rule](https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web) moved the compliance dates to April 26, 2027, for public entities with a total population of 50,000 or more, and April 26, 2028, for smaller entities and special district governments ([28 CFR 35.200](https://www.ecfr.gov/current/title-28/chapter-I/part-35/subpart-H/section-35.200)). Which date applies depends on how the rule classifies the institution; its counsel decides that.
 - The Office for Civil Rights investigates accessibility complaints against universities.
 
-**The standard:** WCAG 2.1 AA is the legal standard for public institutions under the Title II rule and the usual benchmark for private ones. Some institutions also ask about WCAG 2.2 (practitioner observation, not measured).
+**The standard:** WCAG 2.1 AA is the legal standard for public institutions under the Title II rule. Private institutions usually ask for it too, and some ask about WCAG 2.2 (practitioner observation, not measured).
 
 **What procurement asks for:**
 
@@ -103,10 +104,10 @@ Practitioner view: a missing or incomplete VPAT can disqualify you. Build for ac
 
 Four learning management systems matter:
 
-- **Canvas** (Instructure)
-- **Blackboard** (the company formerly called Anthology, which [emerged from Chapter 11 as Blackboard](https://blackboard.com/news/blackboard-formerly-anthology-emerges-debt-free-and-focused) on March 2, 2026)
-- **D2L Brightspace**
-- **Moodle**, which is open source
+- Canvas (Instructure)
+- Blackboard (the company formerly called Anthology, which [emerged from Chapter 11 as Blackboard](https://blackboard.com/news/blackboard-formerly-anthology-emerges-debt-free-and-focused) on March 2, 2026)
+- D2L Brightspace
+- Moodle, which is open source
 
 For ownership and other vendors, see the [competitive landscape](competitive-landscape.md#higher-education).
 
@@ -129,7 +130,7 @@ The [procurement guide](../selling/procurement-guide.md) covers purchase thresho
 
 Two points specific to higher ed (practitioner view):
 
-- Individual faculty can often try new tools on their own, especially free ones. That is the fastest path to adoption and the hardest to scale.
+- A faculty member can often try a new tool alone, especially a free one. That path to adoption is the fastest and the hardest to scale.
 - Security reviews can take months at large institutions. Ask early about the process, such as a HECVAT.
 
 ## Other trends
@@ -144,9 +145,10 @@ Practitioner observations, not measured:
 
 - [Higher-ed jobs atlas](../demand/higher-ed-jobs-atlas.md)
 - [Procurement guide](../selling/procurement-guide.md)
+- [Vendor review readiness](../selling/vendor-review-readiness.md)
 - [Market data sources](market-data-sources.md)
 - [Corporate learning and development](corporate-ld.md)
 - [Competitive landscape](competitive-landscape.md)
 
 ---
-*Facts last checked: originally updated 2026-03-31; rechecked 2026-10-30 against the linked sources for the ED accreditation rule, the DOJ Title II rule and its 2026 extension, the Workforce Pell final rule, the earnings accountability final rule, WICHE projections, and Blackboard's announcement. Rewritten for clarity 2026-11-11; added and checked that day against the linked sources: institution counts, fall 2025 enrollment, online enrollment share, state funding, closures and mergers, the NIH indirect-cost litigation, international enrollment, the 2025 law's loan limits and endowment tax, and community college figures. The ADA.gov page was reopened and still shows the 2027 and 2028 dates. Items labeled "practitioner view" or "practitioner observation" are judgment, not sourced data. CPHE status rests on press coverage. The loan and endowment provisions rest on the NCSL and law-firm summaries, not the statute's text. US-focused.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day: the loan limits, endowment tax, Workforce Pell terms, and earnings test against the text of Public Law 119-21; the Title II dates against 28 CFR 35.200; and the enrollment, funding, closure, and litigation figures against their linked pages. Not confirmed at a primary source: CPHE's status, which rests on press coverage; the earlier 500-student endowment threshold, which rests on a law-firm summary; and the repayment-plan and litigation details, which rest on NCSL's summary. Items labeled practitioner view, practitioner observation, or ScaleU's view are judgment, not data.*
