@@ -4,6 +4,8 @@
 
 Philippos Savvides, Head of ScaleU | April 2026
 
+> **Correction, 2026-11-11.** A check against the session transcripts found two errors in this document, which is preserved as published. The thirteen-year mandate for personalized learning plans is Vermont's (a 2013 law), described by a Vermont panelist; Brent Haken said only that Oklahoma's schools had been "checking the box" and that a field team changed it. The phrase "same employer engagement" in the Airbus example does not appear in the transcript. The corrected account is in [buyer demand signals](../../../../guides/demand/buyer-demand-signals.md).
+
 ---
 
 The [Summit Intelligence Report](../synthesis/summit-intelligence-report.md) covers what happened at ASU+GSV 2026. What speakers presented, which themes dominated, what the consensus looked like across 461 sessions.
