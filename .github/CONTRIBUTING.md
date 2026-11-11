@@ -10,7 +10,10 @@ Follow the [code of conduct](CODE_OF_CONDUCT.md). The [support guide](SUPPORT.md
 
 | Material | Location | Index to update |
 |---|---|---|
-| Advice that answers a founder question | `guides/<question>/`: `demand/`, `selling/`, `evidence/`, `product/`, or `market/` | [Founder guides](../guides/README.md) |
+| Advice that answers a founder question | `guides/<question>/`: `demand/`, `selling/`, `evidence/`, `product/`, `business/`, or `market/` | [Founder guides](../guides/README.md) |
+| A document a founder copies and fills in | `guides/templates/` | [Templates](../guides/templates/README.md) |
+| An outside resource worth recommending | A line in [`guides/resources.md`](../guides/resources.md) | None |
+| A term founders meet | An entry in [`guides/glossary.md`](../guides/glossary.md) | None |
 | Papers about learning or assessment | `sources/research/` | [Research index](../sources/research/README.md) |
 | Conference synthesis, transcripts, and session indexes | `sources/events/YYYY-event-name/` | [Events index](../sources/events/README.md) |
 | A publishable meeting observation, research note, or other finding | `sources/notes/YYYY-MM-DD-short-topic.md` | [Field notes](../sources/notes/README.md) |
@@ -28,6 +31,14 @@ Guides synthesize; sources preserve. A guide states the advice and links to the 
 6. Work through the [review checklist](#review-checklist). Review the rendered Markdown and the diff, then merge after maintainer review.
 
 Nothing needs to be deployed or restarted. The merged Markdown is the published library on GitHub.
+
+## How a guide is written
+
+- Open with the answer or the decision the page supports, then an **Applies to** line naming the segment and geography.
+- Label evidence by type: research finding (paper and DOI), law or official statistic (primary source), speaker claim (transcript), or practitioner estimate. Judgment is welcome when it is labeled.
+- Link every fact to the source you checked. Leave out what you cannot verify.
+- Write plainly, after Strunk's *The Elements of Style*: active voice, positive statements, concrete words, no needless ones. Use sentence-case headings, "edtech", and "K-12". Avoid slogans, scare quotes, and decorative emphasis.
+- End with related guides and one footer line that gives the date the facts were checked and what the check covered.
 
 ## Research and dated references
 

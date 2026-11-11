@@ -4,7 +4,7 @@ This repository is ScaleU Intelligence: a Markdown library of advice and evidenc
 
 ## Answering a founder's question
 
-1. Read `guides/README.md`, pick the folder that matches the question (`demand/`, `selling/`, `evidence/`, `product/`, `market/`), and answer from those guides first.
+1. Read `guides/README.md`, pick the folder that matches the question (`demand/`, `selling/`, `evidence/`, `product/`, `business/`, `market/`), and answer from those guides first. `guides/start-here.md` orders the guides by company stage; `guides/glossary.md` defines terms; `guides/templates/` holds documents to fill in; `guides/resources.md` lists outside resources.
 2. Follow a guide's links into `sources/` only when you need detail. Don't read `sources/events/*/transcripts/` in bulk; transcripts are long and record what speakers said, not verified results.
 3. Skip `about/` and `.github/` unless asked about licensing, the field-note template, or contributing.
 
