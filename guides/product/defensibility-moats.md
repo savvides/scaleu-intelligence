@@ -1,10 +1,10 @@
 # Defensibility: what survives when an LLM can copy your features
 
-A buyer's own IT team can now rebuild most software features with a current model in about two weeks. Your product is defensible only if its core value sits outside the model: in data, integration, a network, or approvals that a new entrant cannot reproduce.
+Assume a buyer's own IT team can rebuild most software features with a current model in about two weeks. Your product is defensible only if its core value sits outside the model: in data, integration, a network, or approvals that a new entrant cannot reproduce.
 
 **Applies to:** higher ed first, since the framework comes from a talk on selling to colleges and universities and the examples are drawn from them. The logic carries to K-12 districts and corporate L&D. United States.
 
-This is a practitioner framework, not a research finding. Its timelines are the framework's estimates, not measured rates.
+This is a practitioner framework, not a research finding. Its timelines, the two-week sprint included, are estimates and were never measured.
 
 *Source: "Cracking Higher Ed: Why Startups Miss the Mark" — Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0.*
 
@@ -16,7 +16,7 @@ Ask one question of your product:
 
 > **Does this product survive an LLM plus a competent IT team's roughly two-week prompt-engineering sprint?**
 
-Picture a district CTO or a university IT team with a current model and two weeks. If they can rebuild your core value, you have a feature, and you sit at high exposure whatever your pitch says.
+Picture a district CTO or a university IT team with a current model and two weeks. If they can rebuild your core value, you have a feature, and your exposure is high whatever your pitch says.
 
 The sprint fails against a real moat. The team can reproduce your interface and your prompts. It cannot reproduce your longitudinal dataset, your write-back already wired into the registrar's workflow, your roster of employers and mentors, or the approvals you already hold. Those live outside the model, so a better model does not help the attacker.
 
@@ -28,23 +28,23 @@ Place your product on this spectrum before you plan anything else.
 
 | Exposure | What it looks like | Timeline |
 |----------|--------------------|----------|
-| **High** | Content generation, summarization, Q&A, template output | Replicable in 12-18 months |
-| **Moderate** | AI embedded in a workflow or dataset with switching costs | Replicable in 2-4 years |
-| **Low** | A structural moat that AI substitution cannot dissolve | Defensible for 3+ years |
+| High | Content generation, summarization, Q&A, template output | Replicable in 12 to 18 months |
+| Moderate | AI embedded in a workflow or dataset with switching costs | Replicable in 2 to 4 years |
+| Low | A structural moat that AI substitution cannot dissolve | Defensible for 3 years or more |
 
 The timelines are the SXSW framework's practitioner estimates, and the bands overlap. Use them to rank your exposure, not to forecast. They estimate how long until substitutes crowd the market. The two-week sprint asks a different question: whether one buyer's IT team could rebuild your core value today.
 
 **High** exposure sets a clock. An essay-feedback tool, a study-guide generator, and a syllabus Q&A bot all sit here. The framework estimates that pure software without structural defensibility faces substitution within 18 months. The labs themselves now give away general-purpose versions of several of these; see [what the labs already sell to schools](ai-native-framework.md#what-the-labs-already-sell-to-schools).
 
-**Moderate** exposure means you have earned time. The AI is wired into a faculty grading workflow, or sits on a dataset the institution has come to rely on. In the framework's estimate, those switching costs buy 2-4 years.
+**Moderate** exposure means you have earned time. The AI is wired into a faculty grading workflow, or sits on a dataset the institution has come to rely on. In the framework's estimate, those switching costs buy 2 to 4 years.
 
 **Low** exposure means the AI is not what makes you valuable. You have created a dependency inside the institution that a new model cannot reproduce.
 
 ## "AI-powered" is not a moat
 
-It is a feature layer, exposed to the substitution risk it claims to solve. If your edge is "we use AI to generate feedback" or "we summarize student work," a competent IT team can stand up something close enough.
+The label describes a layer of features, the part of a product most exposed to substitution. If your edge is "we use AI to generate feedback" or "we summarize student work," a competent IT team can stand up something close enough.
 
-Building on the best model does not change this. When the model improves, it improves for your competitors at the same rate. Being [AI-native](ai-native-framework.md) describes how a product is built. It says nothing about whether the product can be copied.
+Building on the best model does not change this. When the model improves, it improves for your competitors at the same rate. Being [AI-native](ai-native-framework.md) describes how a product is built and says nothing about whether it can be copied.
 
 ## The four moats
 
@@ -64,15 +64,15 @@ LTI and SIS write-back that makes switching cost more than the product does.
 
 When your product writes grades into the SIS, syncs rosters through LTI, and sits inside the registrar's daily work, removing it costs the institution more than the contract is worth. That is the test: switching cost must exceed price. An LLM can copy your features. It cannot copy a write-back already wired into the system of record that the registrar and the provost depend on. See [interoperability](interoperability.md) for the standards involved.
 
-*Example:* A degree-planning tool writes approved course plans into the SIS and feeds the official degree audit. A rival might generate a better plan in isolation, but the university would have to re-integrate, re-test, and retrain staff to switch. The moat is the integration, not the planning logic.
+*Example:* A degree-planning tool writes approved course plans into the SIS and feeds the official degree audit. A rival might generate a better plan in isolation, but to switch, the university would have to rebuild the integration, test it, and retrain staff.
 
 ### 3. Supply-side network effects
 
 Each added provider, mentor, or contributor raises quality for every existing user.
 
-A new entrant with an identical model still has an empty network. They can copy your software in two weeks and have nobody on the other side of it.
+A new entrant with an identical model still has an empty network. They can copy your software in two weeks and still have nobody on the other side of it.
 
-*Example:* A career-transition platform connects graduates to employers. Each added employer makes the platform more useful to every student, and each placement makes it more attractive to the next employer. A competitor can copy the matching interface but not the employers and mentors who have shown up. The SXSW framework calls this phase, Graduate & Beyond, the least researched and least served stretch of the learner lifecycle. The scarce asset there is the employer relationship, not the software.
+*Example:* A career-transition platform connects graduates to employers. Each added employer makes the platform more useful to every student, and each placement makes it more attractive to the next employer. A competitor can copy the matching interface but not the employers and mentors who have shown up. The SXSW framework calls this phase, Graduate & Beyond, the least researched and least served stretch of the learner lifecycle. The scarce asset there is the employer relationship.
 
 ### 4. Regulated access
 
@@ -87,7 +87,7 @@ Be exact about what this buys you:
 - **HIPAA rarely applies.** The HIPAA Privacy Rule excludes student health records that FERPA already covers as education records ([ED–HHS joint guidance](https://studentprivacy.ed.gov/resources/joint-guidance-application-ferpa-and-hipaa-student-health-records), updated December 2019).
 - **The paperwork is a head start, not a wall.** A funded competitor can complete a HECVAT or commission a SOC 2 audit in months. The durable part is the approvals already granted at each institution and the integrations built on them.
 
-*Example:* A student-data analytics product holds a signed data-privacy agreement, a reviewed HECVAT, and IT approval at an institution before any system touches student records. A wrapper that would ingest the same data without clearing those gates cannot be deployed there, however good its output. The model is interchangeable; the access is not.
+*Example:* A student-data analytics product holds a signed data-privacy agreement, a reviewed HECVAT, and IT approval at an institution before any system touches student records. A wrapper that would ingest the same data without clearing those gates cannot be deployed there, however good its output.
 
 ## Pitch the dependency
 
@@ -105,4 +105,4 @@ The same assets matter at exit. ScaleU's view is that an acquirer can build or b
 - [Exits and acquirers](../business/exits-and-acquirers.md)
 
 ---
-*Facts last checked: 2026-10-30 (regulated-access facts on FERPA, HIPAA, and HECVAT, against the linked sources; the exposure timelines are the framework's estimates and were not re-measured). Rewritten for clarity 2026-11-11; no facts rechecked. The durability test was compared with the pilot playbook's wording that day.*
+*Facts checked 2026-10-30 against the linked sources (the regulated-access facts on FERPA, HIPAA, and HECVAT). An independent review on 2026-11-11 reread the NEACRAO presentation and the FERPA page and edited for style; it could not open the HECVAT page or the text of the ED–HHS guidance. The exposure timelines and the two-week sprint are the framework's estimates and were never measured.*
