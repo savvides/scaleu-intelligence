@@ -74,7 +74,7 @@ ScaleU's view: decide early whether the parent or the child holds the account. A
 
 The large AI companies now ship tutoring behavior at no charge.
 
-- OpenAI launched study mode in ChatGPT on July 29, 2025, for Free, Plus, Pro, and Team users. It asks questions and can withhold a direct answer until the student engages ([TechCrunch report](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt/); OpenAI's own page blocked our check).
+- OpenAI launched study mode in ChatGPT on July 29, 2025, for Free, Plus, Pro, and Team users. It asks questions and can withhold a direct answer until the student engages ([OpenAI](https://openai.com/index/chatgpt-study-mode/)).
 - Google introduced Guided Learning in Gemini on August 6, 2025. It breaks problems into steps, asks questions, and quizzes the learner ([Google](https://blog.google/outreach-initiatives/education/guided-learning/)).
 - Anthropic announced a learning mode on April 2, 2025, as part of Claude for Education. It guides a student's reasoning with Socratic questions ([Anthropic](https://www.anthropic.com/news/introducing-claude-for-education)).
 
