@@ -7,4 +7,4 @@ Start with the [decision guide](../README.md#start-with-your-decision) or browse
 - **Private information or a security concern:** follow [SECURITY.md](SECURITY.md). Do not copy sensitive material into a public issue.
 - **Edtech partnerships or institutional pilots:** contact [ASU ScaleU](https://scaleu.org).
 
-Philippos Savvides maintains this library. Responses depend on maintainer availability. Issue discussions are public, so share only information you have permission to publish.
+Philippos Savvides maintains this library and replies as his time allows. Issue discussions are public, so share only information you have permission to publish.

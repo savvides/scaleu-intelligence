@@ -2,6 +2,20 @@
 
 Release dates describe library snapshots, not new factual review dates for the source material. See [releases](https://github.com/savvides/scaleu-intelligence/releases) for downloads and [commit history](https://github.com/savvides/scaleu-intelligence/commits/main/) for edits between releases.
 
+## 3.0.0 · 2026-11-11
+
+This release rebuilds the guides around the decisions a founder makes and closes the gaps.
+
+- Added 16 guides: [start here](guides/start-here.md) (a roadmap by company stage), [glossary](guides/glossary.md), [resources](guides/resources.md), [go-to-market](guides/selling/go-to-market.md), [vendor review readiness](guides/selling/vendor-review-readiness.md), [evidence roadmap](guides/evidence/evidence-roadmap.md), [learning science](guides/product/learning-science.md), [interoperability](guides/product/interoperability.md), [business models and pricing](guides/business/business-models-and-pricing.md), [unit economics](guides/business/unit-economics.md), [fundraising](guides/business/fundraising.md), [exits and acquirers](guides/business/exits-and-acquirers.md), [K-12 landscape](guides/market/k12-landscape.md), [consumer learning](guides/market/consumer-learning.md), [international markets](guides/market/international-markets.md), and [market data sources](guides/market/market-data-sources.md).
+- Added a `guides/business/` folder and eight [templates](guides/templates/README.md) to copy and fill in: discovery interview, pilot agreement outline, logic model, evidence brief, budget request memo, sole-source justification, trust packet checklist, and investor update.
+- Rewrote the 18 existing guides and the operating principles for clarity, after *The Elements of Style*. Each now opens with its answer and an "Applies to" line and ends with one footer stating what was checked and when. Headings that other pages link to stayed; some others changed, so old anchors may fail.
+- Added to existing guides: buyer roles for K-12, higher ed, and workforce in the personas; sourced federal and state purchase thresholds, the RFP process, contract terms, and a higher-ed budget calendar in procurement; published trials of AI tutoring, model choices and costs, and the law on chatbots and minors in the AI guides; institutional finances and 2025 federal policy changes in the higher-ed landscape; a rebuilt workforce and corporate learning guide. The funding landscape is now a directory; stage advice moved to the fundraising guide.
+- Corrected six speaker claims in [buyer demand signals](guides/demand/buyer-demand-signals.md) that a check against the transcripts found misattributed or unsaid. The original [ASU+GSV demand signals report](sources/events/2026-asu-gsv/deliverables/demand-signals.md) is preserved and carries a dated correction.
+- Removed the remaining links to the Founder Stack's restricted operator-lessons file.
+- Rewrote the README and guide index, and added the house style to the contribution guide.
+
+Known limits: new facts were checked against the linked sources on 2026-11-11 by the drafter and spot-checked the same day by a second reviewer; this is not a line-by-line audit. Each guide's footer lists what could not be verified. Some sources block automated access and were read in a browser or through a named secondary source. Facts carried over from earlier versions keep their earlier check dates unless a footer says otherwise. Figures labeled as practitioner estimates are judgment. Federal education funding, AI regulation, and company ownership were changing when this version was written; confirm them at the primary source.
+
 ## 2.2.0 · 2026-10-30
 
 - Added a field note from ScaleU's Q1 FY27 update (July–September 2026): the stages of the student journey where ScaleU's 88 sourced higher-ed and workforce companies build, higher-ed venture funding, the Keypath and Watermark deals, the federal earnings accountability rule, news from ScaleU portfolio companies, and four reports for further reading.

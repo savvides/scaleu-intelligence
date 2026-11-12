@@ -1,152 +1,138 @@
-# The Demand Validation Test
+# The demand validation test
 
-**The question it answers:** is there real demand for what I want to build, or just interest? Use it before you build, before you pitch, and before you ask for a pilot.
+Five questions separate institutional demand from interest. Ask them before you build, before you pitch, and before you ask for a pilot. If the buyer cannot answer all five, you are not ready to pilot.
 
-The "how" behind [principle #1 in the ethos](../ethos.md#1-validate-demand-not-interest): validate demand, not interest. Five questions that separate real institutional demand from false positives, plus the depth probes that tell you whether your answers will hold up through a long institutional sales cycle. How long depends on deal size and buyer; see the [procurement guide](../selling/procurement-guide.md).
+**Applies to:** higher ed first; the examples come from universities. The questions also work for K-12 districts and corporate learning and development (L&D): substitute that buyer's budget lines and approvers (for K-12, see [K-12 regulation](../market/k12-regulatory.md); for employers, [corporate L&D](../market/corporate-ld.md)). United States.
 
-**Audience:** built for founders selling to universities, and its examples are higher ed. The five questions also work for K–12 districts and corporate L&D; swap in that buyer's budget lines and approvers (for K–12, see [K–12 regulation](../market/k12-regulatory.md); for employers, [corporate L&D](../market/corporate-ld.md)).
+*Source: "Cracking Higher Ed: Why Startups Miss the Mark," Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0. The test and its thresholds are ScaleU's practitioner view, not research findings.*
 
-*Source: "Cracking Higher Ed: Why Startups Miss the Mark" — Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0.*
+## The five questions at a glance
 
-If you can't answer all five questions, you're not ready to pilot (see [Scoring yourself](#scoring-yourself)). "Interesting" and "funded" are different categories. Enthusiasm is not demand. This file is the test that tells you which one you have.
+| Question | Strong signal | Weak signal |
+|---|---|---|
+| 1. Who is struggling, and when? | Named person, named problem, named institution | "Universities in general" |
+| 2. What have they already tried? | You know the current workaround and why it fails | "Nobody's tried this before" |
+| 3. Is there a budget line item? | The buyer names the budget | "We'd figure it out" |
+| 4. What happens if they do nothing? | A quantified financial or regulatory consequence | "It would be nice" |
+| 5. Who else must say yes? | You have mapped IT, legal, finance, and faculty governance | "Just my champion" |
 
-The jobs you're validating live in [higher-ed-jobs-atlas.md](higher-ed-jobs-atlas.md). The structural patterns the depth probes reference live in [founder-traps.md](founder-traps.md). The interview method for discovering and pressure-testing these jobs lives in [jtbd-interviews.md](jtbd-interviews.md).
+This test is the method behind the first [operating principle](../ethos.md#1-validate-demand-not-interest): validate demand, not interest. Enthusiasm costs a buyer nothing. Demand shows up as a workaround, a budget, a cost, and a chain of approvers willing to act, and it must hold through a long sales cycle whose length depends on deal size and buyer (see the [procurement guide](../selling/procurement-guide.md)).
 
----
+Three companion pages supply the inputs. The [higher ed jobs atlas](higher-ed-jobs-atlas.md) lists the jobs worth testing. [JTBD Switch interviews](jtbd-interviews.md) is the interview method, and the [discovery interview template](../templates/discovery-interview.md) is the script to carry into the room. [Founder traps](founder-traps.md) explains the patterns the probes below refer to.
 
 ## 1. Who is struggling, and what is the struggling moment?
 
-Not "who could benefit" but "who literally cannot do their job without a change?"
-
-Name a specific person at a specific institution with a specific problem. If you can't, you have a hypothesis, not a job.
+Name a specific person at a specific institution with a specific problem. Ask who cannot do their job without a change, and ignore who might benefit.
 
 - **A job:** "Academic advisors at large online programs manually triage 300+ students each term using spreadsheets, missing at-risk students until it's too late."
 - **A hypothesis:** "Universities could improve student outcomes with better analytics."
 
-**Depth probes:**
+**Probes**
 
-- Is the struggling moment in the phase where the person *experiences* the pain, or is it caused upstream? Trace the causal chain back one phase. (See Pattern 2 in [founder-traps.md](founder-traps.md).)
-- Is the struggling moment structural (happens to everyone in that role at that phase) or situational (happens to a subset)? Structural jobs have larger markets.
+- Does the pain start in the phase where the person feels it, or one phase earlier? Trace the causal chain back (see [Pattern 2](founder-traps.md#pattern-2-the-upstream-cause--downstream-symptom-split)).
+- Is the struggle structural, hitting everyone in that role at that phase, or situational, hitting a subset? Structural jobs have larger markets.
 
-**Watch for:** If the struggling moment is "students drop out" or "retention is low," you're describing a symptom. Keep asking why until you reach the decision point where things went wrong. The job lives at the decision point, not at the outcome.
+**Watch for:** "Students drop out" and "retention is low" describe symptoms. Keep asking why until you reach the decision point where things went wrong. The job lives there.
 
 ## 2. What have they already tried (and why did it fail)?
 
-If they haven't tried anything, the job isn't urgent enough to pay for.
+A buyer who has tried nothing does not feel the job urgently enough to pay for it. Your competition is rarely another edtech product. More often it is:
 
-Your real competitive set is not other edtech products. It's:
+- spreadsheets and manual processes,
+- graduate assistants and teaching assistants,
+- ignoring the problem.
 
-- Spreadsheets and manual processes
-- Graduate assistants and TAs
-- Ignoring the problem entirely
+What the buyer has already hired and fired tells you the job. If the current workaround more or less works, the bar for adoption is higher than you think.
 
-What they've already hired and fired tells you the actual job. If the current workaround sort of works, your bar for adoption is higher than you think.
+**Probes**
 
-**Depth probes:**
+- Do the workarounds function but fail to scale? Spreadsheets, graduate students, and unofficial tool substitutions mark a real job with no adequate solution.
+- Did earlier attempts treat the downstream symptom and leave the upstream cause alone? Then your opening is the phase nobody has addressed.
 
-- Are they using workarounds that technically function but don't scale? Spreadsheets, grad students, and unofficial tool substitutions are signs of a real job with no adequate solution.
-- Have they tried solving the downstream symptom without addressing the upstream cause? If prior solutions targeted the wrong phase, your opportunity is the phase they haven't addressed.
-
-**Watch for:** If "nobody's tried anything," either the job isn't painful enough to pay for, or you're talking to the wrong person. Real jobs always have workarounds, even bad ones.
+**Watch for:** If nobody has tried anything, either the job does not hurt enough or you are talking to the wrong person. Real jobs always have workarounds, even bad ones.
 
 ## 3. Is there a budget line item?
 
-This is the single biggest filter. "Interesting" and "funded" are completely different categories.
+In ScaleU's experience this question filters out more ideas than any other. Ask the buyer: "What budget would this come from?"
 
-Ask the buyer: *What budget would this come from?* Acceptable answers (higher-ed examples):
+| Answers that count (higher-ed examples) | Answers that do not |
+|---|---|
+| "Our Title III Strengthening Institutions grant has a line for this" | "We'd have to figure that out" |
+| "IT security budget" | "Maybe we could write a grant" |
+| "Student success allocation" | "Let me check with finance" |
+| "Enrollment management budget" | |
+| "We have a line item for retention tools" | |
 
-- "Our Title III Strengthening Institutions grant has a line for this" (the federal [Strengthening Institutions Program](https://www.ed.gov/grants-and-programs/grants-higher-education/improvement-of-postsecondary-education/title-iii-part-programs-strengthening-institutions) for colleges under Title III of the Higher Education Act; in K–12, "Title III" means English-learner funding, a different program)
-- "IT security budget"
-- "Student success allocation"
-- "Enrollment management budget"
-- "We have a line item for retention tools"
+The grant in the first row is the federal [Strengthening Institutions Program](https://www.ed.gov/grants-and-programs/grants-special-populations/grants-economically-disadvantaged-students/strengthening-institutions-program-84031a) for colleges under Title III, Part A of the Higher Education Act. In K-12, "Title III" means English-learner funding, a different program.
 
-Unacceptable answers:
+A pilot whose buyer cannot name the source of the money will not become a purchase.
 
-- "We'd have to figure that out"
-- "Maybe we could write a grant"
-- "Let me check with finance"
+**Probes**
 
-If the buyer can't name where the money comes from, the pilot is innovation theater.
+- Does the budget sit with the person who feels the pain? If the user and the buyer are different people, write a job statement for each.
+- Can you tie the job to a line the buyer already has: student success funding, a retention budget, IT modernization, accreditation compliance?
 
-**Depth probes:**
-
-- Does the budget sit with the person who experiences the pain, or someone else? If the user and the buyer are different people, you need the job statement for both.
-- Can you connect the job to a line item the buyer already has? Student success funding, retention budget, IT modernization, accreditation compliance.
-
-**Watch for:** Pattern 4 in [founder-traps.md](founder-traps.md) applies here. The student feels the pain but the provider controls the budget. When talking to the budget holder, lead with the provider's job, not the student's experience. "Reduce grading turnaround from 5 days to 1" lands differently than "students feel they're teaching themselves."
+**Watch for:** The student feels the pain; the provider controls the budget ([Pattern 4](founder-traps.md#pattern-4-same-problem-two-jobs)). With the budget holder, lead with the provider's job. "Reduce grading turnaround from 5 days to 1" lands better than "students feel they're teaching themselves."
 
 ## 4. What happens if they do nothing?
 
-The cost of inaction must be quantifiable and urgent.
+The cost of inaction must be quantified and urgent. A buyer who cannot state it will not fight through procurement for you.
 
-**These are jobs:**
+| These are jobs | These are hypotheses |
+|---|---|
+| "We lose accreditation" | "Students might learn better" |
+| "We lose $2M in retention revenue" | "Faculty might save some time" |
+| "We violate FERPA and risk federal funding" | "It would be nice to have better data" |
+| "We can't staff enough advisors to handle enrollment growth" | |
 
-- "We lose accreditation"
-- "We lose $2M in retention revenue"
-- "We violate FERPA and risk federal funding"
-- "We can't staff enough advisors to handle enrollment growth"
+**Probes**
 
-**These are hypotheses:**
+- Is the cost quantified or only perceived? "We lose students" is perceived. "We lose $X in tuition revenue from students who drop after discovering their credits don't transfer" is quantified. Help the buyer do the arithmetic.
+- Does the institution know the cost at all? Many costs are spread across departments and invisible to any one stakeholder.
 
-- "Students might learn better"
-- "Faculty might save some time"
-- "It would be nice to have better data"
-
-If the buyer can't articulate a concrete cost of inaction, they won't fight through procurement for you.
-
-**Depth probes:**
-
-- Is the cost of inaction quantified or merely perceived? "We lose students" is perceived. "We lose $X in tuition revenue from students who drop after discovering their credits don't transfer" is quantified. Help the buyer do the math.
-- Does the institution even *know* the cost of inaction? Many costs are distributed across departments and invisible to any single stakeholder.
-
-**Watch for:** Pattern 3 in [founder-traps.md](founder-traps.md) applies here. If the stated cost of inaction is based on stakeholder perception, check whether outcome data tells the same story. If every stakeholder says "the accelerated format is killing retention" but the data says otherwise, the real cost of inaction may be somewhere else entirely.
+**Watch for:** A cost of inaction that rests on stakeholder perception ([Pattern 3](founder-traps.md#pattern-3-when-stakeholders-lie-unintentionally)). Check whether outcome data tells the same story. If everyone says the accelerated format is hurting retention and the data disagrees, the real cost lies elsewhere.
 
 ## 5. Who else must say yes?
 
-If the answer is "just me," your pilot will succeed and your deal will die.
+If the answer is "just me," the pilot will succeed and the deal will die. Institutional adoption needs several approvals:
 
-Real institutional adoption requires multiple approvals:
+- **IT:** security review (in higher ed, the EDUCAUSE HECVAT questionnaire; SOC 2).
+- **Legal:** compliance review (FERPA, data governance; in K-12, often a signed data privacy agreement).
+- **Finance:** budget approval and the procurement process.
+- **Faculty governance:** when the product touches curriculum or pedagogy.
+- **Accessibility:** ADA and Section 508 compliance.
 
-- **IT:** Security review (in higher ed, the EDUCAUSE HECVAT questionnaire; SOC 2)
-- **Legal:** Compliance review (FERPA, data governance; in K–12, often a signed data privacy agreement)
-- **Finance:** Budget approval and procurement process
-- **Faculty governance:** If the product touches curriculum or pedagogy
-- **Accessibility:** ADA / Section 508 compliance
+Map this chain before the pilot starts. Otherwise the pilot produces evidence that never reaches the person who signs the purchase order. [Vendor review readiness](../selling/vendor-review-readiness.md) lists the paperwork IT, legal, and accessibility reviewers ask for.
 
-If you don't know the approval chain before the pilot starts, you'll generate great evidence that never reaches the person who signs the purchase order.
+**Probes**
 
-**Depth probes:**
+- What is each approver's own job? IT manages risk, legal ensures compliance, and finance wants a return. Address each one separately.
+- Have you met every approver, or only heard the champion describe them?
 
-- For each approver in the chain, what is *their* job? IT's job is risk mitigation. Legal's job is compliance. Finance's job is ROI. Your pitch must address each approver's job separately.
-- Have you mapped the full approval chain *before* the pilot starts? IT security review, legal and compliance, finance and procurement, faculty governance if you touch curriculum, accessibility review.
-
-**Watch for:** If you've only validated with users and champions, you have enthusiasm without procurement. The pilot will succeed and the deal will die. Map every node in the approval chain and understand what job each node needs done before they say yes.
-
----
+**Watch for:** Validation from users and champions alone, which is enthusiasm without procurement. [Buyer personas](buyer-personas.md) describes what each approver needs to see before saying yes.
 
 ## Scoring yourself
 
-| Question | Strong signal | Weak signal |
-|----------|---------------|-------------|
-| 1. Struggling moment | Named person, named problem, named institution | "Universities in general" |
-| 2. What they've tried | You know the current workaround and why it fails | "Nobody's tried this before" |
-| 3. Budget line item | Buyer names the budget | "We'd figure it out" |
-| 4. Cost of inaction | Quantified financial or regulatory consequence | "It would be nice" |
-| 5. Approval chain | You've mapped IT, Legal, Finance, and faculty governance | "Just my champion" |
+Score one point for each question with a strong signal in the table at the top. Count a signal as strong only when a buyer said it or showed it to you; your own inference scores as weak.
 
 | Score | Verdict | What to do |
-|-------|---------|------------|
-| **5/5 strong signals** | You have validated demand | Design the pilot to produce the evidence the buyer needs. |
-| **3-4 strong signals** | Promising demand with gaps | Address the weak signals before committing resources to a pilot. |
-| **0-2 strong signals** | You have a hypothesis, not demand | Go back to discovery. Interview 10 more people who recently made a switching decision in this problem space — see [jtbd-interviews.md](jtbd-interviews.md). |
-
----
+|---|---|---|
+| 5 of 5 | Validated demand | Design the pilot to produce the evidence the buyer needs (see the [pilot playbook](../selling/edtech-pilot-playbook/README.md)). |
+| 3 or 4 | Promising demand with gaps | Close the weak signals before you commit to a pilot. |
+| 0 to 2 | A hypothesis | Return to discovery. Interview 10 more people who recently made a switching decision in this problem space, using [JTBD Switch interviews](jtbd-interviews.md). |
 
 ## After the pilot: noise vs. signal
 
-The five questions above filter demand before you build. Once a pilot is underway, pressure-test the results with the four-question noise vs. signal filter in [founder-traps.md](founder-traps.md). Short version: signal comes from buyers and procurement processes, noise comes from users and champions. If any answer is no, you have enthusiasm, not validation.
+The five questions filter demand before you build. Once a pilot is running, test its results with the four-question [noise vs. signal filter](founder-traps.md#the-noise-vs-signal-filter). In short: buyers and procurement processes produce signal; users and champions produce noise.
+
+## Related guides
+
+- [JTBD Switch interviews](jtbd-interviews.md): how to run the interviews that answer these questions
+- [Discovery interview template](../templates/discovery-interview.md): a script for the conversation
+- [Higher ed jobs atlas](higher-ed-jobs-atlas.md): 15 student-journey jobs to test
+- [Founder traps](founder-traps.md): the four patterns behind false demand, and the noise vs. signal filter
+- [Buyer personas](buyer-personas.md): who sits in the approval chain
+- [Procurement guide](../selling/procurement-guide.md): thresholds, calendar, and RFPs
 
 ---
-
-*Last updated: 2026-10-30*
+*The test and its thresholds are ScaleU's practitioner view, not data. An independent reviewer checked the Strengthening Institutions link and the internal links 2026-11-11; the page states no other outside facts.*

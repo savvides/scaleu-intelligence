@@ -1,85 +1,82 @@
-# The ESSA Evidence Ladder
+# ESSA evidence tiers
 
-In edtech, "evidence" is a regulatory framework, not a marketing buzzword. The Every Student Succeeds Act (ESSA) defines four tiers of evidence that schools, districts, and states use to decide what to buy.
+Federal law defines four levels of evidence and sets each by the design of the study behind a product, not by how good the results look. Know which tier you hold, claim no more, and plan the study that earns the next one.
 
-Most founders overestimate their evidence. If you tell a district CTO you have "strong evidence" because a teacher gave you a quote, you've just lost the deal.
+**Applies to:** K-12, United States, where the tiers are law. Higher-ed founders should read [Who this applies to](#who-this-applies-to) first: the statute does not cover colleges, though federal grant rules use the same four levels.
+
+## The four tiers
+
+| Tier | Study design required | What the Department of Education's grant rules add | Cost and time (ScaleU estimate) | Who asks for it (ScaleU estimate) |
+|---|---|---|---|---|
+| 1. Strong | At least one well-designed and well-implemented experimental study showing a statistically significant effect on outcomes | Meets What Works Clearinghouse (WWC) standards without reservations; at least 350 individuals across more than one site | $150,000 to $500,000 or more; 12-24 months | Federal grant makers, state-level adoptions, Series B and later investors |
+| 2. Moderate | At least one well-designed and well-implemented quasi-experimental study | Meets WWC standards with or without reservations; same 350-and-multisite rule | $75,000 to $250,000; 6-18 months | Large district procurement offices, impact-focused investors |
+| 3. Promising | At least one well-designed and well-implemented correlational study with statistical controls for selection bias | No sample-size rule | $25,000 to $100,000; 3-12 months | Mid-market district buyers, Series A investors |
+| 4. Demonstrates a rationale | A rationale, based on high-quality research findings or a positive evaluation, that the product is likely to improve outcomes, plus ongoing efforts to examine its effects | A key component in the project's logic model is supported by citations of high-quality research or evaluation findings | $5,000 to $25,000, mostly internal time; 1-3 months | Pre-seed investors, early adopters |
+
+The study-design column states the law: the Elementary and Secondary Education Act, as amended by the Every Student Succeeds Act (ESSA), at [20 U.S.C. 7801(21)](https://www.law.cornell.edu/uscode/text/20/7801). The third column states the Department's general grant regulations at [34 CFR 77.1](https://www.law.cornell.edu/cfr/text/34/77.1). The cost, timeline, and audience columns are ScaleU practitioner estimates. They come from EdTech Founder Stack, which cites no source for them, and they are not part of the law.
+
+## What each tier means in practice
+
+**Tier 1, strong.** An experimental study is usually a randomized controlled trial; 34 CFR 77.1 also counts regression discontinuity and single-case designs. The statute sets no sample size and requires neither peer review nor publication. For the Department's discretionary grants, the regulation adds that a single study must meet WWC standards without reservations, show at least one statistically significant positive effect with no overriding negative effects, and include at least 350 students or other individuals across more than one site. Several qualifying studies of the same component can together meet the sample requirement. Outside competitive grants, the Department's [2023 evidence guidance](https://www.ed.gov/sites/ed/files/fund/grant/about/discretionary/2023-non-regulatory-guidance-evidence.pdf) describes this framework as an optional guide.
+
+**Tier 2, moderate.** You compared classrooms that used the product with similar classrooms that did not, and controlled for demographics and prior achievement. For discretionary grants, a single study must meet WWC standards with or without reservations, under the same rule of 350 individuals and more than one site.
+
+**Tier 3, promising.** You analyzed existing usage and outcome data and found a statistical link between them, using a regression model with controls. A chart of usage against scores does not qualify.
+
+**Tier 4, demonstrates a rationale.** You have a [logic model](../templates/logic-model.md) grounded in existing research and a study under way to test it. ScaleU's view: this is the minimum for a product sold to schools, and a founder without it is not ready to sell.
+
+Two limits on what a tier buys:
+
+- **School improvement funds exclude Tier 4.** Only the first three tiers count for school-improvement activities funded under ESEA section 1003 ([20 U.S.C. 6303](https://www.law.cornell.edu/uscode/text/20/6303)); "demonstrates a rationale" does not (20 U.S.C. 7801(21)(B)).
+- **A testimonial is not a tier.** Founders tend to overstate their evidence. Tell a district technology officer that a teacher's quote is strong evidence, and you lose the officer's trust (ScaleU's view).
 
 ## Who this applies to
 
-**K-12 founders.** The four tiers are defined in the Elementary and Secondary Education Act, as amended by ESSA ([20 U.S.C. 7801(21)](https://www.law.cornell.edu/uscode/text/20/7801)). That definition covers state, district, and school activities: strong evidence comes from an experimental study, moderate from a quasi-experimental study, promising from a correlational study with statistical controls for selection bias, and "demonstrates a rationale" from research-based reasoning plus ongoing evaluation. Only the first three tiers count for school-improvement activities funded under ESEA section 1003 ([20 U.S.C. 6303](https://www.law.cornell.edu/uscode/text/20/6303)); "demonstrates a rationale" does not (20 U.S.C. 7801(21)(B)). The costs, timelines, buyer and investor expectations on this page are ScaleU practitioner estimates, not part of the law. They come from EdTech Founder Stack, which cites no source for them.
+**K-12.** The statutory tiers govern state, district, and school activities, and the tier table above applies as written.
 
-**Higher-ed founders.** ESSA's definition is written for state, district, and school activities, not colleges and universities. For higher ed, these sources apply:
+**Higher ed.** ESSA's definition does not reach colleges and universities. Three sources take its place.
 
-- **Federal grants.** The Department of Education's general grant regulations define the same four levels in [34 CFR 77.1](https://www.law.cornell.edu/cfr/text/34/77.1). They apply across the Department's regulations, including those of its Office of Postsecondary Education ([34 CFR subtitle B, chapter VI](https://www.law.cornell.edu/cfr/text/34/subtitle-B)). These definitions are tied to What Works Clearinghouse (WWC) standards, and a single experimental study counts as strong evidence only if it includes at least 350 students or other individuals across more than one site, such as more than one postsecondary campus.
-- **Published reviews.** WWC practice guides grade the evidence for postsecondary practices. One example is [Effective Advising for Postsecondary Students](https://ies.ed.gov/ncee/WWC/PracticeGuide/28) (2021). Cite one as the research base for your logic model if its studies match your population.
-- **What university buyers ask for.** The Cracking Higher Ed framework uses a retention analytics tool as its example of how evidence needs differ by role: the provost wants year-over-year retention and the advisor wants proof of time saved ([Cracking Higher Ed](../../sources/events/2026-sxsw-edu/README.md#3-identify-the-buyer-not-just-the-user)). At an ASU+GSV 2026 roundtable, an innovation director at a business school said results from two or three peer universities would help him make the case internally ([EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md#what-we-heard-from-institutional-leaders)). See [pilot benchmarks](../selling/pilot-benchmarks.md) for how to design a pilot that produces this evidence.
+- **Federal grants.** 34 CFR 77.1 defines the same four levels. It applies across the Department's regulations, including those of its Office of Postsecondary Education ([34 CFR subtitle B, chapter VI](https://www.law.cornell.edu/cfr/text/34/subtitle-B)). The definitions rest on WWC standards, and a single experimental study counts as strong evidence only if it includes at least 350 students or other individuals across more than one site, such as more than one postsecondary campus.
+- **Published reviews.** WWC practice guides grade the evidence for postsecondary practices; [Effective Advising for Postsecondary Students](https://ies.ed.gov/ncee/WWC/PracticeGuide/28) (2021) is one. Cite a guide as the research base for your logic model if its studies match your population.
+- **What university buyers ask for.** The Cracking Higher Ed framework uses a retention analytics tool to show how evidence needs differ by role: the provost wants year-over-year retention, and the advisor wants proof of time saved ([Cracking Higher Ed](../../sources/events/2026-sxsw-edu/README.md#3-identify-the-buyer-not-just-the-user)). At an ASU+GSV 2026 roundtable, an innovation director at a business school said results from two or three peer universities would help him make the case internally ([EdTech pilot playbook](../selling/edtech-pilot-playbook/README.md#what-we-heard-from-institutional-leaders), speaker claim). See [pilot benchmarks](../selling/pilot-benchmarks.md) for how to design a pilot that produces this evidence.
 
-## The Four Tiers
+## Evidence investors expect by stage
 
-### Tier 1: Strong Evidence (The Gold Standard)
-*   **What it is:** An experimental study, usually a randomized controlled trial (RCT). 34 CFR 77.1 also counts regression discontinuity and single-case designs as experimental studies.
-*   **What the law requires:** At least one well-designed and well-implemented experimental study showing a statistically significant effect on improving outcomes ([20 U.S.C. 7801(21)](https://www.law.cornell.edu/uscode/text/20/7801)). The statute sets no sample size and does not require peer review or publication. For the Department of Education's discretionary grants, [34 CFR 77.1](https://www.law.cornell.edu/cfr/text/34/77.1) adds that a single study must meet What Works Clearinghouse (WWC) standards without reservations, show at least one statistically significant positive effect with no overriding negative effects, and include at least 350 students or other individuals across more than one site. Several qualifying studies of the same component can together meet the sample requirement. Outside competitive grants, the Department's [2023 evidence guidance](https://www.ed.gov/sites/ed/files/fund/grant/about/discretionary/2023-non-regulatory-guidance-evidence.pdf) describes this framework as an optional guide.
-*   **Cost (ScaleU estimate):** $150K - $500K+.
-*   **Timeline (ScaleU estimate):** 12-24 months.
-*   **Who cares (ScaleU estimate):** Federal grant makers, state-level adoptions, and Series B+ investors.
+These are ScaleU estimates, not published investor criteria. Founder Stack's original table cites no source.
 
-### Tier 2: Moderate Evidence (The Enterprise Gate)
-*   **What it is:** A quasi-experimental study.
-*   **The Reality:** You compared classrooms that used your product to similar classrooms that didn't. You controlled for demographics and prior achievement.
-*   **What the law requires:** At least one well-designed and well-implemented quasi-experimental study (20 U.S.C. 7801(21)). For discretionary grants, 34 CFR 77.1 requires a single study to meet WWC standards with or without reservations and applies the same rule of at least 350 individuals across more than one site.
-*   **Cost (ScaleU estimate):** $75K - $250K.
-*   **Timeline (ScaleU estimate):** 6-18 months.
-*   **Who cares (ScaleU estimate):** Large district procurement offices and impact-focused VCs.
+| Stage | Evidence expected |
+|---|---|
+| Pre-seed | Tier 4: a logic model and a pilot plan |
+| Seed | Tier 4 with usage data, and a plan for Tier 3 |
+| Series A | Tier 3 (correlational), and a pilot under way for Tier 2 |
+| Series B and later | Tier 2 (quasi-experimental) |
 
-### Tier 3: Promising Evidence (The Series A Requirement)
-*   **What it is:** A correlational study with statistical controls.
-*   **The Reality:** You analyzed existing usage and outcome data and proved a statistical link between the two. You didn't just show a graph; you ran a regression model.
-*   **What the law requires:** At least one well-designed and well-implemented correlational study with statistical controls for selection bias (20 U.S.C. 7801(21)). 34 CFR 77.1 sets no sample-size rule at this level.
-*   **Cost (ScaleU estimate):** $25K - $100K.
-*   **Timeline (ScaleU estimate):** 3-12 months.
-*   **Who cares (ScaleU estimate):** Mid-market district buyers and Series A investors.
+## How to move up
 
-### Tier 4: Demonstrates a Rationale (The Table Stakes)
-*   **What it is:** A logic model + a research agenda.
-*   **The Reality:** You have a "Theory of Change" based on existing science and you're currently running a pilot to prove it.
-*   **Cost (ScaleU estimate):** $5K - $25K (Mostly internal time).
-*   **Timeline (ScaleU estimate):** 1-3 months.
-*   **Who cares (ScaleU estimate):** Pre-seed investors and early adopters. **If you don't have this, you don't have a product.**
+The [evidence roadmap](evidence-roadmap.md) sets out the path from logic model to study. In brief (ScaleU's view):
 
-## The AI Evidence Dimension (New for 2026)
+1. **Stop reporting logins as evidence.** Usage shows that the product ran; an outcome shows that students learned.
+2. **Choose one outcome.** Pick a single measurable learning goal.
+3. **Use pilot data to locate the need.** Find where the student's problem meets a capacity constraint at the institution.
+4. **Find a research partner early.** University researchers want publications, and you want proof; the trade is fair.
 
-If you're building an AI-native product, the ESSA tiers are necessary but not sufficient. Investors and sophisticated buyers now look for **Behavior Change**.
+## Evidence for AI products
 
-*   **The Question:** Does the AI change *how* the user works, or just how fast they do the same old task?
-*   **The Metric:** Reversion Rate. If you turned off the AI today, would the user wait for it to come back, or just go back to their old workaround? If they go back immediately, you haven't changed their behavior.
-
-## The Scaling Ladder (Investor Expectations)
-
-*ScaleU estimates, not published investor criteria. Founder Stack's original table cites no source.*
-
-| Stage | What you MUST have |
-|-------|--------------------|
-| **Pre-seed** | Tier 4 (Logic Model + Pilot Plan) |
-| **Seed** | Tier 4 (Usage data) + Plan for Tier 3 |
-| **Series A** | Tier 3 (Correlational) + Pilot for Tier 2 |
-| **Series B+** | Tier 2 (Quasi-Experimental) |
-
-## The ScaleU Take: How to Move Up
-
-1.  **Stop counting "logins":** Usage is not an outcome. Stop reporting it as evidence.
-2.  **Define ONE outcome:** Pick one measurable learning goal. Just one.
-3.  **Find a "Mirror":** Use your pilot data to find where the student's problem meets a provider's capacity constraint.
-4.  **Partner early:** University researchers want publications. You want proof. It's a fair trade.
+ScaleU's view, not part of the law: an [AI-native](../product/ai-native-framework.md) product needs a tier and more. Investors and experienced buyers also look for behavior change. Ask whether the AI changes how the user works or only speeds up the old task. The measure is the reversion rate: if the AI were switched off today, users who wait for it to return have changed their behavior, and users who go straight back to their old workaround have not.
 
 ## What state buyers are starting to check (K-12, 2026)
 
 In SETDA's [2026 State EdTech Trends Report](https://www.setda.org/priorities/state-trends/), a survey of state agency leaders, 52% of respondents said their state collects no data on whether edtech tools are used or effective, and 68% said vendor claims about AI products are hard to verify. Among states with guidance on buying AI tools, the share that includes an evidence-based quality indicator rose from 45% to 79% in a year. North Carolina's agency plans to track app usage from August 2027 and later link it to assessment results, with a stated goal of ending or renegotiating contracts that fall below return-on-investment benchmarks. Its 2026 budget law also requires the agency to review generative AI tools against a framework and publish the list of reviewed tools ([S.L. 2026-41](https://www.ncleg.gov/EnactedLegislation/SessionLaws/PDF/2025-2026/SL2026-41.pdf), section 7.39). Survey details and page numbers are in the [field note](../../sources/notes/2026-10-30-setda-state-edtech-trends-2026.md).
 
-The ScaleU read: most states can't yet compare your usage data with outcomes, but the ones that can will judge renewals on it. Report an outcome tied to your tier, not logins.
+ScaleU's view: most states cannot yet compare your usage data with outcomes, and the ones that can will judge renewals on it. Report an outcome tied to your tier.
+
+## Related guides
+
+- [Evidence roadmap](evidence-roadmap.md): how to build the evidence, from logic model to study
+- [Pilot benchmarks](../selling/pilot-benchmarks.md) and the [EdTech pilot playbook](../selling/edtech-pilot-playbook/README.md)
+- [Procurement guide](../selling/procurement-guide.md): what state and district buyers weigh
+- [K-12 regulation](../market/k12-regulatory.md)
+- [Logic model template](../templates/logic-model.md)
 
 ---
-*Last updated: 2026-04-27*
-
-*Edited 2026-10-30: added who this applies to and higher-ed sources. Checked the tier requirements against 20 U.S.C. 7801(21) and 34 CFR 77.1, replaced the Tier 1 sample-size and publication claims with what the statute and regulation require, added the section 1003 rule, and labeled the cost, timeline, buyer, and investor figures as ScaleU estimates. The tier headings, the Tier 2-4 "Reality" descriptions, the AI evidence section, and the ScaleU Take were not rechecked.*
-
-*Edited 2026-10-30: added state buyer findings from SETDA's 2026 State EdTech Trends Report (pages 17–18 and 22–23) and North Carolina's AI tool review requirement, checked against S.L. 2026-41.*
+*Facts last checked: 2026-10-30 for the tier requirements (against 20 U.S.C. 7801(21) and 34 CFR 77.1), the section 1003 rule, the higher-ed sources, the SETDA findings (report pages 17–18 and 22–23), and North Carolina S.L. 2026-41. An independent spot-check on 2026-11-11 reread 20 U.S.C. 7801(21), the 350-individual, multi-site, and logic-model wording of 34 CFR 77.1, and the WWC advising guide; it did not reopen the SETDA report, the North Carolina law, or the Department's 2023 guidance, whose site refused the request. The plain-language tier descriptions, the AI evidence section, and the advice on moving up date from 2026-04-27 and were never rechecked. Costs, timelines, audiences, and investor expectations are ScaleU estimates, not data.*

@@ -1,10 +1,10 @@
 # Instructions for AI assistants
 
-This repository is ScaleU Intelligence: a Markdown library of advice and evidence for edtech founders. Nothing needs to be installed or run.
+This repository is ScaleU Intelligence: a Markdown library of advice and evidence for edtech founders. It needs no installation and runs no code.
 
 ## Answering a founder's question
 
-1. Read `guides/README.md`, pick the folder that matches the question (`demand/`, `selling/`, `evidence/`, `product/`, `market/`), and answer from those guides first.
+1. Read `guides/README.md`, pick the folder that matches the question (`demand/`, `selling/`, `evidence/`, `product/`, `business/`, `market/`), and answer from those guides first. `guides/start-here.md` orders the guides by company stage; `guides/glossary.md` defines terms; `guides/templates/` holds documents to fill in; `guides/resources.md` lists outside resources.
 2. Follow a guide's links into `sources/` only when you need detail. Don't read `sources/events/*/transcripts/` in bulk; transcripts are long and record what speakers said, not verified results.
 3. Skip `about/` and `.github/` unless asked about licensing, the field-note template, or contributing.
 
@@ -23,4 +23,4 @@ Follow `.github/CONTRIBUTING.md`. The rules most often missed:
 - Add each new page to its section index (the table in CONTRIBUTING.md says which one).
 - When moving, renaming, or deleting a page, search the repository for its old path and fix every link, including indexes.
 - Change a guide's review date only after rechecking its facts; a formatting edit is not a fact check.
-- Nothing runs automatically: there is no build, test, or link checker. Check links and the diff by hand.
+- Nothing runs automatically; the repository has no build, test, or link checker. Check links and the diff by hand.

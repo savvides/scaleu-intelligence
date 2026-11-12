@@ -1,143 +1,100 @@
-# The Higher Ed Jobs Atlas
+# The higher ed jobs atlas
 
-**The question it answers:** which student-journey problems in higher ed are real, and which are already crowded? Use it to place your product on the journey, find an underserved job, and pick the job you'll test with [demand validation](demand-validation.md).
+Fifteen jobs span the student journey in higher ed. Most founders build for the course experience, the most crowded phase; the four phases before classes start have documented pain and few products. Use the atlas to place your product on the journey, find an underserved job, and choose the job you will test with [demand validation](demand-validation.md).
 
-**Audience:** higher ed only. The 15 jobs come from research across large-scale online programs, many with accelerated 7.5-week sessions and transfer students, as described in the SXSW EDU 2026 talk. That research is not published here. Residential, community-college, and K–12 settings may differ, so test any job against your own buyers.
+**Applies to:** higher ed only, United States. The 15 jobs come from research across large online programs, many with accelerated 7.5-week sessions and transfer students, as described in the SXSW EDU 2026 talk. That research is not published here. Residential, community-college, and K-12 settings may differ, so test any job against your own buyers.
 
-*Source: "Cracking Higher Ed: Why Startups Miss the Mark" — Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0.*
+*Source: "Cracking Higher Ed: Why Startups Miss the Mark," Philippos Savvides, SXSW EDU 2026. Licensed CC BY 4.0. The jobs, the coverage ratings, and the likely owners are ScaleU's practitioner view, not a market count.*
 
-## Where Most Founders Build
+## The journey at a glance
 
-**Most higher-ed edtech founders build for the "Course Experience" phase.** The SXSW EDU 2026 talk put it at about 80% of founders, with 15+ product categories competing. That figure is ScaleU's practitioner estimate, not a published count.
+| Phase | Jobs | Product coverage | Where the opening is | Likely provider-side owner (ScaleU's view) |
+|---|---|---|---|---|
+| Pre-enroll | 1–3 | Underserved | Cost expectations, transfer credit research, understanding the format | Marketing and enrollment management |
+| Apply | 4–5 | Underserved | Admissions speed, transcript processing | Admissions, registrar |
+| Onboard | 6–8 | Underserved | Transfer credit clarity, the silence after admission, readiness for the format | Registrar or transfer office, enrollment management, student success |
+| Select & Enroll | 9–12 | Underserved | Course information, availability, advising, degree audits | Registrar, advising, academic departments |
+| Course Experience | 13–14 | Saturated | 15+ product categories; low margins and much noise | Department chairs, deans, academic support |
+| Graduate & Beyond | 15 | Partial | Career transition, credentialing, alumni outcomes; skills and job-search tools are growing, outcome data is thin | Career services, academic leadership |
 
-ScaleU's own sourcing gives a second, smaller data point. Of the 88 higher-ed and workforce companies added to ScaleU's pipeline in July–September 2026, 46 (52%) build for students taking classes, 29 (33%) for graduation and careers, and 13 (15%) for the four phases before classes start ([field note](../../sources/notes/2026-10-30-scaleu-q1-fy27-update.md)). That is one quarter of one accelerator's sourcing, not a market count. It puts Course Experience below the talk's estimate and careers well above it, and it agrees that the early phases are thin.
+Titles and ownership vary by institution; [buyer personas](buyer-personas.md) describes these offices.
 
-The biggest opportunities are in the first four phases: Pre-enroll, Apply, Onboard, and Select & Enroll. In the talk's framing, the pain in these phases is quantified at scale but product coverage is thin.
+## Where most founders build
 
-## Journey Phase Overview
+Most higher-ed founders build for the Course Experience phase. The SXSW EDU 2026 talk put the share at about 80% of founders, with 15+ product categories competing. That figure is ScaleU's practitioner estimate, not a published count.
 
-| Phase | Status | The Opportunity |
-|-------|--------|-----------------|
-| **Pre-enroll** | **Underserved** | Cost expectations, transfer credit research, format comprehension. |
-| **Apply** | **Underserved** | Admissions speed, transcript processing bottlenecks. |
-| **Onboard** | **Underserved** | Transfer credit clarity, post-admission "dead zones," format readiness. |
-| **Select & Enroll** | **Underserved** | Course info for decision-making, availability, advising, degree audits. |
-| **Course Experience** | **Saturated** | 15+ product categories. Low margins, high noise. |
-| **Graduate & Beyond** | **Partial Coverage** | Career transition, credentialing, alumni outcomes. Skills and job-search tools are growing; outcome data is still thin. |
+ScaleU's own sourcing supplies a second, smaller data point. Of the 88 higher-ed and workforce companies added to ScaleU's pipeline in July–September 2026, 46 (52%) build for students taking classes, 29 (33%) for graduation and careers, and 13 (15%) for the four phases before classes start ([field note](../../sources/notes/2026-10-30-scaleu-q1-fy27-update.md)). This is one quarter of one accelerator's sourcing, not a market count. It puts Course Experience below the talk's estimate and careers well above it, and it agrees that the early phases are thin.
 
----
+The largest openings lie in the first four phases: Pre-enroll, Apply, Onboard, and Select & Enroll. In the talk's framing, the pain in these phases is quantified at scale and product coverage is thin.
 
-## 1. Pre-enroll (3 Jobs) — UNDERSERVED
+## Pre-enroll: jobs 1–3 (underserved)
 
-### Job 1: The Cost Expectation Gap
-*   **The Moment:** A student is evaluating programs but can't find the "true price" (tuition + fees + surcharges) until after they enroll.
-*   **The Struggle:** They're guessing based on sticker prices that don't include the reality of online learning.
-*   **The Job:** "Tell me exactly what I'll pay before I sign my life away."
+| Job | The moment | The struggle | The job, in the student's words |
+|---|---|---|---|
+| 1. The cost expectation gap | A student evaluating programs cannot find the true price (tuition, fees, and surcharges) until after enrolling. | They guess from sticker prices that omit the real costs of online study. | "Tell me exactly what I'll pay before I commit." |
+| 2. The course-level information gap | A student chooses between programs without a syllabus, workload information, or textbook requirements. | They turn to Reddit and Rate My Professors because the institution withholds the data. | "Show me what this course demands before I sign up." |
+| 3. The format comprehension gap | A student enters an accelerated 7.5-week program without knowing what accelerated means for their schedule. | Marketing says flexible; the program requires 15 hours per week on top of a full-time job. | "Help me feel the pace of this program before week 1." |
 
-### Job 2: The Course-Level Information Gap
-*   **The Moment:** Choosing between programs without seeing a syllabus, workload info, or textbook requirements.
-*   **The Struggle:** They're hiring Reddit and Rate My Professor because the institution won't give them the data.
-*   **The Job:** "Show me what this course actually demands before I sign up."
+## Apply: jobs 4–5 (underserved)
 
-### Job 3: The Format Comprehension Gap
-*   **The Moment:** A student enters an accelerated 7.5-week program without knowing what "accelerated" means for their schedule.
-*   **The Struggle:** Marketing says "flexible," but reality says "15 hours per week on top of your full-time job."
-*   **The Job:** "Help me feel the pace of this program before week 1 hits."
+| Job | The moment | The struggle | The job, in the student's words |
+|---|---|---|---|
+| 4. The admissions speed-to-lead gap | A student applies to three programs. The first to respond wins. | Institutional processing is slow, and the fastest responder captures the enrollment regardless of quality. | "Give me a decision before I commit to your competitor." |
+| 5. The transcript processing bottleneck | A transfer student needs to know which credits will count. | Manual evaluation takes weeks, and the student decides without the answer. | "Tell me my credit status before the enrollment deadline." |
 
----
+## Onboard: jobs 6–8 (underserved)
 
-## 2. Apply (2 Jobs) — UNDERSERVED
+| Job | The moment | The struggle | The job, in the student's words |
+|---|---|---|---|
+| 6. The transfer credit void | A student is admitted and has not seen their credit articulation. | They discover redundant courses after they have started. | "Map my prior credits to my degree before I spend a dollar." |
+| 7. The post-admission communication dead zone | The weeks between acceptance and the first day of class. | The institution goes silent. Summer melt happens here. | "Keep me engaged and ready until classes start." |
+| 8. The format readiness gap | An admitted student is days from starting an accelerated online program with no practical preparation for the pace or the tools. | Generic orientation modules do not simulate the experience, and programs deploy readiness help inconsistently. | "Get me ready for what's coming, not just oriented." |
 
-### Job 4: The Admissions Speed-to-Lead Gap
-*   **The Moment:** A student applies to three programs. The one that responds first wins.
-*   **The Struggle:** Institutional processing is slow; the fastest responder captures the enrollment, regardless of quality.
-*   **The Job:** "Give me a decision before I commit to your competitor."
+On job 7, EdResearch for Action's [brief on summer melt](https://edresearchforaction.org/research-briefs/helping-students-make-it-to-college-evidence-based-design-principles-for-reducing-summer-melt/) (December 2025) summarizes what randomized trials say about reducing it.
 
-### Job 5: The Transcript Processing Bottleneck
-*   **The Moment:** A transfer student needs to know which credits will count.
-*   **The Struggle:** Manual evaluation takes weeks. The student is flying blind.
-*   **The Job:** "Tell me my credit status before the enrollment deadline."
+## Select & Enroll: jobs 9–12 (underserved)
 
----
+| Job | The moment | The struggle | The job, in the student's words |
+|---|---|---|---|
+| 9. The course selection blind spot | An enrolled student picks next term's classes. | They choose by title alone. Without workload information, drop rates rise later. | "Help me pick courses I won't have to drop." |
+| 10. The course availability crunch | A student trying to stay on track finds required courses full, offered once a year, or in conflict. | They overload when they can, delay graduation, or transfer out. Online programs still inherit seat-limited, in-person scheduling. | "Get me into the courses I need, when I need them." |
+| 11. The sequencing and advising maze | A student tries to work out what to take next to graduate on time. | Degree audit tools are indecipherable, and human advising is a 3-week wait. | "Tell me exactly what to take next, in plain English." |
+| 12. The degree audit black box | A student tracking progress toward graduation opens the degree audit tool and cannot read it. | The one tool built to say what is left fails to say it clearly, so they fall back on spreadsheets and advisor meetings. | "Show me, in plain language, what stands between me and graduation." |
 
-## 3. Onboard (3 Jobs) — UNDERSERVED
+## Course Experience: jobs 13–14 (saturated)
 
-### Job 6: The Transfer Credit Void
-*   **The Moment:** A student is admitted but hasn't seen their credit articulation.
-*   **The Struggle:** They discover they're taking redundant courses *after* they've already started.
-*   **The Job:** "Map my prior credits to my degree before I spend a dollar."
+If you build here, build for the provider side, where the budget sits.
 
-### Job 7: The Post-Admission Communication Dead Zone
-*   **The Moment:** The gap between "You're Accepted" and the first day of class.
-*   **The Struggle:** Total silence from the institution. This is where "summer melt" happens. EdResearch for Action's [brief on summer melt](https://edresearchforaction.org/research-briefs/helping-students-make-it-to-college-evidence-based-design-principles-for-reducing-summer-melt/) (December 2025) summarizes what randomized trials say about reducing it.
-*   **The Job:** "Keep me engaged and ready during the void."
+| Job | The moment | The struggle | The job, in the person's words |
+|---|---|---|---|
+| 13. The instructor capacity constraint | A faculty member teaches 200+ online students. | They cannot give real feedback, and students feel ignored. | "Help me give high-quality feedback without burning out." |
+| 14. The support access gap | A student gets stuck and needs tutoring, writing, or math help at that moment. | Support exists but sits apart from the course and is hard to find when needed. They fall back on YouTube or struggle alone, which deepens the sense of teaching themselves. | "Get me help the moment I'm stuck, not after I've fallen behind." |
 
-### Job 8: The Format Readiness Gap
-*   **The Moment:** An admitted student is days from starting an accelerated online program with no practical prep for the pace or the tools.
-*   **The Struggle:** Generic orientation modules don't simulate the real experience, and readiness help is deployed inconsistently across programs.
-*   **The Job:** "Get me ready for what's actually coming, not just oriented."
+**ScaleU's view.** Both jobs are provider-side structural gaps. Relieve the instructor's workload and the student's experience improves, so sell job 13 to the department, not the student. Connect support to the moment of need and you relieve the student and the institution together (see [Pattern 4](founder-traps.md#pattern-4-same-problem-two-jobs)).
 
----
+## Graduate & Beyond: job 15 (partial coverage)
 
-## 4. Select & Enroll (4 Jobs) — UNDERSERVED
+| Job | The moment | The struggle | The job, in the student's words |
+|---|---|---|---|
+| 15. The career transition bridge | A student graduates and wonders what comes next. | The connection between the degree and the job market is invisible or unsupported. | "Turn this credential into the career outcome I enrolled for." |
 
-### Job 9: The Course Selection Blind Spot
-*   **The Moment:** Enrolled students picking next term's classes.
-*   **The Struggle:** Choosing based on title alone. No workload info = high drop rates later.
-*   **The Job:** "Help me pick courses I won't have to drop."
+**ScaleU's view.** Startups are arriving in this phase. In ScaleU's July–September 2026 pipeline, 29 of 88 higher-ed and workforce companies built for it, mostly workforce-skills simulations, coaching, and credentials (13) and job-search and career-guidance tools (12) ([field note](../../sources/notes/2026-10-30-scaleu-q1-fy27-update.md)). Evidence of outcomes remains thin: in the talk's assessment, most institutions have limited data on what happens after graduation. A product that shows whether the credential led to the career has more room than another job-search tool.
 
-### Job 10: The Course Availability Crunch
-*   **The Moment:** A student trying to stay on track finds required courses full, offered once a year, or in conflict.
-*   **The Struggle:** They overload when they can, delay graduation, or transfer out. Online programs still inherit seat-limited, in-person scheduling.
-*   **The Job:** "Get me into the courses I need, when I need them."
+## How to use the atlas
 
-### Job 11: The Sequencing & Advising Maze
-*   **The Moment:** A student trying to figure out what to take next to graduate on time.
-*   **The Struggle:** Degree audit tools are indecipherable. Human advising is a 3-week wait.
-*   **The Job:** "Tell me exactly what to take next in plain English."
+1. **Map your product.** If it matches no job here, your problem may not be an institutional priority.
+2. **Check saturation.** If you are in Course Experience, look for the underserved phase upstream that causes the problem (see [Pattern 2](founder-traps.md#pattern-2-the-upstream-cause--downstream-symptom-split)).
+3. **Follow the budget.** The student who feels the pain rarely pays the bill. Find the provider-side job and the office that owns it (see [buyer personas](buyer-personas.md)).
+4. **Test the job.** Run it through [demand validation](demand-validation.md) before you build, and use [JTBD Switch interviews](jtbd-interviews.md) to discover and validate jobs of your own.
+5. **Design the pilot.** Use the [edtech pilot playbook](../selling/edtech-pilot-playbook/README.md) and [pilot benchmarks](../selling/pilot-benchmarks.md). For the advising and retention jobs (7, 9, 11, and 12), see [advising, retention, and persistence pilots](../selling/pilot-benchmarks.md#advising-retention-and-persistence-pilots).
 
-### Job 12: The Degree Audit Black Box
-*   **The Moment:** A student trying to track progress toward graduation opens the degree audit tool and can't read it.
-*   **The Struggle:** The one tool built to answer "what's left?" doesn't answer it clearly, so they fall back on spreadsheets and advisor meetings.
-*   **The Job:** "Show me, in plain language, exactly what's between me and graduation."
+## Related guides
+
+- [Demand validation](demand-validation.md): five questions to test the job you choose
+- [JTBD Switch interviews](jtbd-interviews.md): how to find jobs of your own
+- [Founder traps](founder-traps.md): why the upstream phases matter
+- [Buyer personas](buyer-personas.md): the offices that own each phase
+- [Higher ed market](../market/highered-landscape.md): the institutions, money, and rules around these jobs
 
 ---
-
-## 5. Course Experience (2 Jobs) — SATURATED
-
-*Founders: If you're building here, look at the provider side. That's where the budget sits.*
-
-### Job 13: The Instructor Capacity Constraint
-*   **The Moment:** A faculty member teaching 200+ online students.
-*   **The Struggle:** They can't give real feedback. Students feel "ignored." The structural feedback loop is broken.
-*   **The Job:** "Help me give high-quality feedback without burning out."
-*   **The ScaleU Take:** Solve the instructor's workload, and you solve the student's experience. Sell to the department, not the student.
-
-### Job 14: The Support Access Gap
-*   **The Moment:** A student gets stuck and needs tutoring, writing, or math help right then.
-*   **The Struggle:** Support exists but is disconnected from the course and hard to find at the moment of need. They fall back on YouTube or struggling alone, which deepens the "I'm teaching myself" feeling.
-*   **The Job:** "Get me help the moment I'm stuck, not after I've already fallen behind."
-*   **The ScaleU Take:** Like instructor capacity, this is a provider-side structural gap. Wire support into the moment of need and you relieve the student and the institution at once.
-
----
-
-## 6. Graduate & Beyond (1 Job) — PARTIAL COVERAGE
-
-### Job 15: The Career Transition Bridge
-*   **The Moment:** A student graduating and wondering "What now?"
-*   **The Struggle:** The connection between the degree and the job market is invisible or unsupported.
-*   **The Job:** "Turn this credential into the career outcome I enrolled for."
-*   **The ScaleU Take:** Startups are arriving here. In ScaleU's July–September 2026 pipeline, 29 of 88 higher-ed and workforce companies built for this phase, mostly workforce-skills simulations, coaching, and credentials (13) and job-search and career-guidance tools (12) ([field note](../../sources/notes/2026-10-30-scaleu-q1-fy27-update.md)). What remains thin is evidence of outcomes: in the talk's assessment, most institutions have limited data on post-graduation outcomes. A product that shows whether the credential led to the career has more room than another job-search tool.
-
----
-
-## How to use this Atlas
-
-1.  **Map your product:** If you don't map to a job here, your "problem" might not be an institutional priority.
-2.  **Check Saturation:** If you're in Course Experience, move "upstream" to an underserved phase that causes the problem (see [founder traps](founder-traps.md#pattern-2-the-upstream-cause--downstream-symptom-split)).
-3.  **Follow the Budget:** The person feeling the pain (the student) is rarely the one who pays the bill. Find the provider-side job and the office that owns it (see [buyer personas](buyer-personas.md)).
-4.  **Pressure-test it:** Run a job through [demand-validation.md](demand-validation.md) before you build, and use [jtbd-interviews.md](jtbd-interviews.md) to discover and validate jobs of your own.
-5.  **Design the pilot:** Use the [EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md) and [pilot benchmarks](../selling/pilot-benchmarks.md). For advising and retention jobs (7, 9, 11, and 12), see [advising, retention, and persistence pilots](../selling/pilot-benchmarks.md#advising-retention-and-persistence-pilots).
-
----
-*Originally updated 2026-05-30. Updated 2026-10-30 with ScaleU's Q1 FY27 pipeline counts and the summer melt brief; the 15 jobs were not rechecked.*
+*ScaleU's pipeline counts were checked 2026-11-11 against the linked field note by an independent reviewer, and the summer melt brief was opened the same day. The 15 jobs, the 80% figure, the coverage ratings, and the likely owners are ScaleU's practitioner view from unpublished research; they are judgment, not data.*

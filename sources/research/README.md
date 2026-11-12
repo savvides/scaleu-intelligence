@@ -4,9 +4,11 @@
 
 Imported from EdTech Founder Stack. Paper selection and citation counts originate in that collection; editorial revisions do not imply a comprehensive factual review. Read the cited paper for study design, population, and limits. See the [license](../../about/licenses/founder-stack.md).
 
+For what these findings mean for product decisions, see the [learning science guide](../../guides/product/learning-science.md). That guide draws implications; this collection does not.
+
 ## Scope and interpretation
 
-This collection presents research without adopting a position on the topics. Takeaways summarize findings and interpretations attributed to the cited papers, including their reported limitations. Recommendations belong to the paper's authors. Topic headings describe the subject being studied; published paper titles retain the authors' wording.
+This collection presents research without adopting a position on the topics. Takeaways summarize findings and interpretations attributed to the cited papers, including their reported limitations. Recommendations belong to the paper's authors. Topic headings describe the subject studied; published paper titles retain the authors' wording.
 
 The collection inherits its paper selection from the source repository and is not a comprehensive or systematic review of each topic. Results apply to the populations, comparisons, and outcomes studied. Citation counts describe the source snapshot, not research quality or consensus.
 

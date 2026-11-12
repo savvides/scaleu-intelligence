@@ -10,7 +10,7 @@ Link to the public source, identify its author, and give its publication or even
 
 ## Who this helps
 
-Describe the founder decision or reader question this source helps answer and what it adds to the current library.
+Describe the founder decision or reader question this source helps answer, and what it adds to the library.
 
 ## Suggested location
 
@@ -18,4 +18,4 @@ Name the relevant guide, research topic, conference collection, or field note.
 
 ## Evidence and permissions
 
-Describe relevant limitations and any publication or reuse restrictions. Disclose your connection to the source or organization, if any.
+Describe the source's limits and any restrictions on publication or reuse. Disclose your connection to the source or organization, if any.

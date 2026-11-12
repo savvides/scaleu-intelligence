@@ -10,4 +10,4 @@ Explain the reader's problem, what changes, and which sources support it.
 - [ ] I preserved attribution and the applicable collection licenses.
 - [ ] I confirmed that all added material is suitable for public release.
 
-State any factual checks you performed, evidence limits, or checks you could not run. Change review dates only when facts were actually rechecked.
+State any factual checks you performed, evidence limits, or checks you could not run. Change a review date only after rechecking the facts.

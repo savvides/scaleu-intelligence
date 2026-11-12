@@ -2,11 +2,11 @@
 
 [ScaleU Intelligence](../../README.md) / [Sources](../README.md) / Field notes
 
-This section is for publishable observations from meetings, research reading, company conversations, and other ScaleU work.
+This section holds publishable observations from meetings, research reading, company conversations, and other ScaleU work.
 
 Use the [field-note template](../../about/templates/field-note.md) to create `sources/notes/YYYY-MM-DD-short-topic.md`. Add a link below with its date and a sentence about the decision it informs. Keep the observation distinct from your interpretation, and link related guides.
 
-Publish only material you have permission to share. Keep confidential meeting notes, personal details, and company information outside this public repository. An anonymized observation still needs a review for identifying details.
+Publish only material you have permission to share. Keep confidential meeting notes, personal details, and company information outside this public repository. Review even an anonymized observation for identifying details.
 
 ## Published notes
 
