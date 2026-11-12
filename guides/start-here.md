@@ -20,14 +20,14 @@ Most failures in edtech come from skipping a stage, usually the first. If you ha
 
 Start with the buyer's struggle, not your idea.
 
-1. Read the [operating principles](ethos.md). They take ten minutes and explain the stance behind everything else.
+1. Read the [operating principles](ethos.md). They take ten minutes and explain the stance behind every guide.
 2. Run the [demand validation test](demand/demand-validation.md): five questions, scored. Use the [discovery interview template](templates/discovery-interview.md) on your calls.
 3. Learn to reconstruct a real purchase with [Jobs-to-be-Done interviews](demand/jtbd-interviews.md).
 4. Check yourself against the [founder traps](demand/founder-traps.md), the patterns that produce false confidence.
 5. Choose where to build. In higher ed, the [jobs atlas](demand/higher-ed-jobs-atlas.md) maps 15 jobs across the student journey and shows which phases are crowded. For other segments, read the market guide for yours: [K-12](market/k12-landscape.md), [higher ed](market/highered-landscape.md), [workforce](market/corporate-ld.md), or [consumer](market/consumer-learning.md).
 6. Size the market from the bottom up with [public data](market/market-data-sources.md).
 
-Unfamiliar term? The [glossary](glossary.md) defines the vocabulary of schools, universities, and their purchasing.
+The [glossary](glossary.md) defines the vocabulary of schools, universities, and their purchasing.
 
 ## 2. First buyer
 

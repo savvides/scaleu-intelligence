@@ -25,7 +25,7 @@ Founders usually build for the downstream symptom: a retention dashboard. The fa
 
 ## Pattern 2: The upstream cause / downstream symptom split
 
-Pain in education usually originates one or two phases before it becomes visible. Struggling students will tell you where they hurt today, which is rarely where the problem began. The phases are those of the [higher ed jobs atlas](higher-ed-jobs-atlas.md).
+Pain in education usually originates one or two phases before it becomes visible. Struggling students will tell you where they hurt today, which is rarely where the problem began. The table below uses the phases of the [higher ed jobs atlas](higher-ed-jobs-atlas.md).
 
 | Downstream symptom | Upstream cause | Phase of the cause |
 |---|---|---|
@@ -42,7 +42,7 @@ Students, faculty, and advisors may all tell you that X is the problem, and the 
 
 **Example from the SXSW EDU 2026 talk (speaker claim).** Across large online programs, stakeholders widely blamed accelerated 7.5-week formats for attrition. The talk reported that controlled outcome analyses in specific disciplines found students in shorter sessions passed at higher rates and withdrew less. Those analyses are unpublished, and no published source for them was found as of 2026-10-30.
 
-**Published research.** Comparisons of shorter and full-length college courses are mixed, and none tests the talk's 7.5-week format:
+**Published research.** Comparisons of shorter and full-length college courses give mixed results, and none tests the talk's 7.5-week format:
 
 - **Better outcomes in shorter courses.** Across seven Western US community colleges (22,280 students), [Kim and Im (2026)](https://doi.org/10.1177/15210251261437233) found the highest retention and academic performance in 5-week online courses, compared with 16-week online and face-to-face courses. [Shehadeh (2025)](https://doi.org/10.18848/1835-9795/CGP/v19i01/1-15) found higher success and lower withdrawal rates in 8-week than in 16-week online English courses.
 - **No difference.** [Harwood et al. (2018)](https://doi.org/10.1186/s12909-018-1343-7) found no difference in final grades or course ratings between 7-week and 15-week online graduate health courses. [Brittain and Denson (2026)](https://doi.org/10.3928/01484834-20250804-02) found no difference in grades, withdrawals, or incompletes when RN-to-BSN courses were condensed from 16 weeks to 8.
@@ -50,7 +50,7 @@ Students, faculty, and advisors may all tell you that X is the problem, and the 
 
 These studies analyze existing course records or survey students; none randomly assigned students to a course length.
 
-**Test:** If every stakeholder tells the same story, stop and check it against outcome data before you write code. Where the data contradicts the story, the opportunity lies in the place nobody is looking.
+**Test:** If every stakeholder tells the same story, check it against outcome data before you write code. Where the data contradicts the story, the opportunity lies in the place nobody is looking.
 
 ## Pattern 4: Same problem, two jobs
 
@@ -60,7 +60,7 @@ Students describe teaching themselves and absent instructors. Faculty describe u
 
 ## The noise vs. signal filter
 
-Use this after every pilot or customer call. Four yes answers mean demand. Any no means enthusiasm.
+Run the filter after every pilot or customer call. Four yes answers mean demand. Any no means enthusiasm.
 
 | Question | Yes means | No means |
 |---|---|---|

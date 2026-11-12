@@ -8,7 +8,7 @@ Institutional buyers switch when the old model hits a limit they cannot optimize
 
 ## How to read the evidence
 
-The patterns come from ten panels at the ASU+GSV summit in April 2026, analyzed for what speakers described doing differently and not for what they said they believe. Three cautions apply.
+The patterns come from ten panels at the ASU+GSV summit in April 2026, analyzed for what speakers described doing differently, not for what they said they believe. Three cautions apply.
 
 - **These are conference panels, not structured interviews.** Most narrators were vendors or institutional leaders describing their customers' switches, not their own.
 - **Examples attributed to speakers are speaker claims.** None was independently verified. Each links to its transcript. The transcripts are machine-made and do not label who is speaking, so attributions within a panel rest on context.
@@ -35,8 +35,6 @@ A job is what a decision-maker is trying to get done. It is neither a feature no
 
 **The job:** break a structural ceiling. The buyer's complaint is that the program cannot grow unless costs grow in step.
 
-**The buyer:** superintendents, provosts, state CTE directors, and employer talent leads; anyone accountable for a population they cannot staff for.
-
 **Why they switch (ScaleU's interpretation):** the prior model had a hard cap. The cap may be physical (only so many in-person sessions), institutional (a mandate never implemented across hundreds of sites), or systemic (an approach that works but slowly). The switch comes when someone finds a model that breaks the ceiling without proportional cost.
 
 **From the summit (speaker claims):**
@@ -47,8 +45,6 @@ A job is what a decision-maker is trying to get done. It is neither a feature no
 ### 2. Stop wasting staff on mechanical tasks so they can do the human work
 
 **The job:** return time and attention to the work a person was hired for.
-
-**The buyer:** principals, department chairs, CHROs, and special-education directors; leaders who watch skilled people spend hours on work that crowds out their main function.
 
 **Why they switch (ScaleU's interpretation):** the old approach failed because it demanded effort from people already overloaded, and the technology itself was seldom the fault. The new model either removes the effort or adds human support that makes the effort worthwhile.
 
@@ -63,8 +59,6 @@ A job is what a decision-maker is trying to get done. It is neither a feature no
 
 **The job:** show that the tool moved a result for individual learners, not a dashboard number.
 
-**The buyer:** curriculum directors, provosts, board-accountable superintendents, and L&D heads who must defend a renewal.
-
 **Why they switch (ScaleU's interpretation):** earlier approaches produced participation counts, logins, and completion rates that could not show anyone learned anything, so the spending could not be justified. The new model offers a specific, traceable outcome for each individual.
 
 **From the summit (speaker claims):**
@@ -73,13 +67,11 @@ A job is what a decision-maker is trying to get done. It is neither a feature no
 - *K-12.* ClassDojo reported that children using its K-5 reading tutor moved from pre-literacy to a second- or third-grade reading level in about five months at 15 minutes a day ([transcript](../../sources/events/2026-asu-gsv/transcripts/37-building-with-the-cool-kids-the-new-architecture-of-classroom-engagement.md)). This is the vendor's own figure, not an independent evaluation.
 - *Consumer.* Reed Hastings, speaking as an education philanthropist, pointed to chess.com, where he said today's typical ten-year-old scores far higher than ten-year-olds did twenty years ago, as a sign that individualized practice with measured outcomes works at scale ([transcript](../../sources/events/2026-asu-gsv/transcripts/09-class-disrupted-live-reed-hastings-on-the-ai-powered-future-of-learning.md)).
 
-The same career-navigation vendor named the anxiety beneath all of this: AI can make a product "feel like magic" without changing where students end up. Buyers fear less that a new tool will fail than that it will produce engagement without evidence, which is the pattern that soured many of them on edtech.
+The same career-navigation vendor named the anxiety beneath all of this: AI can make a product "feel like magic" without changing where students end up. Buyers fear less that a new tool will fail than that it will produce engagement without evidence, the pattern that soured many of them on edtech.
 
 ### 4. Get my organization through the AI change curve before the technology laps us again
 
 **The job:** absorb a moving capability frontier without breaking the organization. This differs from job 2: the aim is to keep up, not to save time.
-
-**The buyer:** superintendents, provosts, CHROs, and district CTOs.
 
 **Why they switch (ScaleU's interpretation):** the bottleneck has moved from the technology to change management. Capability sits unused because institutions are not ready to absorb it, and buyers who treat an announcement as a deployment get burned. The buyer is hiring a way through the change, not an AI tool. This job displaces one-off literacy workshops, vendor-led demos, and the assumption that announcing a tool counts as adopting it.
 
@@ -92,8 +84,6 @@ The same career-navigation vendor named the anxiety beneath all of this: AI can 
 
 **The job:** ship something real without hiring engineers or learning to code. The institutional version is to wrap a frontier-lab tool so that it is safe for students.
 
-**The buyer:** solo founders, in-house marketers and operations staff, teachers, and increasingly students. For the institutional wrapper, K-12 districts and parents.
-
 **Why they switch (ScaleU's interpretation):** building it yourself is now possible at a price and skill level that did not exist before, so a buyer can become a builder. The frontier tools were not built for children, so a wrapper that makes them age-appropriate, safe, and educational becomes a product in its own right, and districts and parents reward whoever owns that layer. This job displaces development agencies, traditional no-code tools, and AP Computer Science as the only on-ramp.
 
 **From the summit (speaker claims):**
@@ -105,8 +95,6 @@ The same career-navigation vendor named the anxiety beneath all of this: AI can 
 
 **The job:** use compliance requirements to make student support happen, and produce records that survive an audit.
 
-**The buyer:** special-education directors, district CFOs, and state department of education leaders.
-
 **Why they switch (ScaleU's interpretation):** compliance is structural budget; wellness is discretionary budget. Special education is federally mandated, with required evaluation and service delivery. Mental health and wellness have no equivalent statutory backing. Vendors that make the compliance record their product get adopted at the district line and renew. Vendors selling student wellness win the pilot and lose the renewal when the line item is cut. After the federal ESSER relief funds, this means per-minute logs, IEP audit trails, and automated Medicaid billing, and it displaces awareness campaigns and wellness branding.
 
 **From the summit (speaker claims):**
@@ -116,7 +104,7 @@ The same career-navigation vendor named the anxiety beneath all of this: AI can 
 
 ## Demand signals worth reading
 
-These patterns in buyer behavior outlast any one year's trends. Use them to judge whether the interest in front of you is real. The speaker's statement in each is a speaker claim; the reading that follows is ScaleU's.
+These patterns in buyer behavior outlast any one year's trends. Use them to judge the interest in front of you. The speaker's statement in each is a speaker claim; the reading that follows is ScaleU's.
 
 ### Receipts and relationships build trust; interfaces do not
 
@@ -146,7 +134,7 @@ These choices answer parents' and pediatric psychiatrists' anxiety about screen 
 
 ### Staff fear job loss before they adopt
 
-A panelist who, by context, was ParentSquare's Sohit Wadhwa, describing the rollout of AI to his own company's staff, said the first thing people ask when they get AI is whether they will lose their job ([transcript](../../sources/events/2026-asu-gsv/transcripts/52-the-operating-system-of-the-modern-school.md)). Expect the same of school staff: the people you ask to adopt the tool suspect it is there to replace them. Eberle Walker said the backlash against screens in classrooms, taken to its extreme, is a challenge for teletherapy ([transcript](../../sources/events/2026-asu-gsv/transcripts/85-funding-the-future-of-student-support-special-needs-mental-health.md)). In ScaleU's reading, the same backlash reaches AI-companion products. Anxiety about outcomes, dependency, and jobs is the force that quietly ends switches, and panels of success stories underrepresent it. Assume it is stronger than what you hear.
+Describing the rollout of AI to his own company's staff, a panelist (by context, ParentSquare's Sohit Wadhwa) said the first thing people ask when they get AI is whether they will lose their job ([transcript](../../sources/events/2026-asu-gsv/transcripts/52-the-operating-system-of-the-modern-school.md)). Expect the same of school staff: the people you ask to adopt the tool suspect it is there to replace them. Eberle Walker said the backlash against screens in classrooms, taken to its extreme, is a challenge for teletherapy ([transcript](../../sources/events/2026-asu-gsv/transcripts/85-funding-the-future-of-student-support-special-needs-mental-health.md)). In ScaleU's reading, the same backlash reaches AI-companion products. Anxiety about outcomes, dependency, and jobs is the force that quietly ends switches, and panels of success stories underrepresent it. Assume it is stronger than what you hear.
 
 ## What this means for reading your own demand
 
@@ -159,7 +147,7 @@ A panelist who, by context, was ParentSquare's Sohit Wadhwa, describing the roll
 | Anxiety | Fear of engagement without outcomes |
 | Habit | Deploying a platform and expecting behavior to change |
 
-A buyer who names a wall they cannot optimize past is giving you a real signal. A buyer who likes your demo and cannot name what it would replace, or what outcome it would prove, is not. Check the buyer in front of you against these signals before you scale toward them.
+A buyer who names a wall they cannot optimize past is giving you a signal. A buyer who likes your demo and cannot name what it would replace, or what outcome it would prove, is not. Check the buyer in front of you against these signals before you scale toward them.
 
 ## Related guides
 

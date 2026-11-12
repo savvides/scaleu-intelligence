@@ -16,7 +16,7 @@ To learn whether anyone will switch to your product and pay for it, interview pe
 | 4. Redirect | When you hear speculation, steer back to what happened. |
 | 5. Compare | After three or more interviews, look for the push, the anxiety, and the habit that repeat. |
 
-The premise is that people hire a product to make progress. A registrar had a routine before your tool appeared: transcripts in a shared drive, a wait-list spreadsheet, a part-time evaluator. The routine was poor, and it got the job done. Then something broke, the registrar looked around, chose one option, and switched. Reconstruct that story and you learn what to build and how to sell it. Ask the same registrar whether a concept sounds useful and you learn only that they are polite.
+People hire a product to make progress. A registrar had a routine before your tool appeared: transcripts in a shared drive, a wait-list spreadsheet, a part-time evaluator. The routine was poor, but it got the job done. Then something broke, the registrar looked around, chose one option, and switched. Reconstruct that story and you learn what to build and how to sell it. Ask the same registrar whether a concept sounds useful and you learn only that they are polite.
 
 ## Where the method comes from
 
@@ -39,14 +39,13 @@ Four forces act on every switch. Two drive the buyer to change and two hold the 
 
 Score each force you find from 1 to 10: 10 for the dominant driver of the decision, 1 for a force that barely mattered. The number is directional. A 3 against an 8 means something; a 6 against a 7 means nothing. You are ranking what moved the buyer.
 
-The quotations below illustrate how each force sounds. Treat them as illustrations, not as evidence.
+The quotations below illustrate how each force sounds; they are not evidence.
 
 ### Push: what is breaking now
 
-Push is what is failing in the status quo. It is tied to a specific event or pattern. "It was frustrating" is not a push. "The transcript backlog ran past the enrollment deadline and we lost the student" is.
+Push is what is failing in the status quo, tied to a specific event or pattern. "It was frustrating" is not a push. "The transcript backlog ran past the enrollment deadline and we lost the student" is.
 
 - A provost: "Our 7.5-week courses had a 30% drop rate and the board started asking why."
-- A transfer student: "My GPA dropped a full point the term I didn't have an advisor who could tell me what to take next."
 - A district CTO: "The old gradebook went down during the last week of the term and teachers couldn't post finals."
 - An L&D lead: "Completion on our compliance training sat at 40% and audit season was coming."
 - A registrar: "Manual credit evaluation took three weeks and students were committing to the competitor that answered first."
@@ -70,8 +69,6 @@ Anxiety is whatever makes the buyer hesitate. Buyers seldom volunteer it, so ask
 - A district CTO: "What if this thing touches FERPA records and we end up with a breach during the pilot?"
 - A provost: "What if faculty hate it and I've spent political capital pushing a tool nobody uses?"
 - An L&D lead: "What if procurement classifies it high-risk and it sits in security review for six months?"
-- A dean: "What if the vendor turns out worse than what we already have, and now I own that decision?"
-
 ### Habit: the comfort of the familiar
 
 Habit is the hold of the present arrangement. People tolerate great pain to avoid changing how they work, and they build workarounds so familiar that they forget they are workarounds. Interviewers probe this force least.
@@ -104,7 +101,7 @@ Every switch passes through the same stages. Reconstruct them from the end, beca
 1. **First thought.** The moment they realized things could be different, usually a specific event such as a gradebook failing during finals.
 2. **Passive looking.** Casual awareness. They ask peers, read comparison threads, and notice that tools exist. They are not yet searching.
 3. **Active looking.** Something raised the urgency, and now they book demos and run trials. Find out what changed.
-4. **Deciding.** The moment they chose. The deciding factor is seldom the feature matrix; often it is emotional or circumstantial, such as a dean who sat in on the demo and said to buy it.
+4. **Deciding.** The moment they chose. The feature matrix seldom decides it; the cause is often emotional or circumstantial, such as a dean who sat in on the demo and said to buy it.
 5. **Consuming.** Onboarding, migration, adoption. Here anxiety becomes real, as when the team learns it must re-enter a term of data by hand.
 
 Moesta and Spiek's own version of the timeline marks an event between passive and active looking and another before the decision. Those events matter most.
@@ -119,7 +116,7 @@ Open with: "Tell me about the last time you switched from one [category] to anot
 4. **First thought.** "Take me back to the first moment you thought you might look for something different. What happened?"
 5. **Consuming.** "After you decided, what was onboarding like? What was harder than expected?"
 
-The event that turned passive looking into active looking is the most valuable thing you can learn. It is usually specific: a missed deadline, a bad board meeting, an embarrassment in front of a superintendent. Probe until you have the story. Then listen: a common rule of thumb is to talk no more than about 20% of the time.
+Nothing you can learn is worth more than the event that turned passive looking into active looking. It is usually specific: a missed deadline, a bad board meeting, an embarrassment in front of a superintendent. Probe until you have the story. Then listen: a common rule of thumb is to talk no more than about 20% of the time.
 
 ### Four interview contexts
 
@@ -130,7 +127,7 @@ The event that turned passive looking into active looking is the most valuable t
 | Switched between competitors | The forces in your category, undistorted by your product | Ask what made them look, what they evaluated, and why you were not on the list. |
 | Still evaluating | The anxiety or habit blocking them now | Skip the decision stage. Add "What would need to be true for you to make a change?" and "What's stopping you right now?" |
 
-The churn interview is the most painful and the most valuable. "Too expensive" is almost never the real reason for leaving, since a buyer who paid had already accepted the price. Dig past it.
+The churn interview is the most painful and the most valuable. "Too expensive" is almost never the reason for leaving, since a buyer who paid had already accepted the price. Dig past it.
 
 ### Probe each force directly
 
@@ -154,13 +151,13 @@ Each of these means you are hearing speculation in place of memory. Redirect at 
 | Feature list | "It has dashboards and an API and…" | "Which mattered most to you? Why that one?" |
 | Pleasing you | "Your product is great because…" | "I appreciate that, but I'm after the messy middle. What almost stopped you?" |
 
-Hypothetical language is the most serious. "I would definitely use a tool that does X" is a wish. A count of people already running a workaround is far stronger evidence than any number of people who say they would use something. Switch interviews earn their trust by asking what someone did.
+Hypothetical language is the most serious. "I would definitely use a tool that does X" is a wish. A count of people already running a workaround is stronger evidence than any number of people who say they would use something.
 
 ## Interviewing institutions
 
 No single person decides an institutional purchase, and each approver has their own four forces. Interview the budget holder and at least one approver, such as IT or procurement, as well as the user (see [Who else must say yes?](demand-validation.md#5-who-else-must-say-yes)). Eight surveyed teachers are noise. A registrar who already runs a manual workaround is signal.
 
-After three or more interviews, patterns appear: the same push event, the same anxiety blocking the same buyers, the same habit to break. The repeated pattern, and no single story, is the job your product serves.
+After three or more interviews, patterns appear: the same push event, the same anxiety blocking the same buyers, the same habit to break. The job your product serves is the repeated pattern, not any single story.
 
 ## Related guides
 

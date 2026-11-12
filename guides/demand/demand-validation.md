@@ -32,11 +32,11 @@ Name a specific person at a specific institution with a specific problem. Ask wh
 - Does the pain start in the phase where the person feels it, or one phase earlier? Trace the causal chain back (see [Pattern 2](founder-traps.md#pattern-2-the-upstream-cause--downstream-symptom-split)).
 - Is the struggle structural, hitting everyone in that role at that phase, or situational, hitting a subset? Structural jobs have larger markets.
 
-**Watch for:** "Students drop out" and "retention is low" describe symptoms. Keep asking why until you reach the decision point where things went wrong. The job lives at that decision point.
+**Watch for:** "Students drop out" and "retention is low" describe symptoms. Keep asking why until you reach the decision point where things went wrong. The job lives there.
 
 ## 2. What have they already tried (and why did it fail)?
 
-A buyer who has tried nothing does not feel the job urgently enough to pay for it. Your competition is rarely another edtech product. It is:
+A buyer who has tried nothing does not feel the job urgently enough to pay for it. Your competition is rarely another edtech product. More often it is:
 
 - spreadsheets and manual processes,
 - graduate assistants and teaching assistants,
@@ -109,7 +109,7 @@ Map this chain before the pilot starts. Otherwise the pilot produces evidence th
 - What is each approver's own job? IT manages risk, legal ensures compliance, and finance wants a return. Address each one separately.
 - Have you met every approver, or only heard the champion describe them?
 
-**Watch for:** Validation from users and champions alone. That is enthusiasm without procurement. [Buyer personas](buyer-personas.md) describes what each approver needs to see before saying yes.
+**Watch for:** Validation from users and champions alone, which is enthusiasm without procurement. [Buyer personas](buyer-personas.md) describes what each approver needs to see before saying yes.
 
 ## Scoring yourself
 
@@ -118,7 +118,7 @@ Score one point for each question with a strong signal in the table at the top. 
 | Score | Verdict | What to do |
 |---|---|---|
 | 5 of 5 | Validated demand | Design the pilot to produce the evidence the buyer needs (see the [pilot playbook](../selling/edtech-pilot-playbook/README.md)). |
-| 3 or 4 | Promising demand with gaps | Close the weak signals before you commit resources to a pilot. |
+| 3 or 4 | Promising demand with gaps | Close the weak signals before you commit to a pilot. |
 | 0 to 2 | A hypothesis | Return to discovery. Interview 10 more people who recently made a switching decision in this problem space, using [JTBD Switch interviews](jtbd-interviews.md). |
 
 ## After the pilot: noise vs. signal
