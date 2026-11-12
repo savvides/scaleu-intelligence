@@ -1,10 +1,10 @@
 # Templates
 
-Eight copy-and-fill documents for the moments when a founder needs paper: a discovery call, a pilot, an evidence claim, a purchase, a security review, and a monthly investor update. Copy the template body, replace every bracketed placeholder, and delete the lines that do not apply.
+These eight documents cover the moments when a founder needs paper: a discovery call, a pilot, an evidence claim, a purchase, a security review, and a monthly investor update. Copy the template body, replace every bracketed placeholder, and delete the lines that do not apply.
 
 **Applies to:** K-12, higher ed, and workforce sales in the United States. Each template says where the segments differ.
 
-These are ScaleU templates: judgment drawn from running pilots and reviewing companies, not standards. Where a template states a law or regulation, it links the source. None of it is legal advice. Send agreements to counsel, and let the buyer's procurement office decide what its rules allow.
+The templates are ScaleU's view, drawn from running pilots and reviewing companies; they are not standards. Where a template states a law or regulation, it links the source. None of it is legal advice. Send agreements to counsel, and let the buyer's procurement office decide what its rules allow.
 
 ## Which template, when
 
@@ -24,7 +24,7 @@ These are ScaleU templates: judgment drawn from running pilots and reviewing com
 1. Fill the template for one named buyer. A document written for buyers in general persuades none of them.
 2. Keep each to one page, two for the pilot agreement. The reader is a busy administrator or investor.
 3. Write the champion's documents (budget memo, sole-source justification) in the champion's voice, then hand them over as editable text. The champion signs them, so every statement must be one the champion can defend.
-4. Leave a placeholder visible if you do not know the answer. A blank you can see is a task; an invented answer is a liability.
+4. Leave a placeholder visible when you do not know the answer. A visible blank reminds you to find it; an invented answer misleads the buyer.
 
 ## Reuse
 

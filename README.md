@@ -2,7 +2,7 @@
 
 A working library for edtech founders: how education buyers decide, how to sell and pilot, what counts as evidence, what learning research supports, and how to price, fund, and defend the company.
 
-Maintained by Philippos Savvides, who runs [ASU ScaleU](https://scaleu.org), Arizona State University's edtech accelerator. The guides draw on accelerator work, conferences, published research, statutes, and official data, and they say which is which.
+Philippos Savvides, who runs [ASU ScaleU](https://scaleu.org), Arizona State University's edtech accelerator, maintains the library. The guides draw on accelerator work, conferences, published research, statutes, and official data, and they say which is which.
 
 [Start here](guides/start-here.md) · [All guides](guides/README.md) · [Download a release](https://github.com/savvides/scaleu-intelligence/releases/latest) · [What's changed](CHANGELOG.md) · [Get help](.github/SUPPORT.md)
 
@@ -33,7 +33,7 @@ Maintained by Philippos Savvides, who runs [ASU ScaleU](https://scaleu.org), Ari
 
 ## Use it with your AI assistant
 
-Everything here is plain Markdown. Nothing needs to be installed or run.
+Everything here is plain Markdown. You install nothing and run nothing.
 
 ```sh
 git clone https://github.com/savvides/scaleu-intelligence.git
@@ -45,7 +45,7 @@ git clone https://github.com/savvides/scaleu-intelligence.git
 
 ## Read the evidence in context
 
-The guides keep four kinds of evidence apart. Research summaries point to papers. Laws and official statistics link to the statute, regulation, or dataset. Conference transcripts record what speakers said; a speaker's claim about a product is not a verified result. Practitioner estimates are labeled as estimates.
+The guides keep four kinds of evidence apart. Research summaries point to papers. Laws and official statistics link to the statute, regulation, or dataset. Conference transcripts record what speakers said; a speaker's claim about a product is not a verified result. The guides label practitioner estimates as estimates.
 
 Each guide ends with the date its facts were last checked and what the check covered. Regulations, funding programs, and company status change. Confirm them at the linked primary source before you act. Nothing here is legal, financial, or investment advice.
 
@@ -61,8 +61,8 @@ Cite individual authors, speakers, and original papers when you draw on their wo
 
 ## Work with ScaleU
 
-Building an edtech company and seeking an institutional pilot? [Learn about ASU ScaleU and get in touch](https://scaleu.org). This library shares the questions and evidence behind that work.
+If you are building an edtech company and want an institutional pilot, [learn about ASU ScaleU and get in touch](https://scaleu.org). This library shares the questions and evidence behind that work.
 
 ## Keep it growing
 
-Have a finding, a correction, or a useful source? Follow the [contribution guide](.github/CONTRIBUTING.md). Contributors follow the [code of conduct](.github/CODE_OF_CONDUCT.md). For exposed private information or security concerns, use the [private reporting route](.github/SECURITY.md).
+To add a finding, a correction, or a useful source, follow the [contribution guide](.github/CONTRIBUTING.md). Contributors follow the [code of conduct](.github/CODE_OF_CONDUCT.md). For exposed private information or security concerns, use the [private reporting route](.github/SECURITY.md).

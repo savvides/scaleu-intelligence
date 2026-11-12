@@ -8,7 +8,7 @@ For what these findings mean for product decisions, see the [learning science gu
 
 ## Scope and interpretation
 
-This collection presents research without adopting a position on the topics. Takeaways summarize findings and interpretations attributed to the cited papers, including their reported limitations. Recommendations belong to the paper's authors. Topic headings describe the subject being studied; published paper titles retain the authors' wording.
+This collection presents research without adopting a position on the topics. Takeaways summarize findings and interpretations attributed to the cited papers, including their reported limitations. Recommendations belong to the paper's authors. Topic headings describe the subject studied; published paper titles retain the authors' wording.
 
 The collection inherits its paper selection from the source repository and is not a comprehensive or systematic review of each topic. Results apply to the populations, comparisons, and outcomes studied. Citation counts describe the source snapshot, not research quality or consensus.
 

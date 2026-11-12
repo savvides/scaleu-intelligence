@@ -1,6 +1,6 @@
 # Logic model
 
-A one-page statement of why the product should improve an outcome and how you will check. A good one names a single outcome, cites research for the step that does the work, and lists the measure for every box. It is the document behind an ESSA Tier 4 claim, "demonstrates a rationale" (see [evidence tiers](../evidence/evidence-tiers.md)).
+This one-page statement says why the product should improve an outcome and how you will check. A good one names a single outcome, cites research for the step that does the work, and lists the measure for every box. It supports an ESSA Tier 4 claim, "demonstrates a rationale" (see [evidence tiers](../evidence/evidence-tiers.md)).
 
 **Applies to:** K-12 (ESSA) and applicants for US Department of Education grants, including higher ed. Useful for any buyer who asks why the product should work.
 
@@ -9,7 +9,7 @@ A one-page statement of why the product should improve an outcome and how you wi
 - **ESSA.** The lowest evidence tier requires two things: a rationale, based on high-quality research findings or positive evaluation, that the intervention is likely to improve student or other relevant outcomes; and ongoing efforts to examine its effects ([20 U.S.C. 7801(21)(A)(ii)](https://www.law.cornell.edu/uscode/text/20/7801)). The statute does not use the words "logic model" and prescribes no format.
 - **Department of Education grants.** The Department's grant regulations supply the form. To demonstrate a rationale, a key project component in the project's logic model must be supported by citations of high-quality research or evaluation findings suggesting it is likely to significantly improve relevant outcomes. The same regulation defines a logic model, also called a theory of action, as a framework that identifies the key project components and describes how they relate to the relevant outcomes ([34 CFR 77.1](https://www.law.cornell.edu/cfr/text/34/77.1)).
 
-So a logic model with cited research and a plan to study effects satisfies both. The columns below follow the layout taught in the Institute of Education Sciences' regional lab materials: REL Northeast & Islands' [logic model workshop toolkit](https://ies.ed.gov/use-work/resource-library/resource/other-resource/logic-models-program-design-implementation-and-evaluation-workshop-toolkit) (Shakman and Rodriguez, May 2015) and REL Pacific's [Education Logic Model application](https://ies.ed.gov/use-work/resource-library/resource/other-resource/elm-application) (June 2014). The layout is ScaleU's template; a state, district, or grant program may ask for its own. The [evidence roadmap](../evidence/evidence-roadmap.md#write-the-logic-model-first) explains where the logic model fits.
+A logic model with cited research and a plan to study effects therefore satisfies both. The columns below follow the layout taught in the Institute of Education Sciences' regional lab materials: REL Northeast & Islands' [logic model workshop toolkit](https://ies.ed.gov/use-work/resource-library/resource/other-resource/logic-models-program-design-implementation-and-evaluation-workshop-toolkit) (Shakman and Rodriguez, May 2015) and REL Pacific's [Education Logic Model application](https://ies.ed.gov/use-work/resource-library/resource/other-resource/elm-application) (June 2014). The layout is ScaleU's; a state, district, or grant program may ask for its own. The [evidence roadmap](../evidence/evidence-roadmap.md#write-the-logic-model-first) explains where the logic model fits.
 
 ## Template
 
@@ -44,7 +44,7 @@ So a logic model with cited research and a plan to study effects satisfies both.
 | Short-term outcome | [ ] | [named assessment] | [pre and post] | [ ] |
 | Long-term outcome | [ ] | [institution's records] | [term or year end] | [ ] |
 
-Next study: [design, comparison group, sample, start date, partner]. This line is what the statute calls ongoing efforts to examine effects; without it the claim is incomplete.
+Next study: [design, comparison group, sample, start date, partner]. The statute calls this line ongoing efforts to examine effects; without it the claim is incomplete.
 
 ## Common mistakes
 
@@ -52,7 +52,7 @@ Next study: [design, comparison group, sample, start date, partner]. This line i
 - Treating logins as an outcome. Usage is an output; an outcome is a change in what students know or do.
 - Citing research on a different practice or population. A reviewer will open the paper.
 - Naming five outcomes. Pick one primary outcome and measure it well.
-- Hiding assumptions. The assumption you omit is the reason a pilot fails.
+- Hiding assumptions. An omitted assumption is often why a pilot fails.
 - Calling the page evidence of effectiveness. Tier 4 says the product is likely to work and is being studied. It does not say the product works, and it does not qualify for school-improvement funds under ESEA section 1003 (20 U.S.C. 7801(21)(B)).
 
 ## Related guides

@@ -1,6 +1,6 @@
 # Glossary: the terms an edtech founder meets
 
-Plain definitions of the vocabulary used by schools, universities, employers, purchasing offices, researchers, and investors. Legal and standards terms link to the governing source; each entry points to the guide that covers the topic.
+This glossary defines, in plain words, the vocabulary of schools, universities, employers, purchasing offices, researchers, and investors. Legal and standards terms link to the governing source; each entry points to the guide that covers the topic.
 
 **Applies to:** K-12, higher ed, workforce, and consumer; United States unless an entry says otherwise. Definitions are summaries, not legal advice.
 
@@ -58,7 +58,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **Churn.** Customers or revenue lost in a period. In schools it shows up once a year, at renewal. See [unit economics](business/unit-economics.md).
 
-**CIPA (Children's Internet Protection Act).** Requires schools and libraries that take E-Rate discounts to adopt an internet safety policy, filter harmful images, and, for schools, monitor minors' online activity and teach online safety ([47 U.S.C. 254(h)](https://www.law.cornell.edu/uscode/text/47/254); [FCC guide](https://www.fcc.gov/consumers/guides/childrens-internet-protection-act)). It binds the school, not the vendor, but it explains why districts filter and monitor.
+**CIPA (Children's Internet Protection Act).** Federal law requiring schools and libraries that take E-Rate discounts to adopt an internet safety policy, filter harmful images, and, for schools, monitor minors' online activity and teach online safety ([47 U.S.C. 254(h)](https://www.law.cornell.edu/uscode/text/47/254); [FCC guide](https://www.fcc.gov/consumers/guides/childrens-internet-protection-act)). It binds the school, not the vendor, but it explains why districts filter and monitor.
 
 **CLR (Comprehensive Learner Record).** The 1EdTech standard for a verifiable record that bundles a learner's courses, competencies, and credentials ([CLR Standard 2.0](https://www.1edtech.org/standards/clr)). See [interoperability](product/interoperability.md).
 
@@ -120,7 +120,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 ## F
 
-**FERPA (Family Educational Rights and Privacy Act).** Federal law protecting student education records at institutions that receive Department of Education funds ([20 U.S.C. 1232g](https://www.law.cornell.edu/uscode/text/20/1232g); [34 CFR Part 99](https://www.ecfr.gov/current/title-34/subtitle-A/part-99)). Vendors usually receive data under its "school official" exception. See [K-12 regulation](market/k12-regulatory.md).
+**FERPA (Family Educational Rights and Privacy Act).** Federal law protecting student education records at institutions that receive Department of Education funds ([20 U.S.C. 1232g](https://www.law.cornell.edu/uscode/text/20/1232g); [34 CFR Part 99](https://www.ecfr.gov/current/title-34/subtitle-A/part-99)). Vendors usually receive data under its school official exception. See [K-12 regulation](market/k12-regulatory.md).
 
 **Fidelity (of implementation).** How closely a school used the product as designed: the dosage, frequency, and features. A study without fidelity data cannot tell a weak product from one that was barely used. See the [pilot playbook](selling/edtech-pilot-playbook/README.md).
 
@@ -156,7 +156,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **HECVAT (Higher Education Community Vendor Assessment Toolkit).** The security, privacy, and accessibility questionnaire that colleges send vendors, maintained by EDUCAUSE with Internet2 and REN-ISAC. Version 4.1.6 was current when checked, and vendors may use it free ([EDUCAUSE](https://www.educause.edu/hecvat)). See [vendor review readiness](selling/vendor-review-readiness.md).
 
-**HQIM (high-quality instructional materials).** Curriculum that state or independent reviewers judge to be aligned to standards. Many states steer district adoptions toward reviewed lists, and supplemental products are asked how they fit the adopted core. See [go-to-market](selling/go-to-market.md).
+**HQIM (high-quality instructional materials).** Curriculum that state or independent reviewers judge to be aligned to standards. Many states steer district adoptions toward reviewed lists, and buyers ask how a supplemental product fits the adopted core. See [go-to-market](selling/go-to-market.md).
 
 **HSI (Hispanic-serving institution).** A college whose undergraduate full-time-equivalent enrollment is at least 25% Hispanic ([20 U.S.C. 1101a(a)(5)](https://www.law.cornell.edu/uscode/text/20/1101a)).
 
@@ -188,7 +188,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **LTI (Learning Tools Interoperability).** The 1EdTech standard by which a tool launches inside an LMS and returns grades. [LTI 1.3](https://www.1edtech.org/standards/lti) is current; earlier versions are no longer supported. See [interoperability](product/interoperability.md).
 
-**LTV (lifetime value).** The gross profit expected from a customer over the whole relationship. Compare it with CAC only after several renewal cycles give you a real retention figure. See [unit economics](business/unit-economics.md).
+**LTV (lifetime value).** The gross profit expected from a customer over the whole relationship. Compare it with CAC only after several renewal cycles give you an observed retention figure. See [unit economics](business/unit-economics.md).
 
 **LXP (learning experience platform).** Corporate software that recommends and aggregates learning content for employees. An LMS assigns and tracks required training; an LXP helps people find optional learning. See [corporate L&D](market/corporate-ld.md).
 
@@ -200,11 +200,11 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **Micro-purchase threshold.** The federal ceiling, $15,000 ([FAR 2.101](https://www.acquisition.gov/far/2.101)), up to which a buyer spending federal grant money may purchase without quotes ([2 CFR 200.320](https://www.law.cornell.edu/cfr/text/2/200.320)). States and institutions set their own lines for their own money. See the [procurement guide](selling/procurement-guide.md).
 
-**MSA (master services agreement).** The contract that sets the standing legal terms between vendor and buyer, under which individual orders are placed. Public institutions often insist on their own. See the [procurement guide](selling/procurement-guide.md).
+**MSA (master services agreement).** The contract that sets the standing legal terms between vendor and buyer, under which the buyer places individual orders. Public institutions often insist on their own. See the [procurement guide](selling/procurement-guide.md).
 
 **MSI (minority-serving institution).** An umbrella term for colleges designated by federal law according to mission or enrollment, including HBCUs, HSIs, tribal colleges, and several other categories ([20 U.S.C. 1067q](https://www.law.cornell.edu/uscode/text/20/1067q)).
 
-**MTSS (multi-tiered system of supports).** A school's framework for giving all students core instruction, some students targeted help, and a few intensive help, guided by data. Federal law defines it at [20 U.S.C. 7801(33)](https://www.law.cornell.edu/uscode/text/20/7801). Intervention products are bought to fill a tier.
+**MTSS (multi-tiered system of supports).** A school's framework for giving all students core instruction, some students targeted help, and a few intensive help, guided by data. Federal law defines it at [20 U.S.C. 7801(33)](https://www.law.cornell.edu/uscode/text/20/7801). Schools buy intervention products to fill a tier.
 
 ## N
 
@@ -226,7 +226,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **PBC (public benefit corporation).** A for-profit corporation whose charter names a public benefit that directors must balance against stockholders' financial interests. Delaware's version is at [8 Del. C. § 362](https://delcode.delaware.gov/title8/c001/sc15/index.html). See [fundraising](business/fundraising.md).
 
-**P-card (purchasing card).** An institutional credit card that staff use for small purchases below a set limit, without a purchase order. A price under the P-card limit can be bought by a teacher or department in a day. See the [procurement guide](selling/procurement-guide.md).
+**P-card (purchasing card).** An institutional credit card that staff use for small purchases below a set limit, without a purchase order. A teacher or department can buy a product priced under the P-card limit in a day. See the [procurement guide](selling/procurement-guide.md).
 
 **Pell Grant.** The main federal grant for low-income undergraduates ([20 U.S.C. 1070a](https://www.law.cornell.edu/uscode/text/20/1070a)). The share of students receiving Pell is a common measure of the population a college serves. See the [higher-ed landscape](market/highered-landscape.md).
 
@@ -256,7 +256,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **R1.** The Carnegie Classification's top research designation. In the 2025 classification it requires at least $50 million in annual research spending and 70 research doctorates ([Carnegie Classifications](https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2025-research-activity-designations/research-designations-faqs/)). R1 universities buy differently from teaching-focused colleges. See [buyer personas](demand/buyer-personas.md).
 
-**RAG (retrieval-augmented generation).** Having a model answer from documents retrieved at the time of the question, such as a course's own materials, instead of from its training alone. It reduces hallucination and does not remove it. See the [AI-native framework](product/ai-native-framework.md).
+**RAG (retrieval-augmented generation).** Having a model answer from documents retrieved at the time of the question, such as a course's own materials, instead of from its training alone. It reduces hallucination but does not remove it. See the [AI-native framework](product/ai-native-framework.md).
 
 **RCT (randomized controlled trial).** A study that assigns students, classes, or schools to use the product or not by chance, so that differences in outcomes can be attributed to the product. A well-run RCT supports ESSA Tier 1. See [evidence tiers](evidence/evidence-tiers.md).
 
@@ -264,7 +264,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **RFI (request for information).** A buyer's nonbinding request to learn what vendors offer, often issued before an RFP. Answering one can shape the requirements that follow. See the [procurement guide](selling/procurement-guide.md).
 
-**RFP (request for proposals).** A formal solicitation in which vendors submit proposals scored on stated criteria, of which price is one. Required above a dollar threshold that varies by state and institution. See the [procurement guide](selling/procurement-guide.md).
+**RFP (request for proposals).** A formal solicitation in which vendors submit proposals scored on stated criteria, of which price is one. Buyers must issue one above a dollar threshold that varies by state and institution. See the [procurement guide](selling/procurement-guide.md).
 
 **RFQ (request for quotation).** A request for prices on a specified product or service, used for purchases too large for a P-card and too small for an RFP. See the [procurement guide](selling/procurement-guide.md).
 
@@ -320,7 +320,7 @@ Jump to: [Numbers](#numbers) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](
 
 **Title I.** Title I, Part A of the Elementary and Secondary Education Act: federal money for schools and districts with high shares of low-income students ([20 U.S.C. 6301](https://www.law.cornell.edu/uscode/text/20/6301)). It is among the largest federal K-12 programs and a common source for supplemental products. See the [K-12 landscape](market/k12-landscape.md).
 
-**Title IV.** The part of the Higher Education Act that authorizes federal student aid: Pell Grants, Direct Loans, and work-study ([20 U.S.C. 1070](https://www.law.cornell.edu/uscode/text/20/1070)). "Title IV eligible" means a college's students can receive that aid, which most colleges cannot survive without. See the [higher-ed landscape](market/highered-landscape.md).
+**Title IV.** The part of the Higher Education Act that authorizes federal student aid: Pell Grants, Direct Loans, and work-study ([20 U.S.C. 1070](https://www.law.cornell.edu/uscode/text/20/1070)). "Title IV eligible" means a college's students can receive that aid; most colleges cannot survive without it. See the [higher-ed landscape](market/highered-landscape.md).
 
 ## U
 

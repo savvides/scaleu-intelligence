@@ -1,10 +1,10 @@
 # Pilot agreement outline
 
-An outline of the terms a pilot agreement or memorandum of understanding should settle before any student logs in. A good one fits on two pages, names the decision the pilot will inform, and fixes the success metric, the decision rule, and the post-pilot price before the first result arrives.
+This outline lists the terms a pilot agreement or memorandum of understanding should settle before any student logs in. A good agreement fits on two pages, names the decision the pilot will inform, and fixes the success metric, the decision rule, and the post-pilot price before the first result arrives.
 
 **Applies to:** K-12 and higher ed in the United States; adapt the data terms for employers.
 
-This is an outline to bring to counsel, not legal advice and not a contract. Many institutions will substitute their own agreement and data terms; use the outline to check that theirs settles the same questions. It follows the method in the [EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md#how-to-run-a-pilot-in-12-weeks) and the element list in [pilot benchmarks](../selling/pilot-benchmarks.md#pilot-agreement-mou-elements). ScaleU template.
+Bring the outline to counsel; it is neither legal advice nor a contract. Many institutions will substitute their own agreement and data terms; use the outline to check that theirs settles the same questions. It follows the method in the [EdTech Pilot Playbook](../selling/edtech-pilot-playbook/README.md#how-to-run-a-pilot-in-12-weeks) and the element list in [pilot benchmarks](../selling/pilot-benchmarks.md#pilot-agreement-mou-elements). ScaleU template.
 
 ## Outline
 
@@ -55,10 +55,10 @@ Signed: [Company signatory, title, date]. [Institution signatory with authority 
 
 ## What the law says about the data terms
 
-- FERPA lets a school or college treat a contractor as a school official without individual consent only if the contractor performs a service the institution would otherwise use employees for, stays under the institution's direct control over the use and maintenance of education records, and follows FERPA's limits on use and redisclosure ([34 CFR 99.31(a)(1)(i)(B)](https://www.law.cornell.edu/cfr/text/34/99.31)). Section 7 should make those three conditions true.
-- If the institution instead discloses records to you for a study on its behalf, the same regulation requires a written agreement, and requires that the data be destroyed when no longer needed (34 CFR 99.31(a)(6)).
+- FERPA lets a school or college treat a contractor as a school official, without individual consent, only on three conditions ([34 CFR 99.31(a)(1)(i)(B)](https://www.law.cornell.edu/cfr/text/34/99.31)), which [K-12 regulation](../market/k12-regulatory.md) lists. Section 7 should make all three true.
+- If the institution instead discloses records to you for a study on its behalf, the same regulation requires a written agreement and the destruction of the data when no longer needed (34 CFR 99.31(a)(6)).
 - In K-12, many districts will ask you to sign their own data privacy agreement. One widely used form is the Student Data Privacy Consortium's [National Data Privacy Agreement](https://privacy.a4l.org/national-dpa/), version 2.2 when checked; the consortium restricts who may use it and does not allow substantive edits. State student-privacy laws add terms; see [K-12 regulation](../market/k12-regulatory.md).
-- Whether the pilot is research that needs IRB review is the institution's call. See [IRB considerations](../selling/pilot-benchmarks.md#irb-considerations).
+- The institution decides whether the pilot is research that needs IRB review; see [IRB considerations](../selling/pilot-benchmarks.md#irb-considerations).
 
 ## Why a paid pilot
 
@@ -71,7 +71,6 @@ ScaleU's view: charge for the pilot, even a modest fee. A fee tests whether a bu
 - Measuring an outcome the pilot cannot observe. A one-term pilot cannot measure fall-to-fall retention; see [pilot benchmarks](../selling/pilot-benchmarks.md#advising-retention-and-persistence-pilots).
 - Signing with the champion alone. If the budget holder is absent from sections 4 and 9, the evidence will not reach the person who buys.
 - Promising data terms the product does not meet. Counsel and the engineer who owns the data should both read section 7.
-- Using the institution's name in marketing without the approval section 10 requires.
 
 ## Related guides
 

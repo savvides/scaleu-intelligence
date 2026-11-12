@@ -1,6 +1,6 @@
 # Buyer discovery interview
 
-A 30-minute script for a call with someone who owns the problem you want to solve. A good interview leaves you with dated events, named people, and numbers for each of the five [demand validation](../demand/demand-validation.md) questions, and a story of the last time this buyer switched solutions, told along the [JTBD timeline](../demand/jtbd-interviews.md#the-backward-timeline-interview). A bad one leaves you with compliments.
+This 30-minute script is for a call with someone who owns the problem you want to solve. A good interview leaves you with dated events, named people, and numbers for each of the five [demand validation](../demand/demand-validation.md) questions, and with the story of the last time this buyer switched solutions, told along the [JTBD timeline](../demand/jtbd-interviews.md#the-backward-timeline-interview). A bad one leaves you with compliments.
 
 **Applies to:** K-12, higher ed, and workforce buyers. ScaleU template; the method belongs to the two guides linked above.
 
@@ -11,7 +11,7 @@ A 30-minute script for a call with someone who owns the problem you want to solv
 - What you already know: [current tool or workaround, enrollment or headcount, fiscal-year start]
 - The one thing you must learn: [for example, which budget paid for the last tool]
 
-Do not send a deck. Do not demo. If the interviewee asks what you are building, answer in one sentence and return to their story.
+Send no deck and give no demo. If the interviewee asks what you are building, answer in one sentence and return to their story.
 
 ## Script
 
@@ -25,7 +25,7 @@ Do not send a deck. Do not demo. If the interviewee asks what you are building, 
 4. First thought: "Take me back to the first moment you thought this had to change. What happened that day?"
 5. Consuming: "After you decided, what was harder than you expected?"
 
-If they have never switched, ask about the last time they seriously considered it, and what stopped them.
+If they have never switched, ask about the last time they considered it, and what stopped them.
 
 **The five demand questions (12 minutes).** Ask about what happened, never about what they would do.
 
@@ -70,11 +70,11 @@ Fill this in within an hour of the call. Use their words.
 
 Strong signals: [ ] of 5. Introductions offered: [names]. Next step with a date: [ ].
 
-Mark a signal strong only if the buyer said it or showed it and the notes hold a hard detail. The strong and weak signals are defined in [The five questions at a glance](../demand/demand-validation.md#the-five-questions-at-a-glance), and the verdicts in [Scoring yourself](../demand/demand-validation.md#scoring-yourself). Five strong: design the pilot. Three or four: close the gaps first. Two or fewer: you have a hypothesis, so keep interviewing. Judge the pattern across interviews, not one call.
+Mark a signal strong only if the buyer said it or showed it and the notes hold a hard detail. [The five questions at a glance](../demand/demand-validation.md#the-five-questions-at-a-glance) defines strong and weak signals, and [Scoring yourself](../demand/demand-validation.md#scoring-yourself) gives the verdict for each score. Judge the pattern across interviews, not one call.
 
 ## Common mistakes
 
-- Pitching. Once you describe the product, the interviewee starts being polite.
+- Pitching. Once you describe the product, the interviewee turns polite.
 - Accepting "I would." Hypothetical answers predict little; redirect to the last time it happened.
 - Interviewing only users. The budget holder and one approver have their own forces, and they decide.
 - Scoring from memory. Without a date, a name, or a number in the grid, the signal is weak.

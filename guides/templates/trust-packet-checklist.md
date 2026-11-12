@@ -1,6 +1,6 @@
 # Trust packet checklist
 
-The security, privacy, and accessibility documents to assemble before a first enterprise conversation. A good packet lives in one folder, is dated within the last 12 months, and goes out the day a buyer asks. [Vendor review readiness](../selling/vendor-review-readiness.md) explains each document, what reviewers look for, and what to do when you lack one; this page is only the list.
+This checklist names the security, privacy, and accessibility documents to assemble before a first enterprise conversation. A good packet lives in one folder, is dated within the last 12 months, and goes out the day a buyer asks. [Vendor review readiness](../selling/vendor-review-readiness.md) explains each document, what reviewers look for, and what to do when you lack one; this page only lists them.
 
 **Applies to:** K-12 and higher ed in the United States. Employers ask for the security and privacy items and rarely the education-specific ones. ScaleU template: no law prescribes this list, and each buyer sets its own.
 
@@ -23,7 +23,7 @@ Mark each item ready, in progress, or not applicable, with the document's date a
 - [ ] Privacy policy and terms of service that match what the product does. [date] [owner]
 - [ ] Data inventory: every data element collected, why, where stored, and how long kept. [date] [owner]
 - [ ] Data privacy agreement you can sign. In K-12, be ready for the district's own form or the Student Data Privacy Consortium's [National Data Privacy Agreement](https://privacy.a4l.org/national-dpa/) and state addenda. [date] [owner]
-- [ ] FERPA statement: how the product meets the three conditions for a contractor acting as a school official, namely performing a service the institution would otherwise use employees for, remaining under its direct control over education records, and following the limits on use and redisclosure ([34 CFR 99.31(a)(1)(i)(B)](https://www.law.cornell.edu/cfr/text/34/99.31)). [date] [owner]
+- [ ] FERPA statement: how the product meets the three conditions for a contractor acting as a school official ([34 CFR 99.31(a)(1)(i)(B)](https://www.law.cornell.edu/cfr/text/34/99.31)), which [K-12 regulation](../market/k12-regulatory.md) lists. [date] [owner]
 - [ ] If children under 13 use the product: how you handle the Children's Online Privacy Protection Rule, which defines a child as an individual under 13 ([16 CFR 312.2](https://www.law.cornell.edu/cfr/text/16/312.2)). See [K-12 regulation](../market/k12-regulatory.md). [date] [owner]
 - [ ] Data deletion and return procedure, with the time limit you commit to. [date] [owner]
 - [ ] AI statement: which features use AI models, whether customer data trains any model, and what a human reviews (see [AI risk and trust](../product/ai-risk-and-trust.md)). [date] [owner]
@@ -46,12 +46,11 @@ Expect public buyers to ask for WCAG 2.1 Level AA conformance in writing. The Ju
 
 ## Common mistakes
 
-- Starting the packet after the buyer asks. Reviews are where timelines stretch; an empty folder adds weeks.
+- Starting the packet after the buyer asks. Timelines stretch in review, and an empty folder adds weeks.
 - Answering a questionnaire with what you plan to build. Reviewers verify, and a wrong answer in a signed document is a contract problem.
 - Sending an accessibility report that claims full support for every criterion. Reviewers read an untested report as no report.
 - Letting documents go stale. A report dated two versions ago invites a full re-review.
-- Leaving out AI subprocessors. Buyers now ask where student data goes when a model is called.
-- Sending the packet as loose attachments. One folder, one index page, one named contact.
+- Leaving out AI subprocessors. Buyers now ask where student data goes when the product calls a model.
 
 ## Related guides
 

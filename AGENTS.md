@@ -1,6 +1,6 @@
 # Instructions for AI assistants
 
-This repository is ScaleU Intelligence: a Markdown library of advice and evidence for edtech founders. Nothing needs to be installed or run.
+This repository is ScaleU Intelligence: a Markdown library of advice and evidence for edtech founders. It needs no installation and runs no code.
 
 ## Answering a founder's question
 
@@ -23,4 +23,4 @@ Follow `.github/CONTRIBUTING.md`. The rules most often missed:
 - Add each new page to its section index (the table in CONTRIBUTING.md says which one).
 - When moving, renaming, or deleting a page, search the repository for its old path and fix every link, including indexes.
 - Change a guide's review date only after rechecking its facts; a formatting edit is not a fact check.
-- Nothing runs automatically: there is no build, test, or link checker. Check links and the diff by hand.
+- Nothing runs automatically; the repository has no build, test, or link checker. Check links and the diff by hand.

@@ -14,6 +14,6 @@ Describe the problem and the proposed correction. For a broken link, include its
 
 ## Supporting evidence
 
-Link to a public primary source and give the date you checked it. If the issue is a dated conference claim, distinguish what the speaker said from current evidence.
+Link to a public primary source and give the date you checked it. If the issue concerns a dated conference claim, distinguish what the speaker said from current evidence.
 
 <!-- Do not include private meeting material, personal records, or credentials. Use the private reporting route in SECURITY.md for sensitive concerns. -->

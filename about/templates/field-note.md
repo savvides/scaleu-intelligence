@@ -3,10 +3,10 @@
 - **Date observed:** YYYY-MM-DD
 - **Author:** Name
 - **Type:** Meeting / conference / research / other
-- **Audience:** Higher ed / K–12 / workforce / other
+- **Audience:** Higher ed / K-12 / workforce / other
 - **Evidence:** Firsthand observation / speaker claim / research finding / interpretation
 - **Source:** Public link and author or speaker; for an approved anonymized observation, describe the context without identifying details
-- **Last reviewed:** YYYY-MM-DD (what was actually checked)
+- **Last reviewed:** YYYY-MM-DD (what was checked)
 
 ## The decision this informs
 
@@ -26,4 +26,4 @@ What remains unknown? What would change your conclusion? Do not turn one convers
 
 ## Related reading
 
-Link the relevant guide, research topic, or conference session using relative Markdown links.
+Link the relevant guide, research topic, or conference session with relative Markdown links.

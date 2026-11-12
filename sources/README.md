@@ -2,7 +2,7 @@
 
 [ScaleU Intelligence](../README.md) / Sources
 
-The original evidence behind the [guides](../guides/README.md). Each collection keeps its source's context, dates, and attribution. Start with a guide, then follow its links here for detail.
+This folder holds the original evidence behind the [guides](../guides/README.md). Each collection keeps its source's context, dates, and attribution. Start with a guide, then follow its links here for detail.
 
 | Collection | What it holds |
 |---|---|
@@ -12,4 +12,4 @@ The original evidence behind the [guides](../guides/README.md). Each collection 
 
 Transcripts record what speakers said, not verified results. Research takeaways summarize the cited papers; read the paper for study design and limits.
 
-To add a new kind of source, create a folder here with a README that indexes its files, then add a row to this table.
+To add a kind of source, create a folder here with a README that indexes its files, then add a row to this table.

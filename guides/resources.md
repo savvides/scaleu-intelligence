@@ -1,6 +1,6 @@
 # Resources: where else to look
 
-A short directory of the outside sources worth an edtech founder's time: what each is good for, who should use it, and what it costs. Every link was opened on November 11, 2026; anything dead, dormant since 2024, or useless behind a paywall was left out.
+This short directory lists the outside sources worth an edtech founder's time: what each is good for, who should use it, and what it costs. ScaleU opened every link on November 11, 2026, and left out anything dead, dormant since 2024, or useless behind a paywall.
 
 **Applies to:** K-12, higher ed, and workforce founders, mainly in the United States; UK and international entries are marked.
 
@@ -50,7 +50,7 @@ ScaleU's view of the minimum weekly reading, by segment:
 
 ## Podcasts
 
-- [Edtech Insiders](https://www.edtechinsiders.org/), with Ben Kornell and Alex Sarlin: a weekly news episode ("Week in Edtech") and founder and investor interviews. The one show to follow if you follow one.
+- [Edtech Insiders](https://www.edtechinsiders.org/), with Ben Kornell and Alex Sarlin: a weekly news episode ("Week in Edtech") and founder and investor interviews. Follow this show if you follow only one.
 - [Future U](https://www.futureupodcast.com/), with Jeff Selingo and Michael Horn: how university leaders think about cost, enrollment, and change. Every other Tuesday.
 - [The Key](https://www.insidehighered.com/podcasts/the-key), from Inside Higher Ed: interviews with higher-ed newsmakers; episode 219 ran in November 2026.
 - The EdSurge Podcast, listed with EdSurge's [news](https://www.edsurge.com/): K-12 classroom questions, useful for hearing how teachers talk.
@@ -89,7 +89,7 @@ These groups write the rules and checklists that buyers copy into RFPs. [Vendor 
 
 ## Conferences
 
-Go where your buyer goes, with meetings booked in advance ([go-to-market](selling/go-to-market.md)). Dates and places are from each organizer's page unless noted; audience and purpose are ScaleU's view. Two April 2027 collisions: ASU+GSV and AACRAO fall on the same four days, two days after NSBA opens, and CoSN and UPCEA overlap the following week.
+Go where your buyer goes, with meetings booked in advance ([go-to-market](selling/go-to-market.md)). Dates and places are from each organizer's page unless noted; audience and purpose are ScaleU's view. Two sets of April 2027 dates collide: ASU+GSV and AACRAO fall on the same four days, two days after NSBA opens, and CoSN and UPCEA overlap the following week.
 
 | Event | Usual month | 2027 dates and place | Audience | Why a founder goes |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ The [funding landscape](market/funding-landscape.md) holds the main accelerator 
 
 ## Non-dilutive funding portals
 
-Grant terms and the 2025–2026 changes to SBIR are covered in the [funding landscape](market/funding-landscape.md) and [fundraising](business/fundraising.md). These are the places to search.
+The [funding landscape](market/funding-landscape.md) and [fundraising](business/fundraising.md) cover grant terms and the 2025–2026 changes to SBIR. Search for grants in these places.
 
 - [SBIR.gov](https://www.sbir.gov/): every agency's open topics, plus a database of past awards. Search competitors' names to see who has won what.
 - [ED/IES SBIR](https://ies.ed.gov/funding/research/programs/small-business-innovation-research-sbir): the edtech-specific program. Phase I is $250,000 over 9 months and Phase II is $1,000,000 over 2 years; solicitations come out annually and close about 60 days later.
@@ -146,7 +146,7 @@ Grant terms and the 2025–2026 changes to SBIR are covered in the [funding land
 
 - [EdSurge Jobs](https://jobsboard.edsurge.com/): an edtech job board, useful for hiring sales and curriculum staff.
 - [The EdSheet](https://edsheet.whiteboardadvisors.com/): a "Jobs of the Week" series and a reader community alongside the newsletter.
-- [HigherEdJobs](https://www.higheredjobs.com/): university staff postings. Read them as market research: a new job title is a new budget line.
+- [HigherEdJobs](https://www.higheredjobs.com/): university staff postings. Read them as market research: a new job title signals a new budget line.
 - [Edtech Insiders events](https://www.edtechinsiders.org/events): small gatherings at the major conferences, usually sold out.
 - [StartEd](https://www.started.com/): peer circles of edtech CEOs by stage.
 - EDUCAUSE's HECVAT Users Community Group, linked from the [HECVAT page](https://www.educause.edu/hecvat): where university security staff discuss the questionnaire you will fill out.
@@ -163,7 +163,7 @@ Grant terms and the 2025–2026 changes to SBIR are covered in the [funding land
 
 - [Y Combinator Startup Library](https://www.ycombinator.com/library): free essays and videos on every early-stage topic. Start here for anything not specific to education.
 - [YC SAFE documents](https://www.ycombinator.com/documents): the standard post-money SAFE forms (valuation cap, discount, and uncapped MFN) and the pro rata side letter. YC has used the post-money form since 2018.
-- [NVCA model legal documents](https://nvca.org/model-legal-documents/): free templates for a priced round. The core financing documents were updated between October 2025 and June 2026. Read them before your first term sheet so the terms are familiar.
+- [NVCA model legal documents](https://nvca.org/model-legal-documents/): free templates for a priced round. The core financing documents were updated between October 2025 and June 2026. Read them before your first term sheet, so that you know the terms.
 - [Stripe Atlas guides](https://stripe.com/guides/atlas-guides): plain guides to incorporation, founder equity, taxes, and SaaS pricing.
 - [First Round Review](https://review.firstround.com/): free, long articles on hiring, management, and finding product-market fit.
 - [Bessemer Atlas](https://www.bvp.com/atlas): roadmaps, memos, and cloud benchmarks. Use the benchmarks with the cautions in [unit economics](business/unit-economics.md): general SaaS numbers assume a sales calendar that schools do not keep.

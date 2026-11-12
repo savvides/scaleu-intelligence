@@ -1,6 +1,6 @@
 # Monthly investor update
 
-A monthly email to investors and advisors, built around the numbers that matter in an institutional edtech company: pipeline by stage, pilots and their conversion, renewals, usage, evidence, and cash. A good update takes five minutes to read, reports the same metrics in the same order every month, puts bad news near the top, and ends with asks specific enough to act on.
+This monthly email to investors and advisors reports the numbers that matter in an institutional edtech company: pipeline by stage, pilots and their conversion, renewals, usage, evidence, and cash. A good update takes five minutes to read, reports the same metrics in the same order every month, puts bad news near the top, and ends with asks specific enough to act on.
 
 **Applies to:** edtech companies selling to K-12, higher ed, or employers, from first pilot through Series A. Consumer companies should replace the pipeline and pilot tables with acquisition, conversion, and retention cohorts. ScaleU template.
 
@@ -44,7 +44,7 @@ Pilots finished to date: [n]. Converted to a paid contract: [n]. Declined: [n], 
 
 **Renewals.** Up for renewal this period: [n accounts, $]. Renewed: [n, $]. Expanded: [$]. Lost: [n, $], because [reason]. Next quarter's renewals at risk: [account and why].
 
-**Usage.** [Active learners or staff as a share of licensed seats], against the usage each contract was sold on. Accounts below [threshold]: [names and plan]. One usage number tied to the outcome you sell, not logins.
+**Usage.** [Active learners or staff as a share of licensed seats], against the usage each contract was sold on. Accounts below [threshold]: [names and plan]. Report one usage number tied to the outcome you sell, not logins.
 
 **Evidence milestones.** Current ESSA tier or equivalent: [ ]. Studies under way: [partner, design, sample, results due]. Results this month: [finding, including null or negative]. Next milestone: [ ] by [date]. See [evidence tiers](../evidence/evidence-tiers.md).
 
@@ -66,21 +66,19 @@ Pilots finished to date: [n]. Converted to a paid contract: [n]. Declined: [n], 
 
 ScaleU's view on what an investor looks for in each:
 
-- **Pipeline.** The review and procurement stages are where edtech deals stall. A pipeline that shows only discovery and closed hides the stage that sets your sales cycle.
-- **Pilots.** The ratio that matters is finished pilots to paid contracts, with the reasons for each decline. Unpaid pilots with no decision date count as marketing.
-- **Renewals.** Institutions buy on annual cycles tied to the fiscal year, so renewals cluster. Say when the cluster falls and report it against the accounts that were due, not against all accounts.
+- **Pipeline.** Edtech deals stall in review and procurement. A pipeline that shows only discovery and closed deals hides the stages that set your sales cycle.
+- **Pilots.** Report the ratio of finished pilots to paid contracts, with the reason for each decline. Unpaid pilots with no decision date count as marketing.
+- **Renewals.** Institutions buy on annual cycles tied to the fiscal year, so renewals cluster. Say when the cluster falls, and report renewals against the accounts that were due, not against all accounts.
 - **Usage.** Low usage in month three predicts a lost renewal in month twelve. Report it before the renewal conversation.
-- **Evidence.** Buyers and later-stage investors ask for it; an update that tracks it monthly shows the study is real. Reference figures for pilot conversion and investor expectations by stage are in [pilot benchmarks](../selling/pilot-benchmarks.md) and [evidence tiers](../evidence/evidence-tiers.md), where they are labeled as practitioner estimates.
+- **Evidence.** Buyers and later-stage investors ask for it; an update that tracks it monthly shows the study is real. [Pilot benchmarks](../selling/pilot-benchmarks.md) and [evidence tiers](../evidence/evidence-tiers.md) give reference figures for pilot conversion and investor expectations by stage, labeled as practitioner estimates.
 
 ## Common mistakes
 
 - Sending it only in good months. Investors notice the gaps, and silence reads as bad news.
 - Changing metric definitions between updates. If a definition must change, restate the prior months.
 - Counting verbal interest as pipeline. A stage should record what the buyer did, not how the call felt.
-- Reporting pilots started and never pilots concluded.
-- Reporting logins as traction. Tie usage to the outcome in the contract.
 - Publishing institution names or student data the customer has not cleared. Updates get forwarded.
-- Vague asks. "Introductions to districts" gets nothing; a named role at a named kind of institution gets a reply.
+- Making vague asks. "Introductions to districts" gets nothing; a named role at a named kind of institution gets a reply.
 
 ## Related guides
 

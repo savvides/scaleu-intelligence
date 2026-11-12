@@ -2,7 +2,7 @@
 
 [ScaleU Intelligence](../README.md) / Founder guides
 
-Each folder answers one founder question. Each guide gives the answer first, labels its evidence, and links to its sources. New to edtech? Read [Start here](start-here.md), which lists the guides in the order a company needs them.
+Each folder answers one founder question. Each guide gives the answer first, labels its evidence, and links to its sources. If you are new to edtech, read [Start here](start-here.md), which lists the guides in the order a company needs them.
 
 ## Orientation
 
