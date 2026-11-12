@@ -49,7 +49,7 @@ ScaleU's view: three patterns recur across these studies, and none is settled.
 
 ## What speakers said at ASU+GSV 2026
 
-The cognition question was the most contested theme of the week, and platform companies and practitioners were not in the same room on it. Everything in this section is a speaker claim or operator signal unless a source is linked. The summit transcripts are machine-generated and carry no speaker labels. Names follow each session's speaker list, the summit report, and context; where the speaker is unclear, this page credits the session.
+The cognition question was the most contested theme of the week, and platform companies and practitioners disagreed about it. Everything in this section is a speaker claim or operator signal unless a source is linked. The summit transcripts are machine-generated and carry no speaker labels. Names follow each session's speaker list, the summit report, and context; where the speaker is unclear, this page credits the session.
 
 ### The 800-studies claim (speaker claim, checked)
 
