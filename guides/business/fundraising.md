@@ -2,7 +2,7 @@
 
 Raise venture capital only if your company can plausibly reach the size at which edtech companies sell for high multiples. Most cannot, and a grant-funded or profitable path often leaves the founder with more. If you do raise, expect six standard objections and answer each with evidence: the public record below, then your own numbers.
 
-**Applies to:** K-12, higher ed, workforce, and consumer; United States. For who the investors, grant programs, and accelerators are, see the [funding landscape](../market/funding-landscape.md). This page covers how to decide and how to prepare.
+**Applies to:** K-12, higher ed, workforce, and consumer; United States. The [funding landscape](../market/funding-landscape.md) lists investors, grant programs, and accelerators; this page covers how to decide and how to prepare.
 
 ## Decide whether to raise venture capital
 
@@ -17,11 +17,11 @@ Run the arithmetic before you pitch. At 1.7 times revenue, a company with $10M o
 | Public benefit corporation (PBC) | You want venture capital and a mission written into the charter | Little. Directors must balance stockholders, people affected by the company, and the stated benefit ([8 Del. C. §§ 362, 365](https://delcode.delaware.gov/title8/c001/sc15/index.html)) | Coursera converted to a Delaware PBC and earned B Corp certification before its 2021 IPO ([Coursera, February 2, 2021](https://blog.coursera.org/coursera-receives-b-corp-certification)) |
 | Nonprofit | Your users cannot pay and philanthropy will; free access is the strategy | Equity. No investors, no stock options, no sale proceeds | Khan Academy is a [501(c)(3) nonprofit](https://www.khanacademy.org/about) |
 
-Two points on structure. B Corp is a private certification from B Lab; PBC is a legal form. They are separate, and a company can hold either or both. Legal form also sets grant eligibility: SBIR is for for-profit small businesses, while a nonprofit can apply directly for Education Innovation and Research grants, which a company can join only as a partner (see [grants](../market/funding-landscape.md#grants)).
+Two points on structure. B Corp is a private certification from B Lab and PBC is a legal form; a company can hold either or both. Legal form also sets grant eligibility: SBIR is for for-profit small businesses; a nonprofit can apply directly for Education Innovation and Research grants, which a company can join only as a partner (see [grants](../market/funding-landscape.md#grants)).
 
 ## The six objections and how to answer them
 
-Every edtech investor has watched companies fail on these six points, and most will not raise them aloud; they will simply pass. Raise them yourself. For each, the table gives what is true, the public evidence that the objection can be beaten, and the numbers of your own that an investor will ask for next. The objections and the last column are a practitioner view; the linked facts are sourced.
+Every edtech investor has watched companies fail on these six points. Most will pass without raising them, so raise them yourself. For each, the table gives what is true, the public evidence that answers it, and the numbers an investor will ask you for next. The objections and the last column are a practitioner view; the linked facts are sourced.
 
 | Objection | What is true | Evidence that answers it | What you must show |
 |---|---|---|---|
@@ -32,7 +32,7 @@ Every edtech investor has watched companies fail on these six points, and most w
 | Policy can erase demand | ESSER relief ended, and SBIR authority lapsed for about six months in 2025–2026 ([funding landscape](../market/funding-landscape.md)) | Revenue on recurring budgets survives a change of policy; revenue on one-time money does not. No public figure settles this for you | Revenue split by the customer's funding source, with the share on recurring budget lines |
 | AI will commoditize it | Chegg cut about 45% of its staff in October 2025, citing generative AI and lost search traffic ([Fortune, October 28, 2025](https://fortune.com/2025/10/28/chegg-layoffs-ceo-dan-rosensweig-poster-child-ai-slashing-staff-shares/)) | The same technology helped Duolingo, which grew revenue 39% in 2025 while adding AI features and reported [falling per-unit AI costs](https://www.sec.gov/Archives/edgar/data/1562088/000162828026029790/q1fy26duolingo3-31x26share.htm) in early 2026. ScaleU's reading: Chegg depended on search traffic for answers that a model now gives free; Duolingo owned its users' daily habit | What a general-purpose model cannot supply: your data, integrations, or regulated access ([defensibility moats](../product/defensibility-moats.md)) |
 
-Two of these answers are weaker than founders like to think. No public evidence refutes the policy objection, so only your revenue mix can. And the two large exits were systems of record (PowerSchool had $697.7M of revenue); a supplemental tool that cites them invites the question of how it will get there.
+Two of these answers are weaker than founders like to think. Only your revenue mix can answer the policy objection. And the two large exits were systems of record (PowerSchool had $697.7M of revenue); a supplemental tool that cites them invites the question of how it will get there.
 
 The climate sharpens every objection. HolonIQ counted $2.6B of global edtech venture funding in 2025, about 11% more than in 2024, and noted that funding had not returned to its 2020–2021 highs ([HolonIQ, February 6, 2026](https://www.holoniq.com/notes/edtech-hits-2-6b-in-investment-as-the-market-stabilizes-bigger-bets-in-ai-and-workforce-training)).
 
@@ -48,14 +48,14 @@ This table is a practitioner view, not sourced market data. Round sizes and reve
 
 Investors call customers. Tell your references the call is coming, and never list one who would hesitate to renew.
 
-Start sending a monthly [investor update](../templates/investor-update.md) before you raise, to the investors you hope to pitch as well as the ones you have. Six months of updates that report the same metrics in the same order, bad news included, persuade better than a deck (ScaleU's view).
+Before you raise, start sending a monthly [investor update](../templates/investor-update.md) to the investors you hope to pitch as well as those you have. Six months of updates that report the same metrics in the same order, bad news included, persuade better than a deck (ScaleU's view).
 
 ## Sequence grants with equity
 
-Non-dilutive money buys research and evidence; it rarely buys sales. Use it in this order (ScaleU's view):
+Non-dilutive money buys research and evidence; it rarely buys sales. Sequence it this way (ScaleU's view):
 
 1. **Before equity, apply for SBIR Phase I** if your product needs research and development that a customer would not fund. Award sizes and solicitation rules are in the [funding landscape](../market/funding-landscape.md). Start early: the wait between application and award can outlast a pre-seed runway (practitioner estimate), and the 2025–2026 lapse showed that the program can stop.
-2. **Raise the pre-seed or seed on customer traction**, and present the grant as research that the investors do not have to pay for. Keep grant-funded work and commercial work in separate budgets; federal awards carry reporting and audit duties.
+2. **Raise the pre-seed or seed on customer traction**, and present the grant as research the investors need not fund. Keep grant-funded work and commercial work in separate budgets; federal awards carry reporting and audit duties.
 3. **Use Phase II or foundation money to fund the efficacy study** that institutional buyers and Series A investors ask for ([evidence tiers](../evidence/evidence-tiers.md)).
 4. **Keep grants a minority of income.** Investors read heavy grant dependence as proof that customers will not pay.
 
@@ -64,19 +64,19 @@ Foundations mostly fund nonprofits and research partners. A for-profit usually r
 ## Instruments in brief
 
 - **SAFE.** A right to future stock, with no interest or maturity date. Y Combinator publishes the standard post-money forms: a valuation cap, a discount, or an uncapped most-favored-nation version, plus a user guide with conversion math ([YC documents](https://www.ycombinator.com/documents)). On a post-money SAFE the investor's ownership is the amount invested divided by the cap, so $1M on a $10M cap sells 10%. Add up every SAFE before signing the next one; founders who stack them learn the total dilution only at the priced round.
-- **Priced round.** The company sells preferred stock at a set price, with a board seat and protective provisions. The National Venture Capital Association publishes free model documents, including the certificate of incorporation, stock purchase agreement, investors' rights agreement, and voting agreement ([NVCA model legal documents](https://nvca.org/model-legal-documents/)).
+- **Priced round.** The company sells preferred stock at a set price, with a board seat and protective provisions. The National Venture Capital Association publishes free model documents ([NVCA model legal documents](https://nvca.org/model-legal-documents/)).
 
 Neither set of forms replaces a lawyer who closes venture financings every month.
 
 ## Data room checklist for edtech
 
-Beyond the standard corporate, financial, and cap-table folders, an edtech investor expects these. Preparing them also prepares you for buyers' vendor reviews ([vendor review readiness](../selling/vendor-review-readiness.md)).
+Beyond the standard corporate, financial, and cap-table folders, an edtech investor expects these. The same files serve buyers' vendor reviews ([vendor review readiness](../selling/vendor-review-readiness.md)).
 
 - **Privacy:** signed student data privacy agreements, by state or institution; your privacy policy and subprocessor list; how you handle deletion requests ([K-12 regulatory guide](../market/k12-regulatory.md)).
-- **Security:** a completed security questionnaire of the kind your buyers send, your most recent penetration test or audit report, and your incident history, including none.
+- **Security:** a completed security questionnaire of the kind your buyers send, your latest penetration test or audit report, and your incident history, even if empty.
 - **Accessibility:** a current Accessibility Conformance Report (the completed VPAT) and the date of the last audit.
 - **Efficacy:** every study, with design, sample, and who ran it, labeled by ESSA tier ([evidence tiers](../evidence/evidence-tiers.md)). Include null results; investors find them anyway.
-- **Pilots:** each pilot with start date, price, success criteria, and outcome, and the pilot-to-paid conversion rate computed from that list.
+- **Pilots:** each pilot's start date, price, success criteria, and outcome, and the pilot-to-paid conversion rate computed from that list.
 - **Renewals:** revenue by customer cohort and year, showing renewal, expansion, and churn, with the reason for each loss.
 - **Contracts:** term, renewal date, payment terms, termination-for-convenience and non-appropriation clauses, and any cooperative purchasing contracts you sell through.
 - **Customer funding sources:** the share of revenue paid from one-time grants versus recurring budgets.
@@ -87,9 +87,9 @@ Beyond the standard corporate, financial, and cap-table folders, an edtech inves
 These are a practitioner view.
 
 - **Counting pilots as revenue.** Free pilots are costs. Report paid pilots and conversions separately from recurring contracts.
-- **Presenting engagement as outcomes.** Usage shows that people log in. It does not show that anyone learned.
+- **Presenting engagement as outcomes.** Usage shows that people log in, not that anyone learned.
 - **Timing the raise against the school year.** If the round closes after spring budget decisions, the money arrives too late to sell into the next year.
-- **Hiding concentration.** One district or one university system that supplies most of the revenue is the first thing diligence finds.
+- **Hiding concentration.** A single district or university system that supplies most of the revenue is the first thing diligence finds.
 
 ## Related guides
 

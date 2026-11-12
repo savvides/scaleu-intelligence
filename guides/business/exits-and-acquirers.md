@@ -8,7 +8,7 @@ Most edtech companies that exit are bought by a private-equity-owned platform or
 
 - **Many deals, mostly small.** HolonIQ counted about 410 edtech merger and acquisition transactions worldwide in 2025, 22 of them private equity acquisitions ([HolonIQ, February 6, 2026](https://www.holoniq.com/notes/edtech-hits-2-6b-in-investment-as-the-market-stabilizes-bigger-bets-in-ai-and-workforce-training)). Berkery Noyes, counting the wider education industry, tracked 244 transactions in the first half of 2026: 181 by strategic buyers and 63 by private equity ([Berkery Noyes](https://berkerynoyes.com/1st-half-2026-education-industry-trends/)).
 - **Low prices unless you are large.** In the same Berkery Noyes data, the median disclosed price was 1.3 times revenue in the first half of 2026, down from 2.3 in the prior half. Over 30 months, deals between $10M and $160M had a median of 1.7 times revenue; deals above $160M, 5.9 times. Only 136 of the 999 deals in that sample disclosed terms, and the sample includes childcare and training services.
-- **Strategic buyers prefer small additions.** Tyton Partners' review of 2025 found private equity activity in education down about 25% while strategic acquisitions rose 4% globally, mostly as tuck-ins. One investor it quoted said "six years feels like the new three" for holding periods ([Tyton Partners, January 13, 2026](https://tytonpartners.com/2025-education-sector-deal-recap-a-year-of-reset-and-disruption/)).
+- **Strategic buyers prefer small additions.** Tyton Partners' review of 2025 found private equity activity in education down about 25% and strategic acquisitions up 4% globally, mostly as tuck-ins. One investor it quoted said "six years feels like the new three" for holding periods ([Tyton Partners, January 13, 2026](https://tytonpartners.com/2025-education-sector-deal-recap-a-year-of-reset-and-disruption/)).
 
 ## Private equity owns the platforms
 
@@ -73,7 +73,7 @@ The common cause was borrowing against growth that stopped. In all four, credito
 
 ## What acquirers value
 
-A practitioner view, consistent with the deals above.
+This is a practitioner view, consistent with the deals above.
 
 | What they look for | What they inspect |
 |---|---|
@@ -92,7 +92,7 @@ A practitioner view, consistent with the deals above.
 3. **A private equity firm buying directly** wants profit, retention, and a sales process that runs without the founder. Growth alone will not do.
 4. **A workforce software company** (Workday, Coursera) buys products that enterprises already pay for. Workday's $1.1B for Sana is the largest disclosed price in the table of strategic deals.
 
-An owner change at a partner is also a risk to you: roadmaps and partner terms move when Watermark, Keypath, or Instructure changes hands.
+A partner's change of owner is also a risk to you: roadmaps and partner terms move when Watermark, Keypath, or Instructure changes hands.
 
 **Keep these clean from the first customer.**
 

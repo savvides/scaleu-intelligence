@@ -74,12 +74,12 @@ Each finding carries the effect size its paper reports (g and d are standardized
 
 - **Found.** Across cognitive-training programs (working memory, video games, music, chess, exergames), far transfer to other skills was zero once placebo effects and publication bias were controlled; near transfer to similar tasks was real ([Sala et al., 2019](https://doi.org/10.1525/collabra.203)). Library file: [transfer of learning](../../sources/research/transfer-of-learning.md), which mostly covers outcomes of learning technologies and says little on transfer itself.
 - **Limits.** The finding concerns general cognitive training, not subject teaching.
-- **Implication.** Claim the skill you teach and assess. Avoid promises that practice in your product improves general reasoning or grades in other subjects unless you have measured it.
+- **Implication.** Claim the skill you teach and assess. Promise gains in general reasoning or in other subjects only if you have measured them.
 
 ## Matching instruction to learning styles
 
 - **Found.** A meta-analysis of 21 studies found a small overall benefit of matching instruction to modality styles (g = 0.31), but only 26% of outcome measures showed the crossover pattern the matching hypothesis predicts; the authors judged the benefit too small and infrequent, and the studies too weak, to justify adoption ([Clinton-Lisell and Litzinger, 2024](https://doi.org/10.3389/fpsyg.2024.1428732)). Library file: [learning styles](../../sources/research/learning-styles.md).
-- **Implication.** Do not build a style quiz or style-based content routing. Offer formats as learner choice and accessibility, and adapt on prior knowledge, which has evidence (see worked examples).
+- **Implication.** Do not build a style quiz or style-based content routing. Offer formats as learner choice and accessibility, and adapt to prior knowledge, which the evidence supports (see worked examples).
 
 ## AI tutoring and automated feedback
 
@@ -93,7 +93,7 @@ Each finding carries the effect size its paper reports (g and d are standardized
 2. Does the learner produce an answer before seeing one?
 3. Does feedback explain, and arrive while the attempt is fresh?
 4. Does support shrink as the learner's accuracy rises?
-5. Is there a delayed, unassisted measure of learning, not only in-session accuracy or engagement?
+5. Do you measure learning with a delayed, unassisted test, and not only by in-session accuracy or engagement?
 6. Have you compared the feature with the simpler version (fixed sequence, no points, no AI)?
 7. Does marketing claim only the skill you measured?
 

@@ -44,7 +44,7 @@ Bolted-on products win through sales and distribution; AI-native products win th
 
 **Memory.** A product that remembers improves with use. A tutor that adapts to one student's sticking points across a semester is the plain example, and it raises the cost of switching. One student's history is not a moat, since a competitor can build the same feature. It becomes one when records across many students and cohorts form a [proprietary data network](defensibility-moats.md#1-proprietary-data-network) that a new entrant cannot reconstruct. Memory also means you hold student data over time, which buyers will examine; see [what institutional buyers will ask](ai-risk-and-trust.md#what-institutional-buyers-will-ask). The tutor here illustrates an architecture and is no recommendation to build one. Several summit speakers quoted in the [risk guide](ai-risk-and-trust.md#design-responses) argue for aiming AI at the teacher until outcome data says otherwise. If you build a student-facing tutor, plan for the friction and evidence questions it raises.
 
-**Feedback loops.** Each interaction should improve the system. When a teacher corrects a generated lesson plan, the correction should shape the next one. Without that loop you have an API bill and nothing accumulating. The loop becomes a moat only when the data it produces cannot be rebuilt by someone else.
+**Feedback loops.** Each interaction should improve the system. When a teacher corrects a generated lesson plan, the correction should shape the next one. Without that loop you have an API bill and nothing accumulating. The loop becomes a moat only when no one else can rebuild the data it produces.
 
 **Model independence.** Build so you can change providers as the lead changes. Your value should sit in your data and your orchestration of the models, not in access to any one of them.
 
@@ -94,7 +94,7 @@ ScaleU's view: the price of a general-purpose chat tutor and of a lesson-plan ge
 
 **Flat per-seat pricing can lose money on your best customers.** To illustrate with hypothetical numbers: a heavy user who consumes $50 of tokens a month on a $10-per-month seat loses you $40 a month. Pricing by token, session, or outcome keeps revenue in step with cost. Model the margin per active user in [unit economics](../business/unit-economics.md) before you quote a price.
 
-**Institutions need a fixed line item.** K-12 and higher ed [procurement](../selling/procurement-guide.md) is built around a predictable annual budget, and pure usage pricing fits it badly. ScaleU's view: sell a hybrid. An annual base subscription gets the contract through procurement, and a block of usage credits for the AI features protects your margin. The buyer gets predictability and you get a cap on what any one account can cost you.
+**Institutions need a fixed line item.** K-12 and higher ed [procurement](../selling/procurement-guide.md) runs on a predictable annual budget, which pure usage pricing fits badly. ScaleU's view: sell a hybrid. An annual base subscription gets the contract through procurement, and a block of usage credits for the AI features protects your margin. The buyer gets predictability and you get a cap on what any one account can cost you.
 
 ## Related guides
 

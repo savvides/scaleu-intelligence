@@ -6,7 +6,7 @@ A school or university adopts a product only when the product signs users in wit
 
 ## What buyers expect, by segment
 
-"When to build" is ScaleU's view. The rest is drawn from the linked standards bodies and vendors.
+"When to build" is ScaleU's view. The rest comes from the linked standards bodies and vendors.
 
 | Segment | Integration | Why the buyer needs it | When to build |
 |---|---|---|---|
@@ -26,7 +26,7 @@ SAML and OpenID Connect (OIDC) are the two protocols underneath every option her
 
 In K-12, districts expect the product in their portal. [Clever](https://www.clever.com/about) reports more than 111,000 schools and 95 of the 100 largest districts. [ClassLink](https://www.classlink.com/) reports more than 3,300 school systems and 25 million students and staff. Both figures are vendor claims.
 
-In higher ed, the campus identity provider speaks SAML, and many campuses belong to a federation. [InCommon](https://incommon.org/federation/) is the US federation, and it connects to [eduGAIN](https://technical.edugain.org/), which listed 84 national federations and about 6,600 identity providers when checked. A company joins InCommon as a sponsored partner: a one-time $700 registration fee, then $2,500 a year for companies under $10 million in revenue ([fee schedule](https://incommon.org/federation/fees/)). Membership saves per-campus metadata exchange once you serve dozens of campuses. Before that, configure SAML campus by campus.
+In higher ed, the campus identity provider speaks SAML, and many campuses belong to a federation. [InCommon](https://incommon.org/federation/) is the US federation, and it connects to [eduGAIN](https://technical.edugain.org/), which listed 84 national federations and about 6,600 identity providers when checked. A company joins InCommon as a sponsored partner: a one-time $700 registration fee, then $2,500 a year for companies under $10 million in revenue ([fee schedule](https://incommon.org/federation/fees/)). Membership saves per-campus metadata exchange once you serve dozens of campuses; until then, configure SAML campus by campus.
 
 ## Rostering
 
@@ -35,7 +35,7 @@ Rostering loads schools, classes, teachers, students, and enrollments, and keeps
 - **Clever.** Free for schools. Application partners pay to roster through Secure Sync, at quoted prices, and may not pass that fee to schools ([Clever pricing](https://www.clever.com/pricing)). Budget for it as a cost of sale.
 - **ClassLink.** Roster Server delivers rosters from the district using open standards ([ClassLink](https://www.classlink.com/)).
 - **OneRoster.** The 1EdTech standard. [Version 1.2](https://www.1edtech.org/standards/oneroster) is current and defines rostering, gradebook, and resource services, each available as REST or CSV. CSV import is the cheapest fallback you can offer.
-- **Ed-Fi.** A [data standard](https://www.ed-fi.org/) that states and districts use to join SIS, assessment, and attendance data. It matters when you sell to a state agency or feed a district data warehouse. Skip it otherwise.
+- **Ed-Fi.** A [data standard](https://www.ed-fi.org/) that states and districts use to join SIS, assessment, and attendance data. Build to it only when you sell to a state agency or feed a district data warehouse.
 
 ## LMS integration
 
@@ -43,7 +43,7 @@ Learning Tools Interoperability (LTI) is how a tool launches inside an LMS. [LTI
 
 LTI Advantage adds three services. Build them in this order (ScaleU's view):
 
-1. **Names and Role Provisioning Services.** The tool reads the course roster and roles, so no separate rostering is needed for course-based products.
+1. **Names and Role Provisioning Services.** The tool reads the course roster and roles, so course-based products need no separate rostering.
 2. **Assignment and Grade Services.** The tool creates gradebook columns and posts scores. Faculty ask for this first.
 3. **Deep Linking.** An instructor picks a specific item in your tool and places it in the course.
 

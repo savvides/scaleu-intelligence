@@ -31,7 +31,7 @@ Use these to anchor a price conversation. They are list prices and company discl
 - **Consumer.** Coursera Plus lists at [$59 per month or $399 per year](https://www.coursera.org/courseraplus) (a promotion cut the annual plan to $239 on the day we checked). RevenueCat's 2026 report on subscription apps puts the median education app price at [$9.99 per month and $44.99 per year](https://www.revenuecat.com/state-of-subscription-apps-2026-education). Duolingo reports that about [9% of its monthly active users were paid subscribers](https://www.sec.gov/Archives/edgar/data/1562088/000162828026012494/duol-20251231.htm) at the end of 2025, and that subscriptions supplied $873.4M of its $1,037.6M in 2025 revenue.
 - **Enterprise learning.** Coursera's enterprise segment reported $255.3M of revenue in 2025. At year-end it counted 1,730 paid enterprise customers, a figure that excludes those who buy without its direct sales force, and [net retention of 93%](https://www.sec.gov/Archives/edgar/data/1651562/000165156226000006/cour-20251231xexx991.htm) among them.
 
-We looked for a reputable published figure for district spend per student on edtech and could not verify one. Treat any such number you see quoted as an estimate until you find its source.
+We looked for a reputable published figure for district spend per student on edtech and could not verify one. Treat any such number as an estimate until you find its source.
 
 ## Match the model to the buyer
 
@@ -51,7 +51,7 @@ ScaleU's view: decide before launch which features will sit behind the paid tier
 
 ## Why revenue share fell from favor
 
-Revenue share made sense when universities had no capital or skill to launch online programs. An online program manager (OPM) funded marketing and course production and took a share of tuition under a long contract.
+Revenue share made sense when universities lacked the capital and skill to launch online programs. An online program manager (OPM) funded marketing and course production and took a share of tuition under a long contract.
 
 The legal basis is narrow. The Higher Education Act bans paying recruiters by enrollment. Guidance enclosed with a Department of Education letter of March 17, 2011, [GEN-11-05](https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2011-03-17/gen-11-05-subject-implementation-program-integrity-regulations), permits tuition sharing with an unaffiliated provider only when recruiting is part of a bundle of services. In 2023 the Department reopened the question: it held [listening sessions on the bundled-services exception](https://www.federalregister.gov/documents/2023/02/16/2023-03261/announcement-of-listening-sessions) on March 8 and 9 and took written comments, but it issued no replacement. Its letter of January 16, 2025, [GEN-25-01](https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-01-16/notice-interpretation-regarding-misrepresentations-third-party-service-providers-engaged-institution-higher-education), restated the 2011 position in a footnote, added that the institution must decide admissions independently of the provider, and warned institutions that they answer for misrepresentations by outside providers. States have moved further: Minnesota's 2024 law, [section 135A.195](https://www.revisor.mn.gov/statutes/cite/135A.195), bars tuition sharing in new OPM contracts at Minnesota State institutions and asks the University of Minnesota to comply.
 
@@ -73,7 +73,7 @@ Unit costs are falling, and prices follow them down: Khan Academy passed its sav
 
 ## Thresholds, pilots, and discounts
 
-**Price to the approval threshold.** Each step up in price adds an approver and months of process; the [procurement guide](../selling/procurement-guide.md) lists the usual thresholds. Find your buyer's actual limits, then build a package that fits beneath the one you can clear this year. Khan Academy's self-serve plan shows the pattern: capped at 1,000 licenses, it never exceeds $10,000.
+**Price to the approval threshold.** Each step up in price adds an approver and months of process; the [procurement guide](../selling/procurement-guide.md) lists the usual thresholds. Find your buyer's limits, then build a package that fits beneath the one you can clear this year. Khan Academy's self-serve plan shows the pattern: capped at 1,000 licenses, it never exceeds $10,000.
 
 **Charge for pilots.** A paid pilot tests whether a budget holder exists. ScaleU's view: price it so that someone with budget authority must sign and procurement need not open a bid; credit the fee against a first-year contract signed by a named date; and write the full contract price into the [pilot agreement](../templates/pilot-agreement.md) so that nobody negotiates from the pilot fee. The [pilot playbook](../selling/edtech-pilot-playbook/README.md) and [pilot benchmarks](../selling/pilot-benchmarks.md) cover design.
 

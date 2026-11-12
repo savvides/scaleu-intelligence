@@ -12,7 +12,7 @@ This page keeps four kinds of evidence apart. Research findings cite the paper. 
 
 ### The evidence base is thin
 
-Lily Fesler, JP Martinez Claeys, Chris Agnew, and Susanna Loeb reviewed it in [*The Evidence Base on AI in K-12: A 2026 Review*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf) (AI Hub for Education, Stanford SCALE Initiative, 2026). They screened the more than 800 papers in their repository as of October 2025. Those papers cover AI in K-12 education, not only LLMs, and are mostly preprints. Twenty offered strong causal evidence. None was a high-quality causal study of US K-12 students; much of the work studies people over 18, outside the US, in short sessions. The authors report these findings and call them preliminary:
+Lily Fesler, JP Martinez Claeys, Chris Agnew, and Susanna Loeb reviewed the evidence in [*The Evidence Base on AI in K-12: A 2026 Review*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf) (AI Hub for Education, Stanford SCALE Initiative, 2026). They screened the more than 800 papers in their repository as of October 2025. Those papers cover AI in K-12 education, not only LLMs, and are mostly preprints. Twenty offered strong causal evidence. None was a high-quality causal study of US K-12 students; much of the work studies people over 18, outside the US, in short sessions. The authors report these findings and call them preliminary:
 
 - AI tools improved students' performance on math practice, programming, and writing while students had access to them.
 - When students were assessed without AI, the effects were mixed.
@@ -77,7 +77,7 @@ Larry Berger (Amplify) said AI has remarkable capabilities, but the implementati
 
 Isabelle Hau (Stanford Accelerator for Learning) shared a figure from one of her visiting scholars: AI models praise children 13 times more often than humans do. She did not name the study, and no published source for the figure was found as of October 30, 2026. The closest published work is the Cheng et al. study in the table, which concerns adults and is not the source of her figure. Her reading as a parent: a child praised 13 times more by a model than by a parent comes to expect it, and human relationships shift to match ([transcript](../../sources/events/2026-asu-gsv/transcripts/48-every-student-should-have-an-ai-learning-companion.md)).
 
-The structural problem lies underneath. Companies are rewarded for engagement, and sycophancy reliably produces it. Your retention metric and the learner's development can point in opposite directions.
+The structural problem lies underneath. Companies profit from engagement, and sycophancy reliably produces it. Your retention metric and the learner's development can point in opposite directions.
 
 ### Anthropomorphism and development (operator signal)
 
@@ -110,7 +110,7 @@ Kevin Roose (NYT) and Casey Newton (Platformer) raised a Gallup survey, run with
 | Angry | 31% | Up 9 points |
 | Anxious | 42% | Unchanged |
 
-Usage held steady: 51% use generative AI at least weekly. In the same session, Garrett Lord (Handshake) warned of an "agency divide" between people who manage AI and people AI manages ([transcript](../../sources/events/2026-asu-gsv/transcripts/71-is-ai-eating-education-interview-series-with-kevin-roose-casey-newton.md)). Your learners are not uniformly excited. A large share are anxious or angry, and they can tell which side of that divide a product puts them on.
+Usage held steady: 51% use generative AI at least weekly. In the same session, Garrett Lord (Handshake) warned of an "agency divide" between people who manage AI and people AI manages ([transcript](../../sources/events/2026-asu-gsv/transcripts/71-is-ai-eating-education-interview-series-with-kevin-roose-casey-newton.md)). A large share of your learners are anxious or angry, and they can tell which side of that divide a product puts them on.
 
 ## Design responses
 
@@ -124,7 +124,7 @@ Each of these was described at the summit as something being built. None is a pr
 
 ## What institutional buyers will ask
 
-Buyers also review your AI as a vendor risk. Each item links to the guide that covers it; [vendor review readiness](../selling/vendor-review-readiness.md#ai-vetting-questions) lists the AI questions districts and colleges put in writing.
+Buyers review your AI as a vendor risk. Each item links to the guide that covers it; [vendor review readiness](../selling/vendor-review-readiness.md#ai-vetting-questions) lists the AI questions districts and colleges put in writing.
 
 - **Student data.** Who sees it, where it goes, and whether it trains a model. Federal and state privacy law (FERPA, COPPA, state student-privacy laws) is in [K-12 regulation](../market/k12-regulatory.md). FERPA covers colleges too: once a student turns 18 or enters a postsecondary institution at any age, the rights [transfer from the parents to the student](https://studentprivacy.ed.gov/faq/what-ferpa). Colleges often send EDUCAUSE's [HECVAT](https://www.educause.edu/hecvat) security questionnaire. See [procurement](../selling/procurement-guide.md) for where the IT and privacy review sits in a deal, and [data terms education buyers will ask about](ai-native-framework.md#data-terms-education-buyers-will-ask-about) for what each model provider commits to.
 - **Security.** Whether the model can be tricked into leaking records. See the next section.
@@ -135,7 +135,7 @@ Buyers also review your AI as a vendor risk. Each item links to the guide that c
 
 ### Chatbots, minors, and the law
 
-**Federal.** On September 11, 2025, the FTC [ordered seven companies](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions) (Alphabet, Character Technologies, Instagram, Meta, OpenAI, Snap, and xAI) to report how they measure, test, and monitor the effects of companion chatbots on children and teens, including how they monetize engagement and comply with the COPPA Rule. The orders were issued under Section 6(b) of the FTC Act. That makes this a study, not an enforcement action. It also shows the questions a regulator asks.
+**Federal.** On September 11, 2025, the FTC [ordered seven companies](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions) (Alphabet, Character Technologies, Instagram, Meta, OpenAI, Snap, and xAI) to report how they measure, test, and monitor the effects of companion chatbots on children and teens, including how they monetize engagement and comply with the COPPA Rule. The FTC issued the orders under Section 6(b) of the FTC Act, which makes this a study, not an enforcement action. It also shows the questions a regulator asks.
 
 **States.** California's [SB 243](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB243), signed October 13, 2025, and in effect since January 1, 2026, regulates companion chatbots: AI systems that give human-like responses, can meet a user's social needs, and can sustain a relationship across sessions. Every operator must maintain and publish a protocol for suicidal ideation and self-harm that refers users to crisis services. For a user it knows is a minor, an operator must disclose that the user is talking to AI, remind the user at least every three hours to take a break, and take reasonable measures to keep the chatbot from producing sexually explicit material. Annual reports to California's Office of Suicide Prevention begin July 1, 2027. An injured user may sue for the greater of actual damages or $1,000 per violation. The statute excludes bots used only for customer service, productivity, or technical assistance; it names no exclusion for tutors.
 

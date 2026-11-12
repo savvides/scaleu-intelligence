@@ -38,7 +38,7 @@ The timelines are the SXSW framework's practitioner estimates, and the bands ove
 
 **Moderate** exposure means you have earned time. The AI is wired into a faculty grading workflow, or sits on a dataset the institution has come to rely on. In the framework's estimate, those switching costs buy 2 to 4 years.
 
-**Low** exposure means the AI is not what makes you valuable. You have created a dependency inside the institution that a new model cannot reproduce.
+**Low** exposure means your value lies outside the AI. You have created a dependency inside the institution that a new model cannot reproduce.
 
 ## "AI-powered" is not a moat
 
@@ -48,15 +48,15 @@ Building on the best model does not change this. When the model improves, it imp
 
 ## The four moats
 
-Each of the four lives outside the model, which is why an LLM cannot manufacture it.
+Each of the four lives outside the model, so an LLM cannot manufacture it.
 
 ### 1. Proprietary data network
 
 Longitudinal data that improves with use and that a new entrant cannot reconstruct.
 
-A competitor can buy the model you use. They cannot buy three years of student-outcome data in which each cohort's results sharpen the next prediction. The value compounds, and a newcomer starts at zero however good their prompts are. A memory feature or a feedback loop is the mechanism that gathers such data; [architecture that compounds](ai-native-framework.md#architecture-that-compounds) covers how to build one.
+A competitor can buy the model you use. It cannot buy three years of student-outcome data in which each cohort's results sharpen the next prediction. The value compounds, and a newcomer starts at zero however good its prompts are. A memory feature or a feedback loop is the mechanism that gathers such data; [architecture that compounds](ai-native-framework.md#architecture-that-compounds) covers how to build one.
 
-*Example:* An advising platform has tracked which course sequences led to graduation and which to withdrawal, across several cohorts at one university. Its recommendations are valuable because of that record of what happened to real students there. Nobody else holds it, and nobody can backfill it.
+*Example:* An advising platform has tracked which course sequences led to graduation and which to withdrawal, across several cohorts at one university. That record of what happened to real students there gives its recommendations their value. Nobody else holds it, and nobody can backfill it.
 
 ### 2. Deep integration
 
@@ -70,7 +70,7 @@ When your product writes grades into the SIS, syncs rosters through LTI, and sit
 
 Each added provider, mentor, or contributor raises quality for every existing user.
 
-A new entrant with an identical model still has an empty network. They can copy your software in two weeks and still have nobody on the other side of it.
+A new entrant with an identical model still has an empty network. It can copy your software in two weeks and still have nobody on the other side.
 
 *Example:* A career-transition platform connects graduates to employers. Each added employer makes the platform more useful to every student, and each placement makes it more attractive to the next employer. A competitor can copy the matching interface but not the employers and mentors who have shown up. The SXSW framework calls this phase, Graduate & Beyond, the least researched and least served stretch of the learner lifecycle. The scarce asset there is the employer relationship.
 
