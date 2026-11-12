@@ -91,7 +91,7 @@ The curriculum items above come from press reports of government announcements. 
 
 ## Issues that cross borders
 
-**Data transfers.** The EU–US Data Privacy Framework stands. The EU General Court upheld it on September 3, 2025, and the challenger appealed to the Court of Justice on October 31, 2025 ([Case C-703/25 P, Official Journal notice](https://eur-lex.europa.eu/eli/C/2025/6610/oj/eng); [WilmerHale's summary](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20251201-european-court-of-justice-to-review-challenge-to-eu-us-data-privacy-framework)). A web search on November 11, 2026, found no judgment in the appeal; the Court's own register was not checked, so confirm at curia.europa.eu. Keep standard contractual clauses as a fallback. Practitioner estimate: European schools often ask for EU hosting whatever the law allows.
+**Data transfers.** The EU–US Data Privacy Framework stands. The EU General Court upheld it on September 3, 2025, and the challenger appealed to the Court of Justice on October 31, 2025 ([Case C-703/25 P, Official Journal notice](https://eur-lex.europa.eu/eli/C/2025/6610/oj/eng); [WilmerHale's summary](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20251201-european-court-of-justice-to-review-challenge-to-eu-us-data-privacy-framework)). No judgment in the appeal was found as of November 11, 2026; confirm at curia.europa.eu. Keep standard contractual clauses as a fallback. Practitioner estimate: European schools often ask for EU hosting whatever the law allows.
 
 **Localization.** Practitioner estimate: translation is the small part. Curriculum alignment, right-to-left layouts for Arabic, and local-language support cost more.
 

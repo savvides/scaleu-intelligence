@@ -10,10 +10,10 @@ US K-12 is about 13,300 districts spending close to $1 trillion a year, nearly 9
 |---|---|---|
 | Public school students | 49.5 million | [NCES](https://ies.ed.gov/learn/press-release/nces-data-show-public-school-enrollment-held-steady-overall-fall-2022-fall-2023), fall 2023 |
 | Projected public enrollment | 46.9 million by fall 2031, 5% below fall 2022 | [NCES Condition of Education](https://nces.ed.gov/programs/coe/indicator/cga); the projection uses data through fall 2021 |
-| Regular school districts | 13,303 | NCES, 2023–24 |
-| Independent charter agencies (charters that act as their own district) | 4,212 | NCES, 2023–24 |
-| Education service agencies | 1,122 | NCES, 2023–24 |
-| Public schools | 99,297 (90,461 regular; the rest special education, career and technical, and alternative), of which 8,010 are charters | NCES, 2023–24 |
+| Regular school districts | 13,303 | [NCES](https://ies.ed.gov/learn/press-release/nces-data-show-public-school-enrollment-held-steady-overall-fall-2022-fall-2023), 2023–24 |
+| Independent charter agencies (charters that act as their own district) | 4,212 | Same NCES release, 2023–24 |
+| Education service agencies | 1,122 | Same NCES release, 2023–24 |
+| Public schools | 99,297 (90,461 regular; the rest special education, career and technical, and alternative), of which 8,010 are charters | Same NCES release, 2023–24 |
 | Private schools | 29,727 schools; about 5.5 million students | NCES, [2021–22](https://nces.ed.gov/programs/digest/d23/tables/dt23_214.10.asp) and [fall 2021](https://nces.ed.gov/fastfacts/display.asp?id=372) |
 | Total revenue | $994.9 billion: state 45.2%, local 43.2%, federal 11.6% | [Census Bureau](https://www.census.gov/newsroom/press-releases/2026/school-system-finances.html), FY2024 |
 | Current spending per pupil | $17,619 | Census Bureau, FY2024 |

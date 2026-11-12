@@ -8,9 +8,9 @@ Size an education market by counting buyers in free public data, then multiplyin
 
 | Figure | Value | Data year | Source |
 |---|---|---|---|
-| Regular public school districts | 13,318 | 2022–23 | [Digest table 214.10](https://nces.ed.gov/programs/digest/d23/tables/dt23_214.10.asp) |
-| Public schools | 99,388 | 2022–23 | Digest table 214.10 |
-| Private schools | 29,727 | 2021–22 | Digest table 214.10 |
+| Regular public school districts | 13,303 | 2023–24 | [NCES release](https://ies.ed.gov/learn/press-release/nces-data-show-public-school-enrollment-held-steady-overall-fall-2022-fall-2023) |
+| Public schools | 99,297 | 2023–24 | Same NCES release |
+| Private schools | 29,727 | 2021–22 | [Digest table 214.10](https://nces.ed.gov/programs/digest/d23/tables/dt23_214.10.asp) |
 | Public school students | 49.4 million | Fall 2024 | [Digest table 203.10](https://nces.ed.gov/programs/digest/d25/tables/dt25_203.10.asp) |
 | Private school students | 5.5 million | Fall 2021 | [NCES Fast Facts](https://nces.ed.gov/fastfacts/display.asp?id=372) |
 | Public school teachers (full-time equivalent) | 3.2 million | Fall 2022 | NCES Fast Facts |
@@ -18,7 +18,7 @@ Size an education market by counting buyers in free public data, then multiplyin
 | Postsecondary enrollment, degree-granting institutions | 19.0 million | Fall 2023 | [Digest table 303.10](https://nces.ed.gov/programs/digest/d24/tables/dt24_303.10.asp) |
 | Public K-12 spending | $945.3 billion total; $818.2 billion current | 2022–23 | [Digest table 236.10](https://nces.ed.gov/programs/digest/d25/tables/dt25_236.10.asp) |
 
-The [K-12 landscape](k12-landscape.md) cites NCES's newer 2023–24 counts (13,303 regular districts and 99,297 public schools), which the Digest table had not yet picked up when checked.
+The [K-12 landscape](k12-landscape.md) breaks these counts down by type of district and school.
 
 District size decides the sales motion. In 2021–22, the 266 districts with 25,000 or more students enrolled 34.3% of all students, and the 3,726 districts with 2,500 or more enrolled 83.2%. The other 9,475 sized districts, 71% of the total, enrolled 16.7% ([Digest table 214.20](https://nces.ed.gov/programs/digest/d22/tables/dt22_214.20.asp)).
 
@@ -61,7 +61,7 @@ The Bureau of Labor Statistics publishes employment and wages for about 830 occu
 ## International
 
 - **[UNESCO Institute for Statistics](https://databrowser.uis.unesco.org/).** Enrollment, teachers, and spending by country: more than 5,000 education indicators, last released February 2026. Country coverage is uneven.
-- **OECD.** Education at a Glance is the annual cross-country indicator report, and PISA is the international assessment of 15-year-olds. NCES lists PISA 2025 results as released in September 2026 ([NCES PISA page](https://nces.ed.gov/surveys/pisa/)). OECD's own pages blocked our automated check, so find both on oecd.org.
+- **OECD.** Education at a Glance is the annual cross-country indicator report, and PISA is the international assessment of 15-year-olds. NCES lists PISA 2025 results as released in September 2026 ([NCES PISA page](https://nces.ed.gov/surveys/pisa/)). Find both on oecd.org.
 - **[World Bank EdStats](https://datatopics.worldbank.org/education/).** Education indicators alongside the Bank's economic data, useful for comparing countries by income level.
 
 For entering a specific country, see [international markets](international-markets.md).
