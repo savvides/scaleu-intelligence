@@ -22,7 +22,7 @@ To size a segment yourself, start with the public datasets in [market data sourc
 
 **Enrollment is growing in total and shrinking where budgets are thinnest.** In fall 2025 community colleges grew 3.0%, and private nonprofit four-year colleges lost 1.6% of their undergraduates. WICHE projects that the number of high school graduates peaked in 2025 and will fall 13% by 2041. Institutions that recruit from a smaller pool put more weight on retention and completion (ScaleU's view).
 
-**Colleges are closing and merging.** BestColleges' tracker counted 49 public or private nonprofit colleges or campuses that closed or announced closure, and 40 that merged or announced mergers, between March 2020 and its [April 16, 2026 update](https://www.bestcolleges.com/research/closed-colleges-list-statistics-major-closures/). The same page cites federal and SHEEO data, published by The Hechinger Report, showing about 312 colleges that grant at least associate degrees closed from 2008 to 2024. Higher Ed Dive keeps a [state-by-state tracker](https://www.highereddive.com/news/how-many-colleges-and-universities-have-closed-since-2016/539379/) of closures and mergers since 2016. Before you sign a multi-year contract with a small private college, read its enrollment trend in [IPEDS](market-data-sources.md).
+**Colleges are closing and merging.** BestColleges' tracker counted 49 public or private nonprofit colleges or campuses that closed or announced closure, and 40 that merged or announced mergers, between March 2020 and its [April 16, 2026 update](https://www.bestcolleges.com/research/closed-colleges-list-statistics-major-closures/). The same page cites federal and SHEEO data, published by The Hechinger Report, showing that about 312 colleges granting at least associate degrees closed from 2008 to 2024. Higher Ed Dive keeps a [state-by-state tracker](https://www.highereddive.com/news/how-many-colleges-and-universities-have-closed-since-2016/539379/) of closures and mergers since 2016. Before you sign a multi-year contract with a small private college, read its enrollment trend in [IPEDS](market-data-sources.md).
 
 **State money per student fell for public institutions.** In fiscal 2025, full-time-equivalent enrollment at public institutions rose 3.6% to 10.8 million, faster than appropriations. Net tuition revenue per student fell 3.5% after inflation to $7,459, and students paid 38.4% of education revenue (SHEEO, linked above). A public institution with more students and less money per student buys what saves staff time (ScaleU's view).
 
@@ -107,7 +107,7 @@ Four learning management systems matter:
 - Canvas (Instructure)
 - Blackboard (the company formerly called Anthology, which [emerged from Chapter 11 as Blackboard](https://blackboard.com/news/blackboard-formerly-anthology-emerges-debt-free-and-focused) on March 2, 2026)
 - D2L Brightspace
-- Moodle, which is open source
+- Moodle (open source)
 
 For ownership and other vendors, see the [competitive landscape](competitive-landscape.md#higher-education).
 
@@ -139,7 +139,6 @@ Practitioner observations, not measured:
 
 - **AI policy.** Institutions are writing AI-use policies, and your product must fit within them. See [AI risk and trust](../product/ai-risk-and-trust.md).
 - **OPM unbundling.** Institutions are moving from bundled online program management contracts toward modular services. The [competitive landscape](competitive-landscape.md#higher-education) tracks OPM company status.
-- **Transfer and articulation.** Policy attention to credit transfer between institutions continues.
 
 ## Related guides
 

@@ -31,7 +31,7 @@ Three published surveys size this budget. Their definitions and samples differ, 
 
 Two points follow. First, most training money pays internal staff: in Training magazine's count, vendors compete for about $16B of the $102.8B, or 16%. Second, ATD's figures as summarized show employers buying more hours for less money per hour. A product that lowers the cost of a learning hour fits that trend; a product that raises it must show a business result (ScaleU's view).
 
-The budget is planned annually, usually in the third and fourth quarters for the following year (practitioner estimate). The segments inside it are compliance training, skills development, leadership development, onboarding, and sales enablement.
+Employers plan the budget annually, usually in the third and fourth quarters for the following year (practitioner estimate). The segments inside it are compliance training, skills development, leadership development, onboarding, and sales enablement.
 
 ## The benefits budget: tuition assistance
 
@@ -42,7 +42,7 @@ Section 127 of the Internal Revenue Code lets an employer give each employee up 
 - Employer payments toward an employee's own student loans count against the same limit. That provision would have expired at the end of 2025; the law made it permanent ([Mercer summary](https://www.mercer.com/en-us/insights/law-and-policy/obbba-makes-tax-free-student-loan-reimbursements-permanent/), August 12, 2025).
 - Meals, lodging, transportation, and tools the employee keeps do not qualify.
 
-The limit matters for pricing. When an employer pays more than $5,250 a year for an employee's program, the excess is taxable income to the employee unless another exclusion applies.
+The limit bears on pricing: when an employer pays more than $5,250 a year for an employee's program, the excess is taxable income to the employee unless another exclusion applies.
 
 Large employers usually run the benefit through an administrator that manages the policy, the payments, and a network of approved schools and programs:
 
@@ -54,7 +54,7 @@ ScaleU's view: for a course or credential provider, the administrator is the cha
 
 ## Business-unit and frontline operations budgets
 
-Line leaders buy outside the L&D budget when a gap costs them money. The purchase is justified by an operating number, and the learning is often built into the work tool itself.
+Line leaders buy outside the L&D budget when a gap costs them money. An operating number justifies the purchase, and the learning is often built into the work tool.
 
 A speaker claim illustrates the pattern. At ASU+GSV 2026, Walmart Academy's head of content and strategy described VisPick, a computer-vision tool that tells store associates which inventory to pull. He said it cut a task of about an hour to about 20 minutes ([switch analysis](../../sources/events/2026-asu-gsv/jtbd/josh-walmart-academy-vp-20260413.md)). The figure is the speaker's account from a panel, not a verified result. An operations buyer may prefer removing the need for training to buying more of it.
 

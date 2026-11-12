@@ -6,7 +6,7 @@ Before a US district signs, your product must satisfy two federal privacy laws (
 
 ## How to use this page
 
-Start with the checklist, then read the section behind any item you cannot yet tick. The page covers federal law and example states. It is a starting point, and counsel should confirm what applies to you. For the documents a district will ask for, see [vendor review readiness](../selling/vendor-review-readiness.md); for purchasing thresholds and the budget calendar, see the [procurement guide](../selling/procurement-guide.md).
+Start with the checklist, then read the section behind any item you cannot yet tick. The page covers federal law and example states. Treat it as a starting point, and have counsel confirm what applies to you. For the documents a district will ask for, see [vendor review readiness](../selling/vendor-review-readiness.md); for purchasing thresholds and the budget calendar, see the [procurement guide](../selling/procurement-guide.md).
 
 ## Checklist for K-12 founders
 
@@ -35,14 +35,14 @@ Start with the checklist, then read the section behind any item you cannot yet t
 
 ## FERPA (Family Educational Rights and Privacy Act)
 
-FERPA is the federal law that protects the privacy of student education records. It applies to schools and agencies that receive funds from US Department of Education programs, as nearly every public K-12 school does. The regulations are at [34 CFR Part 99](https://www.ecfr.gov/current/title-34/subtitle-A/part-99); the Department's [Student Privacy Policy Office](https://studentprivacy.ed.gov/) publishes guidance for vendors.
+FERPA, a federal law, protects the privacy of student education records. It applies to schools and agencies that receive funds from US Department of Education programs, as nearly every public K-12 school does. The regulations are at [34 CFR Part 99](https://www.ecfr.gov/current/title-34/subtitle-A/part-99); the Department's [Student Privacy Policy Office](https://studentprivacy.ed.gov/) publishes guidance for vendors.
 
 What it means for founders:
 
 - A school may not disclose personally identifiable information from education records to you without written consent from a parent (or an eligible student, 18 or older) unless an exception applies.
-- The school official exception is the most common path. Under [34 CFR 99.31(a)(1)(i)(B)](https://www.ecfr.gov/current/title-34/subtitle-A/part-99/subpart-D/section-99.31), a contractor can be treated as a school official if it performs a service the school would otherwise use employees for, is under the school's direct control with respect to the records, and follows the use and redisclosure limits in [34 CFR 99.33](https://www.ecfr.gov/current/title-34/subtitle-A/part-99/subpart-D/section-99.33).
+- The school official exception is the most common path. Under [34 CFR 99.31(a)(1)(i)(B)](https://www.ecfr.gov/current/title-34/subtitle-A/part-99/subpart-D/section-99.31), a school may treat a contractor as a school official if the contractor performs a service for which the school would otherwise use employees, is under the school's direct control with respect to the records, and follows the use and redisclosure limits in [34 CFR 99.33](https://www.ecfr.gov/current/title-34/subtitle-A/part-99/subpart-D/section-99.33).
 - Under 99.33 you may use the data only for the purposes for which the school disclosed it, and you may not pass it on without consent. Advertising and other non-educational uses fall outside those purposes.
-- Expect a contract that names the data you will receive, why, and how you will protect it. FERPA sets no deletion deadline for school officials, but most state laws and data privacy agreements require you to return or delete data when the contract ends.
+- Expect a contract that names the data you will receive, why you receive it, and how you will protect it. FERPA sets no deletion deadline for school officials, but most state laws and data privacy agreements require you to return or delete data when the contract ends.
 
 Common mistakes:
 
@@ -53,7 +53,7 @@ Common mistakes:
 
 ## COPPA (Children's Online Privacy Protection Act)
 
-COPPA is the federal law that governs the online collection of personal information from children under 13. The FTC enforces it. The rule is at [16 CFR Part 312](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312).
+COPPA, a federal law, governs the online collection of personal information from children under 13. The FTC enforces it. The rule is at [16 CFR Part 312](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312).
 
 **The 2025 amendments.** The FTC [amended the COPPA Rule](https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule) (published April 22, 2025; effective June 23, 2025). Most operators had to comply by April 22, 2026. Among the changes, operators now need:
 
@@ -63,7 +63,7 @@ COPPA is the federal law that governs the online collection of personal informat
 
 The FTC proposed rules for edtech and school authorization but left them out of the final rule. The Department of Education had said it intended to propose FERPA amendments, and the FTC wanted to avoid a conflict. A search of the Federal Register on November 11, 2026, found no proposed FERPA rule. The FTC said it will continue to enforce COPPA in schools under its existing guidance, described below.
 
-**What it means for founders:**
+What it means for founders:
 
 - COPPA applies if your product is directed at children under 13, or if you have actual knowledge that a user is under 13.
 - You must obtain verifiable parental consent before collecting personal information, unless the school authorizes collection as described below.
@@ -76,7 +76,7 @@ The FTC proposed rules for edtech and school authorization but left them out of 
 - You must give the school full notice of your collection, use, and disclosure practices.
 - The FAQ recommends, as a best practice, that schools make those notices available to parents.
 
-**Age screening.** Under FAQ D.4, a service directed to children must in most cases treat every user as a child. Age screening is for general-audience or mixed-audience services that want to identify users under 13; it does not exempt a child-directed product.
+**Age screening.** Under FAQ D.4, a service directed to children must usually treat every user as a child. Age screening is for general-audience or mixed-audience services that want to identify users under 13; it does not exempt a child-directed product.
 
 Common mistakes:
 
@@ -121,7 +121,7 @@ Read the NDPA template early. A vendor that signs it unmodified clears one of pr
 
 Which date applies depends on the population of the jurisdiction the district serves ([28 CFR 35.200](https://www.ecfr.gov/current/title-28/chapter-I/part-35/subpart-H/section-35.200)). The standard did not change, and DOJ said it may revisit the rule, so check the current text. The regulation and the Department's page both showed these two dates on November 11, 2026.
 
-**Voluntary Product Accessibility Template (VPAT).** Many districts and states require a completed VPAT during procurement. It documents how your product conforms to accessibility standards.
+**Voluntary Product Accessibility Template (VPAT).** During procurement, many districts and states require a completed VPAT, which documents how your product conforms to accessibility standards.
 
 ## AI-specific federal guidance
 
@@ -130,7 +130,7 @@ We found no federal statute specific to AI in schools as of October 2026. Two De
 - A [July 22, 2025 guidance letter](https://www.ed.gov/about/news/press-release/us-department-of-education-issues-guidance-artificial-intelligence-use-schools-proposes-additional-supplemental-priority) on using existing federal grant funds for AI tools, tutoring, and advising.
 - A [final supplemental grant priority on advancing AI in education](https://www.federalregister.gov/documents/2026/04/13/2026-07087/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing), effective May 13, 2026, which the Department may apply to its discretionary grant competitions.
 
-Many states and districts publish their own AI guidance; check the state you are selling into. For product-level risk, see [AI risk and trust](../product/ai-risk-and-trust.md).
+Many states and districts publish their own AI guidance; check the state where you sell. For product-level risk, see [AI risk and trust](../product/ai-risk-and-trust.md).
 
 ## State AI requirements
 

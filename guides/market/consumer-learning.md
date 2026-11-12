@@ -16,7 +16,7 @@ This table is ScaleU's view, drawn from the record below.
 | Use is frequent enough to form a habit, or the stakes are high enough to pay once | Use is occasional and the stakes are low |
 | You can live with monthly churn | You need multi-year contracts to fund the product |
 
-The consumer route trades a long sales cycle for a marketing problem. No procurement office stands in your way, and no contract holds your customer.
+The consumer route trades a long sales cycle for a marketing problem.
 
 ## Business models
 
@@ -43,13 +43,13 @@ Figures come from the companies' own filings and releases, except where a press 
 | Nerdy (Varsity Tutors) | Third quarter 2026: revenue $33.2 million, down 10%; 31.8 thousand active members; $366 average revenue per member per month; net loss $12.8 million ([release, November 9, 2026](https://www.sec.gov/Archives/edgar/data/0001819404/000119312526453578/d142075dex992.htm)) | Consumers supplied 93% of revenue. Nerdy is winding down Varsity Tutors for Schools, its school business ([Form 10-Q](https://www.sec.gov/Archives/edgar/data/0001819404/000181940426000103/nrdy-20260930.htm)). |
 | Khan Academy | Khanmigo costs learners and families $4 a month or $44 a year, is free for teachers, and is quoted by request for districts ([pricing page](https://www.khanmigo.ai/pricing), checked November 2026) | A nonprofit has set the reference price for an AI tutor. |
 
-Quizlet, Photomath, Outschool, and MasterClass do not appear here: no current figures from their own filings or releases could be verified for this guide.
+Quizlet, Photomath, Outschool, and MasterClass are omitted: no current figures from their own filings or releases could be verified.
 
-ScaleU's view: the record turns on what the customer was buying. Duolingo sells a habit that its users return to every day. Chegg sold answers, and answers became free.
+ScaleU's view: the record turns on what the customer bought. Duolingo sells a daily habit. Chegg sold answers, and answers became free.
 
 ## Acquisition and app-store economics
 
-Chegg's account of its decline is a warning about channels. By that account, search traffic fed its subscriptions, and the traffic fell when Google began answering questions on the results page. A company with one acquisition channel has handed its growth to that channel's owner. [Unit economics](../business/unit-economics.md) gives Chegg's traffic figures.
+Chegg's account of its decline warns against relying on one channel. By that account, search traffic fed its subscriptions and fell when Google began answering questions on the results page. A company with one acquisition channel has handed its growth to that channel's owner. [Unit economics](../business/unit-economics.md) gives Chegg's traffic figures.
 
 App stores take a share of every in-app sale. Terms change often; check the linked pages before you model them.
 
@@ -65,7 +65,7 @@ ScaleU's view: sell on the web first where the rules allow, and treat the store 
 No school stands between a consumer product and the family, so the duties fall on the company.
 
 - **COPPA.** A service directed to children under 13 needs verifiable parental consent before it collects personal information. The FTC amended the rule on April 22, 2025; the changes and compliance dates are in [K-12 regulation](k12-regulatory.md). A court can impose civil penalties of up to $53,088 per violation ([FTC COPPA FAQ](https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions)). School authorization does not cover a product sold to parents.
-- **App-store age laws.** A district court blocked Texas SB 2420, [effective January 1, 2026](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2420), in December 2025, and a federal appeals court later stayed that injunction ([Google Play](https://support.google.com/googleplay/android-developer/answer/16569691?hl=en)). Apple has applied the law to new accounts in Texas since June 4, 2026: age assurance, and a parent's consent for downloads, in-app purchases, and significant app changes by anyone under 18. Apple says similar laws take effect in Utah and Louisiana in 2026 ([Apple developer news](https://developer.apple.com/news/), items of December 23, 2025, and June 3, 2026). Both stores give apps an age-range signal, through Apple's Declared Age Range API and Google's Play Age Signals API. Each store leaves it to the developer to decide what the law requires of the app.
+- **App-store age laws.** In December 2025 a district court blocked Texas SB 2420, [effective January 1, 2026](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2420), and a federal appeals court later stayed that injunction ([Google Play](https://support.google.com/googleplay/android-developer/answer/16569691?hl=en)). Apple has applied the law to new accounts in Texas since June 4, 2026: age assurance, and a parent's consent for downloads, in-app purchases, and significant app changes by anyone under 18. Apple says similar laws take effect in Utah and Louisiana in 2026 ([Apple developer news](https://developer.apple.com/news/), items of December 23, 2025, and June 3, 2026). Both stores give apps an age-range signal, through Apple's Declared Age Range API and Google's Play Age Signals API. Each store leaves the developer to decide what the law requires of the app.
 - **State design codes.** Maryland's Kids Code took effect October 1, 2024, and required data protection impact assessments by April 1, 2026, for online products children are likely to use ([HB 603](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0603?ys=2024RS)). Vermont's age-appropriate design code takes effect January 1, 2027 ([Act 63](https://legislature.vermont.gov/bill/status/2026/S.69)). Have counsel check each state where you sell; these laws change and draw court challenges.
 
 ScaleU's view: decide early whether the parent or the child holds the account. A parent account with child profiles makes consent, billing, and a regulator's questions simpler.
@@ -86,13 +86,13 @@ Education savings accounts turn a parent into a buyer spending state funds. EdCh
 
 Families spend through a state's chosen platform, and a vendor must be approved on it. [ClassWallet](https://www.classwallet.com/) names New Hampshire's ESA program and Alabama's CHOOSE Act among its clients. [Odyssey](https://withodyssey.com/) says it works with 10 states and has distributed more than $2 billion; it helps administer the Texas program.
 
-ScaleU's view: this channel is real and still small. Each state approves vendors separately and writes its own rules on eligible purchases, and each legislature sets the program's budget every year. Treat it as one channel among several, and start with the two or three states where your product plainly qualifies.
+ScaleU's view: this channel is still small. Each state approves vendors separately and writes its own rules on eligible purchases, and each legislature sets the program's budget every year. Treat it as one channel among several, and start with the two or three states where your product plainly qualifies.
 
 ## Moving from consumer to institutions
 
-Companies move in both directions. Coursera, a consumer brand, now earns more from enterprise customers than from consumers. Khan Academy sells Khanmigo to districts beside its $4 family plan. Nerdy went the other way and is closing its school line to concentrate on consumers.
+The public record shows moves in both directions: Coursera toward enterprise customers, Khan Academy toward districts, and Nerdy back to consumers.
 
-ScaleU's view: consumer usage can open an institution's door, but the institution buys a different product, one with rostering, privacy terms, reporting, and evidence. Budget for that work (see [interoperability](../product/interoperability.md), [vendor review readiness](../selling/vendor-review-readiness.md), and [go-to-market](../selling/go-to-market.md)). Consumer users are not institutional demand; test that demand separately, as [demand validation](../demand/demand-validation.md) describes.
+ScaleU's view: consumer usage can open an institution's door, but the institution buys a different product, one with rostering, privacy terms, reporting, and evidence. Budget for that work (see [interoperability](../product/interoperability.md), [vendor review readiness](../selling/vendor-review-readiness.md), and [go-to-market](../selling/go-to-market.md)). Consumer use does not prove institutional demand; test that demand separately, as [demand validation](../demand/demand-validation.md) describes.
 
 ## Questions to answer before raising money
 
@@ -101,7 +101,7 @@ These questions are ScaleU's view of what an investor will ask.
 1. Who pays, the learner or the parent, and what do they stop paying for when they start paying you?
 2. What does your product do that a free AI assistant does not, and will that still be true in a year?
 3. What share of new users arrive without paid marketing, and which single channel, if it changed its rules, would cut that in half?
-4. What are retention at month 1, month 3, and month 12, by cohort, and does the product have a natural end (an exam date, a school year)?
+4. What is retention at months 1, 3, and 12, by cohort, and does the product have a natural end (an exam date, a school year)?
 5. What is the payback period on acquisition cost after app-store fees and refunds?
 6. How often does a retained user return each week, and what brings them back?
 7. If children use it, who holds the account, how do you obtain consent, and which state laws apply?
@@ -120,4 +120,4 @@ The [fundraising guide](../business/fundraising.md) covers how investors weigh t
 - [International markets](international-markets.md), for children's privacy law abroad
 
 ---
-*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day: the Duolingo, Coursera, and Nerdy filings at sec.gov, the Chegg release, the Khanmigo, Apple, and Google Play pages, the FTC's COPPA FAQ, the Texas, Maryland, and Vermont legislature pages, the Google and Anthropic announcements, and the EdChoice, Texas, ClassWallet, and Odyssey pages were reopened and confirmed. Corrected that day: the Google Play fee schedule (10% applies to all sales in the first $1 million, not to subscriptions alone) and Chegg's description of itself. Resting on press reports, as marked: Chegg's layoffs and lawsuit (K-12 Dive) and ChatGPT study mode (TechCrunch). Not verified: the effective dates of the Utah and Louisiana app-store laws, which Apple gives only as 2026. Statements labeled as ScaleU's view are judgment, not data.*
+*Facts checked 2026-11-11 against the linked sources, with an independent spot-check the same day: the Duolingo, Coursera, and Nerdy filings at sec.gov, the Chegg release, the Khanmigo, Apple, and Google Play pages, the FTC's COPPA FAQ, the Texas, Maryland, and Vermont legislature pages, the Google and Anthropic announcements, and the EdChoice, Texas, ClassWallet, and Odyssey pages were reopened and confirmed. Corrected that day: the Google Play fee schedule (10% applies to all sales in the first $1 million, not to subscriptions alone) and Chegg's description of itself. Resting on press reports, as marked: Chegg's layoffs and lawsuit (K-12 Dive). Not verified: the effective dates of the Utah and Louisiana app-store laws, which Apple gives only as 2026. Statements labeled as ScaleU's view are judgment, not data.*

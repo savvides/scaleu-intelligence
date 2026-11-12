@@ -63,7 +63,7 @@ For the market itself, see the [K-12 landscape](k12-landscape.md).
 
 ### LMS and course delivery
 
-- **Canvas (Instructure)**: Instructure was [taken private by KKR and Dragoneer](https://www.instructure.com/press-release/kkr-and-dragoneer-complete-acquisition-instructure) in November 2024
+- **Canvas (Instructure)**: [taken private by KKR and Dragoneer](https://www.instructure.com/press-release/kkr-and-dragoneer-complete-acquisition-instructure) in November 2024
 - **Blackboard**: Anthology, Blackboard's parent, filed for Chapter 11 in September 2025 and sold its other units. It [emerged as Blackboard](https://blackboard.com/news/blackboard-formerly-anthology-emerges-debt-free-and-focused) on March 2, 2026. The announcement thanks the company's financial sponsors and leaves them unnamed.
 - **D2L Brightspace**: used by many community colleges and Canadian institutions. In April 2026 D2L [received an unsolicited take-private proposal](https://ca.finance.yahoo.com/news/d2l-inc-responds-media-report-163800449.html). D2L's [newsroom](https://www.d2l.com/newsroom/) listed no transaction on November 11, 2026, and the outcome was not verified.
 - **Moodle**: open source, widely used internationally
