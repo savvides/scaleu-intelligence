@@ -1,6 +1,6 @@
 # Evidence roadmap: from logic model to a study a buyer accepts
 
-Build evidence in the order buyers ask for it: a logic model first, then a comparison-group study on an outcome the buyer already reports, run or checked by someone other than you. A before-and-after chart of your own users counts with no reviewer.
+Build evidence in the order buyers ask for it: a logic model first, then a comparison-group study on an outcome the buyer already reports, run or checked by someone other than you. No reviewer counts a before-and-after chart of your own users.
 
 **Applies to:** K-12 first; higher ed and workforce where noted. United States.
 
@@ -71,7 +71,7 @@ Status checked November 11, 2026, at each organization's own site unless noted. 
 
 ## Higher ed and workforce
 
-ESSA tiers do not bind colleges, but the Department's grant definitions do apply to its postsecondary programs (see [evidence tiers](evidence-tiers.md#who-this-applies-to)). The outcomes buyers report are retention, completion, and, under the federal earnings test that takes effect July 1, 2027, graduate earnings (see [higher ed](../market/highered-landscape.md#policy-changes-that-move-budgets)). Retention is measured once a year, so plan a full-year study and ask the institutional research office to build the comparison group; see [retention pilots](../selling/pilot-benchmarks.md#advising-retention-and-persistence-pilots). For employers, see [corporate L&D](../market/corporate-ld.md). ScaleU's view: workforce buyers accept time to proficiency, completion, and placement measured against a prior cohort, a weaker design you should label as such.
+ESSA tiers do not bind colleges, but the Department's grant definitions apply to its postsecondary programs (see [evidence tiers](evidence-tiers.md#who-this-applies-to)). The outcomes buyers report are retention, completion, and, under the federal earnings test that takes effect July 1, 2027, graduate earnings (see [higher ed](../market/highered-landscape.md#policy-changes-that-move-budgets)). Retention is measured once a year, so plan a full-year study and ask the institutional research office to build the comparison group; see [retention pilots](../selling/pilot-benchmarks.md#advising-retention-and-persistence-pilots). For employers, see [corporate L&D](../market/corporate-ld.md). ScaleU's view: workforce buyers accept time to proficiency, completion, and placement measured against a prior cohort, a weaker design you should label as such.
 
 ## Report null and mixed results honestly
 
@@ -86,7 +86,7 @@ More than a third of trial effect sizes fall below 0.05 SD (Kraft, 2023, above),
 
 Measure what learners can do without the tool. In a field experiment with nearly 1,000 high school math students, access to a standard GPT-4 chat interface raised practice grades by 48% but lowered later unassisted scores by 17% against students who never had access; a version with tutoring safeguards largely removed the harm ([Bastani et al., 2025](https://doi.org/10.1073/pnas.2422633122)). A review of 69 ChatGPT experiments found gains but warned that posttests often failed to separate student learning from the quality of the tool's output ([Deng et al., 2024](https://doi.org/10.1016/j.compedu.2024.105224)).
 
-ScaleU's view: record the model version and prompts in every study, since the product a study tested may no longer exist; rerun a short randomized comparison after each major model change; and report accuracy and error rates on the buyer's own content. State AI procurement checks are in [evidence tiers](evidence-tiers.md#what-state-buyers-are-starting-to-check-k-12-2026); design risks are in [AI risk and trust](../product/ai-risk-and-trust.md).
+ScaleU's view: record the model version and prompts in every study, because the product a study tested may no longer exist; rerun a short randomized comparison after each major model change; and report accuracy and error rates on the buyer's own content. State AI procurement checks are in [evidence tiers](evidence-tiers.md#what-state-buyers-are-starting-to-check-k-12-2026); design risks are in [AI risk and trust](../product/ai-risk-and-trust.md).
 
 ## Related guides
 

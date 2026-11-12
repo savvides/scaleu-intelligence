@@ -1,6 +1,6 @@
 # Go-to-market: sales motions and channels
 
-Pick one motion that matches your price and your buyer, make it repeat, and add a second only when the first produces renewals. Most channels on this page shorten a sale you have already won; few of them create demand.
+Pick one motion that matches your price and your buyer, make it repeat, and add a second only when the first produces renewals. Most channels on this page shorten a sale you have already won; few create demand.
 
 **Applies to:** K-12 and higher ed, with pointers for consumer. United States.
 
@@ -20,17 +20,17 @@ Price bands and cycle lengths are practitioner estimates. Use the [procurement g
 
 ## Bottom-up adoption
 
-Teachers and faculty can try a tool without asking anyone, which makes this the cheapest way to get usage and the least certain way to get revenue. The [higher-ed guide](../market/highered-landscape.md#selling-to-higher-ed) makes the same point about faculty autonomy.
+Because teachers and faculty can try a tool without asking anyone, this motion is the cheapest way to get usage and the least certain way to get revenue. The [higher-ed guide](../market/highered-landscape.md#selling-to-higher-ed) makes the same point about faculty autonomy.
 
-The motion works when three things are true. An administrator gets something the free version withholds: rostering, single sign-on, school-level reporting, a signed data privacy agreement. Usage clusters, so you can show a principal that 14 of her teachers already use the product. And the first paid step sits under the buyer's informal purchase threshold.
+The motion works when three things are true. An administrator gets something the free version withholds: rostering, single sign-on, school-level reporting, or a signed data privacy agreement. Usage clusters, so you can show a principal that 14 of her teachers already use the product. And the first paid step sits under the buyer's informal purchase threshold.
 
-The common failure is free use that never converts. ScaleU's view: it has four usual causes. The free tier already does the whole job. The teacher has no budget, and nobody with a budget feels the problem. Usage is spread one teacher per school, so no single account is worth a call. Or the district blocks the product once its privacy review catches up with what teachers installed. A search on November 11, 2026, found no public dataset on freemium conversion rates in edtech, so treat any percentage you are quoted as anecdote. The nearest hard evidence is on the other side of the sale: a Glimpse K12 analysis of about 200,000 curriculum software licenses bought by 275 schools in 2017–18 found that 67% went unused ([EdWeek Market Brief, 2019](https://marketbrief.edweek.org/marketplace-k-12/unused-educational-software-major-source-wasted-k-12-spending-new-analysis-finds/)). The sample is small and old, but the lesson holds in both directions: adoption without purchase earns nothing, and purchase without use does not renew.
+The common failure is free use that never converts. ScaleU's view: it has four usual causes. The free tier already does the whole job. The teacher has no budget, and nobody with a budget feels the problem. Usage is spread one teacher per school, so no single account is worth a call. Or the district blocks the product once its privacy review catches up with what teachers installed. A search on November 11, 2026, found no public dataset on freemium conversion rates in edtech, so treat any percentage you are quoted as anecdote. The nearest hard evidence comes from the other side of the sale: a Glimpse K12 analysis of about 200,000 curriculum software licenses bought by 275 schools in 2017–18 found that 67% went unused ([EdWeek Market Brief, 2019](https://marketbrief.edweek.org/marketplace-k-12/unused-educational-software-major-source-wasted-k-12-spending-new-analysis-finds/)). The sample is small and old, but the lesson holds in both directions: adoption without purchase earns nothing, and purchase without use does not renew.
 
 Decide before launch what event triggers a sales conversation (for example, five active teachers in one school), and measure conversion from that event, not from sign-ups. Test demand first with the methods in [demand validation](../demand/demand-validation.md).
 
 ## Top-down enterprise sales
 
-Selling to the district or institution is slow and expensive, and it is the only motion that reliably produces contracts above $25,000. Expect a pilot ([pilot playbook](edtech-pilot-playbook/README.md)), a security and privacy review, and a budget cycle. Founders should run the first ten of these sales themselves: the objections you hear are product research. Hire a seller once you can write down why the last five deals closed.
+Selling to the district or institution is slow and expensive, but no other motion reliably produces contracts above $25,000. Expect a pilot ([pilot playbook](edtech-pilot-playbook/README.md)), a security and privacy review, and a budget cycle. Run the first ten of these sales yourself: the objections you hear are product research. Hire a seller once you can write down why the last five deals closed.
 
 ## State-level sales and adoption lists
 
@@ -38,7 +38,7 @@ A state can be a customer, a gatekeeper, or both. As a customer, a state agency 
 
 Texas shows how formal the gatekeeper role can be. The State Board of Education's Instructional Materials Review and Approval process, created by House Bill 1605, calls for materials through a Request for Instructional Materials. The 2027 cycle covers subjects including K-12 mathematics, English and Spanish language arts, career and technical education, fine arts, and languages other than English. Its request was published June 30, 2026, and publisher interest forms closed September 2, 2026 ([SBOE publisher page](https://sboe.texas.gov/state-board-of-education/imra/imra-publishers)). Miss a window and you wait a year.
 
-These lists mostly cover core and supplemental curriculum. Newer state lists review AI tools; see [state AI requirements](../market/k12-regulatory.md#state-ai-requirements). In either case a listing is permission to sell, and each district still has to be sold.
+These lists mostly cover core and supplemental curriculum. Newer state lists review AI tools; see [state AI requirements](../market/k12-regulatory.md#state-ai-requirements). Either way, a listing is permission to sell; you still have to sell each district.
 
 ## Resellers and channel partners
 
@@ -74,7 +74,7 @@ A listing puts you where an administrator already manages apps. It proves the in
 | [Microsoft Marketplace](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/marketplace-faq-publisher-guide) | Accept the Microsoft Partner and Publisher agreements; publish through Partner Center | No listing fee; 3% on transactable offers |
 | [AWS Marketplace](https://docs.aws.amazon.com/marketplace/latest/userguide/user-guide-for-sellers.html) | Seller registration; for paid products, tax forms and a bank account | [Listing fees](https://docs.aws.amazon.com/marketplace/latest/userguide/listing-fees.html): 3% on public SaaS offers; private offers 3% under $1M, 2% from $1M to under $10M, 1.5% at $10M and above and on renewals |
 
-Do Clever and ClassLink first if you sell to K-12 districts: an IT director's first question is whether the product rosters automatically. The cloud marketplaces matter in higher ed and workforce, where a buyer can pay you through an existing Microsoft or AWS agreement and skip new-vendor setup.
+Start with Clever and ClassLink if you sell to K-12 districts: an IT director's first question is whether the product rosters automatically. The cloud marketplaces matter in higher ed and workforce, where a buyer can pay you through an existing Microsoft or AWS agreement and skip new-vendor setup.
 
 ## Conferences
 
@@ -101,7 +101,7 @@ If the user and the budget holder are different people and you cannot name the b
 
 ## Adding a second motion
 
-Add a second motion when the first renews, and choose the one your customers are already asking for.
+Add a second motion when the first renews, and choose the one your customers already ask for.
 
 - Bottom-up to top-down: when several schools in one district pay separately, offer the district one contract. Your usage data is the pitch.
 - Direct to cooperative or reseller: when buyers say yes and then stall on purchasing mechanics.

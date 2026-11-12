@@ -36,7 +36,7 @@ Items 1 through 6 cost time and little money. Do them first: together they answe
 
 - **New York.** [Education Law 2-d](https://www.nysenate.gov/legislation/laws/EDN/2-D) requires every contract to carry a data security and privacy plan and a signed copy of the district's parents' bill of rights. Staff with access to the data must be trained on confidentiality law. The statute sets civil penalties and lets the state bar a vendor from receiving data for up to five years. The regulation, [8 NYCRR 121.9](https://www.law.cornell.edu/regulations/new-york/8-NYCRR-121.9), requires practices aligned with the NIST Cybersecurity Framework and encryption of personal data in motion and at rest, and bans sale or commercial use. Expect each district to send its own rider.
 - **Texas.** [Education Code 32.152](https://texas.public.law/statutes/tex._educ._code_section_32.152) bars operators from targeted advertising based on school-purpose data, from building student profiles for non-school purposes, and from selling or renting student information. Neighboring sections cover protection and deletion. Public universities and state agencies may also require certification under [TX-RAMP](https://dir.texas.gov/information-security/texas-risk-and-authorization-management-program-tx-ramp), the state's assessment program for cloud services; ask the institution whether your product falls in scope.
-- **California and Illinois.** SOPIPA and SOPPA are summarized in the [regulatory guide](../market/k12-regulatory.md#state-student-privacy-laws). Illinois matters operationally because districts must post each vendor agreement publicly, so your signed terms become visible to competitors and to other buyers. Neither statute's site could be reopened on November 11, 2026, so rely on that guide's dated check.
+- **California and Illinois.** SOPIPA and SOPPA are summarized in the [regulatory guide](../market/k12-regulatory.md#state-student-privacy-laws). Illinois districts must post each vendor agreement publicly, so competitors and other buyers can read your signed terms. Neither statute's site could be reopened on November 11, 2026, so rely on that guide's dated check.
 
 **K-12 security questionnaire.** CoSN's [K-12CVAT](https://www.cosn.org/tools-and-resources/resource/k-12cvat/) (Lite version 4.1) is a free questionnaire modeled on higher ed's HECVAT Lite. Complete it once and send the same file to every district.
 
@@ -62,7 +62,7 @@ Write the report from real testing with a screen reader and a keyboard. Mark cri
 
 ## Badges and ratings
 
-None of these is required by law. Pursue one when a buyer names it.
+The law requires none of these. Pursue one when a buyer names it.
 
 | Program | What it is | What it takes |
 |---|---|---|
@@ -82,7 +82,7 @@ Buyers now add AI questions to every review, and they doubt vendor answers. The 
 
 Some states now review AI tools themselves; see [state AI requirements](../market/k12-regulatory.md#state-ai-requirements).
 
-Write one page that answers the questions these have in common (ScaleU's synthesis):
+Write one page that answers the questions these frameworks share (ScaleU's synthesis):
 
 1. Which features use AI, and which model provider receives the data?
 2. Does any customer or student data train a model, yours or the provider's?

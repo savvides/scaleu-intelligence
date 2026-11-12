@@ -49,7 +49,7 @@ Start with 3 to 5 classrooms: enough data to show patterns, few enough to suppor
 
 ## Success metrics that matter
 
-**Engagement shows the pilot ran.** Track the share of enrolled users who use the product regularly, session frequency and duration, feature adoption, and the volume and nature of support tickets.
+**Engagement shows the pilot ran.** Track the share of enrolled users who use the product regularly, session frequency and duration, feature adoption, and the volume and kind of support tickets.
 
 Practitioner estimate: a healthy pilot shows 60-80% weekly active usage among enrolled participants, and usage below 40% points to a failure of implementation more often than of the product. These figures came into the library with Founder Stack's first version, which cites no source. They are not measured rates. Agree on a usage target with the buyer before launch, based on how often the product is meant to be used.
 
@@ -71,12 +71,12 @@ Education research reports effects in standard deviations (SD), so those percent
 
 These are practitioner observations, not rechecked against a source.
 
-1. **No champion.** The pilot was mandated, and nobody volunteered. Adoption suffers.
-2. **Thin onboarding.** Teachers or faculty were never shown how to fit the tool into instruction, and used a fraction of it.
+1. **No champion.** The pilot was mandated, and nobody volunteered. Adoption suffered.
+2. **Thin onboarding.** Nobody showed teachers or faculty how to fit the tool into instruction, and they used a fraction of it.
 3. **Wrong metrics.** The pilot measured engagement and the buyer wanted outcomes, or it measured outcomes on the wrong assessment.
 4. **Too much ambition.** One pilot tried to prove everything. Choose one or two outcomes.
 5. **No comparison.** Without a baseline or comparison group, the pilot yields an anecdote ("students liked it") where the buyer needed evidence ("pilot sections scored higher than comparison sections").
-6. **Inconsistent use.** Each teacher used the product differently, so there was no single treatment to evaluate.
+6. **Inconsistent use.** Each teacher used the product differently, so the pilot had no single treatment to evaluate.
 
 ## Advising, retention, and persistence pilots
 
@@ -115,7 +115,7 @@ Put the pilot in writing before launch. The [pilot agreement template](../templa
 
 ## IRB considerations
 
-Review by an institutional review board (IRB) is likely required when the pilot collects data about people for research, meaning to produce generalizable knowledge. It may not be required when the pilot is purely internal quality improvement or product evaluation. The institution's IRB office makes the call; ask it.
+Review by an institutional review board (IRB) is likely required when the pilot collects data about people for research, that is, to produce generalizable knowledge. It may not be required when the pilot is purely internal quality improvement or product evaluation. The institution's IRB office makes the call; ask it.
 
 - **Publishing or marketing the results.** If you plan either, seek IRB approval. It adds credibility and protects you legally (practitioner advice).
 - **Many classroom studies qualify for exemption.** Under the federal Common Rule, the exemption categories include research in established educational settings on normal educational practices that are not likely to adversely affect students' opportunity to learn ([45 CFR 46.104(d)(1)](https://www.law.cornell.edu/cfr/text/45/46.104)), and research that only uses educational tests, surveys, interviews, or observation of public behavior, subject to conditions on identifiability and risk (46.104(d)(2)). Expedited review is for minimal-risk research in categories on a federal list ([45 CFR 46.110](https://www.law.cornell.edu/cfr/text/45/46.110)). Ask the IRB office which applies to your study.
@@ -124,7 +124,7 @@ Review by an institutional review board (IRB) is likely required when the pilot 
 
 ## Pilot-to-contract conversion
 
-These are practitioner estimates, not measured rates. They came into the library with Founder Stack's first version, which cites no study, dataset, or sample size. A search on October 30, 2026 found no published source that reports such rates. The closest published study, [Piloting Ed-tech Products in K-12 Public Schools](https://digitalpromise.org/wp-content/uploads/2016/02/UCDavis_EdTechPilotReport.pdf) (UC Davis for Digital Promise, 2015, six K-12 districts), reports no conversion rate. It found that the districts defined pilot success differently.
+These are practitioner estimates, not measured rates. They came into the library with Founder Stack's first version, which cites no study, dataset, or sample size. A search on October 30, 2026, found no published source that reports such rates. The closest published study, [Piloting Ed-tech Products in K-12 Public Schools](https://digitalpromise.org/wp-content/uploads/2016/02/UCDavis_EdTechPilotReport.pdf) (UC Davis for Digital Promise, 2015, six K-12 districts), reports no conversion rate. It found that the districts defined pilot success differently.
 
 | Pilot | Conversion to a paid contract (estimate) |
 |---|---|

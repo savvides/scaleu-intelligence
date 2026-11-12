@@ -1,6 +1,6 @@
 # ESSA evidence tiers
 
-Federal law defines four levels of evidence, and each is set by the design of the study behind a product, not by how good its results look. Know which tier you hold, claim no more, and plan the study that earns the next one.
+Federal law defines four levels of evidence and sets each by the design of the study behind a product, not by how good the results look. Know which tier you hold, claim no more, and plan the study that earns the next one.
 
 **Applies to:** K-12, United States, where the tiers are law. Higher-ed founders should read [Who this applies to](#who-this-applies-to) first: the statute does not cover colleges, though federal grant rules use the same four levels.
 
@@ -28,7 +28,7 @@ The study-design column states the law: the Elementary and Secondary Education A
 Two limits on what a tier buys:
 
 - **School improvement funds exclude Tier 4.** Only the first three tiers count for school-improvement activities funded under ESEA section 1003 ([20 U.S.C. 6303](https://www.law.cornell.edu/uscode/text/20/6303)); "demonstrates a rationale" does not (20 U.S.C. 7801(21)(B)).
-- **A testimonial is not a tier.** Founders tend to overstate their evidence. Telling a district technology officer that you have strong evidence on the basis of a teacher's quote costs you the officer's trust (ScaleU's view).
+- **A testimonial is not a tier.** Founders tend to overstate their evidence. Tell a district technology officer that a teacher's quote is strong evidence, and you lose the officer's trust (ScaleU's view).
 
 ## Who this applies to
 
@@ -36,8 +36,8 @@ Two limits on what a tier buys:
 
 **Higher ed.** ESSA's definition does not reach colleges and universities. Three sources take its place.
 
-- **Federal grants.** 34 CFR 77.1 defines the same four levels. It applies across the Department's regulations, including those of its Office of Postsecondary Education ([34 CFR subtitle B, chapter VI](https://www.law.cornell.edu/cfr/text/34/subtitle-B)). The definitions are tied to WWC standards, and a single experimental study counts as strong evidence only if it includes at least 350 students or other individuals across more than one site, such as more than one postsecondary campus.
-- **Published reviews.** WWC practice guides grade the evidence for postsecondary practices. One example is [Effective Advising for Postsecondary Students](https://ies.ed.gov/ncee/WWC/PracticeGuide/28) (2021). Cite a guide as the research base for your logic model if its studies match your population.
+- **Federal grants.** 34 CFR 77.1 defines the same four levels. It applies across the Department's regulations, including those of its Office of Postsecondary Education ([34 CFR subtitle B, chapter VI](https://www.law.cornell.edu/cfr/text/34/subtitle-B)). The definitions rest on WWC standards, and a single experimental study counts as strong evidence only if it includes at least 350 students or other individuals across more than one site, such as more than one postsecondary campus.
+- **Published reviews.** WWC practice guides grade the evidence for postsecondary practices; [Effective Advising for Postsecondary Students](https://ies.ed.gov/ncee/WWC/PracticeGuide/28) (2021) is one. Cite a guide as the research base for your logic model if its studies match your population.
 - **What university buyers ask for.** The Cracking Higher Ed framework uses a retention analytics tool to show how evidence needs differ by role: the provost wants year-over-year retention, and the advisor wants proof of time saved ([Cracking Higher Ed](../../sources/events/2026-sxsw-edu/README.md#3-identify-the-buyer-not-just-the-user)). At an ASU+GSV 2026 roundtable, an innovation director at a business school said results from two or three peer universities would help him make the case internally ([EdTech pilot playbook](../selling/edtech-pilot-playbook/README.md#what-we-heard-from-institutional-leaders), speaker claim). See [pilot benchmarks](../selling/pilot-benchmarks.md) for how to design a pilot that produces this evidence.
 
 ## Evidence investors expect by stage
@@ -58,11 +58,11 @@ The [evidence roadmap](evidence-roadmap.md) sets out the path from logic model t
 1. **Stop reporting logins as evidence.** Usage shows that the product ran; an outcome shows that students learned.
 2. **Choose one outcome.** Pick a single measurable learning goal.
 3. **Use pilot data to locate the need.** Find where the student's problem meets a capacity constraint at the institution.
-4. **Find a research partner early.** University researchers want publications and you want proof; the trade is fair.
+4. **Find a research partner early.** University researchers want publications, and you want proof; the trade is fair.
 
 ## Evidence for AI products
 
-ScaleU's view, not part of the law: an [AI-native](../product/ai-native-framework.md) product needs a tier and more. Investors and experienced buyers also look for behavior change. Ask whether the AI changes how the user works or only speeds up the old task. The measure is the reversion rate: if the AI were switched off today, would users wait for it to return, or go straight back to their old workaround? Users who go straight back have not changed their behavior.
+ScaleU's view, not part of the law: an [AI-native](../product/ai-native-framework.md) product needs a tier and more. Investors and experienced buyers also look for behavior change. Ask whether the AI changes how the user works or only speeds up the old task. The measure is the reversion rate: if the AI were switched off today, users who wait for it to return have changed their behavior, and users who go straight back to their old workaround have not.
 
 ## What state buyers are starting to check (K-12, 2026)
 

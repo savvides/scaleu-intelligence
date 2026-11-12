@@ -39,7 +39,7 @@ Answer these questions before you evaluate a single product. They separate insti
 
 ### Part 1: Needs discovery
 
-Most institutions are pitched before they have defined what they are looking for. They end up reacting to what vendors offer. Start with four questions.
+Most institutions hear pitches before they have defined what they want, and end up reacting to what vendors offer. Start with four questions.
 
 **1. What specific gap in the student journey are you trying to close?**
 
@@ -61,7 +61,7 @@ A pilot that nobody owns dies, whatever the product's quality.
 
 **4. What are you doing about the problem today?**
 
-There is always a workaround: spreadsheets, manual processes, adjunct labor, patched-together tools. Name it, and estimate what it costs in time, money, or outcomes.
+A workaround always exists: spreadsheets, manual processes, adjunct labor, patched-together tools. Name it, and estimate what it costs in time, money, or outcomes.
 
 If nothing is being done and nobody minds, the problem is too mild to sustain a pilot.
 
@@ -81,7 +81,7 @@ Once you know what you need, check whether the institution can run a structured 
 
 ## Evaluation criteria
 
-ScaleU uses this filter to judge whether an edtech company is ready for a structured institutional pilot. It is designed for seed-stage companies ($500,000 to $3M raised) with a working product. Institutions can adopt or adapt it. Founders can score themselves before approaching an institution.
+ScaleU uses this filter to judge whether an edtech company is ready for a structured institutional pilot. ScaleU designed it for seed-stage companies ($500,000 to $3M raised) with a working product. Institutions can adopt or adapt it. Founders can score themselves before approaching an institution.
 
 ### Hard filters (pass/fail)
 
@@ -150,7 +150,7 @@ A structured pilot ends with evidence the institution can act on.
 
 11. **Analyze results.** Test the primary outcome for statistical significance, and gather qualitative feedback from students and faculty. Whether a study is needed beyond the pilot depends on the evidence your buyers require; see [evidence tiers](../../evidence/evidence-tiers.md).
 12. **Decision gate.** Go (the budget holder commits to procurement), pivot (adjust scope or population and test again), or no-go (end, with documented reasons).
-13. **Debrief with the company.** Share the evidence, including negative findings. The debrief is what distinguishes a validation partner from a customer.
+13. **Debrief with the company.** Share the evidence, including negative findings. The debrief distinguishes a validation partner from a customer.
 
 ## What institutions care about
 
